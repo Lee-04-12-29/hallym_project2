@@ -1,0 +1,3914 @@
+[
+  {
+    "Index": "495059",
+    "RawText": "항상 큰사이즈를 썻지만 작은 느낌이 있었는데  좀더 가벼워지고 편한 느낌이다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 대형 톤** 컬러 마스크 25매",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "10",
+    "RDate": "20210816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "좀더 가벼워지고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 편한 느낌이다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495060",
+    "RawText": "쓰고싶어서 삿는데 .. kf인가요? 무겁고 여름에 쓰면 더워서 안되겠네요 엄청 답답합니다 가격도 인터넷인데 비싸네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 대형 톤** 컬러 마스크 25매",
+    "ReviewScore": "80",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20211215",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "kf인가요? ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름에 쓰면 더워서 안되겠네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "엄청 답답합니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 인터넷인데 비싸네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495127",
+    "RawText": "가족들의 건강과 직결된 중요한 제품이므로 마스크 선택 기준이 식약처 허가된 국산 필터인지 kf94인지 등인데 상세페이지나 질문게시판에서도 \u0027국산 필터\u0027라는 언급이 없어서 좀 불안한 마음으로 주문했는데요~ 국산필터인지 중국산인지 댓글로나마 알려주셨으면 좋겠네요 외관상으론 사이즈가 좀 작아서 얼굴에 자국이 난다는 것 외엔 무난해보이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 황사방역용 마스크 KF94 100P",
+    "ReviewScore": "60",
+    "Syllable": "186",
+    "Word": "39",
+    "RDate": "20210803",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "\u0027국산 필터\u0027라는 언급이 없어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "국산필터인지 중국산인지 댓글로나마 알려주셨으면 좋겠네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "외관상으론 사이즈가 좀 작아서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "얼굴에 자국이 난다는 것 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495143",
+    "RawText": "젊은분들은 블랙색상을 선호한다고 조카가  좋아해서 구입해서   보내줬어요 가격이 저렴하면 한팩에  5~10개씩  넣어서 판매하시던데  이곳은 한개씩 개별포장이 되서 너무 좋습니다 조카가 비싸게 구입한줄 알더라고요 블랙색상이  마음에 들고 개별포장도 좋은데다 숨쉬기도 편해서  마음에 든다고 하네요 저렴한 가격으로 좋은제품의  마스크를 구입해 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 황사방역용 마스크 KF94 100P",
+    "ReviewScore": "100",
+    "Syllable": "196",
+    "Word": "39",
+    "RDate": "20210803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하면",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "한개씩 개별포장이 되서 너무 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "블랙색상이  마음에 들고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "개별포장도 좋은데다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기도 편해서  마음에 든다고 하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격으로",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495145",
+    "RawText": "가격이 비싸지만 주문해 봤네요 생각보다 편하지는 않네요 끈이 불량이 너무 많구요 안경에 김서림이 많이 생기네요 별로에요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 황사방역용 마스크 KF94 100P",
+    "ReviewScore": "90",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20210810",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싸지만 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "생각보다 편하지는 않네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "끈이 불량이 너무 많구요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "안경에 김서림이 많이 생기네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495165",
+    "RawText": "얼굴 면적이 큰 사람은 좀 불편함이 있나봐요 사이즈를 키우면 좋을것 같아요~~ 숨쉬기 편하다고 해서 샀는데 그건 아닌것 같습니다   ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 황사방역용 마스크 KF94 100P",
+    "ReviewScore": "100",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20210720",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "얼굴 면적이 큰 사람은 좀 불편함이 있나봐요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈를 키우면 좋을것 같아요~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기 편하다고 해서 샀는데 그건 아닌것 같습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495205",
+    "RawText": "검은색.하얀색 한개끽 주문했늨데 색상이 넘 맘에드네요 광대쪽을 완젘 커버안해줘서ㅜ아쉽지만 가격대비 만족  ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 황사방역용 마스크 KF94 100P",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "11",
+    "RDate": "20210727",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": " 색상이 넘 맘에드네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "광대쪽을 완젘 커버안해줘서ㅜ아쉽지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 만족",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495220",
+    "RawText": "너무좋은데요 한세트만 사서 아쉽네요 다음에 품절 풀리면 또 사야겠어요. 착용감도 좋고 숨쉬기도 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 황사방역용 마스크 KF94 100P",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20210707",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기도 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495231",
+    "RawText": "저렴해서 주문했는데 박스 찌그러지고 포장은 별로네요 그냥 싼게 비지떡이라 생각해야죠 숨쉬는것도 편하진 않습니다 재구매는 안할게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 황사방역용 마스크 KF94 100P",
+    "ReviewScore": "60",
+    "Syllable": "71",
+    "Word": "15",
+    "RDate": "20210707",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 주문했는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "싼게 비지떡이라 생각해야죠",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬는것도 편하진 않습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495234",
+    "RawText": "특가로  구매 사이즈 안 맞고 냄새 심하고  국산이라 믿고 구매했는데 실망이 이만 저만 아닙니다 비추에요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 황사방역용 마스크 KF94 100P",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "15",
+    "RDate": "20210708",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "특가로  구매",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈 안 맞고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새 심하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "국산이라 믿고 구매했는데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495236",
+    "RawText": "원단이 빳빳해서 피부가 따갑고 착욤감이 편치않네요 그래도 필터는 94니까 세탁해서쓰는 브랜드마스크안에 필터부분만 잘라 끼워서  사용하려구요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 황사방역용 마스크 KF94 100P",
+    "ReviewScore": "100",
+    "Syllable": "77",
+    "Word": "15",
+    "RDate": "20210709",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "원단이 빳빳해서 피부가 따갑고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착욤감이 편치않네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "필터는 94니까",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "세탁해서쓰는 브랜드마스크안에 필터부분만 잘라 끼워서  사용하려구요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "495241",
+    "RawText": "가격이 저렴해서 반신반의  했는데 얇고 숨쉬기가 편해서 좋다고 합니다  이런 행사가 자주 있으면 좋겠습니다. kf94라고 하는데 믿어보겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 황사방역용 마스크 KF94 100P",
+    "ReviewScore": "100",
+    "Syllable": "79",
+    "Word": "17",
+    "RDate": "20210708",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기가 편해서 좋다고 합니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "kf94라고 하는데 믿어보겠습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "495245",
+    "RawText": "와우~ KF94 식약처 허가 국내산 마스크인데 이 가격 실화인가요?  더군다나 개별포장이라서  위생적이고 휴대하기도 너무 좋네요!  유통기한도 23년 9월 25일로 넉넉합니다! 배송도 빠르고 개별포장을 10개씩 비닐로  묶음포장되어있어 갯수확인도 편리했어요!  검정색은 화이트보다 원래 가격이 더 비싼데 저렴하게 좋은제품 구입해서 만족합니다! 정말 다른 KF94와는 다르게 숨쉬기 편하네요! 요즘 다시 코로나 확진자수가 늘어서 ㅜㅜ걱정인데  특가로 마스크  준비해서  다행이예요! 감사합니다! 모두 코로나조심 건강챙기세요~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 황사방역용 마스크 KF94 100P",
+    "ReviewScore": "100",
+    "Syllable": "292",
+    "Word": "58",
+    "RDate": "20210708",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "KF94 식약처 허가 국내산 마스크인데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 가격 실화인가요?",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "개별포장이라서  위생적이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "휴대하기도 너무 좋네요! ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 23년 9월 25일로 넉넉합니다!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 좋은제품 구입해서 만족합니다!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "다른 KF94와는 다르게 숨쉬기 편하네요!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "특가로 마스크  준비해서  다행이예요!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495253",
+    "RawText": "많은분들처럼 저도 94마스크가 이가격맞나 자꾸봤었어요ㅋ 94마스크를 싸게 대량으로 살수있어서 좋았구요~ 박스가아니라 봉투에 들어있어요~마스크써봤는데  괜찮았어요~94를쓰면 아무래도 더안심되요^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 황사방역용 마스크 KF94 100P",
+    "ReviewScore": "100",
+    "Syllable": "108",
+    "Word": "16",
+    "RDate": "20210709",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "94마스크가",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이가격맞나 자꾸봤었어요ㅋ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "94마스크를",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 대량으로 살수있어서 좋았구요~ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "대량으로 살수있어서 좋았구요~ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "94를쓰면 아무래도 더안심되요^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495262",
+    "RawText": "가성비 최고 입니다 이런 이벤트가 자주 있으면 좋겠습니다 동생 선물로 보냈더니 만족해  합니다. 끈조절 기능이 없는게 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 황사방역용 마스크 KF94 100P",
+    "ReviewScore": "100",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20210708",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 최고 입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 끈조절 기능이 없는게 아쉽네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495284",
+    "RawText": "색깔도 이쁘고 끈 부분이 넓어서 귀도 아프지 않네요 장당가격도 넘 착해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 혼합 톤** 컬러 마스크 100매",
+    "ReviewScore": "100",
+    "Syllable": "40",
+    "Word": "11",
+    "RDate": "20211016",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔도 이쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": " 끈 부분이 넓어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 아프지 않네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "장당가격도 넘 착해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495285",
+    "RawText": "Kf94 컬러 검색해 나오길래 kf94인줄 알고 구매했는데 받아보니 아니네요ㅠㅜ  남편이 하나 써서 반품도 못하고. 제대로 확인하지 않은 제 잘못이죠. 색상도, 핏도 별로네요. 남편이 얼굴이 큰 편이라 다른 마스크 대형써도 귀가 아프다던데 이건 귀가 더 아프데요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 혼합 톤** 컬러 마스크 100매",
+    "ReviewScore": "80",
+    "Syllable": "147",
+    "Word": "35",
+    "RDate": "20210904",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도, 핏도 별로네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "핏도 별로네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "이건 귀가 더 아프데요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "kf94인줄 알고 구매했는데 받아보니 아니네요ㅠㅜ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495290",
+    "RawText": "kf가 아니라서 아쉽지만 4가지 색상 모두 예쁘네요 숨쉬기는 조금 불편한 것 같은 느낌은 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 혼합 톤** 컬러 마스크 100매",
+    "ReviewScore": "100",
+    "Syllable": "53",
+    "Word": "14",
+    "RDate": "20210829",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "kf가 아니라서 아쉽지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "4가지 색상 모두 예쁘네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기는 조금 불편한 것 같은 느낌은 있어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495291",
+    "RawText": "넘넘 만족합니다 배송도 엄청 빠르고 마스크색상도 예쁘고 가볍고 좋아요저는 새부리형이 편하고 숨쉬기도 좋고해서 새부리형만사용하는데 얼굴에 딱잘맞고 완전 내스타일이네요 색상도 넘 예뻐요. 기능면에서는 아직 모르겠어요 그러나 매우 많이 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 혼합 톤** 컬러 마스크 100매",
+    "ReviewScore": "100",
+    "Syllable": "134",
+    "Word": "28",
+    "RDate": "20210906",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "마스크색상도 예쁘고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "얼굴에 딱잘맞고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "완전 내스타일이네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 넘 예뻐요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "기능면에서는 아직 모르겠어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "495296",
+    "RawText": "넘 이쁘고 좋네요 . 색색대로 그날그날 기분에 따라 바꿔 쓰는재미도 있고 좋아요 가격은 좀 비싼편이긴 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 혼합 톤** 컬러 마스크 100매",
+    "ReviewScore": "100",
+    "Syllable": "60",
+    "Word": "16",
+    "RDate": "20210818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "넘 이쁘고 좋네요 . ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색색대로 그날그날 기분에 따라 바꿔 쓰는재미도 있고 좋아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 좀 비싼편이긴 하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495297",
+    "RawText": "마스크색이 이쁜맛이 없네요 M싸이즈 인데도 작구요 S싸이즈 사면 넘작을까봐 M산건데 반품하고 다시 주문해야 겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 혼합 톤** 컬러 마스크 100매",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20210824",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "마스크색이 이쁜맛이 없네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "M싸이즈 인데도 작구요 S싸이즈 사면 넘작을까봐 M산건데",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495299",
+    "RawText": "사이즈 딱 좋고 비말차단용이라 얇아서 요즘 날씨에 쓰기 너무 좋아요 컬러도 여러가지라 더 좋으네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 혼합 톤** 컬러 마스크 100매",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "14",
+    "RDate": "20210816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈 딱 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "비말차단용이라 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": " 얇아서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "요즘 날씨에 쓰기 너무 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "컬러도 여러가지라 더 좋으네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495301",
+    "RawText": "초1  딸이  친구들이 컬러마스크를 쓰고 다니는걸 보고 본인도 써보고 싶었나봐요 그래서 평소 눈 여겨봤던 ㅇㅇ마스크를  주문해봤어요 사이즈 딱 좋고 가볍고 예뻐요 귀끈도 편해보여요 다만 일반 미용?마스크라는 점  비말차단이라도 됐음 학교 쓰고 가게 하겠는데 방역 용도로 쓰일 순 없을 것 같아서 그게 좀 아쉬워요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 혼합 톤** 컬러 마스크 100매",
+    "ReviewScore": "100",
+    "Syllable": "174",
+    "Word": "43",
+    "RDate": "20210819",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈 딱 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "예뻐요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀끈도 편해보여요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "일반 미용?마스크라는 점",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "비말차단이라도 됐음 학교 쓰고 가게 하겠는데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "방역 용도로 쓰일 순 없을 것 같아서 그게 좀 아쉬워요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495302",
+    "RawText": "부모님 선물했어요 사이즈 딱 좋고 비말차단용이라 얇아서 요즘 날씨에 쓰기 너무 좋아요 컬러도 여러가지라 더 좋으네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 혼합 톤** 컬러 마스크 100매",
+    "ReviewScore": "100",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20210816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈 딱 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 비말차단용이라",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 요즘 날씨에 쓰기 너무 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": " 컬러도 여러가지라 더 좋으네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495304",
+    "RawText": "마스크가 예쁘지도 않고 색도  다양하지 못해서 아쉽네요 무엇보다 착용하니 너무 불편해요 다쓰면 재구매는 안할 듯 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 혼합 톤** 컬러 마스크 100매",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20210827",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "마스크가 예쁘지도 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색도  다양하지 못해서 아쉽네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용하니 너무 불편해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495317",
+    "RawText": "색상과 핏이 너무 예술입니다 마스크도 패션이네요. 마스크 특유의 간지러움도 없고 고급 마스크입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 혼합 톤** 컬러 마스크 100매",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20210804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상과 핏이 너무 예술입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "핏이 너무 예술입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "마스크 특유의 간지러움도 없고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495322",
+    "RawText": "넉넉한 사이즈 대형 이네요 색깔 예쁘고 가볍고 여름마크로 딱 좋아요. 오래착용하면 물기가 생기네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 혼합 톤** 컬러 마스크 100매",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20210724",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "넉넉한 사이즈 대형 이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름마크로 딱 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "오래착용하면 물기가 생기네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495336",
+    "RawText": "오자마자 바로 쓰고 출근했는데 와 이 마스크 왜 안알려져있는지 의문이에요!!! 너무 좋아요  진짜로요!! 딱 밀착되궁 냄새 전혀 안나고 제 얼굴사이즈에 딱 맞네요 아 판매자님 사은품 너무 감사해요♡♡♡ 재구매 100프로 아니 1000프로 있습니다 다쓰고나면 또 구매할거에요^~^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 5+5 숨** 빨아쓰는 비말차단 항균 마스크",
+    "ReviewScore": "100",
+    "Syllable": "155",
+    "Word": "35",
+    "RDate": "20220113",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "딱 밀착되궁",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새 전혀 안나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "제 얼굴사이즈에 딱 맞네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품 너무 감사해요♡♡♡",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495337",
+    "RawText": "오래 착용해도 귀안아프고, 그날 옷 에맞게 색상을 골라서 코디할수 있어서 좋네요 이젠 마스크도 패션이쥬",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 5+5 숨** 빨아쓰는 비말차단 항균 마스크",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20220227",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "오래 착용해도 귀안아프고, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "그날 옷 에맞게 색상을 골라서 코디할수 있어서 좋네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "마스크도 패션이쥬",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495367",
+    "RawText": "얼굴크기  중간 남성 ㅋ  사이즈가  작네요 첨  쓰기전에  줄을 조금 늘여야 하는 불편함이 있습니다 구매한거 후회되네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 새부리형 kf-94 100매(흑/백/흑+백)",
+    "ReviewScore": "100",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20210806",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "얼굴크기  중간 남성 ㅋ  사이즈가  작네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "첨  쓰기전에  줄을 조금 늘여야 하는 불편함이 있습니다 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495369",
+    "RawText": "검정색은 중형느낌이고 흰색은 대형 느낌이에요  그리고 완전 딱 막아줘서 바람한점 안들어오네요 ㅋㅋㅋㅋㅋㅋ  여름엔 더운데 겨울엔 아주 좋을것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 새부리형 kf-94 100매(흑/백/흑+백)",
+    "ReviewScore": "100",
+    "Syllable": "82",
+    "Word": "18",
+    "RDate": "20210809",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "완전 딱 막아줘서 바람한점 안들어오네요 ㅋㅋㅋㅋㅋㅋ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름엔 더운데 겨울엔 아주 좋을것 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "검정색은 중형느낌이고 흰색은 대형 느낌이에요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "495414",
+    "RawText": "얇고 가볍고 편하고 여름에  딱 좋은 마스크네요♡ 새부리형 부모님이 좋아하셔서 구매해봤는데 넘 좋아하시네요^^ ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "62",
+    "Word": "13",
+    "RDate": "20210720",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름에  딱 좋은 마스크네요♡",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495415",
+    "RawText": "Kf94가 아니네요 ㅠㅠ 타이틀만 보고 구입했더니 아쉽습니다. 마스크가 얼굴을 잘 잡아주진 못해요 그냥 얇은 부직포 마스크 정도의 기능이라고 보시면 됩니다. 색상도 별로에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "30",
+    "Syllable": "97",
+    "Word": "22",
+    "RDate": "20220218",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "Kf94가 아니네요 ㅠㅠ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "마스크가 얼굴을 잘 잡아주진 못해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "그냥 얇은 부직포 마스크 정도의 기능이라고 보시면 됩니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 별로에요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495421",
+    "RawText": "저에게는 싸이즈가 딱이네욤 마스크살때마다 너무커서 살때마다 실마실망  근데 ㅇㅇ 마스크는 제맘에속  넘좋아요 그래서 바로  그레이 또주문햇네요  ^^ 끈이 안끊어지길 바래봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "98",
+    "Word": "20",
+    "RDate": "20210830",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "저에게는 싸이즈가 딱이네욤",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 끈이 안끊어지길 바래봅니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "495423",
+    "RawText": "원 사이즈인데  여유가 없어서 여름에 쓰긴에는 조금 답답합니다. 색깔은 화면보다 예쁘네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "80",
+    "Syllable": "50",
+    "Word": "11",
+    "RDate": "20210821",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "원 사이즈인데  여유가 없어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "여름에 쓰긴에는 조금 답답합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔은 화면보다 예쁘네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495424",
+    "RawText": "하루 일과중 이야기를 많이하는 직업인데 일단 숨쉬기 가 너무너무 편합니다~~!!! 얼굴부분 거의 전체를 감싸주면서 피부에 닿는부분이 간지럽지않아 좋습니다. 그리고 안경을 착용하는데 코받침때문에 마스크 바깥쪽에 화장품이 잘 묻어 보기 민망하였는 전체적으로 감싸주어서 그런지  안경이 눌러주어 화장품이 묻지않아 좋아요~ 주위에서 보고 편할것 같다고 이야기하는 사람이 많아 몇개씩 나누어 주기도 하였어요~~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "224",
+    "Word": "48",
+    "RDate": "20210819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기 가 너무너무 편합니다~~!!!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "얼굴부분 거의 전체를 감싸주면서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에 닿는부분이 간지럽지않아 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "전체적으로 감싸주어서 그런지  안경이 눌러주어 화장품이 묻지않아 좋아요~",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495425",
+    "RawText": "재구매 입니다~^^ 핑크 핑크~♡ 지인분들이 핑크색  넘이쁘다고 하네요~^^ 마스크착용시  전체적으로 감싸주고 피부에 닿는면이 간지럽지 않아요~ 지인분들께 추천해 드렸답니다~^^ 다쓰고 또 구매할께요~^^ 대박나세요~~~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "123",
+    "Word": "22",
+    "RDate": "20210819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "핑크 핑크~♡ 지인분들이 핑크색  넘이쁘다고 하네요~^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "마스크착용시  전체적으로 감싸주고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에 닿는면이 간지럽지 않아요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495426",
+    "RawText": "귀가 하나도 안 아프고 예쁘고 다 해요!!  차분한 색이라서 가을에 옷이랑 같이 매칭해서 써주면 예쁠거 같아요!!",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "16",
+    "RDate": "20210821",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀가 하나도 안 아프고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "예쁘고 다 해요!!  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "차분한 색이라서 가을에 옷이랑 같이 매칭해서 써주면 예쁠거 같아요!!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495431",
+    "RawText": "ㅇㅇㅇ 마스크 최고~ 친구가 써보고 좋다고해서 선물로 보냈더니 출근해서 이렇게 인증샷을^^ 안전하고 착용감 좋고 이쁘기까지한 마스크 최고예요^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "80",
+    "Word": "17",
+    "RDate": "20210815",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이쁘기까지한 마스크 최고예요^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "안전하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495432",
+    "RawText": "색상도 맘에 들고 좋아요. 지인들에게 몆개씩 선물했는데  좋아해요. 오래착용하면 볼이 간지럽게 느껴집니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "12",
+    "RDate": "20210808",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 맘에 들고 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "오래착용하면 볼이 간지럽게 느껴집니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495433",
+    "RawText": "우연히마스크검색하다가,상품평이좋고,가격도괜찮아서처음시켜봤어요. 이거kf94맞나요? 94치곤 얇아요 숨쉬기는편한데 핑크색상도 생각만큼 안이쁘네요 냄새가 좀 나서 자주 사용하지는 않을거 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "106",
+    "Word": "15",
+    "RDate": "20210807",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도괜찮아서처음시켜봤어요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "이거kf94맞나요? ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "94치곤 얇아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기는편한데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "핑크색상도 생각만큼 안이쁘네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 좀 나서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "자주 사용하지는 않을거 같습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495436",
+    "RawText": "생각보다 작네요 ㅇㅇㅇ와 비교샷!! 훨씬얇고 작지만 걍 써볼께요 냄새좀나고  숨쉴 공간이 확실히 적어요 KF도 아니니  싼이유는 있네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "70",
+    "Syllable": "75",
+    "Word": "17",
+    "RDate": "20210812",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "생각보다 작네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "훨씬얇고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "작지만",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새좀나고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉴 공간이 확실히 적어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "KF도 아니니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "싼이유는 있네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495438",
+    "RawText": "날씨 더운데 숨쉴때 마다 열감이 느껴지네요 귀도 불편하고 안 좋아요 전체적으로 불편하다는 느낌이 듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20210719",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉴때 마다 열감이 느껴지네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 불편하고 안 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "전체적으로 불편하다는 느낌이 듭니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495439",
+    "RawText": "요즘 마스크는 옷처럼 패션이 되어 처음으로 그레이를 주문해 봤는데 얇아서 숨쉬기 편하고 좋아요. 사이즈는 여성용으로는 딱 좋고 등치 있으신 남자분들은 작지않을까 생각이 드네요. 무더운 여름에 편하게 쓰고 다닐수 있을거 같아요~~ 강츄~~~♡",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "134",
+    "Word": "31",
+    "RDate": "20210713",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기 편하고 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈는 여성용으로는 딱 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "등치 있으신 남자분들은 작지않을까 생각이 드네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "무더운 여름에 편하게 쓰고 다닐수 있을거 같아요~~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495442",
+    "RawText": "제가 일하면서 마스크씀 귀가 너무 아프다 얘기했었는데 지인이 소개해줘서 기대않고 샀는데 받자마자  바로 쓰고 일나가서 종일 쓰고 있었는데 너무 편해서 집에 와서도 벗는걸 잊어버릴정도였어요^^ 기존에 약국서 샀던 것들 여러 브랜드들 다 비슷한거 보니 크게 기대안했는데 숨쉬는것도 94필터가 있는데 편하고 귀도 안아프고 왜 이제 샀을까 싶네요^^ 제가 좋아하는 핑크색에 이름도 ㅇㅇㅋㅋㅋ 제 샵 이름도 ㅇㅇ데 인연인건가..ㅎㅎ 손님들도 마스크가 이뿌니 더 예뻐보인다고 해주시고 전 너무 만족합니다^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "277",
+    "Word": "64",
+    "RDate": "20210717",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "너무 편해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬는것도 94필터가 있는데 편하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 안아프고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "제가 좋아하는 핑크색에",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "마스크가 이뿌니 더 예뻐보인다고 해주시고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495443",
+    "RawText": "새부리형이 편하다는 얘기를 듣고 구매했는데 세상에.. 천국도 이런 천국이 없네요... 편한건 둘째치고 다른 마스크들과는 질적으로 달라요 잘샀다고 엄마가 칭찬해줬어요ㅋㅋ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "93",
+    "Word": "19",
+    "RDate": "20210727",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "새부리형이 편하다는 얘기를 듣고 구매했는데 세상에.. 천국도 이런 천국이 없네요...",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편한건 둘째치고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "다른 마스크들과는 질적으로 달라요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495444",
+    "RawText": "지인추천으로 구입했어요!!! 여름에 쓰기 딱 이네요~~ 정말 숨쉬기 편안해요^^ 얼굴이 조금이나마 깨끗해보일까해서 베이지색 구입했어요~끈이 좀 약해요 만족입니다!",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "90",
+    "Word": "17",
+    "RDate": "20210723",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름에 쓰기 딱 이네요~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "정말 숨쉬기 편안해요^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "끈이 좀 약해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495448",
+    "RawText": "숨쉬기편한정도가아닙니다...완전강추!!! 착용감 또한 일반마스크하고는 확실하게 다르네요!!! 기존마스크는 이더운여름...땀나고 좀심한운동하면 쓸려서 얼굴에 스크래치나기쉬운데...이제품은 이런걱정도 사치네요~~~ㅎ 배송도 무지 빠르고,포장상태도 깔끔하고,단점을 찾을래야 찾을수가없네요!!! 당연히...다음에도 구입해야겠습니다~~~ 좋은제품감사합니다!!!",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "196",
+    "Word": "23",
+    "RDate": "20210723",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기편한정도가아닙니다..",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감 또한 일반마스크하고는 확실하게 다르네요!!!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "쓸려서 얼굴에 스크래치나기쉬운데...이제품은 이런걱정도 사치네요~~~ㅎ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495454",
+    "RawText": "새부리형 모양도 편하고.. 사이즈 여유있고 편하고ᆢ   귀도 아프지 않고 잘 선택했네요~~  좋아요^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "12",
+    "RDate": "20210723",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "새부리형 모양도 편하고..",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈 여유있고 편하고ᆢ  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 아프지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495457",
+    "RawText": "저렴한 가격에 잘 구입했습니다~~ 한장씩 들어있어서 깔끔하고 소재도 얇아서 여름용으로 최고인듯!!!!!",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "11",
+    "RDate": "20210728",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "한장씩 들어있어서 깔끔하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "소재도 얇아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 여름용으로 최고인듯!!!!!",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495458",
+    "RawText": "오~~ 주문하고 2일만에 바로 배송이 왔어요.  엄청 빠름 \u003e_\u003c~b  배송 박스도 튼튼하게 아주 잘 포장 해주셨고요.   본품은 마스크 50장 들어있습니다.   사진처럼 하단에서 하나씩 꺼내서 쓸 수 있어서 매우 편한 것 같아요. ^^  마스크 써봤는데, 제품 이름처럼 숨쉬기 매우 편합니다!!!! 짱!!!!!  게다가 밀착이 잘되는지~ 숨을 계속 쉬어도 안경에 김이 하나도 안 서렸어요. ㅎㅎㅎ   완전 잘 쓰고 또 주문 해야겠어요.  ^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "248",
+    "Word": "59",
+    "RDate": "20210715",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "하나씩 꺼내서 쓸 수 있어서 매우 편한 것 같아요. ^^",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기 매우 편합니다!!!! 짱!!!!!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "밀착이 잘되는지~ 숨을 계속 쉬어도 안경에 김이 하나도 안 서렸어요. ㅎㅎㅎ ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495460",
+    "RawText": "일단 끈이 편해요 귀가 안아프네요  가볍고 숨 쉬는게 굉장히 편합니다  94끼고 이 더운날 산책이라도 하는날엔 숨쉬는게 너무 힘든데 이 제품은 숨 쉬는게 너무 편하네요  끈이 신축성이 좋아서 얼큰 아들한테도 잘 맞아요  다른색으로 더 구매해야겠어요~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "139",
+    "Word": "34",
+    "RDate": "20210721",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 끈이 편해요 귀가 안아프네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": " 숨 쉬는게 굉장히 편합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "이 제품은 숨 쉬는게 너무 편하네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "끈이 신축성이 좋아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "얼큰 아들한테도 잘 맞아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495461",
+    "RawText": "더운날씨에 답답했는데  얇고 귀도 아프지 않고 부드러워요. 핑크주문했는데 너무 마음에 듭니다~~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "53",
+    "Word": "11",
+    "RDate": "20210713",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 아프지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드러워요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "핑크주문했는데 너무 마음에 듭니다~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495466",
+    "RawText": "긴코로나로 인해 마스크가 필수품이 되어버렸네요..마스크를 여러브랜드 쓰다보니 자꾸 품질좋은것을 찾아 보게 되었어요..그중 ㅇㅇ마스크는 한마디 안하고 지나갈수없네요^^  여름이라 습하고 덥잖아요. 다른 마스크는 요즘  더워서 잠시 밖에 나갔다오면 흠뻑 젖거든요.ㅇㅇ마스크는 숨쉬기도 편하고 얇아서 덥지도 않고  착용감이 좋아요..상자에 인체공학적 설계라고 써있던데  썼을때 얼굴에 밀착감이 좋아요. 100프로 국내생산이라서 믿을만하고 귀에 거는 고무줄도 부드러워 오래쓰고  있어도 귀가 아프지않아요..",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "279",
+    "Word": "53",
+    "RDate": "20210714",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기도 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아서 덥지도 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감이 좋아요..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "얼굴에 밀착감이 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "100프로 국내생산이라서 믿을만하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "귀에 거는 고무줄도 부드러워",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "오래쓰고  있어도 귀가 아프지않아요..",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495467",
+    "RawText": "숨 쉬기가 정말 편하고 얼굴 전체 가려주어 편해요  베이지 색도 예뻐서 여름에 딱이에요 ㅎ가격이 좀 비싸요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "16",
+    "RDate": "20210719",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨 쉬기가 정말 편하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "얼굴 전체 가려주어 편해요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "베이지 색도 예뻐서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름에 딱이에요 ㅎ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 비싸요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495468",
+    "RawText": "귀도 불편하고 너무 얇은 94  같아요  냄새도 안 좋고요.  귀걸이가 늘어나지도 않아서 불편해요 부드럽지도 않고 보풀도 나네요. 얼굴에 밀착도 안됩니다 ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "86",
+    "Word": "20",
+    "RDate": "20210721",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 불편하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "너무 얇은 94  같아요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 안 좋고요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀걸이가 늘어나지도 않아서 불편해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드럽지도 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "보풀도 나네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "얼굴에 밀착도 안됩니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495470",
+    "RawText": "숨쉬기 갑갑하지 않고 여름에 착용하기 딱 좋아요.무엇보다 귀가 아프지 않아서 넘 좋습니다. 색상은 별로네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20210720",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기 갑갑하지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름에 착용하기 딱 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀가 아프지 않아서 넘 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 별로네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495473",
+    "RawText": "우선 배송 너무 신속해서 맘에 들었습니다!! 친구가 제품 너무 좋다고 추천해줘서 반신반의하면서 주문했는데요. 제가 마스크쓰고 나서 트러블이 너무 생겨서 항상 고민이었어요 ㅠ 받자마자 바로 착용했는데, 확실히 질이 좋아서 그런지 간지러움이 덜 하더라구요!! 우선3일째 쓰고있는데 대만족입니다 :) 색깔별로 살까봐요~ ㅎㅎㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "179",
+    "Word": "39",
+    "RDate": "20210716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "확실히 질이 좋아서 그런지",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "간지러움이 덜 하더라구요!! ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495476",
+    "RawText": "이렇게 얇을 수 있나요? 답답해서 썼다 벗었다 반복하는 와중에 불안해서 떨고 있었는데 새부리형에 얇아 대만족입니다  귀끈도 너무 편안하네요!",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "78",
+    "Word": "18",
+    "RDate": "20210714",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "이렇게 얇을 수 있나요?",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "새부리형에 얇아 대만족입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀끈도 너무 편안하네요!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495477",
+    "RawText": "배송 하루만에 바로 옵니다. 상당히 빠른 느낌 귀에 닿는 밴드부분이 상당히 부드럽고 편안한 느낌이예요 기존 마스크 고무줄이랑 차원이 다름 무겁거나 텁텁한 착용감이 아니라 가볍고 산뜻한 느낌을 줍니다 그런데 기능면에서 훌륭하다니 상당히 신경 써 정성스럽게 만든 것 같아요 마스크 처음 착용할 때 나는 특유의 본드, 약품 냄새같은것도 전혀 없어요 깔끔하고 편하게 사용할 것 같습니다 강추!",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "215",
+    "Word": "54",
+    "RDate": "20210715",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "귀에 닿는 밴드부분이 상당히 부드럽고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편안한 느낌이예요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "산뜻한 느낌을 줍니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "기능면에서 훌륭하다니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 특유의 본드, 약품 냄새같은것도 전혀 없어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하게 사용할 것 같습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495479",
+    "RawText": "\"ㅇㅇ\" 이란 상품명처럼 숨쉬기 편하고 좋네요 특히 지금처럼 더운 여름에는 더 좋은거 같아요  새부리형이라 그런지 착용하기도 편하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "74",
+    "Word": "17",
+    "RDate": "20210714",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기 편하고 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "지금처럼 더운 여름에는 더 좋은거 같아요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "새부리형이라 그런지 착용하기도 편하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495480",
+    "RawText": "요즘 같은 날씨에 kf94 마스크를 쓰면 마스크 안으로 땀이 주르륵 흐르더라고요. 그래서 알아보다 이 마스크를 사게 됐는데 확실히 땀이 덜 차네요. 재질도 맨질해서 까끌거리는 것도 없고 새부리형이라 덜 달라붙어서 좋은거 같아요. 여름엔 ㅇㅇ 마스크로 버텨야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "147",
+    "Word": "35",
+    "RDate": "20210725",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "확실히 땀이 덜 차네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "재질도 맨질해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "까끌거리는 것도 없고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "새부리형이라 덜 달라붙어서 좋은거 같아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 여름엔 ㅇㅇ 마스크로 버텨야겠어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495485",
+    "RawText": "상품 착용하기 불편하네요  귀도 아프고   무엇보다 숨쉬는게 불편합니다 얼굴이 특히  따가워요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "11",
+    "RDate": "20210728",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "상품 착용하기 불편하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 아프고  ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "무엇보다 숨쉬는게 불편합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "얼굴이 특히  따가워요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495487",
+    "RawText": "마음에 안들어요 새부리형 귀 아파서 잘 안썼는데 이 상품도 역시 귀가 아파요 오늘 운동 나갈때 써보았는데 숨쉬는것도 너무 힘드네요 재구매는 안할래요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "82",
+    "Word": "21",
+    "RDate": "20210724",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "새부리형 귀 아파서 잘 안썼는데 이 상품도 역시 귀가 아파요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": " 숨쉬는것도 너무 힘드네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495488",
+    "RawText": "첨엔 잘구입한거 맞나 싶었는데 써보니 착용감도좋고 일단 숨쉬기가 좋아요~ 오래쓰면 얼굴에 자국이 좀 남아요 잘 쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20210717",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감도좋고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기가 좋아요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "오래쓰면 얼굴에 자국이 좀 남아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495490",
+    "RawText": "너무 편하고 숨 쉬기 정말 좋네요. 학교에 학원에 하루종일 마스크 써야하는 중딩 아들이 제일 좋아해요~ 애들이 좋다고하니 바로 재구매!!!! ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20210716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "너무 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": " 숨 쉬기 정말 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495491",
+    "RawText": "배송은 너무 빠르고 만족스러웠어요 너무 더워서 여름용으로 구매했는데 여름용이 아닌것 같아요  끈도 안 튼튼하고 새부리형인데 숨쉬는것도 엄청 답답하네요 재구매는 못할 것 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "98",
+    "Word": "22",
+    "RDate": "20210721",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "너무 더워서 여름용으로 구매했는데 여름용이 아닌것 같아요 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "끈도 안 튼튼하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "새부리형인데 숨쉬는것도 엄청 답답하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495492",
+    "RawText": "처음 사보고 넘마음에들어 친정엄마도 한팩 구입해드렸어요  날은 덥고 노인분들 답답해서 일회용 마스크 쓰시다  요거 오늘 도착해서 썼는데 착용감도 너무좋고  가벼운느낌이라 진짜 진짜 좋다하세요  옆할머니 놀러오셔서 몇개 나눠주셨대요  반응은 말해뭐하나요 블링블링 핑크색이라 기분좋았다하십니다  부모님 선물해보세요~~ 좋은건 나눠야지요 ^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "188",
+    "Word": "37",
+    "RDate": "20210715",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 착용감도 너무좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼운느낌이라 진짜 진짜 좋다하세요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "블링블링 핑크색이라 기분좋았다하십니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495493",
+    "RawText": "너무 이쁜 핑크컬러네요! 원래 후기는 잘 안쓰는데 사용해보고 너무 좋아서 후기써요ㅎ 핏도 좋고 피부에 닿는 촉감도 너무좋아서 피부 트러블도 없구요. 다들 어디서 샀냐고 물어보네요 그레이 컬러도 예쁠것같아서 추가구매 예정입니다!",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "126",
+    "Word": "29",
+    "RDate": "20210728",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "너무 이쁜 핑크컬러네요!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "핏도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "피부에 닿는 촉감도 너무좋아서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부 트러블도 없구요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495497",
+    "RawText": "빠른 배송 감사합니다. 일단 1일 착용해봤는데요 여름에 좋은듯합니다. 착용감은 다른 마스크와 비슷합니다. 다만 한가지 전 마스크쓰고 덥고 땀이 많이 나서 불편했는데 어제 폭염이라는 더위속에서도 다른 마스크보다 땀이 덜 나더라구요. 자주애용하게될꺼 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "142",
+    "Word": "31",
+    "RDate": "20210717",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름에 좋은듯합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감은 다른 마스크와 비슷합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "더위속에서도 다른 마스크보다 땀이 덜 나더라구요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495501",
+    "RawText": "여름이라 정말 마스크 쓰기힘든데 그래도 이 마스크는 편안하네요 ㅋㅋ좋쿠용~ 그리구 가장마음에 드는거는 턱스크를.잠깐잠깐할 때가있는데 다른마스크는 귀가 너무아픈데 이건 그게없네요 또한번 좋쿠용 좋은마스크 많이만들어주세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "121",
+    "Word": "23",
+    "RDate": "20210727",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "이 마스크는 편안하네요 ㅋㅋ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "다른마스크는 귀가 너무아픈데 이건 그게없네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495502",
+    "RawText": "하루종일 쓰고다녔는데 귀가 안아파요. 착용감 상당히 가볍고 숨쉬기 편합니다.괜찮아요. 재구매 의사 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "60",
+    "Word": "12",
+    "RDate": "20210721",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "하루종일 쓰고다녔는데 귀가 안아파요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감 상당히 가볍고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기 편합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495503",
+    "RawText": "숨쉬기 편하고, 귀에 불편하지  않고, 착용감도  너무 좋네요. 색깔도 이뻐서 기분이 업됩니당^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20210723",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기 편하고, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀에 불편하지  않고,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 착용감도  너무 좋네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔도 이뻐서 기분이 업됩니당^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495505",
+    "RawText": "여름이라 숨쉬기 편한마스크를  찾다가~ 요로코롬 국내생산,국내필터를 사용하는  마스크를 찾았답니다~^^  디자인도 예쁩니다~   착용하기 쉽고, 배송도 빠릅니다~^^ 숨쉬기 너무너무 편해요~♡♡♡  여름에 착용하기 좋은 마스크 인거 같네요~^^ 색상도 5가지나 되니 취향에 맞게 선택하면  좋을거 같아요~!! 담에 또 재구매 하려구요~^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "189",
+    "Word": "36",
+    "RDate": "20210713",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "국내생산,국내필터를 사용하는  마스크를 찾았답니다~^^ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예쁩니다~  ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용하기 쉽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기 너무너무 편해요~♡♡♡",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "여름에 착용하기 좋은 마스크 인거 같네요~^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "색상도 5가지나 되니 취향에 맞게 선택하면  좋을거 같아요~!! ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495507",
+    "RawText": "색상이 다양하고 가벼워서 맘에 들어요! 이번엔 무난한 블랙 주문했지만 다음엔 다른 색상도 구매해보고 싶네요 ㅎㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20210724",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 다양하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 맘에 들어요! ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495508",
+    "RawText": "일단 디자인이 이쁩니다. 게다가 착용감도 가볍고 좋아서 올 여름 이것으로  버틸수 있을것 같습니다. 가성비 완전 좋으네요~^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20210723",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 이쁩니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감도 가볍고 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 완전 좋으네요~^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495510",
+    "RawText": "정말 여름에 쓰기 딱이네요 가볍고 숨쉬기편해요 여름 덴탈쓰기 불안할때 딱입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "43",
+    "Word": "10",
+    "RDate": "20210714",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "정말 여름에 쓰기 딱이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기편해요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "여름 덴탈쓰기 불안할때 딱입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495511",
+    "RawText": "이게 웬 럭셔리 마스크랍니까~~~ 일단 귀에 거는 고무줄이 매우 부드럽고 숨쉬기 편한데다 사이즈까지 넉넉해 울집 얼큰이들도 편히 쓸 수 있겠어요… 초딩 아이한테는 큰 편인데도 귀 거는 부분이 넘 편하고 얇아 숨쉬기 편하다고 탐내내요… 요즘처럼 하루종일 착용해야하는 시기에 귀 편하고 숨쉬기 편한 마스크는 필수인거 같아요.. ㅇㅇㅇ 마스크는 처음 써봤는데 울 가족 모두 너무나 만족하니 앞으로는 ㅇㅇㅇ 마스크만 찾아 구입해야겠어요~~^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "243",
+    "Word": "58",
+    "RDate": "20210715",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "귀에 거는 고무줄이 매우 부드럽고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기 편한데다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈까지 넉넉해 울집 얼큰이들도 편히 쓸 수 있겠어요… ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "초딩 아이한테는 큰 편인데도 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀 거는 부분이 넘 편하고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기 편하다고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495513",
+    "RawText": "마스크가 너무 예쁘구 가볍고  착용감도 너무 좋아요♡ 이제 ㅇㅇ 마스크로 정착할 듯 해요^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "13",
+    "RDate": "20210721",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "마스크가 너무 예쁘구",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감도 너무 좋아요♡",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495515",
+    "RawText": "배송굿굿굿!!!  빨리 잘 받았습니다~ 하나씩 낱개포장되어 위생적이네요 마스크는 부드럽고 착용감 가벼우며 얼굴에 부담스럽지않게 착 맞는 느낌이에요  말하기에도 숨쉬기에도 너무 좋네요  남편도 중등 고등 딸들도 모두 맘에 들어하며 배송받은 날부터 잘 쓰고 있습니다!! 좋은 제품 계속 부탁드립니다^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "165",
+    "Word": "36",
+    "RDate": "20210728",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "하나씩 낱개포장되어 위생적이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "마스크는 부드럽고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감 가벼우며",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "얼굴에 부담스럽지않게 착 맞는 느낌이에요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "말하기에도 숨쉬기에도 너무 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495518",
+    "RawText": "럭셔리하게 이쁜 마스크 입니다. 코로나 4단계로 사무실에서도 마스크를 무조건 착용해야 하는데. 진짜 숨 쉬는 것도 편하고 착용하는 것도 너무 편하네요. 가격 싼 것 찾다가 하루종일 마스크 착용해야 해서 찾다가 하루종일 착용해도 편한 마스크가 필요해서 구매 했는데. 진짜 대만족 이네요. 포장도 개별 포장이라 딱 봐도 럭셔리 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "185",
+    "Word": "46",
+    "RDate": "20210714",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "진짜 숨 쉬는 것도 편하고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용하는 것도 너무 편하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 싼 것 찾다가",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "포장도 개별 포장이라 딱 봐도 럭셔리 합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "하루종일 착용해도 편한 마스크가 필요해서 구매 했는데. 진짜 대만족 이네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "럭셔리하게 이쁜 마스크 입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495520",
+    "RawText": "디자인 깔끔하고 오래 끼고있는데도 아프지않아 좋아요 색깔이 다양해서 다음번에는 여러가지 색상 구매해봐야겠네요~~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "62",
+    "Word": "12",
+    "RDate": "20210722",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 깔끔하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "오래 끼고있는데도 아프지않아 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔이 다양해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495522",
+    "RawText": "정말 숨쉬기 편한 마스크입니다. 더이상 말이 필요없네요 여름은 이 마스크로 버텨야겠네요. 가볍고 부드럽고 오래착용해도 귀가 안아픈 마스크입니다. 그레이색상도 너무 맘에 들어요. 흰색, 검정만 쓰다가 그레이를 착용하니 새옷을 입은 느낌처럼 산뜻하고 기분전환됩니다. 사이즈는 초등5학년 약간 넉넉하고, 아이가 편하고 좋다고 이것만 쓴다고 하네요. 추천합니다~~~~ ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "202",
+    "Word": "42",
+    "RDate": "20210714",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기 편한 마스크입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드럽고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "오래착용해도 귀가 안아픈 마스크입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "그레이색상도 너무 맘에 들어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "그레이를 착용하니 새옷을 입은 느낌처럼 산뜻하고 기분전환됩니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": " 초등5학년 약간 넉넉하고, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "아이가 편하고 좋다고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495523",
+    "RawText": "정말 마음에 드는 마스크를 발견했네요!!!  편하고 안전한 마스크를 계속 찾아다녔는데, 드디어 찾은것 같아요~! 계속 실패하다가ㅠㅜ  새부리형 중에 이음새가 거칠고 날카로운 것도 많은데 부드럽고 마감도 잘되어 있네요~ 얼굴을 감싸는 착용감도 좋구~ 사이즈도 너무 작지 않고~ 귀 고무줄도 편합니다! 마스크 안감도 보풀이 일어나지 않는 매끈한 느낌이에요~  그리고 또 맘에드는 건 마스크 색상이요~ 지인에게 선물하기도 좋을것 같아요~! 재구매각이네요~~  ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "254",
+    "Word": "55",
+    "RDate": "20210721",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드럽고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감도 잘되어 있네요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "얼굴을 감싸는 착용감도 좋구~ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈도 너무 작지 않고~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀 고무줄도 편합니다! ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "마스크 안감도 보풀이 일어나지 않는 매끈한 느낌이에요~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "맘에드는 건 마스크 색상이요~ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495524",
+    "RawText": "숨쉬기 불편하고 특히 귀가 아프네요 지인추천으로  구매했는데  실패네요 ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "9",
+    "RDate": "20210723",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기 불편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "특히 귀가 아프네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495525",
+    "RawText": "화이트는 남편이 쓰고 핑크는 제가 쓰려고 샀는데 남편도 편하고 좋다고 하고 연핑크도 예쁘고 숨쉬기 편해요. 재구매 의사 백퍼예요. 많이 파세요~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "80",
+    "Word": "20",
+    "RDate": "20210717",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "남편도 편하고 좋다고 하고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "연핑크도 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기 편해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495526",
+    "RawText": "휴대하고 사용하기 편리한 개별포장이라서 좋아요~~ 마스크착용햇을때 마스크모양은 맘에 드는데 사이즈가 조금 애매하네요~그리고 입과 코부분에 여유공간이 없어서 숨쉬기가 조금 힘듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "99",
+    "Word": "19",
+    "RDate": "20210727",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "휴대하고 사용하기 편리한 개별포장이라서 좋아요~~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "마스크모양은 맘에 드는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈가 조금 애매하네요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "입과 코부분에 여유공간이 없어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기가 조금 힘듭니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495527",
+    "RawText": "얼굴이 커서 슬픈 저는.... 무조건 사이즈가 우선이었으나 끝날 기미가 안보이는 코로롱에 지쳐, 편한 마스크를 찾아 여기까지 오게 되었습니다.  ✔이름 그대로 진짜 숨 쉬기 편해요 ✔귀가 안아파요(완전 신기!!!) ✔콧대가 안아파요 ✔입에 달라붙지 않아요 ✔사이즈 넉넉~ 볼쪽의 고무줄 사이로 삐져나오던 살들... ㅇㅇ 덕에 다이어트 효과! ✔편리해요! 착용후에 항상 콧대 와이어, 고무줄, 모양 등 정돈해줘야했던 타마스크와는 달리 귀에 걸기만 하면 끝!  평소에 가타부타 말없던 신랑도 ㅇㅇ 마스크만 찾네요ㅋㅋ 완전 강추⭐⭐⭐⭐⭐",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "297",
+    "Word": "67",
+    "RDate": "20210719",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "진짜 숨 쉬기 편해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀가 안아파요(완전 신기!!!)",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "콧대가 안아파요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "입에 달라붙지 않아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈 넉넉~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편리해요!",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "타마스크와는 달리 귀에 걸기만 하면 끝!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495528",
+    "RawText": "배송은 빠르네요 포장도 깔끔한데 마스크가 불편합니다 여름이라 답답하면 힘든데 숨도 편히 못 쉬겠네요 비추에요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20210713",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "마스크가 불편합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "여름이라 답답하면 힘든데 숨도 편히 못 쉬겠네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495529",
+    "RawText": "품질이 고급스럽고 아주 숨쉬기 편안합니다 귀에 걸리는 부분도 좋은 끈으로 되어있어 귀가 아프지 않고 좋습니다  색상이 화면이랑 달라 아쉽네요. 그것빼곤 아주 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "93",
+    "Word": "22",
+    "RDate": "20210722",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 고급스럽고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "아주 숨쉬기 편안합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "귀에 걸리는 부분도 좋은 끈으로 되어있어 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀가 아프지 않고 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 화면이랑 달라 아쉽네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495532",
+    "RawText": "너무 이쁘고 질도 좋네요 촉감도 부드러운데 보풀이  나는 재질이네요 조금 두꺼워 숨쉬기도  조금 불편하고 여름이라 답답하면 마스크 쓰는것도 곤역인데 이마스크는 조금 답답한 면이 있습니다 끈이 오랜시간 쓰고 있으면 귀가 아프네요 저렴한 가격이라 가성비는 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "144",
+    "Word": "34",
+    "RDate": "20210713",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "너무 이쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "질도 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "촉감도 부드러운데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "보풀이  나는 재질이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "조금 두꺼워",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기도  조금 불편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "이마스크는 조금 답답한 면이 있습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "끈이 오랜시간 쓰고 있으면 귀가 아프네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격이라 가성비는 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495534",
+    "RawText": "품질이 너무 안좋습니다 저렴한 가격이라 샀는데 후회되네요 코로나 끝나기전까지 마스크 사는게 일이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20210716",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 너무 안좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격이라 샀는데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495536",
+    "RawText": "여러종류 마스크를 쓰다가 ㅇㅇ 마스크로 정착했는데 이번에는 여름이라 좀얇은거 샀어요. 확실히 ㅇㅇ는 퀄리티가 좋네요. 새부리형은 처음 사봤는데 숨쉬기 좋고 편해요. 중학생딸이 썼는데 얼굴이  저보단 작아서 조금 넉넉해서  딱 붙는것보단 좋은거 같아요. 강추합니다!!",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "148",
+    "Word": "32",
+    "RDate": "20210713",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": " 좀얇은거 샀어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "ㅇㅇ는 퀄리티가 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "새부리형은 처음 사봤는데 숨쉬기 좋고 편해요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "중학생딸이 썼는데 얼굴이  저보단 작아서 조금 넉넉해서  딱 붙는것보단 좋은거 같아요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495537",
+    "RawText": "배송 오자마자 써보고 대박을 외쳤네요 가볍고 숨쉬기 진짜 편합니다 이마스크 쓴뒤로는  다른마스크는 못쓸꺼같아요 얇고 숨쉬기 편하고 진짜 좋아요~♡ 끈도 신축성이 좋으네요 귀도 안아프고 진짜 맘에 들어요~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "113",
+    "Word": "26",
+    "RDate": "20210720",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기 진짜 편합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기 편하고 진짜 좋아요~♡",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "끈도 신축성이 좋으네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 안아프고 진짜 맘에 들어요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495538",
+    "RawText": "일할때마스크쓰고일하기답답해서불편했는데 이건그런게없네요ㅎㅎ착용감도가벼운느낌에 숨쉬기도편해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "49",
+    "Word": "3",
+    "RDate": "20210727",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감도가벼운느낌에 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기도편해요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "일할때마스크쓰고일하기답답해서불편했는데이건그런게없네요ㅎㅎ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495540",
+    "RawText": "끈이랑 색상도 다양해서 이쁘고 너무 좋네요!!! 여름이라 답답한 94는 싫었는데 전혀 답답함 없이 잘 구매했어요! 새부리형이라 더 편하고 좋은것 같아요!",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "85",
+    "Word": "20",
+    "RDate": "20210720",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "끈이랑 색상도 다양해서 이쁘고 너무 좋네요!!! ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 다양해서 이쁘고 너무 좋네요!!! ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "여름이라 답답한 94는 싫었는데 전혀 답답함 없이",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "새부리형이라 더 편하고 좋은것 같아요!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495542",
+    "RawText": "ㅂ배송 팔리 왔구요 마스크 받고 바로 써봤는데 냄새도 없고 편해요 하나씩 포장 되어 있어서 가지고 다니기도 편리하고 무엇보다 얼굴이 예뻐 보인답니다.처음에 사람들이 많이 썼던 마스크는 얼굴이 넓대대해 보이는데 새 부리형은 코도 높아보여서 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "136",
+    "Word": "33",
+    "RDate": "20210717",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편해요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "하나씩 포장 되어 있어서 가지고 다니기도 편리하고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "얼굴이 예뻐 보인답니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "새 부리형은 코도 높아보여서 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495546",
+    "RawText": "와아 이거 정말 괜찮네요. 색 다양한것도 맘에들고 커서 얼굴도 폭 감싸는게 잘맞았어요. 저는 원래 면마스크를 썼었는데, 여름에다  좀 두껍다보니 땀이 너무 납니다. 좀 가볍고 숨쉬기 편한거 찾다가 구매해봤는데 정말 굿굿입니다. 얼굴에 많이 달라붙는것도 없고 통기가 잘되니까 땀도 덜납니다.  다만 제가 콧대가 없어서 코부분이 좀 들뜨는게 아쉽다면 아쉽네욬ㅋㅋㅋㅋㅋ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "203",
+    "Word": "47",
+    "RDate": "20210727",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색 다양한것도 맘에들고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "커서 얼굴도 폭 감싸는게 잘맞았어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "얼굴에 많이 달라붙는것도 없고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "통기가 잘되니까 땀도 덜납니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "코부분이 좀 들뜨는게 아쉽다면 아쉽네욬ㅋㅋㅋㅋㅋ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "495547",
+    "RawText": "너무 마음에 들어요! 추천합니다. 여름이고 말하는 직업이라서 숨쉬기편한마스크를 계속 찾고있었는데 편하고 정말 착용하기 너무 편해요...~~~^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "80",
+    "Word": "15",
+    "RDate": "20210727",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기편한마스크를 계속 찾고있었는데 편하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "정말 착용하기 너무 편해요...~~~^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "495548",
+    "RawText": "갑자기 더워진 날씨에 마스크 쓰고 숨쉬기 너무 힘들었는데, 숨쉬기 편한 마스크라고 해서 구매해봤습니다. 폭염이 지속돼서 빠른 배송을 원했는데, 배송도 빨리 와서 좋았습니다! 다른 곳은 박스가 다 구겨진 상태로 와서 아쉬웠는데, 포장 상태도 좋았어요ㅎㅎ 확실히 마스크와 얼굴 닿는 부분 공간이 좀 있어서 숨쉬기 편하네요! 귀도 안 아프고 전체적으로 괜찮습니다! 다음번에 또 구매하고 싶네요. 추천합니다:)",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 숨** 마스크 라이트핏 50매 (5 중 1)",
+    "ReviewScore": "100",
+    "Syllable": "225",
+    "Word": "53",
+    "RDate": "20210717",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "확실히 마스크와 얼굴 닿는 부분 공간이 좀 있어서 숨쉬기 편하네요!",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 안 아프고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

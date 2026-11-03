@@ -1,0 +1,3223 @@
+[
+  {
+    "Index": "524184",
+    "RawText": "튼튼하고 사용하기 편리하고 좋습니다. 추천이 많아서 구매했는데 저도 추천합니다. 그리고 바닥 모서리 부분을 감싸는 플라스틱 부품이 따로 있어서 값어치 하는 느낌이네요. 걸치는 높이 조절도 4단계까지 있어서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 뉴** 빨래건조대 특대 2단",
+    "ReviewScore": "4",
+    "Syllable": "120",
+    "Word": "27",
+    "RDate": "20200220",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 편리하고 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "플라스틱 부품이 따로 있어서 값어치 하는 느낌이네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "걸치는 높이 조절도 4단계까지 있어서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524195",
+    "RawText": "저렴하게 구입했습니다. 쇠막대 받침이 살짝 눌려져있어요. 엄청 튼튼하진 않지만 몇해 정도는 괜찮을것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "4",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20220823",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입했습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "쇠막대 받침이 살짝 눌려져있어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "엄청 튼튼하진 않지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524198",
+    "RawText": "스텐이라 넘 좋아요. 댓살이 빠지지 않고 사용하기 편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "33",
+    "Word": "8",
+    "RDate": "20220817",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "스텐이라 넘 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "댓살이 빠지지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 편합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524207",
+    "RawText": "튼튼해 보여서 구입했는데 생각보다 작고 흔들거리는게 넘 약합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "1",
+    "Syllable": "36",
+    "Word": "8",
+    "RDate": "20220731",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "생각보다 작고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "흔들거리는게 넘 약합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524214",
+    "RawText": "저렴한데 튼튼하고 단순한 구조네요. 구매후기가 증명해요. 조금 작은 편이구요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "9",
+    "RDate": "20220718",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "단순한 구조네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "조금 작은 편이구요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524224",
+    "RawText": "가볍고 튼튼합니다. 높이도 기존거보다 높아서 빨래널때 편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "35",
+    "Word": "7",
+    "RDate": "20220712",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼합니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "높이도 기존거보다 높아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "빨래널때 편합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524226",
+    "RawText": "비싼걸사도 뿌러지고 싼걸사도뿌러지고 그래서 그냥 계속쓰고 버리자 싶어서 그냥 제일 싼걸로 구입했어요. 튼튼한지는 모르겠지만 아직까지는 잘 쓰고있습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "17",
+    "RDate": "20220709",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "제일 싼걸로 구입했어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼한지는 모르겠지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "524232",
+    "RawText": "생각보다 튼튼한 느낌이 덜합니다 빨래널때 두꺼운 옷은 쓰러질거 같네요. 빨래도 많이 널리지 않아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "3",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20220630",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "생각보다 튼튼한 느낌이 덜합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "빨래널때 두꺼운 옷은 쓰러질거 같네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "빨래도 많이 널리지 않아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524253",
+    "RawText": "일반 대형 건조대 주문했는데 싸이즈가 너무 작아서 놀랐습니다. 소형같이 너무 작고 힘 없어 보이고 완전실망이네요. 반품하려니 왕복 배송비가 아까워서 그냥 써야겠네요. 이불빨래 널면 그냥 쓰러질거 같은데요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "1",
+    "Syllable": "114",
+    "Word": "26",
+    "RDate": "20220601",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "싸이즈가 너무 작아서 놀랐습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "소형같이 너무 작고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "힘 없어 보이고 완전실망이네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "이불빨래 널면 그냥 쓰러질거 같은데요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524261",
+    "RawText": "받자마자펼쳐보았더니 너무 좋네요 생각보다 튼튼해보여요. 빨래를 많이 널수 있을지는 모르겠지만 잘쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "11",
+    "RDate": "20220526",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 생각보다 튼튼해보여요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "빨래를 많이 널수 있을지는 모르겠지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "524269",
+    "RawText": "배송 빠르고 가벼워서 좋습니다. 비닐로 포장 된채 배송 되어서 파손 걱정했는데 다행히 제가 받은 상품은 무사했어요. 포장에 좀 더 신경을 써주시면 좋겠다는 아쉬움이 남지만 상품은 사용하기 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "4",
+    "Syllable": "109",
+    "Word": "27",
+    "RDate": "20220519",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "상품은 사용하기 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "파손 걱정했는데 다행히 제가 받은 상품은 무사했어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524272",
+    "RawText": "살짝 찌그러져서 배송 받아 좀 아쉽지만 튼튼해 보이네요. 배송에 신경좀 더 쓰면 좋을듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "4",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20220515",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "살짝 찌그러져서 배송 받아 좀 아쉽지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해 보이네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524273",
+    "RawText": "쿠폰 사용해서 싸게 샀어요 가볍고 가운데가 쏠려 있는데 사용하기에는 크게 불편하지 않습니다 운동화 건조도 같이 있으면 좋겠네요 비닐 포장인데도파손없게 건조대 배송감사해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "3",
+    "Syllable": "94",
+    "Word": "21",
+    "RDate": "20220515",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 사용해서 싸게 샀어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기에는 크게 불편하지 않습니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "비닐 포장인데도파손없게 건조대 배송감사해요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "가운데가 쏠려 있는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524280",
+    "RawText": "알루미늄이라서 가볍고 디자인도 깔끔해요. 가성비도 좋고 배송도 빠르네요. 번창하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "9",
+    "RDate": "20220504",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "알루미늄이라서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524289",
+    "RawText": "포장이 이렇게도 오네요. 다행히 찌그러지진 않았습니다. 우선 튼튼해보입니다. 접고보니까 집에 있는 제품보다 길이가 좀 짧아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "4",
+    "Syllable": "69",
+    "Word": "15",
+    "RDate": "20220421",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해보입니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "집에 있는 제품보다 길이가 좀 짧아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524293",
+    "RawText": "친정엄마가 필요 하다 하셔 주문 해드렸어요 아주 맘에 들어 하시네요 튼튼하고 사이즈가 넓어서 빨래가 많이 널린다고 해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "17",
+    "RDate": "20220416",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈가 넓어서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "빨래가 많이 널린다고 해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524302",
+    "RawText": "크기가 너무 아쉬워요. 한쪽 높이면 한쪽은 안올라가구요. 배송이 허접하네요. 그래도 다행히 찌그러진곳은 없네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "13",
+    "RDate": "20220401",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기가 너무 아쉬워요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "한쪽 높이면 한쪽은 안올라가구요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "다행히 찌그러진곳은 없네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524314",
+    "RawText": "도착했는데 사이즈가 생각보다 너무 작네요 대형인줄 알고 주문했는데 작습니다 가벼워서 그냥 써야겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20220304",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈가 생각보다 너무 작네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "대형인줄 알고 주문했는데 작습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524322",
+    "RawText": "크고 스테인레스라 좋습니다. 실내에서 사용하기 좋습니다. 신발건조대 있는 상품 주문했는데 빠졌네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "11",
+    "RDate": "20220223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "스테인레스라 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "실내에서 사용하기 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524327",
+    "RawText": "배송이 정말 빠르네요. 기숙사에서 쓸 거라서 미니랑 고민하다가 일반사이즈로 구매했는데 사이즈도 적당하네요. 튼튼합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "13",
+    "RDate": "20220222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈도 적당하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 튼튼합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524336",
+    "RawText": "흔들거려요 넘가볍구요 비쌉니다 예전에9900원이었는데 이것도오르네요 물가가 자꾸 오릅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "4",
+    "Syllable": "49",
+    "Word": "8",
+    "RDate": "20220208",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "흔들거려요 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "넘가볍구요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비쌉니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "예전에9900원이었는데 이것도오르네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524365",
+    "RawText": "철제자체가 약합니다 이불이라도 걸면 부러질듯 하네요 배송도 일주일이나 걸렸어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "1",
+    "Syllable": "43",
+    "Word": "9",
+    "RDate": "20211220",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "철제자체가 약합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 이불이라도 걸면 부러질듯 하네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524368",
+    "RawText": "잘쓰고있네요 많이 걸어지는데 전그냥 조금만 걸었어요 가성비 좋은것같네요 아이옷을 건조기돌리니 너무 상해서 건조대 샀습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "14",
+    "RDate": "20211217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "많이 걸어지는데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은것같네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524371",
+    "RawText": "기존꺼보다 길이가 살짝 길게 나왔네요 그렇다고 빨래 널수있는 칸수가 더 많은건 아닙니다 밑에 널수있는 대가 위에보다 작게 나온건 별로네요 너는 부분 스텐이 움직이지 않는건 좋은데 많이 약합니다 요즘 나오는건 다 이런가보네요 실내에서만 써야될것 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "3",
+    "Syllable": "139",
+    "Word": "34",
+    "RDate": "20211214",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "기존꺼보다 길이가 살짝 길게 나왔네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "빨래 널수있는 칸수가 더 많은건 아닙니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "밑에 널수있는 대가 위에보다 작게 나온건 별로네요 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "너는 부분 스텐이 움직이지 않는건 좋은데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "많이 약합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "실내에서만 써야될것 같네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524381",
+    "RawText": "사이즈가 적당해서 좋아요. 건조대가 튼튼하네요. 색상도 예뻐요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "35",
+    "Word": "7",
+    "RDate": "20211119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈가 적당해서 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "건조대가 튼튼하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 예뻐요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524418",
+    "RawText": "대형이네요 중형 인줄알았어요 높고 큽니다 저렴한가격에 이정도면 튼튼하고 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "9",
+    "RDate": "20210906",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "대형이네요 중형 인줄알았어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "높고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "큽니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한가격에 이정도면",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524420",
+    "RawText": "단단하니 맘에 드네요 마침 쿠폰사용으로 아주 저렴하게 구매했습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "36",
+    "Word": "8",
+    "RDate": "20210903",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "단단하니 맘에 드네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 쿠폰사용으로 아주 저렴하게 구매했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524423",
+    "RawText": "튼튼하고 깔금합니다 배송도 빠르네요 가격도 저렴해서 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "33",
+    "Word": "7",
+    "RDate": "20210831",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔금합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서 만족해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524431",
+    "RawText": "너무 작지도 크지도 않은 적당한 사이즈라 맘에 드네요 고정부분이 플라스틱인것과 초록색인게 별로입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "4",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20210728",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "너무 작지도 크지도 않은 적당한 사이즈라 맘에 드네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "고정부분이 플라스틱인것과 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "초록색인게 별로입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524434",
+    "RawText": "원룸에서 쓰기 딱 좋은 사이즈입니다 빨래널어보니 튼튼합니다. 빨래는 많이 안 널리지만 잘쓸게요 추천해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20210725",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "원룸에서 쓰기 딱 좋은 사이즈입니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "빨래널어보니 튼튼합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "빨래는 많이 안 널리지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524438",
+    "RawText": "사용이 편리하고 가볍네요 어느곳에서든 공간활용 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "30",
+    "Word": "6",
+    "RDate": "20210720",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용이 편리하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "어느곳에서든 공간활용 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524441",
+    "RawText": "이사하면서 베란다가 좁아 버렸는데 역시나 필요한 용품입니다 튼튼하고 디자인 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "4",
+    "Syllable": "46",
+    "Word": "10",
+    "RDate": "20210719",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524443",
+    "RawText": "y자 건조대가 가격도 저렴하네요 가볍고 정리하기도 좋고 맘에 들어요 .애들이 장난치다 하나 부러트려서 또 주문합니다 수고하세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20210717",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "y자 건조대가 가격도 저렴하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "정리하기도 좋고 맘에 들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524449",
+    "RawText": "구매해서 바로사용했는데 그냥 가격대비 만족해요 약간 튼튼한것 같지는 않습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "4",
+    "Syllable": "42",
+    "Word": "9",
+    "RDate": "20210710",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 만족해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "약간 튼튼한것 같지는 않습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524455",
+    "RawText": "6개월사이에 가격이 많이 올랐네요 많이 비싸졌습니다 집에 있는 건 무거워서 가벼운거 잘샀네요. 벽돌로 올려놓고 쓰면 쓰러지지는 않겠어요 타제품 비해 가벼워 바람불면 쓰러지겠어요. 벽돌로 누르면 안 넘어가겠네요. 잘받았습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "1",
+    "Syllable": "124",
+    "Word": "27",
+    "RDate": "20210705",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "6개월사이에 가격이 많이 올랐네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "많이 비싸졌습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼운거 잘샀네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "벽돌로 올려놓고 쓰면 쓰러지지는 않겠어요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "타제품 비해 가벼워",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "바람불면 쓰러지겠어요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "벽돌로 누르면 안 넘어가겠네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524461",
+    "RawText": "작은 건조대가 있는데 부족해서 주문했네요 생각보다 크고 진짜 튼튼합니다 잘쓸것같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "10",
+    "RDate": "20210628",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": " 생각보다 크고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 진짜 튼튼합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524464",
+    "RawText": "든든하네요 이전에 쓰던것이 잘 빠져서 완전분해되었는데 안정감있고 튼튼합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "41",
+    "Word": "8",
+    "RDate": "20210623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "든든하네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "안정감있고 튼튼합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524467",
+    "RawText": "가볍고 크기 적당해서 편리합니다 큰 건조대가 하나있어서 이정도 크기가 하나 필요했는데 딱 알맞는 사이즈라 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "4",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20210622",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기 적당해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편리합니다 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": " 딱 알맞는 사이즈라 만족해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524480",
+    "RawText": "바의 두께는 적당하고 두껍지는 않아요 가격을 생각하면 가성비 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "4",
+    "Syllable": "38",
+    "Word": "9",
+    "RDate": "20210517",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "바의 두께는 적당하고 두껍지는 않아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격을 생각하면 가성비 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524483",
+    "RawText": "송장정보가 뜨지 않아 배송소식없이 배송 완료된 제품입니다 배송은 좀 늦었어요 그냥 저렴하게 잘 구입한것같네요. 오래사용했으면 좋겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "4",
+    "Syllable": "75",
+    "Word": "16",
+    "RDate": "20210507",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오래사용했으면 좋겠습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "524489",
+    "RawText": "저렴한가격이긴 하지만 딱 그가격인것같네요 대형사이즈치고 작은편이고, 세워두면 그냥 미끄러집니다. 밑에 고무라도 있었으면 좋았을텐데요.쇠는 얇아서 이불 걸어두면 부서질것같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "3",
+    "Syllable": "98",
+    "Word": "17",
+    "RDate": "20210317",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한가격이긴 하지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 딱 그가격인것같네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "대형사이즈치고 작은편이고,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "세워두면 그냥 미끄러집니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "쇠는 얇아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "이불 걸어두면 부서질것같습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524513",
+    "RawText": "가격대비 좋아요 대형이라고 느껴지진 않네요 사이즈를 확인하고 주문하셔야 겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "3",
+    "Syllable": "43",
+    "Word": "9",
+    "RDate": "20200708",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "대형이라고 느껴지진 않네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈를 확인하고 주문하셔야 겠네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524518",
+    "RawText": "스테인레스 재질인데 그다지 튼튼해 보이지는 않네요 가격이 저렴해서 그럭저럭 쓸만하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "3",
+    "Syllable": "47",
+    "Word": "10",
+    "RDate": "20200530",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "스테인레스 재질인데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해 보이지는 않네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524521",
+    "RawText": "대형마트에서 판매하는 제품보다 덜 견고합니다 돈을 더 주더라도 튼튼한 게 낫겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "2",
+    "Syllable": "45",
+    "Word": "11",
+    "RDate": "20200526",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "대형마트에서 판매하는 제품보다 덜 견고합니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 돈을 더 주더라도 튼튼한 게 낫겠네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524531",
+    "RawText": "일단 가격도 저렴합니다 튼튼한 편이구요 이불까지도 말릴수 있을만한 크기라 맘에 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20200415",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격도 저렴합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼한 편이구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "이불까지도 말릴수 있을만한 크기라 맘에 들어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524537",
+    "RawText": "특가라서 구입했어요 좁은 두께에서 넓은 두께의 빨래까지 다 말릴 수 있습니다 큰 빨래 작은 빨래  말릴수있어 공간활용은 최고입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20200324",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "특가라서 구입했어요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "좁은 두께에서 넓은 두께의 빨래까지 다 말릴 수 있습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "큰 빨래 작은 빨래  말릴수있어 공간활용은 최고입니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524542",
+    "RawText": "잘쓰고 있습니다 지난번건 낮아서 빨래널고 할때 허리가 아팠는데 이건 높아서 좋네요 숙이지 않아도 되고 좋습니다 무거운 이불도 널수있을정도로 튼튼해서 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "20",
+    "RDate": "20200304",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": " 높아서 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "숙이지 않아도 되고 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "무거운 이불도 널수있을정도로 튼튼해서 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524560",
+    "RawText": "저렴한 가격에 좋은 상품 잘 받았네요. 배송도 빠른 편입니다. 다른데는 신발걸이가 거의 품절이던데, 여기는 있어서 구입했는데 신발걸이가 있어 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "19",
+    "RDate": "20191003",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 신발걸이가 있어 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524561",
+    "RawText": "생각보다는 쪼금 작네요 튼튼해보입니다 오래사용할수 있을것같네요 벌써 2개째 주문이에요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "9",
+    "RDate": "20190927",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "생각보다는 쪼금 작네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해보입니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오래사용할수 있을것같네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524563",
+    "RawText": "배송도 빠르고 품질도 좋아요. 가격대비 훌륭한 품질입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "31",
+    "Word": "7",
+    "RDate": "20190925",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 훌륭한 품질입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524565",
+    "RawText": "기존에 쓰던거보다 한칸 더 낮고 가운데부분 눌려있어요 귀찮아서 그냥 쓸랍니다 대자라고 해서 산건데 전에건 특대였나봐요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "1",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20190918",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "기존에 쓰던거보다 한칸 더 낮고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가운데부분 눌려있어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "대자라고 해서 산건데 전에건 특대였나봐요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524566",
+    "RawText": "색깔도 예쁘네요 튼튼하구요 그런데 대자 치고는 조금 작은것같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "36",
+    "Word": "8",
+    "RDate": "20190907",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔도 예쁘네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하구요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "대자 치고는 조금 작은것같습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524572",
+    "RawText": "집에 큰 건조대는 있어서 이건 보조 건조대로 잘 쓰고 있습니다. 조금 약한편이라 수건 정도 무게를 건조하기에 좋을거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "4",
+    "Syllable": "70",
+    "Word": "18",
+    "RDate": "20190725",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "보조 건조대로 잘 쓰고 있습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "조금 약한편이라",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "수건 정도 무게를 건조하기에 좋을거 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524574",
+    "RawText": "수건 걸어놓으면 고리연결 플라스틱이 빠져서 못 쓰겠어요. 양쪽이 다 빠지네요 환불하고 싶어요 연락주세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "1",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20190721",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "수건 걸어놓으면 고리연결 플라스틱이 빠져서 못 쓰겠어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "양쪽이 다 빠지네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524581",
+    "RawText": "기존에 쓰던것과는다르게 좀 작습니다 그럼특대형이 있다는얘긴인데요배송은 빨라요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "3",
+    "Syllable": "42",
+    "Word": "7",
+    "RDate": "20190627",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "기존에 쓰던것과는다르게 좀 작습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "그럼특대형이 있다는얘긴인데요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524584",
+    "RawText": "제품에 문제 없네요 생각한 것보다 작은 느낌이지만 가성비 좋은 것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "4",
+    "Syllable": "40",
+    "Word": "11",
+    "RDate": "20190621",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품에 문제 없네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "생각한 것보다 작은 느낌이지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은 것 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524589",
+    "RawText": "원래 쓰던것보다 작네요. 이게 제일 큰거라던데 너무 작아요. 어차피 건조기 쓰고 있어서 필요는 없지만 별로네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20190423",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "원래 쓰던것보다 작네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "제일 큰거라던데 너무 작아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524590",
+    "RawText": "가격도 착하고 제품 품질도 아주 좋습니다 배송도 너무 빨라서 좋네요. 매우 만족하는 상품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20190415",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 품질도 아주 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524593",
+    "RawText": "가성비 높은 빨래 건조대입니다. 이보다 저렴하면 품질이 안좋고 비싸도 그만큼 많이 좋진 않습니다. 품질도 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "4",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20190413",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 높은 빨래 건조대입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524594",
+    "RawText": "튼튼해 보입니다 아주 오래 사용할 듯 하네요 저렴한 가격에 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "36",
+    "Word": "10",
+    "RDate": "20190410",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해 보입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "아주 오래 사용할 듯 하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524597",
+    "RawText": "혼자 쓰기 좋네요 가벼워서 약간 무거운걸 걸어놓으면 옆으로 쓰러집니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "38",
+    "Word": "9",
+    "RDate": "20190404",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "약간 무거운걸 걸어놓으면 옆으로 쓰러집니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "혼자 쓰기 좋네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524602",
+    "RawText": "상품이 일단 넘 좋네요 가격대비 크기부터 튼튼함까지 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "33",
+    "Word": "8",
+    "RDate": "20190320",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "가격대비 크기부터 튼튼함까지 만족해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼함까지 만족해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524603",
+    "RawText": "깔끔한 디자인에 생각했던것 보다 튼튼하네요 단지 배송이 좀 느립니다 상품은 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "11",
+    "RDate": "20190318",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔한 디자인에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "생각했던것 보다 튼튼하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524608",
+    "RawText": "가벼워서 너무 좋네요 자취생 딸 쓰라고 준비했는데 많이 널려서 좋다고 좋아라하네요. 번창하세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20190310",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 너무 좋네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "많이 널려서 좋다고 좋아라하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524610",
+    "RawText": "만원이 조금 넘는 가격에 이렇게 큰 사이즈가 올줄은 몰랐네요 아주 크고 튼튼하네요 마트 가면 3만원 기본인데 참 신기합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "18",
+    "RDate": "20190305",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "만원이 조금 넘는 가격에",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "이렇게 큰 사이즈가 올줄은 몰랐네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "아주 크고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트 가면 3만원 기본인데 참 신기합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524611",
+    "RawText": "빨래건조대가 생각보다 사이즈가 작아요 대형이라고 헤서 좀 클줄알았는데 아니네요 흔들거리고 힘도 없어요 걍 저렴하니 쓰다가 하나더 사야겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "17",
+    "RDate": "20190228",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "빨래건조대가 생각보다 사이즈가 작아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "대형이라고 헤서 좀 클줄알았는데 아니네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "흔들거리고 힘도 없어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "걍 저렴하니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524619",
+    "RawText": "가격도 저렴하고 사이즈도 괜찮네요 만족합니다 배송만 조금 더 신경써 주시면 좋겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "11",
+    "RDate": "20190220",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈도 괜찮네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524627",
+    "RawText": "음 가로가 127에요 대형이 아니라 중형크기입니다 뭐 그래도 싸게 샀으니 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "45",
+    "Word": "11",
+    "RDate": "20190209",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "대형이 아니라 중형크기입니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 싸게 샀으니 만족해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524633",
+    "RawText": "배송 빠릅니다. 포장이 허술한데 비해서 깨끗하게 잘왔어요. 아랫쪽에 두군데정도 찌그러졌네요. 깨끗이 닦으니까 시커먼 때가 마니 묻어나옵니다. 그래도 이정도면 저렴한가격에 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "100",
+    "Word": "20",
+    "RDate": "20190124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "아랫쪽에 두군데정도 찌그러졌네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "깨끗이 닦으니까 시커먼 때가 마니 묻어나옵니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한가격에",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524636",
+    "RawText": "생각한만큼 크기여서 좋네요 빨래널기도 편하고 양말걸이 따로 있어서 좋네요 배송도 빨라서 더더욱 좋았네요 번창하세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20190120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "생각한만큼 크기여서 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "빨래널기도 편하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "양말걸이 따로 있어서 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524637",
+    "RawText": "원래 한쪽에는 빨래 한쪽에는 그리 무겁지 않은 작업복 걸어두려고 산건데 생각보다 제품이 약합니다 옷을 상단부를 고정하는 사진 속 부위가 작업복을 걸면 위로 올라오며 약간 휘어지는 감이 있네요 불안불안 하지만 아직은 해당현상을 제외하면 문제는 없어요 배송은 오래걸렸어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "3",
+    "Syllable": "149",
+    "Word": "36",
+    "RDate": "20190120",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 생각보다 제품이 약합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "작업복을 걸면 위로 올라오며 약간 휘어지는 감이 있네요 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524656",
+    "RawText": "굉장히 가벼워서 그런지 튼튼해 보이진 않습니다 사용해봐야알겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "4",
+    "Syllable": "35",
+    "Word": "7",
+    "RDate": "20181231",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "굉장히 가벼워서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해 보이진 않습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524663",
+    "RawText": "가벼우면서도 튼튼합니다. 살이 하나 빠져서 왔는데 끼우다가 손을 다쳤습니다. 배송시 파손 걱정이 좀 있지만 제품 품질 자체는 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20181219",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼우면서도",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 튼튼합니다. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "살이 하나 빠져서 왔는데 끼우다가 손을 다쳤습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 품질 자체는 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524675",
+    "RawText": "저렴한 가격에 가성비 좋네요 제품자체는 괜찮아보이는데 포장상태가 엉망입니다 그래서 조금 당황하긴햇지만 제품 품질 자체는만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "4",
+    "Syllable": "70",
+    "Word": "14",
+    "RDate": "20181112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 가성비 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 제품 품질 자체는만족해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524676",
+    "RawText": "이제 겨울이라 집안에서 빨래널을려고 구매했습니다 생각보다 튼튼하니 좋습니다. 빨래는 많이 안 널려요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20181112",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "생각보다 튼튼하니 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": " 빨래는 많이 안 널려요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524682",
+    "RawText": "배송포장이 좀 허술합니다 그래도 흠집없이 잘 왔네요 가격 저렴하고 튼튼해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "41",
+    "Word": "10",
+    "RDate": "20181029",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "흠집없이 잘 왔네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 저렴하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524684",
+    "RawText": "싼가격에 구매했더니 한쪽이 꺽여서 와서 너무 속상합니다 교환하려니 그냥 써야 할것같군요 다음에는 확인 좀 하고 배송에 신경써주시길 바랍니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "18",
+    "RDate": "20181025",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼가격에 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "한쪽이 꺽여서 와서 너무 속상합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524694",
+    "RawText": "택배 시킨 것들 중에 제일 빨리왔는데 불량이에요 어찌 자리에 넣어보려고 했으나 들어가지않아요 봉이 이리저리 막 움직이는데 위쪽으로 빠져있어서 빨래너는데 문제는 없을듯하지만 쓰다보면 봉자체가 빠질수도 있겠어요 본드로 고정해서 써야겠습니다 다 좋았는데 하자라니 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "3",
+    "Syllable": "148",
+    "Word": "32",
+    "RDate": "20181002",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "불량이에요 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "어찌 자리에 넣어보려고 했으나 들어가지않아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "봉이 이리저리 막 움직이는데 위쪽으로 빠져있어서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "빨래너는데 문제는 없을듯하지만 쓰다보면 봉자체가 빠질수도 있겠어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 다 좋았는데 하자라니 아쉽네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524698",
+    "RawText": "배송 빠릅니다 저렴하게 구입하게 되어서 좋아요 빨래도 잘 마르고 간편하면서 자리도 많이 차지하지 않아서 좋아요 감사합니다. 잘쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "17",
+    "RDate": "20180928",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입하게 되어서 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "간편하면서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "자리도 많이 차지하지 않아서 좋아요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524702",
+    "RawText": "가격도 저렴하네요 크기도 적당히 커서 사용하기에 넉넉하고 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "36",
+    "Word": "8",
+    "RDate": "20180919",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": " 크기도 적당히 커서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기에 넉넉하고 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524712",
+    "RawText": "쓰던거찾다가 샀는데 똑같아요 저렴하고 가볍고 편해서 넘좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "34",
+    "Word": "7",
+    "RDate": "20180822",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편해서 넘좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524720",
+    "RawText": "상태가 너무 부실하고 건조할수있는 쇠도 하나는 안왔어요 참 가격만큼이네요 쇠대기 보내주십시요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "1",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20180806",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "상태가 너무 부실하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "참 가격만큼이네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524728",
+    "RawText": "작을줄알았는데 큽니다 저렴하게 잘산거같네요 아주만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "30",
+    "Word": "5",
+    "RDate": "20180719",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "작을줄알았는데 큽니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴하게 잘산거같네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524735",
+    "RawText": "보통 어느정도는 되는사이즈겠지했는데 작아도 너무 작네요 혼자사시는분들에게좋을듯합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "7",
+    "RDate": "20180712",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "작아도 너무 작네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "혼자사시는분들에게좋을듯합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "524737",
+    "RawText": "크기도 적당하네요 쓰기 편할것 같습니다 잘 쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "4",
+    "Syllable": "29",
+    "Word": "7",
+    "RDate": "20180707",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기도 적당하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "쓰기 편할것 같습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524740",
+    "RawText": "생각했던것보다 사이즈가 큽니다 견고해서 좋아요 잘쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "32",
+    "Word": "6",
+    "RDate": "20180702",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "생각했던것보다 사이즈가 큽니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "견고해서 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524749",
+    "RawText": "가격도 싸지만 튼튼합니다 신발걸이 있어서 샀는데, 젖은 겨울이불을 올려도 튼튼하게 잘 버티네요. 다만 오래써보질않았으니 별5개는 안하고 4개로 하겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "18",
+    "RDate": "20180611",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 싸지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "젖은 겨울이불을 올려도 튼튼하게 잘 버티네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524753",
+    "RawText": "가격에 비해선 만족해요 살짝 구부려져 있지만 저렴한가격에 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "4",
+    "Syllable": "36",
+    "Word": "8",
+    "RDate": "20180602",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격에 비해선 만족해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "살짝 구부려져 있지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한가격에 만족해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524761",
+    "RawText": "가격대비 괜찮네요 크기도 생각보다 커서 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "26",
+    "Word": "6",
+    "RDate": "20180526",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 괜찮네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기도 생각보다 커서 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524766",
+    "RawText": "가벼워서 들기가 너무 편하네요 가격이 착해서 더 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "30",
+    "Word": "8",
+    "RDate": "20180519",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "들기가 너무 편하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격이 착해서 더 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524778",
+    "RawText": "조금전에 받았습니다 집에 3개나 있는데 또 부족해요 베란다찬장에 빨래건조대가 없어서그런가보네요 싸게 잘샀습니다 배송도 빠르고 좋네요 튼튼한지는 써봐야 알겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "18",
+    "RDate": "20180512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 잘샀습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼한지는 써봐야 알겠어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "524779",
+    "RawText": "힘이없고 약하긴하네요 실내에서 쓸거라서 괜찮아요 가격대비 괜찮습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "37",
+    "Word": "7",
+    "RDate": "20180512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "힘이없고 약하긴하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "실내에서 쓸거라서 괜찮아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 괜찮습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524780",
+    "RawText": "너무 가벼워 균형 잘못맞추면 넘어질것 같습니다 사용하기는 편리합니다 신경써서 조심해서 빨래를 널어야겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "4",
+    "Syllable": "58",
+    "Word": "12",
+    "RDate": "20180512",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "너무 가벼워",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "균형 잘못맞추면 넘어질것 같습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기는 편리합니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "신경써서 조심해서 빨래를 널어야겠어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524782",
+    "RawText": "배송이 빨라서 좋아요.가격이 저렴한만큼 내구성은 좀 떨어지는듯 하지만 아직까지는 잘 사용하고 있습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "12",
+    "RDate": "20180507",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴한만큼",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "내구성은 좀 떨어지는듯 하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "524790",
+    "RawText": "늦으면 어쩌나 걱정햇는데 담날 오전에 바로 받앗어요 튼튼하고 좋습니다 전에것은 쓰다가 뿌러저서 버리고 새로 구매햇는데 튼튼해보입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "16",
+    "RDate": "20180501",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해보입니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524792",
+    "RawText": "작은거 사려다 그냥 대형샀는데 대형사길 잘한거같네요 싸게사서 좋습니다 포장은 박스같은거 안싸여있고 투명비닐 그대로였네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "13",
+    "RDate": "20180429",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "대형사길 잘한거같네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게사서 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524794",
+    "RawText": "수건널때 딱 좁은 공간에 있어야할 필수 아이템입니다 깔끔하고 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "38",
+    "Word": "9",
+    "RDate": "20180424",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "수건널때 딱 좁은 공간에 있어야할 필수 아이템입니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔하고 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "524798",
+    "RawText": "빨래가 많은 집은 널 공간이 좀 아쉽다 그리고 좀 약해 보입니다. 폭이 조금 좁네요 가격이 다른것에 비해 저렴해서 확인도 않고 서둘러 샀는데 좀더 튼튼하고 큰거 살걸 하는 맘이 드네요. 그냥 2인 가구에서 사용하기엔 맞을것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "130",
+    "Word": "35",
+    "RDate": "20180420",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "빨래가 많은 집은 널 공간이 좀 아쉽다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "약해 보입니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "폭이 조금 좁네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 다른것에 비해 저렴해서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "좀더 튼튼하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": " 큰거 살걸 하는 맘이 드네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "2인 가구에서 사용하기엔 맞을것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "524803",
+    "RawText": "생각보다 가벼워서 좋고 신발걸이도있어 좋습니다 튼튼한지는 써봐야 알겠네요. 새집으로 이사를 와서 구입했습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "12",
+    "RDate": "20180414",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각보다 가벼워서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "신발걸이도있어 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 튼튼한지는 써봐야 알겠네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "524808",
+    "RawText": "빨래건조대가 필요해 구매했네요 가격이 저렴해 만족해요 사용하면서도 튼튼했으면 좋겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 스테인레스 빨래건조대 일반 대형",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "9",
+    "RDate": "20180408",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해 만족해요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "사용하면서도 튼튼했으면 좋겠습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  }
+]

@@ -1,0 +1,3422 @@
+[
+  {
+    "Index": "433223",
+    "RawText": "제품 구성이 꼭 필요한 것들로 이루어져서 좋습니다. 배송도 하루 만에 왔네요. 색상은 알록달록한 것보다 더 깔끔한 것 같아 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "20",
+    "RDate": "20180406",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "제품 구성이 꼭 필요한 것들로 이루어져서 좋습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 알록달록한 것보다 더 깔끔한 것 같아 맘에 듭니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433231",
+    "RawText": "조리도구 사려고 오랜 시간 검색을 해서 마음에 쏙 드는 상품을 발견했습니다. 다른 세트는 집게가 없어서 아쉬웠는데 집게까지 있어서 더 좋네요. 묵직하고 단단해서 요리할 때 휘지 않아서 좋은 것 같아요.  식기세척기에도 잘 견뎌주고 그립감도 좋습니다. 근데 집게가 미끄러워서 음식을 집으면 떨어지는 단점이 있네요. 또 스탠드가 회전하면 좋을텐데 그렇지 않아 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "205",
+    "Word": "49",
+    "RDate": "20180219",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "다른 세트는 집게가 없어서 아쉬웠는데 집게까지 있어서 더 좋네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 단단해서 요리할 때 휘지 않아서 좋은 것 같아요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "식기세척기에도 잘 견뎌주고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": " 그립감도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/질감",
+        "SentimentText": "집게가 미끄러워서 음식을 집으면 떨어지는 단점이 있네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 스탠드가 회전하면 좋을텐데 그렇지 않아 아쉽습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433240",
+    "RawText": "주방기구들이 따로 놀았는데 이렇게 한 곳에 정리되니 주방이 깔끔해지고 이쁨니다. 가격이 비싼 건 좀 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20200508",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "주방기구들이 따로 놀았는데 이렇게 한 곳에 정리되니 주방이 깔끔해지고 이쁨니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격이 비싼 건 좀 아쉽습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433247",
+    "RawText": "가위도 있으면 좋겠는데 구성이 조금 아쉽습니다. 그릇에 놓을 필요없이 바닥에 놓을 수 있어서 편하긴 합니다. 잘 사용할께요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20180615",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "가위도 있으면 좋겠는데 구성이 조금 아쉽습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그릇에 놓을 필요없이 바닥에 놓을 수 있어서 편하긴 합니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433249",
+    "RawText": "백화점에서 파격 세일한다고 저렴하게 나왔길래 구매 전에 혹시나 싶어서 검색해봤는데 여기가 훨씬 저렴하고 쿠폰까지 쓰면 진짜 저렴하게 구매 가능해서 너무 좋습니다. 꼭 구매하세요. 주방에 꼭 필요한 구성이고 디자인이 좋아서 인테리어까지 되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "135",
+    "Word": "31",
+    "RDate": "20180416",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 훨씬 저렴하고 쿠폰까지 쓰면 진짜 저렴하게 구매 가능해서 너무 좋습니다. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "주방에 꼭 필요한 구성이고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 좋아서 인테리어까지 되네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433258",
+    "RawText": "완전 비추네요. 가격대비 품질 실망이예요. 디자인이랑 색깔도 고급스럽고 예뻐서 비싼 가격이였지만 샀는데 손잡이 부분 일부분만 실리콘이고 젤 윗부분은 일반 플라스틱이어서 아쉽습니다. 플라스틱이라 윗부분이 옆 냄비로부터 온 열에 의해서 녹아버렸습니다. 달걀 프라이 하고 냄비에 논 상태에서 옆에서 다른 요리했었는데 한 번 쓰고 사진처럼 윗 부분이 녹아버렸네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "1",
+    "Syllable": "199",
+    "Word": "45",
+    "RDate": "20200203",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 품질 실망이예요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인이랑 색깔도 고급스럽고 예뻐서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔도 고급스럽고 예뻐서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싼 가격이였지만 샀는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "손잡이 부분 일부분만 실리콘이고 젤 윗부분은 일반 플라스틱이어서 아쉽습니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "플라스틱이라 윗부분이 옆 냄비로부터 온 열에 의해서 녹아버렸습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "달걀 프라이 하고 냄비에 논 상태에서 옆에서 다른 요리했었는데 한 번 쓰고 사진처럼 윗 부분이 녹아버렸네요.",
+        "SentimentWord": "16",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433268",
+    "RawText": "나일론과 실리콘 소재라서 괜찮습니다. 열에 강하고 냄비 코팅이 벗겨지지 않은 재질을 선택하려다보니 OOO 이 모델로 구매했습니다. 검정색과 회색 조합이 모던해보이지만 스테인리스에 비해 화사함이 덜한 것은 사실이예요. 하지만 가격도 생각하지 않을 수 없어서 타협하기로 했네요. 걸이 부분은 플라스틱이라 뜨거운 열에 닿지 않도록 조심해야할 것 같고 집게는 끝부분 눌러서 사용해야 해서 불편한 점도 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "4",
+    "Syllable": "225",
+    "Word": "52",
+    "RDate": "20200603",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "나일론과 실리콘 소재라서 괜찮습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "검정색과 회색 조합이 모던해보이지만 스테인리스에 비해 화사함이 덜한 것은 사실이예요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 생각하지 않을 수 없어서 타협하기로 했네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "걸이 부분은 플라스틱이라 뜨거운 열에 닿지 않도록 조심해야할 것 같고",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "집게는 끝부분 눌러서 사용해야 해서 불편한 점도 있습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433270",
+    "RawText": "하자 없이 잘 도착했습니다. 포장도 꼼꼼하게 해주셔서 감사합니다. 아직 써 보진 않았지만 디자인 깔끔하니 맘에 듭니다. 사용성도 좋길 기대합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "19",
+    "RDate": "20200707",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 깔끔하니 맘에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용성도 좋길 기대합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "433280",
+    "RawText": "일단 세척 후 걸어놓으면 되니 보관이 넘 편하고 쓸 때도 바닥 닿지 않아 좋습니다. 특히 집게와 뒤집게 정말 쓰기 편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "4",
+    "Syllable": "69",
+    "Word": "20",
+    "RDate": "20210509",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "일단 세척 후 걸어놓으면 되니 보관이 넘 편하고 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "쓸 때도 바닥 닿지 않아 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "특히 집게와 뒤집게 정말 쓰기 편합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433281",
+    "RawText": "집게 손잡이 부분이 스테인레스라 요리중 냄비나 후라이팬 위에 걸쳐놓으면 손 화상입을수 있겠어요. 손잡이도 실리콘이였으면 안전했을거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "3",
+    "Syllable": "77",
+    "Word": "16",
+    "RDate": "20220212",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "집게 손잡이 부분이 스테인레스라 요리중 냄비나 후라이팬 위에 걸쳐놓으면 손 화상입을수 있겠어요. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손잡이도 실리콘이였으면 안전했을거 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433285",
+    "RawText": "주방에 놓으니 디자인이 깔끔하게 정돈되어 보여 좋고 아주 유용하게 잘 사용하고 있습니다. 특히 집게가 있어서 더 편하고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20190219",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "주방에 놓으니 디자인이 깔끔하게 정돈되어 보여 좋고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아주 유용하게 잘 사용하고 있습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "특히 집게가 있어서 더 편하고 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433293",
+    "RawText": "배송은 조금 걸렸는데 급했던 건 아니라 상관 없었습니다. 꼼꼼히 잘 포장되어 왔습니다. OOO 조리도구 세트 바닥에 닿지 않아 좋고 그립감도 좋습니다. 디자인이 저희 집 주방이랑 너무 잘어울려서 좋습니다. 예쁘게 잘 쓸겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "127",
+    "Word": "31",
+    "RDate": "20191212",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "OOO 조리도구 세트 바닥에 닿지 않아 좋고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "그립감도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 저희 집 주방이랑 너무 잘어울려서 좋습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433294",
+    "RawText": "인테리어적으로 봤을 때도 예쁘고 쓰기에도 아주 편리하네요. 공간을 적게 차지 해서 수납하기도 아주 좋네요. 쓰고 그냥 바닥에 내려 놔도 음식물이 바닥에 묻지 않아 편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "24",
+    "RDate": "20191223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "인테리어적으로 봤을 때도 예쁘고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 쓰기에도 아주 편리하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "공간을 적게 차지 해서 수납하기도 아주 좋네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "쓰고 그냥 바닥에 내려 놔도 음식물이 바닥에 묻지 않아 편합니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433295",
+    "RawText": "좋은가격에 구매했고 제품 구성도 좋네요. 빠른배송도 맘에 들어요. 전부터 바꿀라했는데 기회가 되서 바꾸니 더 잘산것 같고 그렇습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "17",
+    "RDate": "20191226",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은가격에 구매했고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "제품 구성도 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433298",
+    "RawText": "고민 끝에 골랐는데 아주 잘 이용하고 있습니다. 디자인도 세련되고 맘에 듭니다. 잘 쓰겠습니다. 빠른 배송 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20200116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아주 잘 이용하고 있습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 세련되고 맘에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433300",
+    "RawText": "화려하지 않아서 이쁘고 맘에 듭니다. 다만 집게 폭이 너무 좁아서 사용하기 힘드네요. 사용법이 따로 있는 것인지 궁금합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "3",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20200123",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "화려하지 않아서 이쁘고 맘에 듭니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "집게 폭이 너무 좁아서 사용하기 힘드네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용법이 따로 있는 것인지 궁금합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "433301",
+    "RawText": "마무리가 깔끔하지 않아서 칼로 다듬었습니다. 디자인은 좋은데 마무리가 아쉽네요. 배송은 빠르고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "2",
+    "Syllable": "58",
+    "Word": "12",
+    "RDate": "20200220",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "마무리가 깔끔하지 않아서 칼로 다듬었습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 좋은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "마무리가 아쉽네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433307",
+    "RawText": "세일하길래 별 기대없이 샀는데 디자인도 색상도 너무 마음에 듭니다. 다만 사용해보니 집게는 별로 힘이 없는 거 같아 사용하기 조금 불편한 면이 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "22",
+    "RDate": "20200308",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일하길래 별 기대없이 샀는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 색상도 너무 마음에 듭니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 너무 마음에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "집게는 별로 힘이 없는 거 같아 사용하기 조금 불편한 면이 있습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433309",
+    "RawText": "안좋은 후기도 있어 걱정되었는데 제품 가격이 약간 저렴한 게 등급으로 나눈다면 B급 품질정도의 상품 같습니다. 마감이 깔끔하지는 못하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "4",
+    "Syllable": "77",
+    "Word": "18",
+    "RDate": "20200316",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "제품 가격이 약간 저렴한 게",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "등급으로 나눈다면 B급 품질정도의 상품 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감이 깔끔하지는 못하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433310",
+    "RawText": "예상보다 마감이 많이 안좋습니다. 회전하는 기능은 너무 빡빡해서 그냥 기둥째로 돌리게 되고 검은 부분 마감이 안좋아서 공구보는 기분이 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "1",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20200317",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "예상보다 마감이 많이 안좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "회전하는 기능은 너무 빡빡해서 그냥 기둥째로 돌리게 되고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "검은 부분 마감이 안좋아서 공구보는 기분이 듭니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433314",
+    "RawText": "맘에 들긴하는데 가격이 좀 사악해서 고민 고민하다 구매한 제품이네요. 구성도 괜찮고 쓰기도 괜찮아서 맘에 들지만 생각보다 모든 구성이 다 쓰이지는  않네요. 구매시 참고하시라고 남깁니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "4",
+    "Syllable": "104",
+    "Word": "24",
+    "RDate": "20200330",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 사악해서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 괜찮고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "쓰기도 괜찮아서 맘에 들지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "생각보다 모든 구성이 다 쓰이지는  않네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433317",
+    "RawText": "세번째 구입하는 제품이예요. OOO이 워낙 잘 알려진 브랜드고 고가인 탓에 선물용으로 구입합니다. 종류별로 사용하는데도 좋고 거치대가 있어서 세척후 말리는데도 아주 좋네요. 선물받은 친구가 좋다고 하니 저도 기분이 좋아서 가격 할인하면 하나 더 구입할까 고민중이예요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "149",
+    "Word": "34",
+    "RDate": "20200413",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "고가인 탓에 선물용으로 구입합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "종류별로 사용하는데도 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "거치대가 있어서 세척후 말리는데도 아주 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433318",
+    "RawText": "주방용품을 다시 바꾸느라 이 제품을 구입했습니다. 착한 가격으로 구입한 것 같네요. 대체적으로 맘에 드는데 무게감은 약간 있는편이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "4",
+    "Syllable": "75",
+    "Word": "17",
+    "RDate": "20200418",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한 가격으로 구입한 것 같네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감은 약간 있는편이에요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433319",
+    "RawText": "디자인이 예뻐서 주방 분위기가 확 살아납니다. 쓰임새도 좋고 맘에 듭니다. 근데 국자랑 뒤지개 각도가 살짝 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "4",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20200424",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 예뻐서 주방 분위기가 확 살아납니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "쓰임새도 좋고 맘에 듭니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "국자랑 뒤지개 각도가 살짝 아쉽습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433324",
+    "RawText": "집게가 약하다는 후기가 있었는데 저는 괜찮네요. 그 전에 사용하던 집게가 너무 약해서 그런지 전 잘 집히고 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "17",
+    "RDate": "20180718",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "집게가 약하다는 후기가 있었는데 저는 괜찮네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "전 잘 집히고 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433329",
+    "RawText": "후기보고 좋아서 구매하게 되었습니다. 디자인이 너무 이쁘고 필요한 것들로만 구성이 되어 있어 아주 마음에 듭니다. 총알배송도 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "17",
+    "RDate": "20181112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인이 너무 이쁘고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "필요한 것들로만 구성이 되어 있어 아주 마음에 듭니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433339",
+    "RawText": "저렴한 가격에 구입했습니다. 그런데 기대를 많이 했는데 마감처리가 조금 아쉬운 부분이 있네요. 배송도 한참 기다렸다 받았어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20201021",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 구입했습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감처리가 조금 아쉬운 부분이 있네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433340",
+    "RawText": "디자인 멋있어서 좋습니다. 메이드인 차이나라 좀 찝찝하긴 합니다. 거치하기 편하고 사용 후 받침대가 있어 바닥에 닿지 않아 좋습니다. 잘 산것 같아서 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "22",
+    "RDate": "20210523",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 멋있어서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "거치하기 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "사용 후 받침대가 있어 바닥에 닿지 않아 좋습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433357",
+    "RawText": "총알배송에 감동했습니다. 받자마자 한번 씻어서 말리는 중입니다. 디자인 심플하고 좋네요. 필요한 구성만 있어서 만족스럽습니다. 많이 파세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "16",
+    "RDate": "20190308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 심플하고 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "필요한 구성만 있어서 만족스럽습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433358",
+    "RawText": "처음 받았을 때 마감 엉망인 거 보고 환불했어야 했는데 물로 닦으면 괜찮겠지 하고 사용하니 가루 떨어지고 마감 엉망이라서 끝이 계속 묻어나오네요.조리 도구인데 조리할 때 못 쓰는 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "3",
+    "Syllable": "106",
+    "Word": "27",
+    "RDate": "20190314",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "처음 받았을 때 마감 엉망인 거 보고 환불했어야 했는데",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가루 떨어지고 마감 엉망이라서 끝이 계속 묻어나오네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "조리 도구인데 조리할 때 못 쓰는 제품입니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433364",
+    "RawText": "사람들이 많이 사는 건 이유가 다 있는 것 같습니다. 포장도 꼼꼼하고 배송도 빠릅니다. 내구성이 좋고 디자인도 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "18",
+    "RDate": "20191017",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "내구성이 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 맘에 듭니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433366",
+    "RawText": "저렴하게 구입해서 좋습니다. 화이트톤 주방에 두니 깔끔하고 예쁘게 잘 어울려서 좋습니다. 유용하게 쓸 수 있기를 기대해 봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20180807",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입해서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "화이트톤 주방에 두니 깔끔하고 예쁘게 잘 어울려서 좋습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "유용하게 쓸 수 있기를 기대해 봅니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "433367",
+    "RawText": "배송은 칼배송이라 너무 좋습니다. 근데 가격이 저렴하지 않아도 브랜드 믿고 구매했는데 마감 처리가 깔끔하지 않아서 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20180810",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하지 않아도 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "브랜드 믿고 구매했는데 마감 처리가 깔끔하지 않아서 아쉽습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433368",
+    "RawText": "조리도구 바꿀때가 되서 이것저것 비교해보다가 구매했습니다. 손잡이 묵직해서 중심 잘 잡아주고 바닥에 닿지않아 편리해요. 조금 비싸다 생각했는데 낱개로 사는것과 비교해보니 훨씬 저렴하네요. 면 국자 대신 집게도 마음에 들고 딱 필요한것만 있어서 실용적인거 같습니다. 거치대까지 있어서 수납력도 좋고 디자인도 예쁘네요. 할인받아 비교적 저렴하게 구매했고 배송도 빠릅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "205",
+    "Word": "45",
+    "RDate": "20180818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "손잡이 묵직해서 중심 잘 잡아주고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "바닥에 닿지않아 편리해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "조금 비싸다 생각했는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "낱개로 사는것과 비교해보니 훨씬 저렴하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "면 국자 대신 집게도 마음에 들고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "거치대까지 있어서 수납력도 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예쁘네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인받아 비교적 저렴하게 구매했고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 딱 필요한것만 있어서 실용적인거 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433371",
+    "RawText": "너무 이뻐서 주방 인테리어에 도움이 됩니다. 가볍고 딱 필요한 걸로 구성돼 있어서 만족입니다. 빠른 배송 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20181220",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "너무 이뻐서 주방 인테리어에 도움이 됩니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "딱 필요한 걸로 구성돼 있어서 만족입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433375",
+    "RawText": "제가 생각했던 만큼 튼튼한 소재는 아니었습니다. 저는 약간 후라이팬 같은 재질일 줄 알았는데 플라스틱입니다.  그래도 편하게 요리하기에는 좋은 것 같습니다. 디자인도 아주 예뻐요. 배송도 엄청 빨랐습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "4",
+    "Syllable": "114",
+    "Word": "26",
+    "RDate": "20180719",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "제가 생각했던 만큼 튼튼한 소재는 아니었습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "저는 약간 후라이팬 같은 재질일 줄 알았는데 플라스틱입니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그래도 편하게 요리하기에는 좋은 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인도 아주 예뻐요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433377",
+    "RawText": "할인 행사로 추가 할인 받아 최저가로 넘 잘 구매했습니다. 가성비 좋습니다. OOO 조리기구 많이 비교했는데 색상이 가장 심플하고 집게까지 있는 구성이라 만족합니다. 주방 인테리어에 한 몫하니 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "113",
+    "Word": "27",
+    "RDate": "20181013",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인 행사로 추가 할인 받아 최저가로 넘 잘 구매했습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 가장 심플하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "집게까지 있는 구성이라 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "주방 인테리어에 한 몫하니 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433379",
+    "RawText": "거치대까지 있으니까 편합니다. 손잡이 부분만 실리콘이고 실질적으로 음식에 닿는 부분은 완전한 실리콘이 아니어서 아쉽네요. 그래도 조리기구들이 고급스럽고 괜찮습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "4",
+    "Syllable": "91",
+    "Word": "18",
+    "RDate": "20181228",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "거치대까지 있으니까 편합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "손잡이 부분만 실리콘이고 실질적으로 음식에 닿는 부분은 완전한 실리콘이 아니어서 아쉽네요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "조리기구들이 고급스럽고 괜찮습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433382",
+    "RawText": "실리콘 소재라 조리기구에 스크래치가 안나서 좋습니다. 좁은 공간에 수납할 수 있는 점이 좋습니다. 빠른 배송 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20200303",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "실리콘 소재라 조리기구에 스크래치가 안나서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "좁은 공간에 수납할 수 있는 점이 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433387",
+    "RawText": "OOO이 유명하다고 해서 구입했는데 일단 처음에 유명한 거에 비해 메이드차이나라서 고민했습니다. 그런데 이렇게 세트 구성에 깔끔하게 정리까지 되는 다른 상품들이 마땅한 게 없어서 OOO을 믿고 보자하고 샀습니다. 다른 인터넷쇼핑몰보다 여기가 제일 싸긴 했습니다. 상품을 받고 모든 구성품 잘 쓰고 있습니다. 검은색이라 티는 안나지만 카레같은 물듬 있습니다. 그리고 손잡이 중간에 튀어 나온 부분이 냄비에 걸어놓는 건 줄 알고 걸었다가 엄청 떨어트렸는데 이제보니 거는 역할이 아니라 바닥에 묻지 않게 띄워서 세워두는 역할이었네요. 그것도 모르고  몇주를 써보고서야 터득습니다. 아무튼 잘 쓰고 있습니다. 국자가 더 컸으면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "4",
+    "Syllable": "352",
+    "Word": "83",
+    "RDate": "20210124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "이렇게 세트 구성에",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "깔끔하게 정리까지 되는 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 제일 싸긴 했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "모든 구성품 잘 쓰고 있습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "검은색이라 티는 안나지만 카레같은 물듬 있습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "바닥에 묻지 않게 띄워서 세워두는 역할이었네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "국자가 더 컸으면 좋겠네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "잘 쓰고 있습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433390",
+    "RawText": "집게까지 있는 세트로 사고 싶어서 구매했습니다. 깔끔하고 좋습니다. 근데 집게는 생각보다 커서 적응이 필요하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20171213",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "집게까지 있는 세트로 사고 싶어서 구매했습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 깔끔하고 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "집게는 생각보다 커서 적응이 필요하겠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433393",
+    "RawText": "뒤집개로 계란말이 딱 한번 말고 보니 끝이 녹아 붙어 버렸습니다. 비싸게 사서 한번 쓰고 버린 최악의 품질이네요. 별을 1개라도 주기 아까운 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "1",
+    "Syllable": "85",
+    "Word": "22",
+    "RDate": "20180509",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "뒤집개로 계란말이 딱 한번 말고 보니 끝이 녹아 붙어 버렸습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸게 사서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "한번 쓰고 버린 최악의 품질이네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433397",
+    "RawText": "오프라인서 보고 디자인이 깔끔해서 여기서 구매했습니다. 다 좋은데 국자가 너무 오목해서 국 뜨기가 좀 불편한 감이 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "4",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20190201",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 깔끔해서 여기서 구매했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "국자가 너무 오목해서 국 뜨기가 좀 불편한 감이 있습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433398",
+    "RawText": "품질이 별로입니다. 이전 버전보다 내구성은 떨어지지만 디자인은 나쁘지는 않네요. 그래서 그냥 좀 더 써보려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "3",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20190213",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 별로입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "이전 버전보다 내구성은 떨어지지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 나쁘지는 않네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "433402",
+    "RawText": "아직 써 보진 않았지만 디자인 깔끔하고 괜찮습니다. 신혼집에서 사용하려고 주문했는데 조리도구 실용성 있어 보여서 좋습니다. 다른 상품 디자인 이쁜거 보고 취소하려고 했는데 배송와서 받아보니 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "111",
+    "Word": "25",
+    "RDate": "20220801",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 깔끔하고 괜찮습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "조리도구 실용성 있어 보여서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433425",
+    "RawText": "스텐 조리 기구는 냄비를 긁는다고 하던데 이 소재는 그렇지 않아서 좋습니다. 정말 쓰기 좋게 만들어 져서 편하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "17",
+    "RDate": "20181009",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "스텐 조리 기구는 냄비를 긁는다고 하던데 이 소재는 그렇지 않아서 좋습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "정말 쓰기 좋게 만들어 져서 편하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433426",
+    "RawText": "실라간 냄비에 흠 갈까봐 실리콘 조리도구 찾았는데 디자인도 마음에 들고 필요한 것들로만 구성이 되어 있어 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20181020",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 마음에 들고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "필요한 것들로만 구성이 되어 있어 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433430",
+    "RawText": "우선 사진 그대로 받았습니다. 용도별 조리기구라 사용하기 너무 좋을것 같습니다. 디자인이 깔끔해서 인테리어면에서도 훌륭합니다. 무엇보다 OOO 신속한 배송에 또 한번 감동하고 갑니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "22",
+    "RDate": "20181103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "용도별 조리기구라 사용하기 너무 좋을것 같습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 깔끔해서 인테리어면에서도 훌륭합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433434",
+    "RawText": "만족입니다. 깔끔하게 정리되서 좋습니다. 아직 제대로 써 보지 못했지만 실용성도 있었으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "12",
+    "RDate": "20181116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "깔끔하게 정리되서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아직 제대로 써 보지 못했지만 실용성도 있었으면 좋겠습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "433435",
+    "RawText": "비싸긴 하지만 거치해서 깔끔하게 수납되어서 좋습니다. 집게까지 있어서 실용적으로 사용하기 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "11",
+    "RDate": "20181119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸긴 하지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "거치해서 깔끔하게 수납되어서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "집게까지 있어서 실용적으로 사용하기 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433437",
+    "RawText": "조리도구를 잘 긁어서 일부러 이 소재로 구매했는데 좋으네요. 디자인도 깔끔하고 예뻐서 맘에 듭니다. 배송도 빠르게 해 주셔서 감사해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20181122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "조리도구를 잘 긁어서 일부러 이 소재로 구매했는데 좋으네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔하고 예뻐서 맘에 듭니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433442",
+    "RawText": "가격이 조금 비싸긴 하지만 조리도구 뭐 살지 고민하다가 결국 OOOO으로 결정했습니다.  6개 종류도 좋고 걸어놔도 모양이 이쁩니다. 집게도 처음에는 사용법을 몰라서 헤맸는데 땡기니깐 쫙 펴지더라구요.  무게감도 적당히 있고 좋아요. 저희집 주방이 블랙인데 잘 어울려서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "156",
+    "Word": "35",
+    "RDate": "20190101",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 조금 비싸긴 하지만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "  6개 종류도 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 걸어놔도 모양이 이쁩니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "집게도 처음에는 사용법을 몰라서 헤맸는데 땡기니깐 쫙 펴지더라구요.  ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "  무게감도 적당히 있고 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433451",
+    "RawText": "거치대가 있어서 정리하기 좋습니다. 집게는 락/언락 모드가 있어서 수납시엔 부피를 줄일 수 있어 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20190116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "거치대가 있어서 정리하기 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "집게는 락/언락 모드가 있어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "수납시엔 부피를 줄일 수 있어 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433460",
+    "RawText": "집게가 구성에 있어서 좋습니다. 디자인도 고급스럽습니다. 오프라인으로 상품보고 바로 사려다 인터넷으로 좋은 가격에 득템했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "14",
+    "RDate": "20190219",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "집게가 구성에 있어서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 고급스럽습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "인터넷으로 좋은 가격에 득템했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433477",
+    "RawText": "바닥에 내려 놓을때 묻지 않도록 설계되어 있어 편합니다. 하지만 국자 모양이 타원형이라서 카레같은 거 풀 때 냄비 구석에 있는 거 까지 퍼지질 않아서 불편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "24",
+    "RDate": "20190310",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "바닥에 내려 놓을때 묻지 않도록 설계되어 있어 편합니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "국자 모양이 타원형이라서 카레같은 거 풀 때 냄비 구석에 있는 거 까지 퍼지질 않아서 불편합니다.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433479",
+    "RawText": "딱 좋습니다. 싱크대 위에 내놓는 거 싫어하지만 자주 쓰는거니 어쩔 수 없이 놓고 쓰는데 세트 구성으로 회전도 되서 사용하기 편하고 좋습니다. 싱크대 위에 놓아도 디자인이 깔끔해서 괜찮습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "27",
+    "RDate": "20190311",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "세트 구성으로",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "회전도 되서 사용하기 편하고 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "싱크대 위에 놓아도 디자인이 깔끔해서 괜찮습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433483",
+    "RawText": "손잡이만 실리콘이라 좀 실망했는데 요리할 땐 플라스틱같은 재질이 더 조리하기 편하긴 합니다. 그냥 받침없이 둬도 바닥에 닿지 않고 편하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20190322",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "손잡이만 실리콘이라 좀 실망했는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "요리할 땐 플라스틱같은 재질이 더 조리하기 편하긴 합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "그냥 받침없이 둬도 바닥에 닿지 않고 편하네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433490",
+    "RawText": "여러가지 비교하다 색도 차분하고 원하는 물품들로만 구성되어 있어 딱 좋습니다. 요리하다 바닥에 내려놓을 때 공간이 있어 싱크대 신경 안 써도 돼서 편해요.  내구성도 나빠 보이지 않아요.  다음 친구 집들이 선물로 사줄 예정입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "129",
+    "Word": "32",
+    "RDate": "20191101",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "원하는 물품들로만 구성되어 있어 딱 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "요리하다 바닥에 내려놓을 때 공간이 있어 싱크대 신경 안 써도 돼서 편해요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "내구성도 나빠 보이지 않아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색도 차분하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433492",
+    "RawText": "사용한 지 얼마 되지도 않았는데 뒤집개 도구 끝이 갈라졌습니다. 열에 약한건지 사용을 험하게 한거지 내구성이 별로인 거 같아서 비추합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20191102",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "사용한 지 얼마 되지도 않았는데 뒤집개 도구 끝이 갈라졌습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "열에 약한건지 사용을 험하게 한거지 내구성이 별로인 거 같아서 비추합니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433501",
+    "RawText": "조리도구 밑에 받침대가 있어 조리하다가 그냥 내려 놓아도 되서 진짜 위생적인게 큰 장점인 것 같습니다. 색상도 맘에 듭니다. 강추합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "19",
+    "RDate": "20191205",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "조리도구 밑에 받침대가 있어 조리하다가 그냥 내려 놓아도 되서 진짜 위생적인게 큰 장점인 것 같습니다.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 맘에 듭니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433519",
+    "RawText": "지지대가 튼튼해서 쓰러지거나 그러진 않아요. 블랙\u0026그레이 조합이 고급스럽고 스테인리스가 아니라 걱정했는데 이것도 사용하기 나쁘지 않아요.  OO 수저통도 함께 구매해서 사용하는데 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "104",
+    "Word": "21",
+    "RDate": "20200317",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "지지대가 튼튼해서 쓰러지거나 그러진 않아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "블랙\u0026그레이 조합이 고급스럽고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "스테인리스가 아니라 걱정했는데 이것도 사용하기 나쁘지 않아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "433521",
+    "RawText": "알록달록한 색깔이 싫어서 이걸로 구입했는데 너무 맘에 듭니다. 단 카레는 이 국자 쓰면 설거지 해도 색이 남아있어서 스텐 국자 써야합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "20",
+    "RDate": "20200325",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "알록달록한 색깔이 싫어서 이걸로 구입했는데 너무 맘에 듭니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "카레는 이 국자 쓰면 설거지 해도 색이 남아있어서 스텐 국자 써야합니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433522",
+    "RawText": "백화점에서 보고 맘에 들어서 검색해 봤는데 최저가에 잘 산거 같아서 좋습니다. 배송도 빠르게 왔고 구성도 맘에 듭니다. 근데 물 자국이 좀 지저분하게 남아서 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "24",
+    "RDate": "20200327",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "최저가에 잘 산거 같아서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 맘에 듭니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "물 자국이 좀 지저분하게 남아서 아쉽네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433530",
+    "RawText": "뒤집기는 너무 좋습니다. 셋팅도 이쁘고 사용하기도 무난합니다. 집게는 생각보다 손에 익숙치 않아서 그런지 잘 사용하게 안 되더군요. 또한 국자는 내용물이 많을때는 사용이 좋은데 작게 남아있을때는 사용이 불편해요. 그래도 전체적으로 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "135",
+    "Word": "30",
+    "RDate": "20200529",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "셋팅도 이쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기도 무난합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "집게는 생각보다 손에 익숙치 않아서 그런지 잘 사용하게 안 되더군요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "국자는 내용물이 많을때는 사용이 좋은데 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "작게 남아있을때는 사용이 불편해요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433532",
+    "RawText": "OOO으로 주방기구들을 들여놓고 있는데 키친타올 홀더, 세제통에 이어서 조리도구를 샀습니다. 바닥에 둬도 음식물 묻은 부분이 닿지 않아서 너무 좋습니다. 그리고 같이 구성된 집게도 너무 잘 사용하는 중이예요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "116",
+    "Word": "27",
+    "RDate": "20201114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "바닥에 둬도 음식물 묻은 부분이 닿지 않아서 너무 좋습니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "같이 구성된 집게도 너무 잘 사용하는 중이예요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433534",
+    "RawText": "엄마가 사용중인데 좋아서 따라 샀습니다. 디자인이 깔끔하고 필요한 것만 있어서 좋네요. 가격이 많이 비싼편이지만 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "15",
+    "RDate": "20201214",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 깔끔하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "필요한 것만 있어서 좋네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 많이 비싼편이지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433541",
+    "RawText": "아직 사용전이라 외형적인 부분만 작성하겠습니다. 마감이 생각보다 좋진 않아서 실망했어요. 여기 저기 긁힌 부분도 있고 교환해도 비슷할꺼 같아 그냥 사용하지만 이런 부분은 신경 써 주심 좋을 것 같습니다. 디자인은 군더더기없이 깔끔해 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "4",
+    "Syllable": "134",
+    "Word": "32",
+    "RDate": "20210315",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감이 생각보다 좋진 않아서 실망했어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "여기 저기 긁힌 부분도 있고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 군더더기없이 깔끔해 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433547",
+    "RawText": "그동안 조리도구를 내놓고 걸어서 쓰지 않았는데 사용해보니 상당히 편리합니다. 디자인도 깔끔해서 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20210619",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "그동안 조리도구를 내놓고 걸어서 쓰지 않았는데 사용해보니 상당히 편리합니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔해서 맘에 듭니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433548",
+    "RawText": "일단 디자인이 예뻐서 맘에 듭니다. 구성도 좋고 쓰는 것만 쓰게 되겠지만 다른 곳보다 저렴하게 구매해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 키친툴 스페셜 6종 트리세트",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "16",
+    "RDate": "20210621",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 예뻐서 맘에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 곳보다 저렴하게 구매해서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433570",
+    "RawText": "이거 세트 하나면 거의 모든 조리도구 다 장만하신 겁니다. 튼튼하고 짱짱한게 너무 좋네요. 다만 집게가 없는게 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 키친툴 6종세트",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20210804",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "이거 세트 하나면 거의 모든 조리도구 다 장만하신 겁니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고 짱짱한게 너무 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "다만 집게가 없는게 아쉬워요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433575",
+    "RawText": "배송이 빠르네요. 스테인리스 뒤집개 썼는데 후라이팬 흠집나고 플라스틱 손잡이는 눌러 붙어서 실리콘 소재로 검색하다가 일체형으로 디자인이 깔끔하고 가격대가 높지만 브랜드 믿고 선택했습니다. 레드가 제 취향은 아니지만 나쁘지는 않은 것 같아요.  촌스런 레드는 아니네요. 음식물 물들지 않을 듯 합니다. 그립감도 괜찮고 적당한 무게감 있고 국자와 거품기는 좀 커서 그러네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 키친툴 6종세트",
+    "ReviewScore": "5",
+    "Syllable": "207",
+    "Word": "48",
+    "RDate": "20210609",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "일체형으로 디자인이 깔끔하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대가 높지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "레드가 제 취향은 아니지만 나쁘지는 않은 것 같아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": " 촌스런 레드는 아니네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "음식물 물들지 않을 듯 합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "그립감도 괜찮고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "적당한 무게감 있고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "국자와 거품기는 좀 커서 그러네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433580",
+    "RawText": "가격대가 좀 있어서 살까 말까를 한참동안 고민을 했습니다. 같은 종류의 세트로 다른 브랜드에서 저렴한 것도 있지만 100% 믿음이 가지 않아 고민을 하다가 브랜드를 믿어보기로 했습니다. 중국 생산이라 맘에 좀 걸리기는 했지만 물건을 어제 받았는데 넘 좋습니다. 깨끗이 씻어서 스푼으로 볶음 요리를 해봤는데 역시 잘되네요. 대형마트에서 자세히 살펴봐서 모양이나 크기는 대략 알고 있었는데 역시 사이즈도 좋습니다. 대형마트보다 여기서 저렴하게 산것 같아서 좋습니다. 남편도 색상도 이쁘고 좋아 보인다고 해서 돈 좀 주고 샀다고 했네요. 돈값을 하리라 기대하면서 잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 키친툴 6종세트",
+    "ReviewScore": "5",
+    "Syllable": "318",
+    "Word": "77",
+    "RDate": "20200722",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대가 좀 있어서 살까 말까를 한참동안 고민을 했습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "스푼으로 볶음 요리를 해봤는데 역시 잘되네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "대형마트에서 자세히 살펴봐서 모양이나 크기는 대략 알고 있었는데 역시 사이즈도 좋습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "대형마트보다 여기서 저렴하게 산것 같아서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "남편도 색상도 이쁘고 좋아 보인다고 해서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "돈 좀 주고 샀다고 했네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "돈값을 하리라 기대하면서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "433582",
+    "RawText": "구성이 좋은 OO 조리 도구를 구입하길 잘 했다고 생각합니다. 상품이 재 입고 되는 바람에 일주일 기다렸네요. 늦게 도착한 보람이 있습니다.  색상이 예뻐서 주방 분위기도 좋고 요리가 요즘 즐거워집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 키친툴 6종세트",
+    "ReviewScore": "5",
+    "Syllable": "113",
+    "Word": "28",
+    "RDate": "20200612",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 좋은 OO 조리 도구를 구입하길 잘 했다고 생각합니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 예뻐서 주방 분위기도 좋고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433585",
+    "RawText": "다른 제품들은 프라스틱과 고무 또는 플라스틱과 쇠 등으로 만들어져서 접합부분에 이물질 낄 염려가 있었는데 이것은 일체형이라 이물질이 낄 염려가 없어서 좋은 것 같아요. 근데 색상이 좀 그러긴하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 키친툴 6종세트",
+    "ReviewScore": "5",
+    "Syllable": "110",
+    "Word": "27",
+    "RDate": "20200210",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "일체형이라 이물질이 낄 염려가 없어서 좋은 것 같아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": " 색상이 좀 그러긴하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433593",
+    "RawText": "신혼 집에 사용하려고 구매했습니다. 색깔도 제가 좋아하는 강열한 빨강이라 좋습니다. 구성이 너무 알차고 좋아서 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 키친툴 6종세트",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20191011",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔도 제가 좋아하는 강열한 빨강이라 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 너무 알차고 좋아서 마음에 듭니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433597",
+    "RawText": "아직 써보진 않았지만 너무 예뻐서 그냥 보기만해도 기분이 좋습니다. 파스텔톤 다른 실리콘 조리도구로 구매할까하다가 그냥 OO 조리도구 세트로 구매해 봤어요. 너무 빨간색 천지라 좀 이상한듯도 하지만 색상이 화려해서 요리하는 재미가 있을듯 합니다. 다양하게 잘 활용해 볼 수 있을듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 키친툴 6종세트",
+    "ReviewScore": "5",
+    "Syllable": "161",
+    "Word": "39",
+    "RDate": "20180714",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "너무 예뻐서 그냥 보기만해도 기분이 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "너무 빨간색 천지라 좀 이상한듯도 하지만 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 화려해서 요리하는 재미가 있을듯 합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "다양하게 잘 활용해 볼 수 있을듯 합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433602",
+    "RawText": "실리콘만을 쓰고 있는데 손잡이가 나무라 불편해서 통실리콘 검색하다 이 제품을 알게 됐습니다. 세척할 때나 요리할때 통이라 안심하고 사용할 수 있어 좋습니다. 특히 국자랑 스푼이 크고 단단해서 사용하기 편리합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 키친툴 6종세트",
+    "ReviewScore": "5",
+    "Syllable": "118",
+    "Word": "28",
+    "RDate": "20171031",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": " 세척할 때나 요리할때 통이라 안심하고 사용할 수 있어 좋습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "국자랑 스푼이 크고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "단단해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 편리합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433610",
+    "RawText": "오랫동안 사용했던 조리도구를 교환하려고 알아보던 중 가격면에서 맘에 드는 것을 구입했습니다. 배송되고 직접보니 구성도 좋아 많이 잘 샀다는 생각이 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 클** 그레이 스테인리스 키친툴세트 7P",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "20",
+    "RDate": "20220621",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격면에서 맘에 드는 것을 구입했습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 좋아 많이 잘 샀다는 생각이 드네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433633",
+    "RawText": "가격대비 마감이 매우 좋습니다. 사이드에 걸이 2개가 더 있어서 추가로 매달수 있어 수납하기도 좋습니다. 이 가격에는 절대 살 수 없는 품질의 제품이라 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 클** 그레이 스테인리스 키친툴세트 7P",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "23",
+    "RDate": "20210523",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 마감이 매우 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "사이드에 걸이 2개가 더 있어서 추가로 매달수 있어 수납하기도 좋습니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이 가격에는 절대 살 수 없는 품질의 제품이라 추천합니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433636",
+    "RawText": "이것저것 많이 검색해보다가 OO이라 믿고 샀습니다. 색상도 예쁜 그레이라 좋고 걸이도 자리를 많이 차지하지 않고 걸 수 있어 좋습니다 제조국 확실하게 명시해줘서 더 믿음이 가요. 실리콘 재질로 살까 고민했는데 스텐이 깔끔해보이고 좋습니다. 그레이톤 부엌에 잘 어울려 대만족입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 클** 그레이 스테인리스 키친툴세트 7P",
+    "ReviewScore": "5",
+    "Syllable": "156",
+    "Word": "37",
+    "RDate": "20210505",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": " 색상도 예쁜 그레이라 좋고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "걸이도 자리를 많이 차지하지 않고 걸 수 있어 좋습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": " 스텐이 깔끔해보이고 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": " 그레이톤 부엌에 잘 어울려 대만족입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433643",
+    "RawText": "색상도 좋고 세트 구성도 알찹니다. 스테인리스라 위생적이어서 건강에도 좋을 거 같고요. 디자인도 나쁘지 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 클** 그레이 스테인리스 키친툴세트 7P",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20210405",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "세트 구성도 알찹니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "스테인리스라 위생적이어서 건강에도 좋을 거 같고요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 나쁘지 않네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "433653",
+    "RawText": "6개 조리도구 구성 좋아요. 연마제는 여기저기 묻어 있어서 닦아내기 힘드네요 .중국에서 만들어오는 수입산이라 슬프지만 편하게 쓰기는 무난하죠.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 클** 그레이 스테인리스 키친툴세트 7P",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "17",
+    "RDate": "20210223",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 6개 조리도구 구성 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제는 여기저기 묻어 있어서 닦아내기 힘드네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하게 쓰기는 무난하죠.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "433656",
+    "RawText": "새 살림 들어가는데 필요해서 구매했습니다. 조금 비싼 거 같지만 구성도 좋고 거치대에 걸어 놓으니 깔끔하네요. 적립금으로 저렴하게 구매해서 더욱 더굿입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 클** 그레이 스테인리스 키친툴세트 7P",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "20",
+    "RDate": "20210123",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "조금 비싼 거 같지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "거치대에 걸어 놓으니 깔끔하네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금으로 저렴하게 구매해서 더욱 더굿입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433658",
+    "RawText": "깔끔한 디자인에 구성도 좋긴 한데요. 거치대가 덜렁거려 넘어질듯 합니다. 조일 수도 없는 거라 살짝 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 클** 그레이 스테인리스 키친툴세트 7P",
+    "ReviewScore": "4",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20210207",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔한 디자인에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 좋긴 한데요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "거치대가 덜렁거려 넘어질듯 합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "조일 수도 없는 거라 살짝 아쉽습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433659",
+    "RawText": "검은 연마제가 많이 묻어 왔네요. 기름으로 닦으니 많이 묻어 나옵니다. 깨끗하게 씻어서 사용하셔야 할 듯해요. 국자등 끝이 좀 날카롭게 마무리되었네요. 베이지는 않는 것 같은데 좀 무섭기는 해요. 집게는 중국산이라 그런지 세척도 불편해서 다른집게 구매할까 고민중입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 클** 그레이 스테인리스 키친툴세트 7P",
+    "ReviewScore": "2",
+    "Syllable": "150",
+    "Word": "35",
+    "RDate": "20210207",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "검은 연마제가 많이 묻어 왔네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "기름으로 닦으니 많이 묻어 나옵니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "깨끗하게 씻어서 사용하셔야 할 듯해요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "국자등 끝이 좀 날카롭게 마무리되었네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "베이지는 않는 것 같은데 좀 무섭기는 해요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": " 집게는 중국산이라 그런지 세척도 불편해서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433661",
+    "RawText": "저렴한 가격에 구성이 맘에 들어 구매했네요 색상이 화사해서 부엌이 이뻐 보입니다. 스텐이라 위생적이라 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 클** 그레이 스테인리스 키친툴세트 7P",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20210202",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 맘에 들어 구매했네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 화사해서 부엌이 이뻐 보입니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "스텐이라 위생적이라 맘에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433668",
+    "RawText": "색상도 이쁘고 구성도 마음에 들고 좋습니다. 중국산이라지만 품질 나빠보이지 않네요. 포장상태 깔끔합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 클** 그레이 스테인리스 키친툴세트 7P",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "12",
+    "RDate": "20210118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 이쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 마음에 들고 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 중국산이라지만 품질 나빠보이지 않네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "433670",
+    "RawText": "조리도구 고민하다가 후기가 좋아서 OO 클로이 키친툴로 구입했습니다. 마감처리도 좋고, 가격 대비 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 클** 그레이 스테인리스 키친툴세트 7P",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "13",
+    "RDate": "20210114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감처리도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 대비 만족스럽습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433673",
+    "RawText": "많은 사이트 살펴보고 선택했는데 필요한 것들로만 구성되어 있네요.  크기도 적당하고 예쁘네요. 요즘 그레이에 꽂혀 있는데 차분해 보이고 마음에 드네요. OO몰이라 믿음이 갑니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 클** 그레이 스테인리스 키친툴세트 7P",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "22",
+    "RDate": "20210111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "  필요한 것들로만 구성되어 있네요.  ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "예쁘네요. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "그레이에 꽂혀 있는데 차분해 보이고 마음에 드네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433682",
+    "RawText": "우선 색상이 예쁘네요. 그레이로 하려다 주방 씽크장이 그레이톤이라 핑크로 했네요. 스텐 웍에 볶음 요리 할 때 써봤는데 부딪치는 소리가 좀 나긴 하지만 귀에 거슬리는 소리는 아니었어요. 그리고 그립감도 부드러우면서 미끄럽지도 않아서 좋네요. 혹시 몰라 기름으로 연마제 닦았는데 약간 묻어나서 깨끗이 씻어 내고 썼습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 클** 그레이 스테인리스 키친툴세트 7P",
+    "ReviewScore": "5",
+    "Syllable": "178",
+    "Word": "43",
+    "RDate": "20201206",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "우선 색상이 예쁘네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "그립감도 부드러우면서 미끄럽지도 않아서 좋네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제 닦았는데 약간 묻어나서 깨끗이 씻어 내고 썼습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "부딪치는 소리가 좀 나긴 하지만 귀에 거슬리는 소리는 아니었어요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "433695",
+    "RawText": "7종 중 집게만 파손되어 있어 교환하고 완료했습니다. 유용하게 잘 사용할 것 같은 구성이네요. 디자인도 이쁜 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 클** 그레이 스테인리스 키친툴세트 7P",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20200926",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "유용하게 잘 사용할 것 같은 구성이네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인도 이쁜 것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433711",
+    "RawText": "잘 받았네요. 포장도 예쁘고 제품도 고급지고 좋습니다. 묵직하고 좋습니다. 국자가 쓰임새가 아주 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 서빙 국자",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20191210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "제품도 고급지고 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직하고 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "국자가 쓰임새가 아주 좋아요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433713",
+    "RawText": "작긴 좀 작습니다. 손잡이에 구멍도 없어서 걸 수도 없고요. 그래도 큰 게 있어서 작은 게 필요했는데 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 서빙 국자",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "17",
+    "RDate": "20191212",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "작긴 좀 작습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "손잡이에 구멍도 없어서 걸 수도 없고요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 작은 게 필요했는데 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433724",
+    "RawText": "튼튼해 보입니다. 스텐이라 변색되지 않을 것 같고 정말 오래 쓸 거 같네요. 미니 국자 사이즈로 쓰기 무난할 것 같아요. 큰 것도 사고 싶네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 서빙 국자",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "23",
+    "RDate": "20200302",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해 보입니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 스텐이라 변색되지 않을 것 같고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 정말 오래 쓸 거 같네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 미니 국자 사이즈로 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "쓰기 무난할 것 같아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "433741",
+    "RawText": "제품이 단단하고 크기도 적당하고 고급스러우면서 예쁩니다. 아주 맘에 들어요. 사용하기 딱 좋은 사이즈라서 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 서빙 국자",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20200804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "제품이 단단하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "고급스러우면서 예쁩니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사용하기 딱 좋은 사이즈라서 너무 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433745",
+    "RawText": "가격은 비싸지만 디자인이 깔끔하고 튼튼해서 좋은 것 같아요. 역시 OOO 제품 답네요. 배송도 빨라서 아주 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 서빙 국자",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20200904",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 깔끔하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해서 좋은 것 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433749",
+    "RawText": "국자와 기둥 연결 부위 마감이 거칠어서 교환 할까고민하다 그냥 쓰기로 결정하기는 했습니다. 그런데 쓰다보니 정품이 맞나 싶은 의심이 들 정도로 마무리가 허접하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 서빙 국자",
+    "ReviewScore": "1",
+    "Syllable": "91",
+    "Word": "22",
+    "RDate": "20201020",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "국자와 기둥 연결 부위 마감이 거칠어서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "정품이 맞나 싶은 의심이 들 정도로 마무리가 허접하네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "433755",
+    "RawText": "약간의 무게감이 있어서인지 안정감이 있네요. 테두리도 둥글게 마감이 잘 되어 있어서 긁힘도 없습니다. 잘 쓰고 있네요. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 서빙 국자",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20201114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "약간의 무게감이 있어서인지 안정감이 있네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "테두리도 둥글게 마감이 잘 되어 있어서  긁힘도 없습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "잘 쓰고 있네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "433758",
+    "RawText": "아주 깔끔한 디자인이네요.  아쉬운 부분은 걸어서 사용이 가능하면 더 좋았을 것 같네요. 사이즈 아담합니다. 추천해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 서빙 국자",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20201215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "아주 깔끔한 디자인이네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "걸어서 사용이 가능하면 더 좋았을 것 같네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 사이즈 아담합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "433767",
+    "RawText": "조리기구를 모두 스텐으로 바꾸고 있는데 OO만큼 이쁜 디자인 찾기 어려워요. 정말 예쁩니다. 다른 것도 다 OO으로 바꾸고 싶어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 서빙 국자",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20210529",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": " OO만큼 이쁜 디자인 찾기 어려워요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "정말 예쁩니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

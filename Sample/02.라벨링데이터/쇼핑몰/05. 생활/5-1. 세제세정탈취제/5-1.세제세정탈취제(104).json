@@ -1,0 +1,3230 @@
+[
+  {
+    "Index": "393016",
+    "RawText": "같은 브랜드 제품 중 곰팡이 제거용도 있는데 그거는 냄새가 너무 독해서 화장실 청소하고나면 머리가 아팠는데 이 제품은 냄새가 독하지 않아서 좋습니다. 특히 욕실 수전을 청소하면 반짝반짝 해져서 기분이 좋습니다. 가격은 다른 제품보다 비쌉니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 바** 욕실 세정제 750ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "135",
+    "Word": "33",
+    "RDate": "20210225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 독하지 않아서 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "욕실 수전을 청소하면 반짝반짝 해져서 기분이 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 다른 제품보다 비쌉니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393020",
+    "RawText": "화장실 청소할 때  독한 냄새는 너무 싫어서 다른 제품 찾다가 구매해봤어요. 향이 강하긴 하지만 독한 OO냄새보다는 괜찮아 다행입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 바** 욕실 세정제 750ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20210215",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 강하긴 하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "독한 OO냄새보다는 괜찮아 다행입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393033",
+    "RawText": "받자마자 바로 욕실 청소 해봤습니다. 세면대 수전이나 손잡이가 엄청 깨끗해져서 광이 나네요. 욕조나 타일도 광택이 많이 나는게 완전 만족스러워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 바** 욕실 세정제 750ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "19",
+    "RDate": "20210102",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세면대 수전이나 손잡이가 엄청 깨끗해져서 광이 나네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "욕조나 타일도 광택이 많이 나는게 완전 만족스러워요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393034",
+    "RawText": "화장실 청소에 최강자에요. 어려웠던 화장실 청소가 엄청 쉬워진 느낌이에요. 언니가 추천해줘서 샀는데 대만족입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 바** 욕실 세정제 750ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "13",
+    "RDate": "20201231",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "화장실 청소에 최강자에요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "어려웠던 화장실 청소가 엄청 쉬워진 느낌이에요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393042",
+    "RawText": "욕실 청소용으로 아주 성능이 좋아요. 세정력이 좋아서 세면대 반짝반짝 빛이 나니 정말 만족스러워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 바** 욕실 세정제 750ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20201207",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "욕실 청소용으로 아주 성능이 좋아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력이 좋아서 세면대 반짝반짝 빛이 나니 정말 만족스러워요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393046",
+    "RawText": "냄새는 심하지 않아 좋은데 그만큼 효과는 강하지 않습니다. 뿌리고 오래 두었다가 닦아도 세정 효과는 없어요. 그래도 인체에 덜 해로운 성분이 들어 있어 그나마 위안입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 바** 욕실 세정제 750ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "24",
+    "RDate": "20201204",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새는 심하지 않아 좋은데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과는 강하지 않습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "뿌리고 오래 두었다가 닦아도 세정 효과는 없어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "인체에 덜 해로운 성분이 들어 있어 그나마 위안입니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393049",
+    "RawText": "이 제품 한번 사용 후 다른건 절대 못쓰고 이것만 사용하네요.  깨끗함도 오래가고 청소도 쉬워서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 바** 욕실 세정제 750ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "15",
+    "RDate": "20201130",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "깨끗함도 오래가고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "청소도 쉬워서 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393052",
+    "RawText": "세정력 좋아서 청소가 편리합니다. 근데 향기가 강력해서 전 좋습니다. 저는 이런 외국 세재 냄새 좋아하는데 취향에 따라서는 이 향이 싫을 수도 있겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 바** 욕실 세정제 750ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "22",
+    "RDate": "20201116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "청소가 편리합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "근데 향기가 강력해서 전 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "저는 이런 외국 세재 냄새 좋아하는데 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "취향에 따라서는 이 향이 싫을 수도 있겠어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393054",
+    "RawText": "하나는 조금 깨져서왔는데 귀찮아서 반품 교환 안하고 그냥 씁니다. 청소해 보니 묵은때도 깔끔하게 지워지는데 향은 너무 독하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 바** 욕실 세정제 750ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20201114",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "청소해 보니 묵은때도 깔끔하게 지워지는데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 너무 독하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393055",
+    "RawText": "설명서에 물만 뿌리면 세척이 된다고해서 기대했는데 뿌리고 솔로 닦아줘야해서 번거롭네요. 다른 회사 세정제와 마찬가지로 냄새가 독해서 마스크 껴야해요. 브랜드있고 가격도 저렴한 건 아니어서 품질에 기대감이  컸는데 실망이네요.  산거 다 쓰고 재구매는 안하려구요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 바** 욕실 세정제 750ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "146",
+    "Word": "32",
+    "RDate": "20201110",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "물만 뿌리면 세척이 된다고해서 기대했는데 뿌리고 솔로 닦아줘야해서 번거롭네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 독해서 마스크 껴야해요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격도 저렴한 건 아니어서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질에 기대감이 컸는데 실망이네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393058",
+    "RawText": "화장실 청소 용으로는 OOOOO 베스룸 제품이 제일 효과가 좋더라고요  이 제품은 물 때 제거도 잘되고 향도 괜찮아서 좋아요 계속 이 제품만 쓰게 되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 바** 욕실 세정제 750ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "23",
+    "RDate": "20201107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "OOOOO 베스룸 제품이 제일 효과가 좋더라고요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "이 제품은 물 때 제거도 잘되고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 괜찮아서 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393059",
+    "RawText": "욕실 곰팡이 청소용으로 구입한 제품인데 품질은 괜찮습니다. 뿌리기만하면 효과가 없고 뿌리고 문질러줘야야 제거되니 번거롭긴 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 바** 욕실 세정제 750ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "15",
+    "RDate": "20201106",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "욕실 곰팡이 청소용으로 구입한 제품인데 품질은 괜찮습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 뿌리기만하면 효과가 없고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "뿌리고 문질러줘야야 제거되니 번거롭긴 합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393063",
+    "RawText": "물때 청소에 제격인 제품입니다. 구매한 OOOOO 제품 중에서 세정력이 제일 마음에 드는 클리너예요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 바** 욕실 세정제 750ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20201024",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "물때 청소에 제격인 제품입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "OOOOO 제품 중에서 세정력이 제일 마음에 드는 클리너예요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393066",
+    "RawText": "향이 독한건 아니지만 그렇다고 향이 좋은건 아니네요. 그냥 OOOOO 이름 보고 사용중이에요. 앞으로 화장실 청소 열심히 해봐야겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 바** 욕실 세정제 750ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "17",
+    "RDate": "20201021",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 독한건 아니지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "그렇다고 향이 좋은건 아니네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393078",
+    "RawText": "넓게 뿌려지지 않는 단점이 있긴 하지만 청소할때 편리하긴 해요. 좀더 써보고 괜찮으면 계속 구매해서 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 바** 욕실 세정제 750ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20200719",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "분사력",
+        "SentimentText": "넓게 뿌려지지 않는 단점이 있긴 하지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "청소할때 편리하긴 해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393079",
+    "RawText": "다른 제품에 비해 효과는 보통인 것 같습니다. 스텐 종류는 잘 닦이지만 타일은 잘 안 지워집니다. 그리고 분사력이 약해 사용하기 힘듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 바** 욕실 세정제 750ml 1개",
+    "ReviewScore": "3",
+    "Syllable": "77",
+    "Word": "20",
+    "RDate": "20200715",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "다른 제품에 비해 효과는 보통인 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "스텐 종류는 잘 닦이지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "타일은 잘 안 지워집니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "분사력",
+        "SentimentText": "분사력이 약해 사용하기 힘듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393081",
+    "RawText": "욕실 바닥 물때 제거하려고 구매했는데 바닥 물때는 제거가 잘 안됩니다. 그런데 수도꼭지의 물때는 잘 제거되어 스테인리스가 반짝반짝하는 광택 효과를 보네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 바** 욕실 세정제 750ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "20",
+    "RDate": "20200523",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "바닥 물때는 제거가 잘 안됩니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "수도꼭지의 물때는 잘 제거되어",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "스테인리스가 반짝반짝하는 광택 효과를 보네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393087",
+    "RawText": "품질 좋은 물건을 착한 가격에 구매해서 너무 좋아요. 깔끔하고 안전한 포장에 빠른배송까지 모두 감사해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 바** 욕실 세정제 750ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20161104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 좋은 물건을 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한 가격에 구매해서 너무 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393094",
+    "RawText": "싸게 잘산거 같습니다. 예전에 마트에서 비싸게 샀는데 여기서 가격보고  저렴해서 바로 구매했어요. 배송도 빨라서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 바** 욕실 세정제 750ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20160505",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 잘산거 같습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "예전에 마트에서 비싸게 샀는데 여기서 가격보고  저렴해서 바로 구매했어요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393103",
+    "RawText": "냄새가 생각보다 많이나서 환기가 꼭 필요해요. 인체에 무해한 성분이라고 하기엔 너무 향이 독하더라구요. 꼭 문 열어놓고 환기 하셔야해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 바** 욕실 세정제 750ml 1개",
+    "ReviewScore": "3",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20160301",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 생각보다 많이나서 환기가 꼭 필요해요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": " 인체에 무해한 성분이라고 하기엔",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "너무 향이 독하더라구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "꼭 문 열어놓고 환기 하셔야해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393104",
+    "RawText": "좋은 상품 싸게 잘샀어요. 배송도 빠르고 가격까지 착합니다. 품질이 좋아 항상 믿고 구매하고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 바** 욕실 세정제 750ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20160301",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 잘샀어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격까지 착합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 품질이 좋아 항상 믿고 구매하고 있어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393110",
+    "RawText": "여러가지 많이 써봤는데 이 제품도 광고만큼 세정력이 오래가지 않아요 식구도 없는데 5일째인데 물이 많이 흐려졌습니다..",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20220830",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "이 제품도 광고만큼 세정력이 오래가지 않아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "식구도 없는데 5일째인데 물이 많이 흐려졌습니다..",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393111",
+    "RawText": "가격이 저렴하지 않은데 크기도 더 작아진 것 같아서 아쉽네요. 포장도 얇은 봉투에 들어 있어서 깜짝 놀랐습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20220830",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하지 않은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "크기도 더 작아진 것 같아서 아쉽네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393120",
+    "RawText": "국산 OOO을 군더더기 없는 포장으로 이렇게 저렴하게 대용량으로 판매하니 정말 좋네요. 다 사용하면 추가 구매할 예정입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20220826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이렇게 저렴하게 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량으로 판매하니 정말 좋네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393129",
+    "RawText": "한달 정도는 사용할 줄 알았는데 2주 정도 지나면 색이 연해져서 세정력이 떨어지니 실망입니다. 지속력이 이렇게 약하니 40개지만 금방 다 쓰겠어요. 비추천입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "3",
+    "Syllable": "90",
+    "Word": "21",
+    "RDate": "20220824",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": " 2주 정도 지나면 색이 연해져서 세정력이 떨어지니 실망입니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "지속력이 이렇게 약하니 40개지만 금방 다 쓰겠어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393140",
+    "RawText": "상품 품질이 좋아요. 마음에 듭니다.  한번씩 뭉쳐나올 때도 있지만 역시 국산이라 오래가고 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20220821",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "오래가고 좋네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393141",
+    "RawText": "이거 없으면 변기가 공중화장실처럼 더러워집니다. 이 제품 쓴뒤로 변기가 깨끗하게 유지되고 있습니다. 가격도 저렴하고 완전 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "16",
+    "RDate": "20220820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "이 제품 쓴뒤로 변기가 깨끗하게 유지되고 있습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고 완전 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "이거 없으면 변기가 공중화장실처럼 더러워집니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393151",
+    "RawText": "아직 사용 전이지만 오래갔으면 좋겠습니다. 며칠 이상은 갔으면 하네요. 많이 파시길바랍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "4",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20220817",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "아직 사용 전이지만 오래갔으면 좋겠습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "며칠 이상은 갔으면 하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "393157",
+    "RawText": "고체로 보관할땐 향이 많이 나서 좋은데 물에 담근 후엔 향이 잘 안나네요. 여름이라 겉에 쌓여있는 비닐이 찐득해 집니다. 품질이 영 별로네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "21",
+    "RDate": "20220814",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "고체로 보관할땐 향이 많이 나서 좋은데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "물에 담근 후엔 향이 잘 안나네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 영 별로네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "여름이라 겉에 쌓여있는 비닐이 찐득해 집니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393159",
+    "RawText": "OO과는 달라요. OO은 물통안에 찌꺼기가 많이 생기고 녹은것이 한곳에 뭉쳐 떡져있는거 보고 난 후 한번씩 물통 청소해줘야 했었는데 이 제품으로 바꾸고 나서는 찌꺼기 전혀 없어 청소안하고 사용해요. 40알이면 1년 쓰고도 남는 용량이라 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "136",
+    "Word": "33",
+    "RDate": "20220812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "이 제품으로 바꾸고 나서는 찌꺼기 전혀 없어 청소안하고 사용해요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 40알이면 1년 쓰고도 남는 용량이라 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393161",
+    "RawText": "색상이 너무 흐린 파랑이라  별로네요. 지름이 6~7cm 생각했는데 실제 크기는 4~5cm 되는듯 작아 보여서 금방 쓸 거 같아 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "4",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20220812",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 너무 흐린 파랑이라  별로네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 실제 크기는 4~5cm 되는듯 작아 보여서 금방 쓸 거 같아 아쉬워요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393192",
+    "RawText": "OOOO에서 변기세정제 OOO 40개 구성을 착한 가격으로 판매하여 구입 하였습니다. 강력추천하는 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "12",
+    "RDate": "20220723",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "변기세정제 OOO 40개 구성을",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한 가격으로 판매하여 구입 하였습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393204",
+    "RawText": "품질이 정말 별로입니다. 향도 이상하고 가격도 비싼 편이라 마음에 안 드네요. 예전에 쓰던 제품으로 돌아갈까봐요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20220714",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 정말 별로입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 이상하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격도 비싼 편이라 마음에 안 드네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393205",
+    "RawText": "화장실 변기에 파란물이 세정을 해주니 청결해보여 좋습니다. 너무 빨리 녹기는 하는데 가격 대비 품질은 괜찮습니다. 낱개 포장이 아니라서 상자에 넣어서 사용하고 있네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "22",
+    "RDate": "20220713",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "화장실 변기에 파란물이 세정을 해주니 청결해보여 좋습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "너무 빨리 녹기는 하는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격 대비 품질은 괜찮습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393224",
+    "RawText": "저렴한 OO산보다 세정력도 훨씬 좋고 녹는기간도 2~3배는 길어서 경제적입니다. 품질좋아 한번 사용해 보면 절대 허접한 OO산은 다시는 못 씁니다. 한박스 구입하면 화장실 한 군데에 몇개월은 사용할 있어서 가성비도 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "124",
+    "Word": "29",
+    "RDate": "20220628",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "저렴한 OO산보다 세정력도 훨씬 좋고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 녹는기간도 2~3배는 길어서 경제적입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질좋아 한번 사용해 보면 절대 허접한 OO산은 다시는 못 씁니다 ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "화장실 한 군데에 몇개월은 사용할 있어서 가성비도 좋아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393233",
+    "RawText": "좋다고 해서 구입해 봤습니다. 성능이 좋은지는 더 써봐야 알듯 합니다. 변기 물비린내는 안나서 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20220618",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능이 좋은지는 더 써봐야 알듯 합니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "변기 물비린내는 안나서 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393235",
+    "RawText": "저렴하게 잘 샀어요. 다만 세정력은 좀 약한 것 같고 향기도 없네요ㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "4",
+    "Syllable": "38",
+    "Word": "11",
+    "RDate": "20220617",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 샀어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세정력은 좀 약한 것 같고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향기도 없네요ㅠ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393242",
+    "RawText": "쓰던 게 남아 있어 아직 사용 전인데 제발 오래 지속되면 좋겠어요. 사이즈 너무 작으니까 자주 교체해야 돼서 불편해요. 교체 귀찮아서 이렇게 오래 쓰는 겁니다. 참고해 주세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "26",
+    "RDate": "20220616",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "제발 오래 지속되면 좋겠어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "사이즈 너무 작으니까 자주 교체해야 돼서 불편해요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "교체 귀찮아서 이렇게 오래 쓰는 겁니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393244",
+    "RawText": "국산으로 주문했는데도 향이 그닥 좋지는 않네요. 중국산을 다 써서 주문한건데  중국산은 3-4일도 못갑니다. 가격이 비싸더라도 국산이 나아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "17",
+    "RDate": "20220615",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 그닥 좋지는 않네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싸더라도",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393249",
+    "RawText": "품질이 국내에서 나오는 그 어느 상품에도 뒤지지 않는 것 같아요. 조금 비싼 편이지만 효과가 오래가서 좋으네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20220614",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 국내에서 나오는 그 어느 상품에도 뒤지지 않는 것 같아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": ". 조금 비싼 편이지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": " 효과가 오래가서 좋으네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393254",
+    "RawText": "저렴한 가격으로 구입했습니다. 배송도 무지 빨랐구요. 사용하다보니까 변기가 깨끗해진 느낌입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "4",
+    "Syllable": "53",
+    "Word": "10",
+    "RDate": "20220610",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격으로 구입했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 사용하다보니까 변기가 깨끗해진 느낌입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393279",
+    "RawText": "국산이고 확실하게 파랑파랑하게 진해서 변기때가 잘 안생기는 것 같아 너무 좋네요. 강추해요. 확실히 변기가 청결합니다. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "17",
+    "RDate": "20220602",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "확실하게 파랑파랑하게 진해서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "변기때가 잘 안생기는 것 같아 너무 좋네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "확실히 변기가 청결합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393287",
+    "RawText": "OOO에서 사서 사용했는데 너무 자주 구매 해야해서 많은 용량으로 구매해봤어요. 저렴해서 좋고 국산이라는 것도 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20220529",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "많은 용량으로 구매해봤어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393290",
+    "RawText": "변기세정제가 요즘은 넘 빨리 닳아 없어집니다. 며칠 전 산 제품은 이틀만에 파란물이 사라져 반품 처리하고 이 제품으로 다시 주문했네요. 오늘 3일짼데도 세정제 파란물이 나와서 좋네요. 반품한 제품보다는 오래가니 사용해 보려구요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "4",
+    "Syllable": "127",
+    "Word": "30",
+    "RDate": "20220528",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": " 3일짼데도 세정제 파란물이 나와서 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "반품한 제품보다는 오래가니 사용해 보려구요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393302",
+    "RawText": "지금 설치를 해서 지속성은 모르겠습니다. 일단 하나를 끝까지 사용해 봐야 알겠습니다, 향은 좀 별로입니다. 잘 사용해 보겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20220525",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "지속성은 모르겠습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 좀 별로입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "일단 하나를 끝까지 사용해 봐야 알겠습니다,",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "393323",
+    "RawText": "국산이라 다르긴 합니다. 중국산은 덩어리로 2~3일정도 나오다가 없어지는데 국산은 일정한 파란물이 2주는 유지 됩니다. 비싸도 이젠 국산 쓰려고요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "18",
+    "RDate": "20220521",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "일정한 파란물이 2주는 유지 됩니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸도 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393326",
+    "RawText": "중국산 대비 두배 이상 오래가고 넣을 때 손에 묻어나지도 않아 좋습니다. 중국산은 두개씩 넣었어야 했는데 4배의 절감 효과가 있으니 가성비 갑입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "21",
+    "RDate": "20220521",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "중국산 대비 두배 이상 오래가고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "4배의 절감 효과가 있으니 가성비 갑입니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "손에 묻어나지도 않아 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393328",
+    "RawText": "저렴한 중국산을 썼더니 효과가 며칠 가지 않아서 불편했는데 국산은 깨끗하게 세정이 되고 효과가 좀 더 가는 것 같네요. 가격은 조금 더 비싸지만 효과가 좋아서 가성비는 더 좋은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "4",
+    "Syllable": "106",
+    "Word": "29",
+    "RDate": "20220521",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "깨끗하게 세정이 되고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과가 좀 더 가는 것 같네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 조금 더 비싸지만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과가 좋아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비는 더 좋은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393330",
+    "RawText": "2~3개 정도 넣어서 써요. 지난 번에는 용기에 들어있는 것을 사용했더니 용기를 다시 꺼내야 해서 불편했는데 이건 물에 녹아서 없어지는 거라서 좋아요. 덩어리 없이 물에 잘 풀리고 아주 좋습니다. 소변기에도 하나를 넣으니, 요석이 침착되지 않아 참 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "143",
+    "Word": "36",
+    "RDate": "20220520",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "2~3개 정도 넣어서 써요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "이건 물에 녹아서 없어지는 거라서 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "덩어리 없이 물에 잘 풀리고 아주 좋습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "소변기에도 하나를 넣으니, 요석이 침착되지 않아 참 좋네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393349",
+    "RawText": "파손없이 빠르게 잘 도착했네요. 세정력은 별로지만 안 쓰는 것보다 낫다는 생각에 써요. 한번 사용해보니 사용감 적당하다 싶어서 계속 주문해요. 또 떨어지면 다시 또 재 구매할려고 합니다. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "4",
+    "Syllable": "111",
+    "Word": "27",
+    "RDate": "20220513",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력은 별로지만 안 쓰는 것보다 낫다는 생각에 써요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "한번 사용해보니 사용감 적당하다 싶어서 계속 주문해요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393352",
+    "RawText": "수퍼에서 낱개로 구입하는 거랑 가격 차이가 별로 안 나요. 색깔도 너무 흐린 파랑입니다. 사이즈도 너무 작아서 금방 쓸 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "20",
+    "RDate": "20220513",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "수퍼에서 낱개로 구입하는 거랑 가격 차이가 별로 안 나요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔도 너무 흐린 파랑입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "사이즈도 너무 작아서 금방 쓸 것 같아요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393354",
+    "RawText": "지난 번에 썼던 제품에 비해 품질 나쁘지 않아요. 국산 꺼라 그런지 손에 묻지도 않고 향도 독하지 않네요.  금방 녹아 없어지는데  가격 계산해보면 좀 비싸기는 해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "25",
+    "RDate": "20220512",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 나쁘지 않아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "국산 꺼라 그런지 손에 묻지도 않고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향도 독하지 않네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "  금방 녹아 없어지는데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 계산해보면 좀 비싸기는 해요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393359",
+    "RawText": "배송 빠르고 향이 나쁘진 않습니다. 처음 사용할 땐 색이 좀 옅어서 아쉬워요. 화장실에 향이 옅게 깔려서 나쁘진 않습니다. 한개로 얼마나 사용할 수 있을지는 사용해봐야겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "24",
+    "RDate": "20220510",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 나쁘진 않습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "처음 사용할 땐 색이 좀 옅어서 아쉬워요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "화장실에 향이 옅게 깔려서 나쁘진 않습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "한개로 얼마나 사용할 수 있을지는 사용해봐야겠네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "393367",
+    "RawText": "먼저 다른 제품 썼는데 금방 색이 옅어져서 이걸로 바꾸니 지속력이 좋네요. 세정 효과도 있길 바라고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "4",
+    "Syllable": "60",
+    "Word": "16",
+    "RDate": "20220508",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "금방 색이 옅어져서 이걸로 바꾸니 지속력이 좋네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세정 효과도 있길 바라고 있어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "393374",
+    "RawText": "두 달정도 써보니 좋네요. 확실히 물때가 덜 생깁니다. 지속력도 꽤 되는 것 같고. 다 쓰면 재구매 할 겁니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "18",
+    "RDate": "20220504",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 확실히 물때가 덜 생깁니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "지속력도 꽤 되는 것 같고.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393375",
+    "RawText": "변기세정제 해피니스향 좋습니다. 향은 오래가지 않지만 중국산보다 색상도 진하고 더 오래 쓸 수 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20220504",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "해피니스향 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향은 오래가지 않지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "중국산보다 색상도 진하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": " 더 오래 쓸 수 있습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393383",
+    "RawText": "향이 없는것과 있는것 중에 향이 있는걸 구매하길 잘한 것 같아요. 아직 사용전이라 사용시에 향이 기대됩니다. 변기에서 지린 냄새가 많이 났는데 이거 효과 좀 있으면 좋겠네요. 잘 쓸게요,",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "104",
+    "Word": "27",
+    "RDate": "20220429",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 있는걸 구매하길 잘한 것 같아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 사용시에 향이 기대됩니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "변기에서 지린 냄새가 많이 났는데 이거 효과 좀 있으면 좋겠네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "393392",
+    "RawText": "생각보다 오래 사용하지 못해서 자주 바꿔 넣어 줘야하는데 20개씩 대용량으로 포장되어 있어서 좋습니다. 예전보다 색이 진해졌는데 세정력이 더 나은 지는 사용해봐야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "94",
+    "Word": "21",
+    "RDate": "20220426",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "오래 사용하지 못해서 자주 바꿔 넣어 줘야하는데",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "20개씩 대용량으로 포장되어 있어서 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "예전보다 색이 진해졌는데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력이 더 나은 지는 사용해봐야겠어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "393396",
+    "RawText": "다른 거 쓰다가 처음 구매해 봅니다. 가격은 착하고 좋아요. 양이 많아서 좋고요. 낱개 포장이 아니고 한꺼번에 들어 있어서 약간 녹았는지 엉켜서 잘 안 떨어지는 게 있네요.  쓰는 데 큰 지장은 없지만 이런 것도 신경써 주시면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "132",
+    "Word": "36",
+    "RDate": "20220423",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 착하고 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아서 좋고요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "낱개 포장이 아니고 한꺼번에 들어 있어서 약간 녹았는지 엉켜서 잘 안 떨어지는 게 있네요. ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393398",
+    "RawText": "하나 퐁당 넣으면 되니까 쓰레기도 나오지 않고 쓰기 편합니다.  파란물이 변기를 깨끗하게 세정해 주는 것 같아서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20220422",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "하나 퐁당 넣으면 되니까 쓰레기도 나오지 않고 쓰기 편합니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "파란물이 변기를 깨끗하게 세정해 주는 것 같아서 좋습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393401",
+    "RawText": "항상 쓰는데 향은 그리 썩 오래가지는 않습니다. OOO처럼 오래가는걸 연구 하셨음 좋겠어요.  그래도 갯수가 많아서 좋고 가격도 저렴해서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "4",
+    "Syllable": "83",
+    "Word": "19",
+    "RDate": "20220421",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향은 그리 썩 오래가지는 않습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "갯수가 많아서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서 만족합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393406",
+    "RawText": "처음 써보는 제품인데 그럭저럭 괜찮습니다. 그런데 악취를 완전히 없애 주진 못하는 거 같아서 아쉽네요. 그래도 뭐 품질은 나쁘지 않은거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "20",
+    "RDate": "20220418",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "악취를 완전히 없애 주진 못하는 거 같아서 아쉽네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 나쁘지 않은거 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "393408",
+    "RawText": "올바르게 OO  국내생산 제품으로 구매했습니다. . 국내산 OO은 색이 진해 육안으로 확인 가능합니다. 중국산은 사용후 하루 이틀이면 바로 다 녹아 없어지는데 국내산은 색 그대로고 농도 일정하니 4~6일 정도는 사용할수 있네요 역시 국산입니다. 가격은 중국산에 비해 좀 비싸요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "154",
+    "Word": "37",
+    "RDate": "20220416",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": " 색이 진해 육안으로 확인 가능합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "국내산은 색 그대로고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격은 중국산에 비해 좀 비싸요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "4~6일 정도는 사용할수 있네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "농도 일정하니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393418",
+    "RawText": "국산이라 믿고 샀는데 품질이 좋았으면 좋겠습니다. 중국산보다 저렴하진 않지만 믿고 구입했습니다. 향은 나쁘진 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20220408",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋았으면 좋겠습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "중국산보다 저렴하진 않지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 나쁘진 않네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "393442",
+    "RawText": "너무 가격이 착해서 구매했네요. 사용해보니 물 내릴 때 덩어리가 같이 내려와 너무 지저분합니다. 몇 번 쓰지도 않았는데 다 녹아 없어져 버리고 오히려 변기만 지저분해져서 청소하기만 불편합니다. 재구매는 좀 생각해 봐야겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "125",
+    "Word": "30",
+    "RDate": "20220401",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "너무 가격이 착해서 구매했네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "사용해보니 물 내릴 때 덩어리가 같이 내려와 너무 지저분합니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "몇 번 쓰지도 않았는데 다 녹아 없어져 버리고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "오히려 변기만 지저분해져서 청소하기만 불편합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393449",
+    "RawText": "물에 넣으니 향 자체가 강하게 나지 않아서 별로입니다. 저렴하게는 잘 샀어요. 세정력은 그럭저럭 무난한 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20220329",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "물에 넣으니 향 자체가 강하게 나지 않아서 별로입니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴하게는 잘 샀어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력은 그럭저럭 무난한 것 같네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "393452",
+    "RawText": "집에서 항상 사용하는 OOO 변기 세정제입니다. 가격도 착하고 배송도 빠르네요. 변기에 OOO이 없으면 물때 제거가 안되니 깔끔한 느낌이 나지 않고 너무 허전해 보입니다. 구매 후 너무 만족스러운 필수템이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "117",
+    "Word": "28",
+    "RDate": "20220328",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "변기에 OOO이 없으면 물때 제거가 안되니 깔끔한 느낌이 나지 않고",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393456",
+    "RawText": "단점으로 우선 물에 녹아 떡집니다. 변기 안에 가루들이 묻어 씻겨 내려가질 않습니다. 품질에 기대했던 만큼 실망도 컸어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "1",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20220325",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": " 물에 녹아 떡집니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "변기 안에 가루들이 묻어 씻겨 내려가질 않습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질에 기대했던 만큼 실망도 컸어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393472",
+    "RawText": "한 알 넣으면 오래 가지 않아서 그때그때 바꾸기 귀찮습니다. 그러나 가격이 싸서 많이 사도 부담이 없습니다. 비닐이 물에 녹는 재질이라 사용하기 적당합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "22",
+    "RDate": "20220321",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "한 알 넣으면 오래 가지 않아서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그때그때 바꾸기 귀찮습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격이 싸서 많이 사도 부담이 없습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "비닐이 물에 녹는 재질이라 사용하기 적당합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393477",
+    "RawText": "가성비 제품으로 구매했지만 성능도 괜찮아요.  빠르게 녹아 없어지진 않고 유지되서 오래 사용할것 같아요. 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "15",
+    "RDate": "20220319",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 제품으로 구매했지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 성능도 괜찮아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "빠르게 녹아 없어지진 않고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "유지되서 오래 사용할것 같아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393494",
+    "RawText": "주문하고 다음날 바로 배송 되었네요. 저렴한 가격에 늘 재구매해서 사용해요. OO와 함께 사용하면 소독도 향기도 배가 되어 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20220315",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 늘 재구매해서 사용해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "소독도 향기도 배가 되어 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 배가 되어 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393495",
+    "RawText": "세정제 갯수가 중요한데 많이 들어서 좋습니다. 국산이라 중국산에 비해 저렴하진 않습니다. 향은 보통 세정제 향이라 생각하심 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20220315",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "세정제 갯수가 중요한데 많이 들어서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "국산이라 중국산에 비해 저렴하진 않습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 보통 세정제 향이라 생각하심 됩니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "393496",
+    "RawText": "여러가지 써봤는데  변기 세정제는 이런 고체 형태로 된 것이 좋습니다. 그냥 넣기만 하면 되니 사용하기 편합니다.  그리고 이 제품 저렴하게 구입했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "21",
+    "RDate": "20220315",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "변기 세정제는 이런 고체 형태로 된 것이 좋습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그냥 넣기만 하면 되니 사용하기 편합니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 이 제품 저렴하게 구입했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393505",
+    "RawText": "저렴한것 많이 써보고 실망했어요. 이제품은 저렴하지는 않지만 냄새가 좋고 파란 물색이 맘에 들어요.  또 구매하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20220311",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴하지는 않지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "파란 물색이 맘에 들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393507",
+    "RawText": "지인 집에서 몇개 얻어서 써봤는데 뭉쳐서 내려오거나 너무 빨리 녹아서 없어지지도 않아 맘에 듭니다. 가격 대비 좋습니다. 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "4",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20220310",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "뭉쳐서 내려오거나 너무 빨리 녹아서 없어지지도 않아 맘에 듭니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 대비 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393508",
+    "RawText": "다른 OO에 비해서 지속력이 좋아 오래 쓰는거 같습니다. 색깔도 선명하고 변기 내리면서 파란색 시원하게 내려가는걸 보니 깨끗한 느낌이 듭니다. 향기도 진하지 않고 은은하게 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "101",
+    "Word": "24",
+    "RDate": "20220309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "다른 OO에 비해서 지속력이 좋아 오래 쓰는거 같습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔도 선명하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "변기 내리면서 파란색 시원하게 내려가는걸보니 깨끗한 느낌이 듭니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 진하지 않고 은은하게 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393509",
+    "RawText": "가격도 싸고 수량도 많아서 좋습니다. 그리고 향도 오래가는거 같아 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "40",
+    "Word": "10",
+    "RDate": "20220309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 싸고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "수량도 많아서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향도 오래가는거 같아 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393516",
+    "RawText": "화장실 필수템인 이 제품을 항상 소량씩 구매해서 사용하는데 오래 사용하지 못하고 자주 바꿔줘야하니 대용량으로 샀습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "4",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20220308",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "오래 사용하지 못하고 자주 바꿔줘야하니",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량으로 샀습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393520",
+    "RawText": "국산 OO 좋네요. 변기 물이 파란색이 되니 예쁘고 변기도 깨끗해지네요.국산이라 가격은 비싸지만 계속 구매할 생각입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20220303",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "변기 물이 파란색이 되니 예쁘고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "변기도 깨끗해지네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393521",
+    "RawText": "가성비가 정말 좋은 것 같습니다.  가격이 좀 비싸기는 한 것 같은데 타 회사 제품보다 많이 오래가니 좋은 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "4",
+    "Syllable": "66",
+    "Word": "19",
+    "RDate": "20220303",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 정말 좋은 것 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 비싸기는 한 것 같은데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": " 타 회사 제품보다 많이 오래가니 좋은 것 같아요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393535",
+    "RawText": "택배가 온것도 몰랐어요. 새벽 일찍 갔다놓고 가신건지 전날 밤 늦게 오신건지 고생이 많으십니다. 박스 개봉하기 전부터 향이 폴폴,해피니스향 이라는데 맘에 드네요. 자주 쓰는 제품이라서 넉넉히 40알로 주문했어요. 밀봉된 상태에서도 향기가 진하게 나네요. 걸쭉하게 찌꺼기가 안나오길 바랄뿐입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "164",
+    "Word": "36",
+    "RDate": "20220223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "박스 개봉하기 전부터 향이 폴폴, 해피니스향 이라는데 맘에 드네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "밀봉된 상태에서도 향기가 진하게 나네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "걸쭉하게 찌꺼기가 안나오길 바랄뿐입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "393550",
+    "RawText": "OO 청그린을 항상 비축해 놓고 사용하고 있어요. 향도 좋고 세척력도 뛰어나 이 제품만 계속 사용하게 되더라구요. 가격도 적당하고 양도 많아 한번 구매하면 한참 쓸수가 있습니다.  벌크 포장이라 소분해서 화장실에 보관해 두고 수시로 사용하고 있어요. 이 제품 강추에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "150",
+    "Word": "37",
+    "RDate": "20220217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세척력도 뛰어나",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아 한번 구매하면 한참 쓸수가 있습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "벌크 포장이라 소분해서 화장실에 보관해 두고 수시로 사용하고 있어요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393553",
+    "RawText": "저렴한 가격에 좋은 상품을 잘 구매했어요. 세정이 잘 되었으면 좋겠어요. 일단 양 많아서 좋고 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20220216",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 좋은 상품을 잘 구매했어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정이 잘 되었으면 좋겠어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양 많아서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393559",
+    "RawText": "변기 청소용으로 좋아요. 집 앞까지 배송해주니 마트보다 편리하네요. 저렴하게 좋은 제품 산 거 같아요. 양이 많으니 오래 쓸 수 있겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "20",
+    "RDate": "20220215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "변기 청소용으로 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 좋은 제품 산 거 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많으니 오래 쓸 수 있겠어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393573",
+    "RawText": "세정제 사용해도 변기 더러워지는게  나아지지는 않네요. 사용 기간이 짧아서 자주 교체해 줘야 하는 것도 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20220211",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정제 사용해도 변기 더러워지는게  나아지지는 않네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": " 사용 기간이 짧아서 자주 교체해 줘야 하는 것도 아쉽네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393581",
+    "RawText": "국산 OOO 변기세정제 금방 녹아서 빨리 없어지네요. 녹는것도 가끔씩 덩어리로 녹아서 아쉽습니다. 재구매는 안할것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20220207",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "금방 녹아서 빨리 없어지네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "녹는것도 가끔씩 덩어리로 녹아서 아쉽습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393587",
+    "RawText": "중국산은 다 녹은 후 잔여물이 있어서 별로였는데 이 제품은 국내산이라 해서 한번 써봤는데 이 제품도 마찬가지로 잔여물이 남아요. 가격도 더 비싼데 실망입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "22",
+    "RDate": "20220205",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "이 제품도 마찬가지로 잔여물이 남아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 더 비싼데 실망입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393589",
+    "RawText": "이 브랜드로 써 보고 재구매 합니다. 물에 녹는 시간이 일정 한 거 같아 품질 맘에 듭니다. 세정력은 보통으로 다 비슷한 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "4",
+    "Syllable": "74",
+    "Word": "22",
+    "RDate": "20220205",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "물에 녹는 시간이 일정 한 거 같아 품질 맘에 듭니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력은 보통으로 다 비슷한 것 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "393591",
+    "RawText": "세정제 사용하고 나서 변기가 갑자기 고급스러워졌네요. 갯수가 많아서 오래 쓸 수 있어 좋은데  향은 별로네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20220204",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "갯수가 많아서 오래 쓸 수 있어 좋은데",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 별로네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393598",
+    "RawText": "늘 쓰는 제품입니다. 국산이라 그런지 중국산에 비해 확실히 오래갑니다. 값은 좀 나가도 역시 국산이 최곱니다. 다 쓰고 또 구매할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "19",
+    "RDate": "20220127",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "국산이라 그런지 중국산에 비해 확실히 오래갑니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "값은 좀 나가도 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393615",
+    "RawText": "오랫동안 다른 것을 쓰다가 다시 이 제품을 썼는데 향이 오래가네요. 양이 넉넉하진 않아도 지속력이 확실해요. 계속 재구매할 예정이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20220122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향이 오래가네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 넉넉하진 않아도",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": " 지속력이 확실해요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393626",
+    "RawText": "일단 구매 후 배송 빠르게 잘 받았어요. 아직은 사용 전이라 효과는 어떤지 모르겠지만 상품평들이 좋으니 믿고 구매했어요.   양이 많고 좋습니다. 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "22",
+    "RDate": "20220119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "아직은 사용 전이라 효과는 어떤지 모르겠지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많고 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393628",
+    "RawText": "중국산이 저렴했지만 세정력이 오래가는 한국에서 만든 제품으로 구입했습니다. 포장이 쫌 저렴해보이고 한꺼번에 많이 구입해 이런포장으로 놔두면 여름에 녹지않을까 약간 걱정이되네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "4",
+    "Syllable": "97",
+    "Word": "20",
+    "RDate": "20220118",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "세정력이 오래가는 한국에서 만든 제품으로 구입했습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "포장이 쫌 저렴해보이고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이런포장으로 놔두면 여름에 녹지않을까 약간 걱정이되네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393635",
+    "RawText": "세일 할 때 저렴하게 구입했습니다. 향도 좋고 OOO보다 파란 물이 좀 더 오래 가는 것 같습니다. 그런데 주문할 때마다 색상이 다른데 왜 그럴까요? ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "4",
+    "Syllable": "84",
+    "Word": "23",
+    "RDate": "20220115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일 할 때 저렴하게 구입했습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": " OOO보다 파란 물이 좀 더 오래 가는 것 같습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "주문할 때마다 색상이 다른데 왜 그럴까요?",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "393640",
+    "RawText": "친구가 사용하는 거 보고 샀습니다. 저렴한 가격에 많이 있어서 좋습니다. 가성비가 정말 좋은 제품입니다. 세정력도 기대가 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20220114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에  ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "많이 있어서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 정말 좋은 제품입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력도 기대가 됩니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "393664",
+    "RawText": "어제 주문했는데 벌써 받았네요. 사이즈가 정말 작네요. 물에 금방 녹아 없어지던데 자주 갈아주기 귀찮을 것 같아요. 겉이 비닐로 싸여 있어서 사용하기는 편할 것 같아요. 가격 저렴해서 재구매 의사 있네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "114",
+    "Word": "29",
+    "RDate": "20220103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "사이즈가 정말 작네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "물에 금방 녹아 없어지던데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "자주 갈아주기 귀찮을 것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "겉이 비닐로 싸여 있어서 사용하기는 편할 것 같아요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 저렴해서 재구매 의사 있네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393666",
+    "RawText": "케이스가 따로 없이 두 개의 벌크포장으로 왔습니다. 앞 전에 OO꺼 썼었는데 너무 빨리 없어지는 것 같아 다시 이 제품으로 갈아탔습니다.  물 때도 덜 끼고 오래 쓰는 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "101",
+    "Word": "28",
+    "RDate": "20220101",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "케이스가 따로 없이 두 개의 벌크포장으로 왔습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "물 때도 덜 끼고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "오래 쓰는 것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "393669",
+    "RawText": "구매 후기 보고  별 기대 않고 저렴한 가격 때문에 구매했는데 생각보다 품질 나쁘지 않네요.  일단 뜯어보니 향이 무난합니다.개별 포장이 아닌 벌크형이라서 공기접촉하면 향이 어떨지 모르겠네요. 향은 조금 덜나도 되는데 효과가 좋으면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "135",
+    "Word": "32",
+    "RDate": "20211228",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격 때문에 구매했는데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "생각보다 품질 나쁘지 않네요.  ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "일단 뜯어보니 향이 무난합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "개별 포장이 아닌 벌크형이라서 공기접촉하면 향이 어떨지 모르겠네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 조금 덜나도 되는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과가 좋으면 좋겠어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "393693",
+    "RawText": "우선 배송이 빨라서 너무 좋습니다. 무엇보다 향이 좋아요. 세정력은 지켜봐야 알 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20211214",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "무엇보다 향이 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력은 지켜봐야 알 듯합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "393704",
+    "RawText": "중국산을 쓰고 있는데 한꺼번에 녹아서 빨리 갈아줘야 해서 엄청 불편하네요. 그래서 국산이라 한번 사 봤습니다. 써봐야 알겠지만 설명대로라면 한 동안 쓸 수 있는 양이겠네요. 세정 효과도 좋으면 또 구매하겠습니다.  잘 써볼게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 청** 변기세정제 40g 40개",
+    "ReviewScore": "5",
+    "Syllable": "127",
+    "Word": "31",
+    "RDate": "20211208",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 설명대로라면 한 동안 쓸 수 있는 양이겠네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세정 효과도 좋으면 또 구매하겠습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  }
+]

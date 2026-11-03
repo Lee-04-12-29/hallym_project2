@@ -1,0 +1,3343 @@
+[
+  {
+    "Index": "387712",
+    "RawText": "빠른배송 감사드려요. 향이 세지 않아 청소하기 용이하고 잘 닦여서 좋네요. 다 쓰면 재구매하려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20220331",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 세지 않아",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "청소하기 용이하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "잘 닦여서 좋네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "387724",
+    "RawText": "배송 무지 빠르고 잘 받았어요. 향기가 좋아서 화장실 청소 세제는 항상 이것만 사용합니다. 용량 대비 가격도 저렴한 편입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "18",
+    "RDate": "20220329",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기가 좋아서 화장실 청소 세제는 항상 이것만 사용합니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "용량 대비 가격도 저렴한 편입니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "387733",
+    "RawText": "OOO만 있으면, 뿌려 놓고 슬쩍 문질러주면 끝이라 욕실 청소가 너무 쉽네요. 욕실 바닥이 광이 나서 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "17",
+    "RDate": "20220325",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "뿌려 놓고 슬쩍 문질러주면 끝이라 욕실 청소가 너무 쉽네요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "욕실 바닥이 광이 나서 너무 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "387776",
+    "RawText": "냄새는 좋습니다. 그런데 세정이 잘 된다는 느낌은 모르겠습니다. 검은 곰팡이 균은 없애지 못하는 것이 아쉽네요. 별도의 청소 세제를 써야하나봐요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "3",
+    "Syllable": "81",
+    "Word": "19",
+    "RDate": "20220316",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새는 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세정이 잘 된다는 느낌은 모르겠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "검은 곰팡이 균은 없애지 못하는 것이 아쉽네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "별도의 청소 세제를 써야하나봐요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "387782",
+    "RawText": "향도 과하지 않게 적당하고 세척력도 우수합니다.  욕실청소용으로 딱 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "41",
+    "Word": "9",
+    "RDate": "20220315",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 과하지 않게 적당하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력도 우수합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "욕실청소용으로 딱 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "387790",
+    "RawText": "향도 좋고 세척력도 좋고 욕실청소엔 더할나위 없이 최고에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "33",
+    "Word": "8",
+    "RDate": "20220314",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 욕실청소엔 더할나위 없이 최고에요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "387799",
+    "RawText": "욕실 세제 다 떨어진 걸 모르고 급하게 주문했는데 배송도 빠르고 꼼꼼하게 잘 포장되어 왔네요.  물 때 잘 빠지고 향도 독하지 않고 좋습니다. 양이 많아서 오래 두고 쓸 수 있겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "29",
+    "RDate": "20220313",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 물 때 잘 빠지고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 독하지 않고 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 양이 많아서 오래 두고 쓸 수 있겠네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "387843",
+    "RawText": "사실 화학 제품은 유해 성분 기준에 적합하다고 해도 판단이 안되지만  이 제품은 인체에 해가 없었으면 좋겠어요. 냄새가 나쁘지 않고 세정력이 좋은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "23",
+    "RDate": "20220217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": " 인체에 해가 없었으면 좋겠어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 나쁘지 않고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력이 좋은 것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "387869",
+    "RawText": "사과향 좋습니다.  욕실 세정뿐 아니라 설거지 후에 뿌려 놓으면 싱크대 걸음망도 깔끔해져서 좋아요. 배송도 엄청 빠르고 포장 상태도 완전 깔끔하게 왔어요. 너무 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "23",
+    "RDate": "20220201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "사과향 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 욕실 세정뿐아니라 설거지 후에 뿌려 놓으면 싱크대 걸음망도 깔끔해져서 좋아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "387870",
+    "RawText": "청소를 자주하는 건 아니지만 뿌려 놓고 힘 주지않고 쓱싹하면 깨끗하게 청소가 끝나네요. 사용하기도 너무 편해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20220131",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "뿌려 놓고 힘 주지않고 쓱싹하면 깨끗하게 청소가 끝나네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기도 너무 편해서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "387887",
+    "RawText": "OOO 욕실용 세정제 750ml 4개를 쿠폰으로 저렴하게 구입했어요.  사과향이라 화장실 청소 후 상쾌해서 좋습니다.  뽁뽁이로 개별 4개 포장해서 빠른 배송으로 도착했네요. 저렴한 가격이라 굿입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "112",
+    "Word": "24",
+    "RDate": "20220126",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰으로 저렴하게 구입했어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 사과향이라 화장실 청소 후 상쾌해서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격이라 굿입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "387903",
+    "RawText": "이만한 품질의 세정제가 없어 항상 이것만 사는데 이번에 쿠폰으로 저렴하게 잘 샀습니다. 포장도 이상 없이 잘 왔네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "17",
+    "RDate": "20220119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "이만한 품질의 세정제가 없어 항상 이것만 사는데",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰으로 저렴하게 잘 샀습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "387904",
+    "RawText": "분사했더니 거품처럼 착 붙어 있어요. 향은 은은하면서도 맛있는 사과향이라 OO처럼 독한 냄새는 나지 않아요. 독한 냄새 없어서 밀폐된 공간에서 청소해도 머리 아프지는 않을것 같아 다행이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "25",
+    "RDate": "20220119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 은은하면서도 맛있는 사과향이라",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "OO처럼 독한 냄새는 나지 않아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "독한 냄새 없어서 밀폐된 공간에서 청소해도 머리 아프지는 않을것 같아 다행이에요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "387911",
+    "RawText": "OO 냄새가 심하진 않아서 청소할 때 불편하지 않아 좋습니다. 거품이 풍성하게 나서 곰팡이 제거에 도움이 돼요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20220117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "OO 냄새가 심하진 않아서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "청소할 때 불편하지 않아 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "거품이 풍성하게 나서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "곰팡이  제거에 도움이 돼요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "387923",
+    "RawText": "3년 넘게 이 제품만 사용하고 있습니다. 세일 할 때 저렴하게 구매했어요. 욕실 청소하면 깨끗하고 좋습니다. 좋은 제품이라 너무 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "4",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20220115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일 할 때  저렴하게 구매했어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "욕실 청소하면 깨끗하고 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "387930",
+    "RawText": "말그대로 상쾌한 사과향이 진짜로 나네요. 세정력도 좋구 포장도 꼼꼼히 뽁뽁이로 개별 포장해주시고 아주 좋습니다~~^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "4",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20220113",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "상쾌한 사과향이 진짜로 나네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력도 좋구",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "387931",
+    "RawText": "화장실 청소세제는 이 제품만 사용한지 오래됐어요. 청소 그럭저럭 잘 되고 향도 상큼해서 맘에 들어요. 용기도 튼튼하니 분사 잘되고. OOO에서 할인할때 4통씩 쟁여두니 한참 써서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "104",
+    "Word": "25",
+    "RDate": "20220113",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "청소 그럭저럭 잘 되고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 상큼해서 맘에 들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기도 튼튼하니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "분사력",
+        "SentimentText": "분사 잘되고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "OOO에서 할인할때 4통씩 쟁여두니 한참 써서 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "387938",
+    "RawText": "지독한 OO 향이 아니라 눈도 안 따갑고 향도 나름 역하지 않습니다.  세정력이 좋아서 청소도 잘됩니다. 아주 마음에 드는 제품이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "19",
+    "RDate": "20220111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 지독한 OO 향이 아니라 눈도 안 따갑고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "  향도 나름 역하지 않습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "  세정력이 좋아서 청소도 잘됩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "387944",
+    "RawText": "욕실 청소하는데 깨끗하게 잘 세척되고 향도 좋습니다. 이게 몇 번째 구입인지 모르겠어요. 떨어지면 또 사고 다른 제품은 사용 못하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20220108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "깨끗하게 잘 세척되고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "387968",
+    "RawText": "빠른 배송 감사합니다. 청소 후 향이 상쾌하네요.  저렴한 가격으로 구매했어요. 근데 스프레이가 좀 다양했으면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20211227",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 청소 후 향이 상쾌하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴한 가격으로 구매했어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": " 스프레이가 좀 다양했으면 좋겠어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "387973",
+    "RawText": "욕실 세정제가 향이 이렇게 좋을수가 있을까요~  욕실에다 놔둬도 전혀보기 싫지가 않은 디자인이예요. 배송도 빠릅니다~^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "14",
+    "RDate": "20211225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "욕실 세정제가 향이 이렇게 좋을수가 있을까요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "욕실에다 놔둬도 전혀보기 싫지가 않은 디자인이예요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "387981",
+    "RawText": "향이 많이 독하지도 않고 세정력도 좋아서 아주 만족하는 제품입니다. 친정 엄마가 추천하셔서 쓰기 시작했는데  저도 너무 좋아서 주변에 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "19",
+    "RDate": "20211222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 많이 독하지도 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력도 좋아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "387983",
+    "RawText": "포장 배송 속도 다 좋고 향도 사과향이라 좋은데 물때가 보통 뿌려두면 그냥 사라지는데 이건 아니네요. 뿌린 후에 꼭 문질러줘야 하는 불편함이 있네요.  다른 제품으로 다시 사야 하나 봐요. 이 많은 양을 언제 다 쓰나요?   빨강 파랑 혼합 구성이 있으면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "4",
+    "Syllable": "148",
+    "Word": "40",
+    "RDate": "20211222",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 사과향이라 좋은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "물때가 보통 뿌려두면 그냥 사라지는데 이건 아니네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "이 많은 양을 언제 다 쓰나요? ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 빨강 파랑 혼합 구성이 있으면 좋겠어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "뿌린 후에 꼭 문질러줘야 하는 불편함이 있네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "388004",
+    "RawText": "배송 받고 열어보니  곰팡이제거용이 터진 바람에 온통 다 묻고 냄새가 진동을 하고 반품하기도 번거로워서 터진 건 그냥 버리고 나머진 세척 후 보관했어요. 그래도 욕실용 세정제는  세정력도 좋고 향도 독하지 않고 좋은 것 같아요. 다음에는 꼼꼼하게 포장 부탁드립니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "3",
+    "Syllable": "148",
+    "Word": "37",
+    "RDate": "20211213",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "  세정력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향도 독하지 않고 좋은 것 같아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388021",
+    "RawText": "향도 좋고 거품이 잘나서 기분좋게 청소하고있어요~ 세정력은 보통인듯해요. 싸게 잘 사서 잘 사용합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "4",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20211207",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "거품이 잘나서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력은 보통인듯해요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 싸게 잘 사서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388047",
+    "RawText": "가격 비교 후 가장 저렴하여 구매했어요. 에어캡으로 꽁꽁 싸매져 안전하게 포장되어 왔습니다. 4개여서 화장실 두 곳에 두고 쓰기 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "19",
+    "RDate": "20211129",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 비교 후 가장 저렴하여 구매했어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "4개여서 화장실 두 곳에 두고 쓰기 좋네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388066",
+    "RawText": "사과향이 좋아서  욕실 청소 할 때 기분이 좋겠어요.  깨끗하게 세척도 잘됐으면  좋겠네요.  세정력 좋으면 계속 구매할게요. 일단 잘 써보겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "19",
+    "RDate": "20211125",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "사과향이 좋아서  욕실 청소 할 때 기분이 좋겠어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 깨끗하게 세척도 잘됐으면  좋겠네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세정력 좋으면 계속 구매할게요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "388070",
+    "RawText": "향기는 독하지 않아 괜찮습니다. 여러 번 문질러도 잘 안 닦이는 부분이 있어요. 성능은 좀 떨어지나봐요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "4",
+    "Syllable": "58",
+    "Word": "15",
+    "RDate": "20211124",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기는 독하지 않아 괜찮습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "여러 번 문질러도 잘 안 닦이는 부분이 있어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능은 좀 떨어지나봐요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "388097",
+    "RawText": "요 제품은 산뜻한 향이 있어서 욕실 청소시 머리가 좀 덜 아픈듯 합니다. 뿌리고 닦아내면 욕실 바닥도 반짝반짝해서 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "18",
+    "RDate": "20211119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "산뜻한 향이 있어서 욕실 청소시 머리가 좀 덜 아픈듯 합니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "뿌리고 닦아내면 욕실 바닥도 반짝반짝해서 좋네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388117",
+    "RawText": "OO 쿠폰을 적용해서 저렴하게 구입할 수 있어서 좋았어요. 이 제품만 있으면 욕실청소를 깨끗하고 말끔하게 할 수 있어 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20211117",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "OO 쿠폰을 적용해서 저렴하게 구입할 수 있어서 좋았어요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "욕실청소를 깨끗하고 말끔하게 할 수 있어 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388119",
+    "RawText": "세정제가 무거운데 마트 안 가고 배송하니 편합니다. 욕실 청소 때 OO 안 쓰고 편하게 청소할 수 있어 좋습니다. 또한 분사력 좋아서 잘 뿌려집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "4",
+    "Syllable": "83",
+    "Word": "23",
+    "RDate": "20211116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "욕실 청소 때 OO 안 쓰고 편하게 청소할 수 있어 좋습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "분사력",
+        "SentimentText": "분사력 좋아서 잘 뿌려집니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "세정제가 무거운데 마트 안 가고 배송하니 편합니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "388127",
+    "RawText": "꼼꼼하게 잘 포장되어 왔어요. 다행히 분무기 부분이 다들 불량 없이 멀쩡해서 다행이네요. 향이 제법 좋아서 욕실 청소는 이 제품으로 주로 하는 편이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "22",
+    "RDate": "20211116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "분무기 부분이 다들 불량 없이 멀쩡해서 다행이네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 제법 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "욕실 청소는 이 제품으로 주로 하는 편이에요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388164",
+    "RawText": "좋은 제품 저렴하게 잘 구입했네요. 양도 많고 배송도 빠르고 사은품까지 주셨네요. 쓱 뿌려놨다가 솔로 솔솔 문질러서 물 뿌리면 되니 사용하기도 편해요.  냄새도 약하고 나쁘지 않아요. 감사합니다~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "26",
+    "RDate": "20211111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 제품 저렴하게 잘 구입했네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품까지 주셨네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "쓱 뿌려놨다가 솔로 솔솔 문질러서 물 뿌리면 되니 사용하기도 편해요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 약하고 나쁘지 않아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "388171",
+    "RawText": "얼마전부터 냄새가 올라와서 구매해봤습니다. 화장실 냄새가 싹 사라지길 기대해 봅니다. 가격도 저렴해서 좋았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "13",
+    "RDate": "20211110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": " 화장실 냄새가 싹 사라지길 기대해 봅니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격도 저렴해서 좋았습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388188",
+    "RawText": "독하지 않은 향과 거품형태라 좋아요. 단점이라면 생각보다 분무기가 약해서 금방 고장날 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "4",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20211109",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "독하지 않은 향과",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": " 거품형태라 좋아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "생각보다 분무기가 약해서 금방 고장날 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "388195",
+    "RawText": "받자마자 욕실에서 사용해보았는데 향기도 좋고, 세정력도 강합니다. OOOO는 냄새가 너무 독성이 강하다고 해야 하나 거부감이 심했는데 이 제품은 냄새가 독하지 않아서 다행입니다. 너무 좋은 제품 너무 착한 가격에 구입하여 대만족. 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "135",
+    "Word": "31",
+    "RDate": "20211108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 좋고,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력도 강합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "이 제품은 냄새가 독하지 않아서 다행입니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "너무 착한 가격에 구입하여 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388202",
+    "RawText": "매일 욕실 청소하시는 분들한테는  효과가 좋은 제품이라고 추천합니다. 근데 이미 생긴 오래된 곰팡이 제거는 힘들어서 별로예요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20211107",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "매일 욕실 청소하시는 분들한테는 효과가 좋은 제품이라고 추천합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "이미 생긴 오래된 곰팡이 제거는 힘들어서 별로예요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "388203",
+    "RawText": "포장이 아주 꼼꼼하지는 않았지만 파손 없이 잘 도착했습니다.  세정력이 더 좋다는 OOOO를 사용했는데 크게 차이가 느껴지지는 않아 저렴한 이 제품으로 다시 구매했습니다.  효과를 기대해 봐야죠. 빠른 배송 감사해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실용 세정제 750ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "121",
+    "Word": "28",
+    "RDate": "20211107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 이 제품으로",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과를 기대해 봐야죠.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "388216",
+    "RawText": "늘 애용하는 제품이네요. 소독력도 뛰어나고 사용하는데 불편함 없이 잘 사용하고 있네요. 가격도 저렴하고 빠른 배송 좋습니다. 잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 메** 살균소독제 4L 4개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20220527",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "소독력도 뛰어나고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하는데 불편함 없이 잘 사용하고 있네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388224",
+    "RawText": "일가족 확진되고 확실한 성능의 소독제를 찾다가 구입했어요. 배송도 하루만에 빨리보내주시고 감사합니다. 양도 많아서 좋아요. 소독약 냄새도 많이 안 나네요. 오늘부터 더욱 더 확실하게 구석구석 소독하려고요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 메** 살균소독제 4L 4개",
+    "ReviewScore": "5",
+    "Syllable": "114",
+    "Word": "25",
+    "RDate": "20220331",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아서 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "소독약 냄새도 많이 안 나네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388258",
+    "RawText": "코로나로 인하여서 급하게 필요해서 구입해서 사용하게 되었습니다. 독한 냄새가 안나서 소독제로써의 안정성이 높다는 생각이 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 메** 살균소독제 4L 4개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "15",
+    "RDate": "20200523",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "코로나로 인하여서 급하게 필요해서 구입해서 사용하게 되었습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 독한 냄새가 안나서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "소독제로써의 안정성이 높다는 생각이 듭니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388327",
+    "RawText": "냄새가 코와 눈을 어찌하지 못하게 강해서 청소하다 죽는줄 알았습니다.  방독마스크 사야하나 살짝 고민했을 정도로 향이 독합니다. 대신 효과는 정말 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "3",
+    "Syllable": "87",
+    "Word": "20",
+    "RDate": "20220827",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 코와 눈을 어찌하지 못하게 강해서 청소하다 죽는줄 알았습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 방독마스크 사야하나 살짝 고민했을 정도로 향이 독합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과는 정말 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388347",
+    "RawText": "다른 OO은 이만큼 세척력이 좋지 못한 것 같아요.  청소에는  OOOO가 최고인 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20220825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "다른 OO은 이만큼 세척력이 좋지 못한 것 같아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "청소에는  OOOO가 최고인 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388361",
+    "RawText": "품질 좋고 대용량으로  싸게 산거 같습니다.  그러나 소분해서 써야하는 불편함도 있고  소분하다가 옷에 튀면 탈색되서 옷을 망칠 수도 있어서 펌프를 구매하는 것이 안전할 듯하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "100",
+    "Word": "24",
+    "RDate": "20220823",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 대용량으로 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 싸게 산거 같습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "소분해서 써야하는 불편함도 있고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "소분하다가 옷에 튀면 탈색되서 옷을 망칠 수도 있어서 펌프를 구매하는 것이 안전할 듯하네요. ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "388363",
+    "RawText": "대용량 OO예요. 배송은 무지 빠릅니다. 성능도 별차이 없이 좋아요. 무게는 진짜 무겁습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "4",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20220822",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량 OO예요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능도 별차이 없이 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게는 진짜 무겁습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "388366",
+    "RawText": "대용량이라 양도 많고 저렴해서 좋습니다. 무거워서 그냥 사용하기가 쉽지는 않은데 구매 후에 작은 통에 덜어서 사용하면 편리하게 사용할 수 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "4",
+    "Syllable": "81",
+    "Word": "20",
+    "RDate": "20220822",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 양도 많고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 무거워서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그냥 사용하기가 쉽지는 않은데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "구매 후에 작은 통에 덜어서 사용하면 편리하게 사용할 수 있어요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388374",
+    "RawText": "OO 청소 좋아하는 사람으로서 대용량인데  착한 가격으로 잘 산 것 같아요. 맘에 드는 건 OO이라는 회사 제품이라 믿고 구매했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "19",
+    "RDate": "20220820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량인데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 착한 가격으로 잘 산 것 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388389",
+    "RawText": "OO는 OOOO가 제일 품질이 좋은 것 같습니다. 대용량이라 오래 쓰니 좋고 말통이라 소분해서 쓰기 편리합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20220818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "OOOO가 제일 품질이 좋은 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 대용량이라 오래 쓰니 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "말통이라 소분해서 쓰기 편리합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388397",
+    "RawText": "사이즈가 너무 커서 덜어서 써야 하는  불편함이 있기는 하지만 작은 것보다  가격이  저렴해서 계속 구매해서 쓰게 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20220816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "사이즈가 너무 커서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "덜어서 써야 하는  불편함이 있기는 하지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "작은 것보다  가격이  저렴해서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388405",
+    "RawText": "여름철 많이 사용하게 되는 OO. 대용량으로 처음 구매했는데 가격도 저렴하고 좋습니다. 무거운 거 배송해주신 택배 아저씨께 감사드려요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "4",
+    "Syllable": "75",
+    "Word": "17",
+    "RDate": "20220812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름철 많이 사용하게 되는 OO.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 대용량으로",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격도 저렴하고 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 무거운 거 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "388412",
+    "RawText": "대용량으로 구매하니 저렴하고 양이 많아 걱정없이 사용할 수 있어서 좋아 또 구매 했습니다. 여러가지 용도로 사용이 가능해서 더 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "3",
+    "Syllable": "76",
+    "Word": "19",
+    "RDate": "20220811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량으로 구매하니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아 걱정없이 사용할 수 있어서 좋아 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여러가지 용도로 사용이 가능해서 더 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388448",
+    "RawText": "가격이 저렴하고 품질도 좋습니다. 그래서 OO 에서 구입했어요. 배송도 빠르고 마음에 들어서 자주 이용하려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20220805",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388479",
+    "RawText": "대용량이라 좋고 저렴하게 구매했는데 잘 쓰겠네요.  온집안 구석구석 탈취 뿐만 아니라 살균.소독.표백까지 다 잘 될 것 같아요.^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20220728",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매했는데 잘 쓰겠네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "온집안 구석구석 탈취 뿐만 아니라",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "살균.소독.표백까지 다 잘 될 것 같아요.^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "표백까지 다 잘 될 것 같아요.^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388482",
+    "RawText": "아파트 청소 시 사용하려고 주문했어요. 다음날 바로 배송 오고 다른 OO에 비해 냄새가 덜 나서 계속 구매하게 되네요. 가격도 저렴합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "20",
+    "RDate": "20220728",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 다른 OO에 비해 냄새가 덜 나서 계속 구매하게 되네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388491",
+    "RawText": "한가득있으니 든든해요. 기존 통에 리필해서 쓰고 있어요. 성능이야 그냥 OO지만 십년이상 개를 키우지만 집에 개냄새 전혀안나요. 탈취제 이런거 필요없고 그냥 OO로 쌀때마다 자주 닦아주면 탈취가 된답니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "114",
+    "Word": "26",
+    "RDate": "20220726",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "기존 통에 리필해서 쓰고 있어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능이야 그냥 OO지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "OO로 쌀때마다 자주 닦아주면 탈취가 된답니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "한가득있으니 든든해요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388492",
+    "RawText": "좀 저렴한 거 같아서  사용해 보기로 했어요. 처음 사용인데 품질이 좋기를 기대해봅니다. 무거운 거 배송해 주시느라 애써주셔서 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "18",
+    "RDate": "20220726",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좀 저렴한 거 같아서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋기를 기대해봅니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 무거운 거 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "388494",
+    "RawText": "좋습니다 빨래할 때 소독 살균용으로 사용할려구 구입했는데 좋습니다. 양도 많고 오래 사용할 수 있어서 좋습니다. 배송이 빨라요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20220726",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "소독 살균용으로 사용할려구 구입했는데 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많고 오래 사용할 수 있어서 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388499",
+    "RawText": "이렇게 큰 대용량을  한번 사면 몇 개월을 사용할 수 있어 좋습니다. 가격면에서도 무지 저렴해요. 화장실 청소 베란다 청소 하수도 주변 변기청소 등에 사용할 수 있어서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "26",
+    "RDate": "20220725",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "이렇게 큰 대용량을  한번 사면 몇 개월을 사용할 수 있어 좋습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격면에서도 무지 저렴해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 화장실 청소 베란다 청소 하수도 주변 변기청소 등에 사용할 수 있어서 좋습니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388504",
+    "RawText": "여름철이라 OO를 자주 쓰게 되네요. 작은병 하나씩 사다 쓰는 게 헤퍼서 대용량으로 구매했는데 한동안 신경안 써도 되겠어요. 박스포장되어 왔구요. 가격도 낱개병보다 저렴하구요. 곰팡이 제거와 여름 흰면티 세탁할 때에 유용합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "4",
+    "Syllable": "127",
+    "Word": "29",
+    "RDate": "20220723",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름철이라 OO를 자주 쓰게 되네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 대용량으로 구매했는데 한동안 신경안 써도 되겠어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 낱개병보다 저렴하구요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "곰팡이 제거와 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름 흰면티 세탁할 때에 유용합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388506",
+    "RawText": "초록색 이끼를 없애는데 OO보다 효과가 좋은 것이 없는 것 같아요. 필요한 곳에 뿌려 주기만 하면 깨끗해져서 너무 개운하고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "19",
+    "RDate": "20220723",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "초록색 이끼를 없애는데 OO보다 효과가 좋은 것이 없는 것 같아요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "필요한 곳에 뿌려 주기만 하면 깨끗해져서 너무 개운하고 좋습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388529",
+    "RawText": "곰팡이때 제거하는 욕실 청소엔 OO만한게 없는것 같아요. 배송 받았는데 너무 무거워 들지도 못하겠더라고요. 대용량이라 양껏 사용하기 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "17",
+    "RDate": "20220717",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "곰팡이때 제거하는 욕실 청소엔 OO만한게 없는것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 너무 무거워 들지도 못하겠더라고요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 양껏 사용하기 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388535",
+    "RawText": "늘 쓰던 제품 인데 저렴하게 잘 구매한 거 같아요. 항상 느끼지만 잘 닦이고 좋습니다. 무거운 거 배송해주시느라 너무 애쓰셨네요. 감사합니다. 다 쓰고 다시 주문할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "94",
+    "Word": "24",
+    "RDate": "20220714",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 구매한 거 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 잘 닦이고 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거운 거",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "388549",
+    "RawText": "이 제품이 가성비는 좋습니다. 단지 무거워서 들고 내리기 힘들어 불편하고 덜어써야 하니까  귀찮아서 그게 불편한거죠. 그래도 계속 사용할 만한 제품이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "3",
+    "Syllable": "86",
+    "Word": "20",
+    "RDate": "20220713",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 제품이 가성비는 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거워서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "덜어써야 하니까  귀찮아서 그게 불편한거죠.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "들고 내리기 힘들어 불편하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "388578",
+    "RawText": "눅눅한 장마철이라 특히 많이 쓰게 되는 거 같아요. 대용량이라 적은 것 보다 저렴하게 잘 샀어요. 무거운데 빠른 배송해주셔서 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "19",
+    "RDate": "20220707",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "눅눅한 장마철이라 특히 많이 쓰게 되는거 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "적은 것 보다 저렴하게 잘 샀어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거운데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "388581",
+    "RawText": "지난해에 대용량 구매해서 다 쓰고 이번에 재구매입니다. 배송도 빠르고 포장도 맘에 들어요. 대용량 구매해서 사용하니 가격도 싸서 좋고 언제든 넉넉히 넣어 사용할 수 있어 좋더라구요. 일반 락스 용기에 리필식으로 부어서 사용하고 있어요. 다음에 또 구매하러 올께요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "147",
+    "Word": "36",
+    "RDate": "20220707",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량 구매해서 사용하니",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 싸서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "언제든 넉넉히 넣어 사용할 수 있어 좋더라구요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "일반 락스 용기에 리필식으로 부어서 사용하고 있어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388610",
+    "RawText": "박스 포장해서 보내주셨어요. 최근 제조 제품으로 아주 좋은 가격에 구입했어요. 여름철이라 화장실 곰팡이가 잘 생기는데 OO 뿌려놓으면 깨끗해져서기분이 상쾌해집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "19",
+    "RDate": "20220630",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "아주 좋은 가격에 구입했어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "OO 뿌려놓으면 깨끗해져서기분이 상쾌해집니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388622",
+    "RawText": "OOOO를 대용량으로 찾던중 OO에서 주문했어요. 배송 빠르고 말통용기를 박스포장해서 배송해주셔서 좋았네요. 사용해보니 역시 OOOO가 화장실 찌는때 제거에는 최고네요.사용후 계속 주문할 생각입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "4",
+    "Syllable": "111",
+    "Word": "21",
+    "RDate": "20220629",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "OOOO를 대용량으로 찾던중 OO에서 주문했어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "말통용기를",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "역시 OOOO가 화장실 찌는때 제거에는 최고네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388632",
+    "RawText": "동네 마트에서 샀다가 엄청 고생했었는데 무거운걸 집 앞 까지 배송해주셔서 너무 편하고 좋네요. 쿠폰 할인해서 마트보다 더 저렴하게 샀어요. 제조일자도 2020.07.20 이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "22",
+    "RDate": "20220627",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": " 무거운걸 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 할인해서 마트보다 더 저렴하게 샀어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388634",
+    "RawText": "저렴한 가격에 대용량 구입해서 가성비좋은 편입니다. 화장실 청소할 때 이거 없으면 청소 못해요. 냄새는 좀 독해도 환기시키면서 쓰면 괜찮아요. 배송도 매우 빨라 좋았어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "23",
+    "RDate": "20220627",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량 구입해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비좋은 편입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "화장실 청소할 때 이거 없으면 청소 못해요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새는 좀 독해도 환기시키면서 쓰면 괜찮아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "388644",
+    "RawText": "가격도 저렴하고 제품 품질도 믿을 수 있어서 좋습니다. 너무 무거워서 사용하기가 좀 불편한 것이 유일한 단점이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20220623",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 품질도 믿을 수 있어서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "너무 무거워서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기가 좀 불편한 것이 유일한 단점이네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "388645",
+    "RawText": "여기서 저렴하게 구입해서 좋네요. 다른 보다 OO보다 OOOO가 표백 작용이 확실해서 더 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20220623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기서 저렴하게 구입해서 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "OOOO가 표백 작용이 확실해서 더 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388664",
+    "RawText": "양도 많고 저렴해서 가성비가 좋은 제품입니다. 품질이 좋아서 모든 것의 소독과 청소할 때 사용하고 있는데 아주 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20220618",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좋은 제품입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "모든 것의 소독과 청소할 때 사용하고 있는데 아주 좋습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "청소할 때 사용하고 있는데 아주 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388668",
+    "RawText": "싼맛에 잘 샀어요. 받자마자 청소 했습니다. 세척력 짱입니다. OO를 사랑하는 1인으로서 독한 냄새 정도는 충분히 감수합니다. 매우 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "18",
+    "RDate": "20220617",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼맛에 잘 샀어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력 짱입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " OO를 사랑하는 1인으로서 독한 냄새 정도는 충분히 감수합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "388676",
+    "RawText": "대용량이라 무거워서 덜어쓰긴 불편해도 양이 많아 한참동안 걱정없이 쓸 수 있어서 좋습니다. 향만 좀 독하지 않으면 더 좋을 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "4",
+    "Syllable": "75",
+    "Word": "20",
+    "RDate": "20220615",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 무거워서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "덜어쓰긴 불편해도",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 양이 많아 한참동안 걱정없이 쓸 수 있어서 좋습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향만 좀 독하지 않으면 더 좋을 것 같아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "388687",
+    "RawText": "양이 많고 넉넉해서 좋습니다. 화장실 청소에는 OO가 최고인 것 같습니다. 가성비도 좋은데 향이 독한 것이 유일한 흠입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20220612",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많고 넉넉해서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 화장실 청소에는 OO가 최고인 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비도 좋은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 독한 것이 유일한 흠입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "388697",
+    "RawText": "대용량이라 무거워서 사용하기는 불편하지만 품질이 좋아서 만족하고 있어요. 욕실 청소에는 역시 OOOO가 효과가 최고 인 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "17",
+    "RDate": "20220610",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 무거워서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기는 불편하지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋아서 만족하고 있어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "욕실 청소에는 역시 OOOO가 효과가 최고 인 것 같습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388723",
+    "RawText": "소분해서 사용하기에 이 만한게 없는 것 같아요.  살균 소독에 절대적으로 필요하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20220602",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "소분해서 사용하기에 이 만한게 없는 것 같아요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "살균 소독에 절대적으로 필요하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388743",
+    "RawText": "박스에 담겨서 배송되어 맘에 듭니다. 대용량이라 무거워서 사용하기가 불편하니 작은통에 덜어서 사용하면 편하고 좋습니다. 양이 많아 한참 동안 걱정없이 쓸 수 있어 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "23",
+    "RDate": "20220529",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거워서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기가 불편하니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "작은통에 덜어서 사용하면 편하고 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아 한참 동안 걱정없이 쓸 수 있어 만족합니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388747",
+    "RawText": "생각보다 OO를 금방 써서 주문해봤는데  대용량이라 오래 쓸 수 있어서 좋습니다. 양도 많아서 아주 맘이 든든합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20220528",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 대용량이라 오래 쓸 수 있어서 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 양도 많아서 아주 맘이 든든합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388779",
+    "RawText": "예전에 쓰던 OO랑 다른 건지 냄새가 많이 안 나서 사용하기 좋습니다. 대용량이라 무겁기는 했지만 오래 두고 쓸 수 있어 맘에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "4",
+    "Syllable": "75",
+    "Word": "21",
+    "RDate": "20220523",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 많이 안 나서 사용하기 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁기는 했지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "오래 두고 쓸 수 있어 맘에 들어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388784",
+    "RawText": "늘 OO 잘 쓰고있습니다.  다른 회사보다 냄새는 덜나고 세정력은 안정적이어서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "4",
+    "Syllable": "49",
+    "Word": "11",
+    "RDate": "20220521",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새는 덜나고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력은 안정적이어서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388802",
+    "RawText": "대용량이라 오래 쓸 수 있어서 좋습니다. 욕실 청소에서부터 싱크대 과일 세척 등 다용도로 활용해서 쓸 수 있어서 더 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "19",
+    "RDate": "20220519",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 오래 쓸 수 있어서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "욕실 청소에서부터 싱크대 과일 세척 등 다용도로 활용해서 쓸 수 있어서 더 좋네요.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388843",
+    "RawText": "집에 이곳 저곳 세척할 때 많이 사용하는데 역시 이름값 하는 품질입니다. 대용량으로 사니까 넘 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "15",
+    "RDate": "20220512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "이름값 하는 품질입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 대용량으로 사니까 넘 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "집에 이곳 저곳 세척할 때 많이 사용하는데",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388848",
+    "RawText": "언제나 믿고 구입하는 OOOO 대용량이라 좋네요 무거운 상품 배달해주는 기사님 감사합니다 OOOO 가격이 올라서 좀 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20220511",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 올라서 좀 아쉽네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거운 상품",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "388864",
+    "RawText": "항상 구입하는 OOOO 대용량이라 더 좋습니다 근데 가격이 조금 올라서 다음엔 구매할 때 고민 좀 해봐야 할 것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "19",
+    "RDate": "20220509",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 더 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 조금 올라서 다음엔 구매할 때 고민 좀 해봐야 할 것 같아요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "388871",
+    "RawText": "대용량으로 사니 저렴해서 좋긴한데 가정집에서 덜어쓰려니 불편한 점이 한 두가지가 아니네요. 무거운 상품을 배송하시는 택배 기사님들 고맙습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "17",
+    "RDate": "20220507",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량으로 사니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 좋긴한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "덜어쓰려니 불편한 점이 한 두가지가 아니네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거운 상품을 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "388874",
+    "RawText": "항상 애용하는 OO 레귤러에요. 많이 무겁긴 하지만 욕실 겸 세탁실에 놓아두고 덜어서 잘 사용하고 있습니다. 냄새가 독한건 어쩔수 없어서환기 잘 시키고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "22",
+    "RDate": "20220506",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": " 많이 무겁긴 하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 욕실 겸 세탁실에 놓아두고 덜어서 잘 사용하고 있습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 냄새가 독한건 어쩔수 없어서환기 잘 시키고 있어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "388889",
+    "RawText": "작은 것 쓰다 OO 마켓에서 저렴하게 대용량으로 구입했습니다 가격이 착하고 양이 많아 오래 쓸 수 있고 냄새도 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "18",
+    "RDate": "20220503",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 착하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아 오래 쓸 수 있고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량으로",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388896",
+    "RawText": "양이 엄청 많아서 깜짝 놀랐네요. 양이 많아 오래 사용할 수 있겠네요. 무거워서 기사님이 너무 힘드셨을 것 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "17",
+    "RDate": "20220430",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 엄청 많아서 깜짝 놀랐네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아 오래 사용할 수 있겠네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거워서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "388902",
+    "RawText": "식품 소독 가능하고 살균,표백엔 역시 OOOO 짱입니다. 싱크대,하수구 화장실 청소에도 좋습니다. OOOO 사랑합니다~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "13",
+    "RDate": "20220429",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "식품 소독 가능하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "살균,표백엔 역시 OOOO 짱입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "표백엔 역시 OOOO 짱입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "싱크대,하수구 화장실 청소에도 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388905",
+    "RawText": "믿고쓰는 OOOO입니다.  배송이 빠르고 대용량이어서 가게에서 걱정없이 사용하기 좋습니다. 냄새가 너무 강한 것을 제외하면 다 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "16",
+    "RDate": "20220429",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이어서 가게에서 걱정없이 사용하기 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 냄새가 너무 강한 것을 제외하면 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "388910",
+    "RawText": "OOO OOO 레귤러 대용량 양이 넉넉해서 좋습니다. 다른 제품들보다 저렴하게 잘 샀습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20220428",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량 양이 넉넉해서 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 제품들보다 저렴하게 잘 샀습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388914",
+    "RawText": "대용량이라서 엄청 무거워서 배송 기사님께 죄송한 마음이 들어요. OO 향이 매우 강하기 때문에  소분해서 조금씩 뿌려가면서 청소하면  깨끗해집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "18",
+    "RDate": "20220427",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "엄청 무거워서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " OO 향이 매우 강하기 때문에 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "소분해서 조금씩 뿌려가면서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 청소하면  깨끗해집니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388935",
+    "RawText": "싼 가격에 잘 샀는데 양도 많아 좋습니다. 사용 전인데 살균력이 기대가 됩니다. 믿고 쓰는 OOO 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "4",
+    "Syllable": "63",
+    "Word": "17",
+    "RDate": "20220424",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼 가격에 잘 샀는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 양도 많아 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "사용 전인데 살균력이 기대가 됩니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "388956",
+    "RawText": "요즘 한낮더위가 곧 여름철이 다가 온 것 같아서 OOOO 레귤러 대용량을 구입했습니다. 집안 주방 화장실 구석구석 병에다 덜어서 두면 아주 위생적으로 지낼수 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "23",
+    "RDate": "20220421",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "OOOO 레귤러 대용량을 구입했습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "집안 주방 화장실 구석구석 병에다 덜어서 두면 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "아주 위생적으로 지낼수 있습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388958",
+    "RawText": "대용량이라서 맘껏 써도 좋을것 같아요. 근데 너무 무거워서 어떻게 소분을 해야할지 살짝 걱정은 되네요. 집앞까지 배송해주셔서 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "3",
+    "Syllable": "76",
+    "Word": "17",
+    "RDate": "20220421",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라서 맘껏 써도 좋을것 같아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "너무 무거워서 어떻게 소분을 해야할지 살짝 걱정은 되네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "388962",
+    "RawText": "소독하기 너무 좋고 제일이에요. 믿을 수 있는 OOOO 최고에요. 양이 엄청 많아서 엄마랑 반 나눠서 써도 충분하겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20220420",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "소독하기 너무 좋고 제일이에요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 엄청 많아서 엄마랑 반 나눠서 써도 충분하겠네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388968",
+    "RawText": "대용량이라 두고두고 쓸 수 있어서 좋습니다. 소량씩 자주 구매하지 않게 되어 일회 용품 사용도 줄일수 있고 택배비도 절약할 수 있겠더라구요. 기존에 사용했던 작은 용기에 담아서 사용중이에요. 냄새도 나지 않고 청소시 거품이 많이나서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "135",
+    "Word": "33",
+    "RDate": "20220417",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 두고두고 쓸 수 있어서 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "기존에 사용했던 작은 용기에 담아서 사용중이에요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 나지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "청소시 거품이 많이나서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "388996",
+    "RawText": "대용량으로는 두번째 구매네요. 청소용으로 사놓으면 1년정도는 거뜬하게 쓸수 있더라구요. 코로나 시국에 소독용으로 최고에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "13",
+    "RDate": "20220407",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량으로는 두번째 구매네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "소독용으로 최고에요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "389015",
+    "RawText": "이사 문제로 집 대청소 하느라고 주문했는데 엄청 빨리 배송되었어요. 엄청난 용량인데 이렇게 저렴하게 구매할 수 있어서 너무 좋아요. 많이 파시고 번창하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 레** 표백제 16.6L(18kg) 1개",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "21",
+    "RDate": "20220404",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "엄청난 용량인데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이렇게 저렴하게 구매할 수 있어서 너무 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

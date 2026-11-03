@@ -1,0 +1,3404 @@
+[
+  {
+    "Index": "866583",
+    "RawText": "싸게 잘 산거 같습니다 시중 다른 치약은 용량이 절반밖에 안되는데 말이죠 그거 감안하면 무지 저렴한듯 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프로폴리스 치약 플러스 200g 5개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "16",
+    "RDate": "20190104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 잘 산거 같습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "시중 다른 치약은 용량이 절반밖에 안되는데 말이죠",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "무지 저렴한듯 합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "866668",
+    "RawText": "이거쓰다 다른거 못쓰겠어요 어차피 계속 쓸꺼라 많이 시켰습니다 요건 음식냄새를 잘 없애주고 개운해서 좋네요 가격이 좀 나가지만 그래도 제품은 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프로폴리스 치약 플러스 200g 5개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "20",
+    "RDate": "20210330",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "요건 음식냄새를 잘 없애주고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운해서 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격이 좀 나가지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "866676",
+    "RawText": "다른치약은 이가 시린편인데 이 치약은 개운하고 이도 시리지 않아 좋습니다 유통기한은 충분히 길고 배송도 빨라서 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프로폴리스 치약 플러스 200g 5개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20181109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "이 치약은 개운하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 이도 시리지 않아 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": " 유통기한은 충분히 길고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "866678",
+    "RawText": "애는 없지만 어린 애들이 사용해도 맵지 않고 순하네요. 이거 쓰고 일반 치약 쓰면 입안이 맵고 고통스러울 정도입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프로폴리스 치약 플러스 200g 5개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "17",
+    "RDate": "20181111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "어린 애들이 사용해도 맵지 않고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순하네요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "866699",
+    "RawText": "매운맛이 과하지 않고 잘 닦여서 아이들 같이 쓰기 좋습니다. 좋은 재료로 만들어 믿고 쓰고 있어요. 잘 사용할게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프로폴리스 치약 플러스 200g 5개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "17",
+    "RDate": "20181210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "매운맛이 과하지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦여서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아이들 같이 쓰기 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "좋은 재료로 만들어 믿고 쓰고 있어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "866756",
+    "RawText": "배송은 엄청빠릅니다 유명하다고해서 구입해 처음 써봤는데 제게는 맞지 않는것 같아요 냄세도 입몸에 닿을때 촉감도 제게 맞지않아요 제품 구매시 잘 고민후 주문하시길",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프로폴리스 치약 플러스 200g 5개",
+    "ReviewScore": "3",
+    "Syllable": "89",
+    "Word": "21",
+    "RDate": "20181225",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄세도 입몸에 닿을때 촉감도 제게 맞지않아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "입몸에 닿을때 촉감도 제게 맞지않아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "866791",
+    "RawText": "가격도 저렴하고 자극적이지 않아서 늘 쓰는 제품이에요. 아이도 같이 쓸 수 있어서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프로폴리스 치약 플러스 200g 5개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "13",
+    "RDate": "20190103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극적이지 않아서 늘 쓰는 제품이에요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아이도 같이 쓸 수 있어서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "866800",
+    "RawText": "계속사용하던 치약인데 이번꺼는 냄새가 좀 다르네요ㅜ 역한거 같기도 하고 별로네요. 항상 쓰던거라 세정력은 나쁘지 않아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프로폴리스 치약 플러스 200g 5개",
+    "ReviewScore": "4",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20190106",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "이번꺼는 냄새가 좀 다르네요ㅜ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "역한거 같기도 하고 별로네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "항상 쓰던거라 세정력은 나쁘지 않아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "866805",
+    "RawText": "검색 검색해보니 여기가 가장 저렴하기도 하고 양도 넉넉해서 오래 사용할듯 합니다 일단 매운맛이 덜해 아이와 함께 사용하기 무난해요 꿀벌이 좋은걸 넣어 줘서 안맵고 달달한거라고 알려줬어요 매일 사용해보니 양치후 개운하고 치아도 더더 하얗게 보이는듯 합니다 온가족 꾸준히 사용해보려구요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프로폴리스 치약 플러스 200g 5개",
+    "ReviewScore": "5",
+    "Syllable": "157",
+    "Word": "37",
+    "RDate": "20190108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 가장 저렴하기도 하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양도 넉넉해서 오래 사용할듯 합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "매운맛이 덜해",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아이와 함께 사용하기 무난해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "꿀벌이 좋은걸 넣어 줘서 안맵고 달달한거라고 알려줬어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치후 개운하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "치아도 더더 하얗게 보이는듯 합니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "866808",
+    "RawText": "ㅇㅇㅇ 치약을 지인한테 선물 받아 써보고 너무 좋아서 찾던 중에 ㅇㅇㅇㅇㅇ에 뜨길래 망설임 없이 클릭했어요. 하루만에 빠른 배송으로 기분이 좋습니다. 자극적이지 않고 개운해서 아이들이 더 좋아하는 ㅇㅇㅇ 치약. 앞으로 ㅇㅇㅇㅇㅇ 단골 예약할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프로폴리스 치약 플러스 200g 5개",
+    "ReviewScore": "5",
+    "Syllable": "137",
+    "Word": "32",
+    "RDate": "20190108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극적이지 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운해서 아이들이 더 좋아하는 ㅇㅇㅇ 치약.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "866811",
+    "RawText": "양치하고 나서 개운한느낌은 없지만 건강한 느낌은 들어서 좋네요 불소제품이 덜 들어가서 그런듯하기도 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프로폴리스 치약 플러스 200g 5개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20190108",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치하고 나서 개운한느낌은 없지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "건강한 느낌은 들어서 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "불소제품이 덜 들어가서 그런듯하기도 하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "866830",
+    "RawText": "ㅇㅇ으로 제품 빨리 받았습니다 받자마자 너무궁금해 바로 양치해 봤습니다 역시나 기대에 어긋나지 않게 개운하고 좋군요 프로폴리스치약쓰다가 다른치약은 못쓸듯합니다 가격도 좋고 잘쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프로폴리스 치약 플러스 200g 5개",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "21",
+    "RDate": "20190109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "기대에 어긋나지 않게 개운하고 좋군요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "866848",
+    "RawText": "가격도 저렴하고 양도 많은데다 치약이 아주 좋습니다. 이걸로 계속 써야겠습니다. 좋은 상품 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프로폴리스 치약 플러스 200g 5개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20190110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양도 많은데다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "866866",
+    "RawText": "지인 집에서 한번 사용하고 치약향이 세지않고 닦고나니 상쾌한 기분이 들어서 구매했습니다. 가격은 비싸지만 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프로폴리스 치약 플러스 200g 5개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20190111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "치약향이 세지않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "닦고나니 상쾌한 기분이 들어서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "866889",
+    "RawText": "ㅇㅇㅇ 치약이 좋다는 얘길듣고 가격도 저렴하게 나와서 구매했어요 한 번사용해봤는데 글쎄요 입안이 상쾌하고 좋은것 같긴 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프로폴리스 치약 플러스 200g 5개",
+    "ReviewScore": "4",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20190112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게 나와서 구매했어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "글쎄요 입안이 상쾌하고 좋은것 같긴 하네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "866931",
+    "RawText": "치약이 좀 단 느낌입니다 치약다워야 좋은데 이는 상쾌한 느낌도 없습니다. 잘 닦이는지도 모르겠네요. 별로인듯해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프로폴리스 치약 플러스 200g 5개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20190116",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "치약이 좀 단 느낌입니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 치약다워야 좋은데 이는 상쾌한 느낌도 없습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦이는지도 모르겠네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "866944",
+    "RawText": "기존치약보다 나쁜성분들이 없는거라 비싸지만 한번 구매해봤습니다 맵지않고 달달해요 유통기한도 긴거주시고 제품도 맘에듭니다 돌리는거아니라 편하고 밑테두리도 날카롭지않아 더욱 안전합니다 좋은제품 빨리 보내주시고 너무나 감사해요 요거보다 작은 하프 사이즈도 나오면 좋겠습니다 짜다보면 큰사이즈는 튜브가 터지기도 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프로폴리스 치약 플러스 200g 5개",
+    "ReviewScore": "5",
+    "Syllable": "173",
+    "Word": "34",
+    "RDate": "20190117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "기존치약보다 나쁜성분들이 없는거라",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸지만 한번 구매해봤습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "맵지않고 달달해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 긴거주시고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "돌리는거아니라 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "밑테두리도 날카롭지않아 더욱 안전합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "작은 하프 사이즈도 나오면 좋겠습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "짜다보면 큰사이즈는 튜브가 터지기도 하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "866952",
+    "RawText": "아이들과 함께 쓸 치약을 고르다가 ㅇㅇㅇ치약을 발견했어요. 프로폴리스 추출물과 자일리톨 함유에 반했어요. 향도 순하고 맛도 자극적이지 않아서 저학년 아이도 쓸 수 있을듯해요. 200g중량에 튜브식으로 되어있어 짜고 쓸때 편리함까지 갖추고 있습니다. 2021년 10월까지 넉넉한 유효기간으로 이번기회에 뜸뿍 구매할게요. 이제 치약은 ㅇㅇㅇ치약으로 살게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프로폴리스 치약 플러스 200g 5개",
+    "ReviewScore": "5",
+    "Syllable": "197",
+    "Word": "41",
+    "RDate": "20190118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "프로폴리스 추출물과 자일리톨 함유에 반했어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 순하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "맛도 자극적이지 않아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "저학년 아이도 쓸 수 있을듯해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "200g중량에",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "튜브식으로 되어있어 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "짜고 쓸때 편리함까지 갖추고 있습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": " 2021년 10월까지 넉넉한 유효기간으로",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "866962",
+    "RawText": "ㅇㅇ ㅇ라 배송이 빨라요 용량도 크고 프로폴리스치약 좋다하니 소문듣고 구매했어요 이건강을 위해 구강과 이를 희게 열심히 양치해야 겟네요 가격도 할인해서 잘구매한듯합니다 가격대비 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프로폴리스 치약 플러스 200g 5개",
+    "ReviewScore": "5",
+    "Syllable": "103",
+    "Word": "23",
+    "RDate": "20190119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": " 용량도 크고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 할인해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "866972",
+    "RawText": "ㅇㅇㅇ 치약 비싸서 못사고 있었는데 너무 좋은 가격에 나와서 구매했어요 빠른배송으로 받았습니다 강추해요 앞으로도 좋은구성 부탁드립니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프로폴리스 치약 플러스 200g 5개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "16",
+    "RDate": "20190120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "ㅇㅇㅇ 치약 비싸서 못사고 있었는데 너무 좋은 가격에 나와서 구매했어요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "앞으로도 좋은구성 부탁드립니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "866987",
+    "RawText": "전에 지인 선물로 받아서 써봤는데 넘 좋더라고요. 프로폴리스성분도 있어 아이들도 쓰기 부담없고 좋아합니다. 아이들 스스로 양치도 잘하게 되었어요 그래서 구매하게 되었는데 배송도 빨라서 넘 좋았네요. 앞으로 이곳에서 주문할래요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프로폴리스 치약 플러스 200g 5개",
+    "ReviewScore": "5",
+    "Syllable": "125",
+    "Word": "28",
+    "RDate": "20190122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "프로폴리스성분도 있어",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아이들도 쓰기 부담없고 좋아합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "866996",
+    "RawText": "성분 좋은건 이미 아실거고 생각보다 개운해요 알콜이나 허브처럼 화하지 않는 인공적이지 않는 개운함이 있어요 양치 후에는 입안에 약간 막이 생긴듯한 느낌이 듭니다 양치후 물 먹고 싶은 느낌은 없이 개운해요 200g이라 조금 작은 폼클 크기라 들고다니기는 힘들듯 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프로폴리스 치약 플러스 200g 5개",
+    "ReviewScore": "5",
+    "Syllable": "148",
+    "Word": "37",
+    "RDate": "20190123",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "성분 좋은건 이미 아실거고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "생각보다 개운해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "알콜이나 허브처럼 화하지 않는 인공적이지 않는 개운함이 있어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치 후에는 입안에 약간 막이 생긴듯한 느낌이 듭니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치후 물 먹고 싶은 느낌은 없이 개운해요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "200g이라",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "조금 작은 폼클 크기라",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "들고다니기는 힘들듯 합니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "867024",
+    "RawText": "좀더 상큼한 느낌을 좋아해서인지 최고란 느낌은 없네요 좀 텁텁한듯 합니다 그건 그냥 낯선 사용감일뿐이라고 생각하며 사용해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프로폴리스 치약 플러스 200g 5개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20190129",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "좀더 상큼한 느낌을 좋아해서인지 최고란 느낌은 없네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "좀 텁텁한듯 합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그냥 낯선 사용감일뿐이라고 생각하며 사용해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "867072",
+    "RawText": "아이들이 아직 어른치약 매워해서 이거 쓰는데  달짝지근한 맛이랄까 매운맛이 덜해서인지 잘 쓰고 있습니다 아이들이 사용하기에 부담없어 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프로폴리스 치약 플러스 200g 5개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "17",
+    "RDate": "20190213",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "달짝지근한 맛이랄까 매운맛이 덜해서인지 잘 쓰고 있습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아이들이 사용하기에 부담없어 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867082",
+    "RawText": "달콤하면서도 시원하고 개운한 치약이에요 양치하고 나면 입안이 뽀드득거려 좋습니다 ㅇㅇ 치약 넘 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프로폴리스 치약 플러스 200g 5개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20190215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "달콤하면서도",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "시원하고 개운한 치약이에요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치하고 나면 입안이 뽀드득거려 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867096",
+    "RawText": "ㅇㅇㅇ치약 유용하게 쓰고 있습니다  정말 좋네요 온가족이 다 쓸 수 있을 정도의 수량이 넉넉해서 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프로폴리스 치약 플러스 200g 5개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "15",
+    "RDate": "20190222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "ㅇㅇㅇ치약 유용하게 쓰고 있습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "온가족이 다 쓸 수 있을 정도의 수량이 넉넉해서 좋아요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867100",
+    "RawText": "항상 쓰고 있는 제품입니다 단맛이 나긴하지만 개운하고 성분도 좋아서 이것만 늘 쓰고 있습니다 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프로폴리스 치약 플러스 200g 5개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20190226",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "단맛이 나긴하지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "성분도 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867107",
+    "RawText": "본가에 있길래 써봤는데, 좋아서 구매했어요. 자극적이지 않고, 입안이 마르지 않아 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프로폴리스 치약 플러스 200g 5개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20190303",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극적이지 않고,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수분감/보습력",
+        "SentimentText": "입안이 마르지 않아 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867146",
+    "RawText": "6개 구입하려고 했는데 5개씩 묶음으로 판매하는 상품이라 1묶음만 주문했어요 생필품 쿠폰까지 사용해서 저렴하게 구입했습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프로폴리스 치약 플러스 200g 5개",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "14",
+    "RDate": "20190711",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "5개씩 묶음으로 판매하는 상품이라 1묶음만 주문했어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "생필품 쿠폰까지 사용해서 저렴하게 구입했습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867249",
+    "RawText": "늘 쓰던 제품이에요 잇몸이 시리고 피가 나고 했었는데 이 제품을 쓰고 난 후에 치아가 개선이 되었어요 저렴하게 잘 샀어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "19",
+    "RDate": "20211224",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "치아가 개선이 되었어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 샀어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867259",
+    "RawText": "오랜 시간동안 닦구 나면 이 시린게 나아집니다 꾸준히 사용하셔야 해요 효과가 즉시 나타나지는 않습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20210815",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "오랜 시간동안 닦구 나면 이 시린게 나아집니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과가 즉시 나타나지는 않습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "867262",
+    "RawText": "아직 큰 효과는 모르겠습니다 다른 치약보다 부드러운 느낌도 들지 않구요 좋다고 해서 비싸게 샀는데 실망입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20210808",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "아직 큰 효과는 모르겠습니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "다른 치약보다 부드러운 느낌도 들지 않구요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸게 샀는데 실망입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "867276",
+    "RawText": "시린이에 좋다고 치과선생님이 써보라고 권해서 구입했어요 일반적인 치약보다 거품이 없는 편이지만 시린이에는 괜찮은 듯 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 120g 1개",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20210527",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "일반적인 치약보다 거품이 없는 편이지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "시린이에는 괜찮은 듯 하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867278",
+    "RawText": "약국전용으로 구입했는데 개운하니 좋은것 같습니다 양치할때 시려서 산건데 아직까지 큰 효과는 못보고 있습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20210519",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운하니 좋은것 같습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "양치할때 시려서 산건데 아직까지 큰 효과는 못보고 있습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "867279",
+    "RawText": "사용기한 2023년 10월 8일까지입니다 배송 빨랐고 늘 쓰던 제품이에요 일반 치약으로 닦고 나면 이 시리고 아픈데 이거 쓰고 많이 나아졌어요 하루 2번이상 14일이상 써야 효과 본다고 적혀있네요 그렇다고 완전히 안 시린건 아니지만 좀 나아요 약국용으로 120g짜리로 나온건데 다른 사람들도 같이 쓰니 금방 쓰네요 더 큰용량 있었으면 좋겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "192",
+    "Word": "47",
+    "RDate": "20210511",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "사용기한 2023년 10월 8일까지입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "일반 치약으로 닦고 나면 이 시리고 아픈데 이거 쓰고 많이 나아졌어요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "하루 2번이상 14일이상 써야 효과 본다고 적혀있네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "그렇다고 완전히 안 시린건 아니지만 좀 나아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "약국용으로 120g짜리로 나온건데 다른 사람들도 같이 쓰니 금방 쓰네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "더 큰용량 있었으면 좋겠습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "867280",
+    "RawText": "원래 사용하는 제품이라 구입했습니다 시린이에도 좋고 치약 질감도 좋아 만족합니다 다 쓰면 또 구매하러 오겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20210510",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "시린이에도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "치약 질감도 좋아 만족합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867281",
+    "RawText": "치약중에 이 치약 만큼 효과가 좋은치약은 없어서 계속 쓰고 있어요 최고에요 배송도 빠르고 안전하게 포장도 잘해주시고 감사해요 싸구요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20210503",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "이 치약 만큼 효과가 좋은치약은 없어서 계속 쓰고 있어요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸구요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867291",
+    "RawText": "가격은 다소 비싸지만 그래도 시린이에는 효과가 있어서 이제품만 사용하고 있어요 만족하는 제품입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 120g 1개",
+    "ReviewScore": "4",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20210116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 다소 비싸지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "시린이에는 효과가 있어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867310",
+    "RawText": "이가 시려서 ㅇㅇ 멀티케어 치약을 사용하고 있습니다 효과 좋아요 배송시 동봉해 주신 젤리 맛있었어요 가격은 좀 내려주세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20200914",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 좀 내려주세요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "867313",
+    "RawText": "몇년 째 ㅇㅇ만 쓰고 있는데 효과가 있어요 그래서 여기저기 알아보는데 여기가 젤 저렴하네요 잘 쓸게요 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20200716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "몇년 째 ㅇㅇ만 쓰고 있는데 효과가 있어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 젤 저렴하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867340",
+    "RawText": "평소 잇몸도 약하고 이가 시려워서 차가운 음식 먹는것도 힘들고 양치할때도 불편해서 치약 새로 알아보다가 ㅇㅇㅇㅇ이 좋다는 평이 많아서 주문해봤습니다. 다른 치약과 비교해서 거품은 약한편이고 멘톨로 인한 화한 매운맛은 조금 덜하고 저는 조금 달달하게 느껴져서 별로네요. 거품이 풍성하지 않아서 세정력을 걱정했으나 뽀드득 개운하게 잘 닦이네요. 특히 헹구고나서 텁텁함없이 무척 상쾌해서 좋았습니다 꾸준히 사용해서 효과 좀 있었으면 좋겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 120g 1개",
+    "ReviewScore": "4",
+    "Syllable": "243",
+    "Word": "56",
+    "RDate": "20190919",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "다른 치약과 비교해서 거품은 약한편이고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "멘톨로 인한 화한 매운맛은 조금 덜하고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "저는 조금 달달하게 느껴져서 별로네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품이 풍성하지 않아서 세정력을 걱정했으나",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "뽀드득 개운하게 잘 닦이네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "특히 헹구고나서 텁텁함없이 무척 상쾌해서 좋았습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "꾸준히 사용해서 효과 좀 있었으면 좋겠어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "867343",
+    "RawText": "추석기간이라 배송이 느릴줄 알았는데 생각보다 빨라서 놀랐습니다 확실히 시린증상은 줄어듭니다 거품이 좀 덜 나는듯 하지만 사용후 상쾌하긴 하구요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "18",
+    "RDate": "20190904",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "확실히 시린증상은 줄어듭니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품이 좀 덜 나는듯 하지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "사용후 상쾌하긴 하구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867348",
+    "RawText": "치약은 ㅇㅇ만 씁니다 ㅇㅇ쓰고 난 뒤로 이 시림을 느껴본적이 거의 없습니다 정말 2주만 사용해봐도 효과가 나타나서 주변 사람들에게 추천하고 다니네요 여기서 구매한 제품은 약국용으로 20그램 더 들어있어 뭔가 더 믿을만 한것 같습니다 치약에서 거품이 많이 안나긴 하는데 그런 치약이 좋은 치약이라고 하더군요 이거 쓰다 어디 놀러가서 다른 치약쓰면 입을 아무리 행궈도 치약이 남는 느낌이 듭니다 그래서 더더욱 ㅇㅇ만 쓰게 되네요 고민하지말고 꼭 쓰세요 사용기한도 넉넉합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "262",
+    "Word": "65",
+    "RDate": "20190829",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "ㅇㅇ쓰고 난 뒤로 이 시림을 느껴본적이 거의 없습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "정말 2주만 사용해봐도 효과가 나타나서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "약국용으로 20그램 더 들어있어",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "치약에서 거품이 많이 안나긴 하는데 그런 치약이 좋은 치약이라고 하더군요 ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "사용기한도 넉넉합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867352",
+    "RawText": "치과에갔는데 ㅇㅇㅇㅇ 치약을 추천해주시더라고요. 약국에는 비싸니깐 여기서 저렴하게 5개 샀습니다 거품은 잘 안나는데 쓰고 나면 왠지모르게 개운함이 오래남네요. 또 다쓰면 쓸꺼같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "100",
+    "Word": "21",
+    "RDate": "20190816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 약국에는 비싸니깐 여기서 저렴하게 5개 샀습니다 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품은 잘 안나는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "쓰고 나면 왠지모르게 개운함이 오래남네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867370",
+    "RawText": "펌프형이라 깔끔하고 편하게 사용 가능해요 양치하고 난 후에 개운하고 입안의 상쾌함이 다른 치약보다 훨씬 오래가기때문에 다른 치약을 못쓰고 비싸도 요것만 쓰게되네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 플** 치약 120g 3개",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "21",
+    "RDate": "20161214",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "펌프형이라 깔끔하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하게 사용 가능해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치하고 난 후에 개운하고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "입안의 상쾌함이 다른 치약보다 훨씬 오래가기때문에 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 비싸도",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "867379",
+    "RawText": "매번 쓰는치약입니다. 다소 맵긴하지만 이가 시려서 쓰는데 이시림이 좋아졌습니다. 시중보다 저렴해서 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 후레쉬 치약 120g 5개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "12",
+    "RDate": "20220825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "다소 맵긴하지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "이가 시려서 쓰는데 이시림이 좋아졌습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "시중보다 저렴해서 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867386",
+    "RawText": "ㅇㅇㅇㅇ을 몇년째 사용중인데 효과 좋습니다 인터넷이 확실히 저렴해서 구매해서 사용중이네요. 배송도 빠르고 저렴해서 득템했어요 25년 2.18일까지인 제품이라 길어요 뚜껑이 원터치가 아닌게 좀 불편하네요 그래도 괜찮습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 후레쉬 치약 120g 5개",
+    "ReviewScore": "5",
+    "Syllable": "122",
+    "Word": "25",
+    "RDate": "20220726",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "ㅇㅇㅇㅇ을 몇년째 사용중인데 효과 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "인터넷이 확실히 저렴해서 구매해서 사용중이네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 득템했어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": " 25년 2.18일까지인 제품이라 길어요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "뚜껑이 원터치가 아닌게 좀 불편하네요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "867422",
+    "RawText": "치약을 사용한 후 또 재구매했어요. 향이 좋고 입안이 깨운하고 좋습니다 단 가격이 약간 부담되긴 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 후레쉬 치약 120g 5개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "15",
+    "RDate": "20210520",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향이 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "입안이 깨운하고 좋습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 약간 부담되긴 하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "867440",
+    "RawText": "빠른 배송 감사하네요. 잘 닦여서 괜찮아요. 이 시린 증상이 완화 된거 같습니다. 단 개운한 맛은 없는 것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 후레쉬 치약 120g 5개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "18",
+    "RDate": "20191111",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 잘 닦여서 괜찮아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "이 시린 증상이 완화 된거 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운한 맛은 없는 것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "867444",
+    "RawText": "예전에 써보고 오랜만에 다시 주문했습니다 예전에 비해 많이 묽어진거 같네요ㅜ 효과는 좋길 바래봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 후레쉬 치약 120g 5개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20190831",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "예전에 비해 많이 묽어진거 같네요ㅜ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과는 좋길 바래봅니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "867446",
+    "RawText": "이가 시려서 구입햇습니다 다른 치약쓰면 시린데 ㅇㅇㅇㅇ치약 쓰면 안시리네요 근데 다만 조금 비싸요. 싼 곳 찾는다고 시간을 소비햇어요다른거 쓰다가 시려서 다시 찾게되엇습니다. 가격만 좀 다운시켯음 좋겠다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 후레쉬 치약 120g 5개",
+    "ReviewScore": "4",
+    "Syllable": "113",
+    "Word": "26",
+    "RDate": "20190822",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 다른 치약쓰면 시린데 ㅇㅇㅇㅇ치약 쓰면 안시리네요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "다만 조금 비싸요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "다른거 쓰다가 시려서 다시 찾게되엇습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격만 좀 다운시켯음 좋겠다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "867453",
+    "RawText": "농도가 너무 묽어서 나오면서 흐르네요ㅜ 중량제로 수분이많은 것인지모르겠지만 너무 묽어서 별롭니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 후레쉬 치약 120g 5개",
+    "ReviewScore": "4",
+    "Syllable": "53",
+    "Word": "11",
+    "RDate": "20190729",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "농도가 너무 묽어서 나오면서 흐르네요ㅜ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "중량제로 수분이많은 것인지모르겠지만 너무 묽어서 별롭니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "867459",
+    "RawText": "시린이때문에 몇년전부터 사용했어요. 시린게 다소 완화된것 같고 ㅇㅇㅇ에서 가장 저렴하게 구매했습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 후레쉬 치약 120g 5개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "11",
+    "RDate": "20180528",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "시린게 다소 완화된것 같고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "ㅇㅇㅇ에서 가장 저렴하게 구매했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867482",
+    "RawText": "보통 치약보다 좀 묽은편입니다 기본치약 사용때보단 시린강도가 줄었네요 계속 사용할 예정을 해봐야겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 후레쉬 치약 120g 5개",
+    "ReviewScore": "4",
+    "Syllable": "56",
+    "Word": "12",
+    "RDate": "20171021",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "보통 치약보다 좀 묽은편입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "기본치약 사용때보단 시린강도가 줄었네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867492",
+    "RawText": "양치하고 나면 개운하고 좋습니다. 처음 써봤는데 짜다는 느낌이 많이 들어서 양을 조절해서 쓰고 있어요 몇가지 치약 두고 돌아가면서 쓰니 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "20",
+    "RDate": "20210213",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치하고 나면 개운하고 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": " 처음 써봤는데 짜다는 느낌이 많이 들어서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "양을 조절해서 쓰고 있어요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "867496",
+    "RawText": "ㅇㅇㅇ님이 광고하는 제품이라서 믿고 구입했습니다 깔끔하고 개운하긴 합니다 단 좀 짠맛이라 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20210327",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "깔끔하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운하긴 합니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "좀 짠맛이라 아쉽네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "867498",
+    "RawText": "소금맛이나서 아이들은 싫어합니다 어른이 사용하기엔 개운하고 좋네요 상품 품질이 좋아요. 마음에 듭니다 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "13",
+    "RDate": "20210405",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "소금맛이나서 아이들은 싫어합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "어른이 사용하기엔 개운하고 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867501",
+    "RawText": "빠른 배송이 마음에 들어요. 배이킹소다가 함유되어서 괜찮을것 같다 냄새도 화한 느낌이라 아직 한번써보고는 어떨지는 모르겠으나 충치와치태와 구취를 제거해준다하니 기대할게요 ㅇㅇㅇ이 판매하니까 믿어봅니다 조금 더 싸면 좋을듯하긴합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "128",
+    "Word": "26",
+    "RDate": "20210418",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "배이킹소다가 함유되어서 괜찮을것 같다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 화한 느낌이라 아직 한번써보고는 어떨지는 모르겠으나",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "충치와치태와 구취를 제거해준다하니 기대할게요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 조금 더 싸면 좋을듯하긴합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "867509",
+    "RawText": "너무 마음에 드네요 추천해요 향도 은은하고 품질도 좋아 딱이네요 확실히 좋은 물건은 가격이 나가지만 ㅇㅇ이 싸서 더 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "18",
+    "RDate": "20220615",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 은은하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋아 딱이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 물건은 가격이 나가지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " ㅇㅇ이 싸서 더 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867511",
+    "RawText": "자극적이네요 ㅠ 양치후 입안 상쾌함도 없어요 매운맛도 강해서 너무 안좋네요 기대하고 샀는데 실망이 큽니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20210523",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극적이네요 ㅠ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치후 입안 상쾌함도 없어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "매운맛도 강해서 너무 안좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "867518",
+    "RawText": "사용해봤는데 입안이 개운하지는 않네요 치아가 깨끗해진다는 느낌도 없습니다 재구매는 안할게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "10",
+    "RDate": "20211029",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "입안이 개운하지는 않네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "치아가 깨끗해진다는 느낌도 없습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "867587",
+    "RawText": "이번 행사기간에 바꿔보니 잘한것 같아요 양치후 개운함도 오래가고 저렴하게 샀고 대용량으로 만족하네요 다음에 또 구매할게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20200924",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": " 양치후 개운함도 오래가고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 샀고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "대용량으로 만족하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867588",
+    "RawText": "맛이 강하지만 입안이 시원해서 좋은가 봅니다 향은 호불호가 있습니다  맛과 향이 강해서 저는 별로지만 남편은 향이 참 좋은가보네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20200924",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "맛이 강하지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "입안이 시원해서 좋은가 봅니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 호불호가 있습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "맛과 향이 강해서 저는 별로지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 강해서 저는 별로지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "남편은 향이 참 좋은가보네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867596",
+    "RawText": "ㅇㅇㅇㅇ 치약(178g×10개) 을 대량구매로 싸게 장만했어요 베이킹소다가 함유되어 구취에도 효과가 좋다 하여 잘쓰고 있네요 재구매한거에요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "15",
+    "RDate": "20201005",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "대량구매로 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "베이킹소다가 함유되어 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "구취에도 효과가 좋다 하여 잘쓰고 있네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 장만했어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867626",
+    "RawText": "치약 이것만 사용합니다 마트에서 두개에 만원 넘게 샀었는데 여기서 이렇게 주문하니 저렴해서 좋아요 패키지가 바뀌었는지 사용하던 거랑 좀 다르긴 하네요 사용하고 나면 개운하니 넘넘 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "4",
+    "Syllable": "104",
+    "Word": "25",
+    "RDate": "20201228",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트에서 두개에 만원 넘게 샀었는데 여기서 이렇게 주문하니 저렴해서 좋아요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "패키지가 바뀌었는지 사용하던 거랑 좀 다르긴 하네요 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "사용하고 나면 개운하니 넘넘 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867640",
+    "RawText": "양을 조금만 짜서 써야지 너무 짭니다 베이킹소다가 함유되어 있어 깨끗이 닦이지만 민트향은 나지 않네요 다른치약과 번갈아 가면서 잘 사용하고 있습니다 저렴한 가격에 잘 샀어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "24",
+    "RDate": "20210203",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "양을 조금만 짜서 써야지 너무 짭니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "베이킹소다가 함유되어 있어",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "깨끗이 닦이지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "민트향은 나지 않네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "다른치약과 번갈아 가면서 잘 사용하고 있습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 잘 샀어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867649",
+    "RawText": "일반치약에 비해 거품은 적지만 닦고 나면 뽀드득한 느낌이 더 듭니다 세정력이 나쁘진 않은 것 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "4",
+    "Syllable": "55",
+    "Word": "15",
+    "RDate": "20210211",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "일반치약에 비해 거품은 적지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 닦고 나면 뽀드득한 느낌이 더 듭니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세정력이 나쁘진 않은 것 같네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "867681",
+    "RawText": "양치하면 가글도 함께한 느낌이에요 치약이 금방 액체로 되네요 가글한것 같이 입안이 얼얼하고 상쾌합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20210308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치하면 가글도 함께한 느낌이에요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "치약이 금방 액체로 되네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "가글한것 같이 입안이 얼얼하고 상쾌합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867702",
+    "RawText": "상품평이 좋아서 시켰는데 양치를 하고나면 개운하고 입속 이물질이 다 빠져 나간것 같은 청량감이 들어요 짭조름한 소금맛도 나고 뭔가 건강하게 양치했다는 느낌이 들어 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "94",
+    "Word": "23",
+    "RDate": "20210310",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치를 하고나면 개운하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "입속 이물질이 다 빠져 나간것 같은 청량감이 들어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "짭조름한 소금맛도 나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "뭔가 건강하게 양치했다는 느낌이 들어 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867705",
+    "RawText": "처음 입에 넣으면 굉장히 짜네요 거품도 안나고 계속 닦으면 거품이 쪼금 나요 매운맛이 강해지며 짠맛이 계속 가네요 소금이 들어있나봅니다 맛은 별론데 아주 개운하면서 구취도 개선된느낌이네요 입안이 깔끔해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "4",
+    "Syllable": "113",
+    "Word": "27",
+    "RDate": "20210311",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "처음 입에 넣으면 굉장히 짜네요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 거품도 안나고  계속 닦으면 거품이 쪼금 나요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "매운맛이 강해지며 짠맛이 계속 가네요 소금이 들어있나봅니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "맛은 별론데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "아주 개운하면서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "구취도 개선된느낌이네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "입안이 깔끔해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867728",
+    "RawText": "좋다고 해서 써봤는데 양치후 오랫동안 개운하네요 치약양을 많이 사용하면 입안에 짠맛이 남아서 신경쓰여요 소량 사용 추천합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20210325",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "양치후 오랫동안 개운하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "치약양을 많이 사용하면 입안에 짠맛이 남아서 신경쓰여요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "867748",
+    "RawText": "마트 행사보다도 더 싸게 샀네요 아이와 함께 사용할 수 있는 치약이라 넘 좋아요 빠른배송에 잘 받았어요 일반 치약보다 확실히 더 개운해서 저희가족 모두 좋아하는 치약입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "25",
+    "RDate": "20210407",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트 행사보다도 더 싸게 샀네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아이와 함께 사용할 수 있는 치약이라 넘 좋아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "일반 치약보다 확실히 더 개운해서 저희가족 모두 좋아하는 치약입니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867750",
+    "RawText": "저흰 이것만 씁니다 저희남편은 처음 쓸때 소금맛이 강하다고 했어요 그런데 이젠 이것만 쓰네요 개운함이 짱이에요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20210407",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "처음 쓸때 소금맛이 강하다고 했어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운함이 짱이에요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867753",
+    "RawText": "가격 싸고 양도 엄청 많아 두고두고 오래 쓸 것 같습니다 양치후 개운함도 오래가는 것 같아요 많이 파세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "17",
+    "RDate": "20210407",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 싸고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양도 엄청 많아 두고두고 오래 쓸 것 같습니다 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "양치후 개운함도 오래가는 것 같아요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867755",
+    "RawText": "항상 이것만 씁니다 이것 쓰다 다른것 쓰면 양치 안한거 같네요 개운한 느낌이 달라요 가격이 비싸요 할인행사 많이 해주시면 좋겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "19",
+    "RDate": "20210407",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "이것 쓰다 다른것 쓰면 양치 안한거 같네요 개운한 느낌이 달라요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싸요 할인행사 많이 해주시면 좋겠어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "867785",
+    "RawText": "칫솔질 후 입안이 개운해서 또 주문했네요 작은아들은 거품이 없어서 싫다고 하네요 그치만 난 개운해서 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20210417",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "칫솔질 후 입안이 개운해서 또 주문했네요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "작은아들은 거품이 없어서 싫다고 하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 난 개운해서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867801",
+    "RawText": "늘 쓰던 치약 ㅇㅇㅇㅇ치약 좋습니다 저번엔 ㅇㅇㅇ치약 샀는데 그것도 좋긴 했어요 좀 짜기는 하지만 게운합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "4",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20210421",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "좀 짜기는 하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "게운합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867805",
+    "RawText": "거품이 적고 약간 짜고 약간 맵지만 사용하고 나면 입안이 깔끔하고 개운해집니다 적응하면 괜찮을것 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "4",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20210423",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품이 적고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "약간 짜고 약간 맵지만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "사용하고 나면 입안이 깔끔하고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운해집니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867814",
+    "RawText": "몇년째 사용중입니다 이 치약쓰다 다른 치약 못 쓰겠더라구요 잘 닦이고 개운합니다 추천합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "4",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20210426",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867825",
+    "RawText": "처음 써보는데 상쾌합니다 아이들은 짠맛이 난다고 안 좋아해요 저는 상쾌함이 오래가고 좋은 것 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "4",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20210429",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "상쾌합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "아이들은 짠맛이 난다고 안 좋아해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "상쾌함이 오래가고 좋은 것 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867826",
+    "RawText": "처음 쓸때는 너무 짠맛이 많이 나고 줄줄 흘려내렸어요 자꾸쓰니 이빨이 개운해지네요 적극추천해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "4",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20210429",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "처음 쓸때는 너무 짠맛이 많이 나고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "줄줄 흘려내렸어요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "자꾸쓰니 이빨이 개운해지네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867843",
+    "RawText": "치약 입자는 고운 모래같은 느낌이네요 맛은 당원하고 소금하고 같이 양치하는 느낌이구요 4번 사용 했는데 미백이 되는 것 같기도 하네요 10개 다 사용 할 때 쯤 하얗게 되면 좋겠습니다 ㅇㅇㅇ인데 믿고 사용합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "4",
+    "Syllable": "117",
+    "Word": "31",
+    "RDate": "20210504",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "치약 입자는 고운 모래같은 느낌이네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "맛은 당원하고 소금하고 같이 양치하는 느낌이구요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "4번 사용 했는데 미백이 되는 것 같기도 하네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "10개 다 사용 할 때 쯤 하얗게 되면 좋겠습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "867847",
+    "RawText": "피곤하면 잇몸이 가끔 붓고 아팠는데 컴플리트케어 치약 사용 이후엔 붓지도 않고 입안도 상쾌하고 좋습니다 사용한지 1년이 넘었네요 옆집 이모님께서 잇몸이 자주 붓고 피나신다고 하셔서 추천해 드렸습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "110",
+    "Word": "26",
+    "RDate": "20210504",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "치약 사용 이후엔 붓지도 않고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "입안도 상쾌하고 좋습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "옆집 이모님께서 잇몸이 자주 붓고 피나신다고 하셔서 추천해 드렸습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867849",
+    "RawText": "잇몸이 좋지않아 자주 염증이 생겨 구취도 있는것 같고 해서 바꿨어요 계면활성제가 적어서인지 거품 기대하지마시고 치약이 묽네요 짠내가 두껑열때 확 나긴하지만 잇몸을 위해서 적응해야겠죠 배송도 빠르고 저렴하게 잘샀습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "120",
+    "Word": "27",
+    "RDate": "20210505",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "계면활성제가 적어서인지",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 거품 기대하지마시고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": " 치약이 묽네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "짠내가 두껑열때 확 나긴하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘샀습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867894",
+    "RawText": "처음 사용할때 기존 다른 치약이랑 다르게 짠 느낌이 강하지만 양치 후 더 개운하고 향도 세지 않아 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "17",
+    "RDate": "20210522",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "기존 다른 치약이랑 다르게 짠 느낌이 강하지만",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치 후 더 개운하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 세지 않아 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867896",
+    "RawText": "짠맛나는 치약입니다 약간 ㅇㅇㅇ 순한맛 같은 느낌이네요 쓰고나면 짠맛이 계속 도는 느낌인데 기존에 쓰던 치약들보다 더 많이 헹궈줘야겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "18",
+    "RDate": "20210522",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "짠맛나는 치약입니다 약간 ㅇㅇㅇ 순한맛 같은 느낌이네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "쓰고나면 짠맛이 계속 도는 느낌인데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "기존에 쓰던 치약들보다 더 많이 헹궈줘야겠습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "867914",
+    "RawText": "ㅇㅇㅇ 궁금해서 치약 떨어진 김에 주문해 봤네요 맛은 살짝 짭짤하고 거품이 많이 나진 않네요 구매하실분들 참고하세요 유통기한은 24년까지 넉넉 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "20",
+    "RDate": "20210515",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "맛은 살짝 짭짤하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품이 많이 나진 않네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한은 24년까지 넉넉 하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867924",
+    "RawText": "평이 좋아서 구매했는데 양치후 개운합니다 성분도 베이킹파우더가 주라서 안심되네요 가격은 좀 비싸긴 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "4",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20210519",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치후 개운합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "성분도 베이킹파우더가 주라서 안심되네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 좀 비싸긴 합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "867959",
+    "RawText": "구강 청결해지고 냄새도 좋아졌네요 잇몸도 좋아졌고 이 시림도 완화됐어요 작은거 써보고 큰용량으로 주문했는데 향은 요게 더 낫습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "4",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20220817",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "구강 청결해지고 냄새도 좋아졌네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸도 좋아졌고 이 시림도 완화됐어요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향은 요게 더 낫습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867974",
+    "RawText": "마스크 쓰기 시작할때부터 ㅇㅇㅇ로 갈아타면서이 치약만 쓰고 있네요 확실히 입냄새 덜나고 잇몸에도 좋습니다 처음 쓰는 분들은 거품도 적고 첫 사용감이 짜다 싶으실텐데 계속 쓰다보면 오히려 개운함을 느끼실꺼에요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "115",
+    "Word": "27",
+    "RDate": "20210806",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "확실히 입냄새 덜나고 잇몸에도 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 처음 쓰는 분들은 거품도 적고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "첫 사용감이 짜다 싶으실텐데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "오히려 개운함을 느끼실꺼에요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "867986",
+    "RawText": "잘 받았어요 항상 이 치약만 씁니다 개운하고 좋은 가격에 구매했네요  이가 시린것도 많이 좋아졌어요 잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20210126",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 좋은 가격에 구매했네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "이가 시린것도 많이 좋아졌어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868071",
+    "RawText": "어머니 써보시라고 한개 드렸는데 잇몸에 피나던게 없어지고 입냄새도 안난다고 너무 좋아하시네요 그래서 어머니께 선물로 사드렸습니다 수량도 많아서 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "18",
+    "RDate": "20210130",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸에 피나던게 없어지고 입냄새도 안난다고 너무 좋아하시네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "수량도 많아서 좋습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868078",
+    "RawText": "항상 쓰는 치약이에요 할인쿠폰이 있기에 쟁겨두려고 샀네요 양치후 개운함도 좋구요 싼가격에 잘 구매했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20210203",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인쿠폰이 있기에 쟁겨두려고 샀네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치후 개운함도 좋구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼가격에 잘 구매했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868080",
+    "RawText": "구취제거도 탁월하고 닦고나면 개운하니 요즘 이 치약만한게 없는거 같습니다 가격은 비싸지만 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20210205",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "구취제거도 탁월하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "닦고나면 개운하니 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸지만 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "868099",
+    "RawText": "배송 엄청 빠릅니다 수량이 많아서 넉넉히 2년은 쓸 듯 하네요 신기한게 이거 쓴 뒤론 구취가 사라졌습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "16",
+    "RDate": "20210226",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "수량이 많아서 넉넉히 2년은 쓸 듯 하네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "신기한게 이거 쓴 뒤론 구취가 사라졌습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868111",
+    "RawText": "딸님이 많이 짜다 하는데 원래 그런거라고 써보라고 밀어붙이는 중입니다 효과 있음 다시 구매하러 오겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "4",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20210315",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "딸님이 많이 짜다 하는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과 있음 다시 구매하러 오겠습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "868132",
+    "RawText": "어제 마트 가보고 가격에 깜놀했네요 두개 9900원 이더라고요 여기서 완전 싸게 잘 샀네요 아침에 일어나서 입냄새도 훨씬 덜한듯 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "19",
+    "RDate": "20210321",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "완전 싸게 잘 샀네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "아침에 일어나서 입냄새도 훨씬 덜한듯 합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868144",
+    "RawText": "처음 사용할때는 치약 맛이 짜다고 느껴졌는데 그 후에는 짠맛이 조금 덜 느껴지네요 향도 좋고 양치 후 개운함도 기존에 사용하던 치약보다 더 좋습니다 양이 넉넉해서 한동안 잊어버리고 살 것 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "108",
+    "Word": "29",
+    "RDate": "20210323",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "처음 사용할때는 치약 맛이 짜다고 느껴졌는데 그 후에는 짠맛이 조금 덜 느껴지네요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치 후 개운함도 기존에 사용하던 치약보다 더 좋습니다 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": " 양이 넉넉해서 한동안 잊어버리고 살 것 같네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868159",
+    "RawText": "사용햐보니 여러 사람 후기대로 소금끼 있는 짠맛에 양치 후에 개운한 느낌이 듭니다 어머니가 특히 필요하실 것 같아 구매했는데 좋아하셔서 다행이에요 .택배기사님 수고많으셨습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "22",
+    "RDate": "20210327",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "소금끼 있는 짠맛에",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치 후에 개운한 느낌이 듭니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868166",
+    "RawText": "거품도 잘 안나고 깨끗하게 닦이지 않는것 같습니다 ㅇㅇㅇ치약 쓰고있는데 써보구 갠찮으면 갈아 탈라고 했는데 ㅇㅇㅇ 한참 못따라오네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "3",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20210330",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품도 잘 안나고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "깨끗하게 닦이지 않는것 같습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  }
+]

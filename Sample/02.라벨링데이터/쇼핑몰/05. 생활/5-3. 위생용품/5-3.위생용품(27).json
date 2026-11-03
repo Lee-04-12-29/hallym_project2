@@ -1,0 +1,3566 @@
+[
+  {
+    "Index": "488364",
+    "RawText": "마스크 끈길이가 길어서 좋구요 얼굴을 다가려주는크기라서 만족합니다 오늘 다시 더 주문하려구요 가격도 너무 좋아요 ㅎㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20210830",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "마스크 끈길이가 길어서 좋구요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "얼굴을 다가려주는크기라서 만족합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 너무 좋아요 ㅎㅎ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488365",
+    "RawText": "품질 좋아요.  써본 후로는 계속 주문해서 쓰고 있어요. 이번에 300개 주문했네요. 그런데 이번 제품은 좀 얇아진 느낌이네요. 무게를 재보니 우리저울로 이전 것은개당 44g 인데 이번에 온것은 42g이네요. ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "80",
+    "Syllable": "119",
+    "Word": "28",
+    "RDate": "20211002",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 좋아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "이번 제품은 좀 얇아진 느낌이네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "이전 것은개당 44g 인데 이번에 온것은 42g이네요. ㅠㅠ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "488372",
+    "RawText": "3번째 구입임니다. 배송 빠르고 가격싸고 귀에 거는 끈도 부드럽고 디자인도 무난함니다. 아프지 않고 마음에 듬니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20211006",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격싸고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "귀에 거는 끈도 부드럽고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인도 무난함니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "아프지 않고 마음에 듬니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488380",
+    "RawText": "깜박하고 상품평이 늦었네요. 하루종일 써도 귀가 아프지 않고 보풀도 안 생겨 좋네요. 사이즈가 넉넉해서 얼굴이 작은분은 비추입니다. 가격도 저렴하고 전 넘 만족합니다. 집에 더 비싸게 구입한 여러종류의 마스크가 있지만 요즘 이 마스크만 써요. 개수도 넉넉하게 보내주셔서 감사합니다^^ 재구매할게요~~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "167",
+    "Word": "38",
+    "RDate": "20210928",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "하루종일 써도 귀가 아프지 않고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "보풀도 안 생겨 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈가 넉넉해서 얼굴이 작은분은 비추입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "개수도 넉넉하게",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488381",
+    "RawText": "5개씩 묶음으로 되어있으며 마감처리 좋았어요 불필요한 박스포장이 없어 저렴한것 같아요 제품 자체는 매우 좋았습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20210829",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "5개씩 묶음으로 되어있으며 마감처리 좋았어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "불필요한 박스포장이 없어 저렴한것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488382",
+    "RawText": "귀 편한 마스크 구매하려고 여러 제품으로 알아보고 구매했는데 정말 귀 편하고 숨쉬기도 좋으네요 아들에게 두 가지 중 선택하라고 하니 이걸로 하겠다고 하네요 귀 편하다고 사용후 재구매 할려고 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "109",
+    "Word": "28",
+    "RDate": "20210901",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "정말 귀 편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기도 좋으네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀 편하다고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488397",
+    "RawText": "큰사이즈 찾다가 구매하였는데 사이즈는 딱좋네요 직접사용하는건 아니지만 기대합니다. 출고는 바로 되었는데 연휴여파인지 중간에 배송이 좀 지연되었네요 품질 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "80",
+    "Syllable": "88",
+    "Word": "18",
+    "RDate": "20210927",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "큰사이즈 찾다가 구매하였는데 사이즈는 딱좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488403",
+    "RawText": "호흡하기 불편하고 넘 안좋습니다.  귀도 아프고 맘에 안듭니다~  재구매안할래요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "9",
+    "RDate": "20210907",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "호흡하기 불편하고 넘 안좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 아프고 맘에 안듭니다~ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "488417",
+    "RawText": "잘하고 다닙니다 답답하지도 않고 가격이 저렴해서 더욱더 만족합니다 강츄입니다 오래써도 귀가 안 아프길 바래봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20210829",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "답답하지도 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서 더욱더 만족합니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "오래써도 귀가 안 아프길 바래봅니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "488419",
+    "RawText": "늘 구매하는 ㅇㅇ마스크. 마스크가 커서 입에 안 닿아서 좋고, 귀가 안 불편합니다. 이거 말고 딴 것 잠시 썼다가 귀 아파서 너무 불편했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "80",
+    "Word": "22",
+    "RDate": "20210831",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "마스크가 커서 입에 안 닿아서 좋고, ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀가 안 불편합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488427",
+    "RawText": "가격이 저렴해서 안좋으면 어쩌나 살짝 걱정했는데 정말 좋습니다. 일단 냄새 안나고 보풀일어나지 않고, 귀가 편합니다. 좋은 제품 저렴하게 구압할수 있게 해주셔서 감사합니다~ 번창하세요~^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "105",
+    "Word": "23",
+    "RDate": "20210829",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새 안나고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "보풀일어나지 않고, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀가 편합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488430",
+    "RawText": "끈 길이가 길어서 남자들에게 편해요... 아들이 다른것 많은데 이것만 찾아요 벌써 3번째 구매중입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20210902",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "끈 길이가 길어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 남자들에게 편해요...",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488439",
+    "RawText": "화장품이 잘안묻네요 good 저렴한 가격에 넉넉하게 구입했더니 마음이 편안하네요 잘 쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "11",
+    "RDate": "20210829",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "화장품이 잘안묻네요 good",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "넉넉하게 구입했더니 마음이 편안하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488454",
+    "RawText": "써보니 너무 편하고 좋습니다. 한여름에도 이렇게 편하게 쓴 kf94는 잘 없을것 같아요.  하루종일 직장에서 마스크써야하는 남편도 학교가고 학원가는 아이도 모두 이것만 쓰네요. 집에 다른 브랜드 마스크는 그대로 있어요. 편한걸 찾으신다면 강추예요~♡",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "139",
+    "Word": "31",
+    "RDate": "20210902",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "써보니 너무 편하고 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "한여름에도 이렇게 편하게 쓴 kf94는 잘 없을것 같아요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편한걸 찾으신다면 강추예요~♡",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "하루종일 직장에서 마스크써야하는 남편도 학교가고 학원가는 아이도 모두 이것만 쓰네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488459",
+    "RawText": "얇고 여름에 사용하기 편하고 귀쪽의 끈도 많이 부드러워 아프지도 않아요. 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "11",
+    "RDate": "20210921",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름에 사용하기 편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "귀쪽의 끈도 많이 부드러워 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "아프지도 않아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488475",
+    "RawText": "삼품평 좋아 구매했는데 좋으네요. 냄새도 없고 귀걸이 편해서 아프지 않고 거기에 저렴한 가격까지 부담 없어 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20211008",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 없고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀걸이 편해서 아프지 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격까지 부담 없어 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488480",
+    "RawText": "비닐 포장이라 아쉽긴 했지만 배송 빠르고 가성비가 좋습니다. 크기도 넉넉해서 딱 맞네요. 흐물거리지 않고 각이 잡혀서  입술에 닿지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "80",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20210831",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기도 넉넉해서 딱 맞네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "흐물거리지 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 각이 잡혀서  입술에 닿지 않습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488481",
+    "RawText": "역시 좋은 제품이네요 품질 좋고 저렴해서 지인한테 추천 중입니다^^ 국산 원자재를 썼다하니 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20210831",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 지인한테 추천 중입니다^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "국산 원자재를 썼다하니 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488491",
+    "RawText": "마스크가 얼굴에 잘맞고  국산이라고해서  주문했는데 가격도 괜찮고 좋아요 귀도 안 아프길 바래봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20210831",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "마스크가 얼굴에 잘맞고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "국산이라고해서  주문했는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 괜찮고 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 안 아프길 바래봅니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "488497",
+    "RawText": "마스크 완전 좋아요~~~ 적립금 사용해서 저렴하게 구입했어요.. 국산부자재에 국내제작까지 완전 좋아요~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "11",
+    "RDate": "20210828",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금 사용해서 저렴하게 구입했어요..",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "국산부자재에 국내제작까지 완전 좋아요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488501",
+    "RawText": "가격 대비 가성비가 너무 좋습니다 숨 쉬기도 편하고 다음에도 또 구매하겠습니다. 색상만 좀 더 다양했으면 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20210908",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 대비 가성비가 너무 좋습니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨 쉬기도 편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상만 좀 더 다양했으면 하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "488502",
+    "RawText": "가격이 착해 구매했네여 마스크가 좀 커서 얼굴 큰 분들에겐 좋을 듯 합니다. 오래착용하면 귀는 좀 아파요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "70",
+    "Syllable": "58",
+    "Word": "16",
+    "RDate": "20210928",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 착해 구매했네여",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "마스크가 좀 커서 얼굴 큰 분들에겐 좋을 듯 합니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "오래착용하면 귀는 좀 아파요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "488522",
+    "RawText": "가격도저렴하고 내가족이 사용하는것과같이 만들었다고하여  믿고  구매해서  한장을꺼내 사용하고 한시간도  안되어  고무줄이  다 끈어지고  너무실망입니다 ㅇㅇㅇㅇ어떻게  그런상품을 만들어 판매하는지~   싼게 비지떡이란말 절실히 느껴집니다 어차피 만드는 상품 고객들이 신뢰할수 있는 견고한 상품 만들어주세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "30",
+    "Syllable": "170",
+    "Word": "31",
+    "RDate": "20210914",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도저렴하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "고무줄이  다 끈어지고  너무실망입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "싼게 비지떡이란말 절실히 느껴집니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "고객들이 신뢰할수 있는 견고한 상품 만들어주세요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "488542",
+    "RawText": "마스크를 착용하니  안 편하고  귀도 아프고 숨쉬기도 불편해서  사용하기에 편하지가 않다. 가성비 별로인 제품이라 생각돈다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "69",
+    "Word": "15",
+    "RDate": "20210827",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "마스크를 착용하니  안 편하고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 아프고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기도 불편해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기에 편하지가 않다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 별로인 제품이라 생각돈다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "488548",
+    "RawText": "얇아서숨쉬기편한데 너무얇아서94가맞긴하는걸까하는의문이... 귀거는부분도안아프고착용했을때얼굴에뜨는부분이없어좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "3",
+    "RDate": "20210902",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기편한데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "너무얇아서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "94가맞긴하는걸까하는의문이...",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀거는부분도안아프고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "착용했을때얼굴에뜨는부분이없어좋아요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488564",
+    "RawText": "사이즈 넉넉해서 편하고 저렴한 가격에 잘 쓰고 있어요. 좋은 제품 감사해요. 한번씩 김서림이 끼는것 빼곤 다 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "64",
+    "Word": "17",
+    "RDate": "20211004",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈 넉넉해서 편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 잘 쓰고 있어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "한번씩 김서림이 끼는것 빼곤",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "488577",
+    "RawText": "가격이 너무 저렴해서 긴가민가 하고 샀는데 너무 만족합니다~~착용감도 편하고 정말 좋아요~~또 사야겠어요~~~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "12",
+    "RDate": "20210917",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 너무 저렴해서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감도 편하고 정말 좋아요~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488590",
+    "RawText": "기대이상으로 좋아요 가볍구 편안합니다. kf94인데도 가격이 만원대라니 한셋트 더 주문합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "10",
+    "RDate": "20210907",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍구",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 편안합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " kf94인데도",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 만원대라니 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488602",
+    "RawText": "가격이 비싼데 품질은 안좋네요 냄새도 나고 답답해서 사용 못하고 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "39",
+    "Word": "10",
+    "RDate": "20210830",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싼데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 안좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 나고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "답답해서 사용 못하고 있어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "488616",
+    "RawText": "넘 착한 가격에 구입하여 잘 사용하고 있습니다ㆍ 약간 작은듯 한데 괜치ㅡㄴㅎ아요ㆍ 양 옆이 조금 넓었으면 좋을텐데 하는 아쉬움이 있네오ㅡ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "76",
+    "Word": "19",
+    "RDate": "20210907",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "넘 착한 가격에 구입하여",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "약간 작은듯 한데 괜치ㅡㄴㅎ아요ㆍ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "양 옆이 조금 넓었으면 좋을텐데 하는 아쉬움이 있네오ㅡ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "488619",
+    "RawText": "사이즈가 큰편이어서 하루종일 쓰고 있어도 귀가 아프지 않아요. 오래쓰면 흐물거림은 생기는 거 같네요. 다른건 괜찮습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20210828",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈가 큰편이어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "하루종일 쓰고 있어도 귀가 아프지 않아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "오래쓰면 흐물거림은 생기는 거 같네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "488624",
+    "RawText": "세번째 구매합니다~  숨쉬기편하고 귀도아프지않아좋아요  가격도 너무착해서 계속 구매할예정입니다~^^ 5매씩하나로 포장되어있어서 더 좋은거같아요 가족들 가방에, 차에  비상용으로  넣어두었어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "106",
+    "Word": "17",
+    "RDate": "20210905",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기편하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도아프지않아좋아요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 너무착해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "5매씩하나로 포장되어있어서 더 좋은거같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488625",
+    "RawText": "저렴한가격에 100장이나되고 일회용이라 한번 사용하고 버리기 좋습니다. 보풀이 쉽게 생기기는게 단점입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "60",
+    "Syllable": "58",
+    "Word": "11",
+    "RDate": "20210831",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한가격에",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "100장이나되고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "일회용이라 한번 사용하고 버리기 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "보풀이 쉽게 생기기는게 단점입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "488640",
+    "RawText": "KF94라 그런지 좀 두툼해요. 김서림이 생겨서 불편하네요 8월이라 아직 더워서 숨 쉬기 힘들긴 하지만 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20210829",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "KF94라 그런지 좀 두툼해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "8월이라 아직 더워서 숨 쉬기 힘들긴 하지만 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "김서림이 생겨서 불편하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "488645",
+    "RawText": "싸이즈는 조금작고 귀가편한게아니고 구무줄 너무 길어서  불편하네요~ 국산원자재라는데 의심이 갑니다 ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "10",
+    "RDate": "20210831",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "싸이즈는 조금작고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀가편한게아니고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "구무줄 너무 길어서  불편하네요~ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "국산원자재라는데 의심이 갑니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "488647",
+    "RawText": "11,900원에 100매에 국산인데 가격이 너무 좋아서 꾸준히 구매하고 있습니다. 귀도 안 아프고 마스크와 입이 잘 안 닿아서 좋아요. 이번에 200매도 나왔네요. 다음엔 200매로 구매할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "108",
+    "Word": "24",
+    "RDate": "20210831",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "11,900원에",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "100매에",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "국산인데 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 너무 좋아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 안 아프고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "마스크와 입이 잘 안 닿아서 좋아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488698",
+    "RawText": "낱개 포장보다 환경에 도움이 되고, 가방이나 차안에 두고 쓰기에도 정말 좋네요. 품질도~good입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "56",
+    "Word": "12",
+    "RDate": "20210829",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "가방이나 차안에 두고 쓰기에도 정말 좋네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도~good입니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488702",
+    "RawText": "가격, 제품질 좋고 쓰기 편하고 진짜 좋아요. 이번에 두번째 구매한 것으로 만족합니다 많이 파세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "14",
+    "RDate": "20210909",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격, 제품질 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품질 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "쓰기 편하고 진짜 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488727",
+    "RawText": "저렴한 가격으로 좋은상품 ㅇㅇㅇㅇ kf94 마스크 구매하여 매우만족합니다. 귀도 안아프길 바래봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "11",
+    "RDate": "20211001",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격으로",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 안아프길 바래봅니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "488738",
+    "RawText": "마스크가 얇고   사이즈도 커서  좋아요.가격도 많이 저렴하네요. 오래쓰면 귀는 아프지만 나머지는 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "12",
+    "RDate": "20210827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "마스크가 얇고  ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈도 커서  좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 많이 저렴하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "오래쓰면 귀는 아프지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "488752",
+    "RawText": "멤버십 할인 받으니 넘 저렴합니다 부담스럽지 않게 사용 할 듯 크기는 타 제품에 비해 조금 큰 듯 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "18",
+    "RDate": "20211006",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "멤버십 할인 받으니 넘 저렴합니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "부담스럽지 않게 사용 할 듯 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기는 타 제품에 비해 조금 큰 듯 합니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "488759",
+    "RawText": "저는 마스크는 이 마스크만 써요 착용감도 좋고 귀도 아프지 않답니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "10",
+    "RDate": "20210918",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 아프지 않답니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488763",
+    "RawText": "새부리형으로 착각하고 샀어요. 받고 보니까 아니네요. 마스크가 커서 귀도 편하고 쓰기 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20211013",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "새부리형으로 착각하고 샀어요. 받고 보니까 아니네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "마스크가 커서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "쓰기 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488787",
+    "RawText": "일단 국산제품이라  믿을 수 있어 좋았구요. 포장도 깔끔하고  얇아서 더운 여름에  잘 착용하고 다녔어요. 5개씩 들어있어요~^^ 오래 마스크를 하다보면 다 그렇듯이 답답한 감은 있어요.ㅎ 냄새는 나지 않아 좋네요. 맘에 드는 마스크라 여러번 구입해 사용합니다! *사진 첨부가 잘 안되네요..  ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "90",
+    "Syllable": "165",
+    "Word": "38",
+    "RDate": "20210826",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "국산제품이라  믿을 수 있어 좋았구요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 더운 여름에  잘 착용하고 다녔어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "다 그렇듯이 답답한 감은 있어요.ㅎ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새는 나지 않아 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488806",
+    "RawText": "요즘 우리집은 마스크 이것만 사용해요 공간도 넓고 숨쉬기도 편하고 가격저렴하니  선물하기도 편하고 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20210821",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "공간도 넓고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": " 숨쉬기도 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격저렴하니",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488819",
+    "RawText": "가격도 저렴하고 다른 94 마스크보다 얇고 편한것 같아요 크기도 커서 가성비  갑이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "48",
+    "Word": "12",
+    "RDate": "20210814",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "다른 94 마스크보다 얇고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편한것 같아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기도 커서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비  갑이네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488822",
+    "RawText": "정말좋아요 작년에는 여름에 덥고 답답해서 kf94를 안쓰고 kfad를  썼는데 올해에는 코로나가 창궐해서 어쩔수없이 kf94를 써야만 했는데 ㅇㅇ 마스크는 정말 이름 그대로 ㅇㅇ마스크에요 한여름에 썼는데도 답답하지않고 숨쉬기도 편했어요 귀도 아프지않고요 가격도 저렴해서 더더욱 좋습니다 게다가 5장씩 포장되어있어서 쓰레기를 조금이나마 줄일수있어서 좋아요 전 계속 이 마스크 쓸거에요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "213",
+    "Word": "45",
+    "RDate": "20210826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "한여름에 썼는데도 답답하지않고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기도 편했어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 아프지않고요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488840",
+    "RawText": "날널해서 좋아요 가격대비 좋네요 여름에 못 썼고 겨울이나 가을 때 써야겠어요. 숨쉬기가 편하길 바래봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20210826",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "날널해서 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 여름에 못 썼고 겨울이나 가을 때 써야겠어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": " 숨쉬기가 편하길 바래봅니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "488841",
+    "RawText": "요즘엔 마스크가 필수라서 이것저것 사보게 되는데 꿈에그린 k94는 아주 만족하고 강추합니다. 착용감도 좋고 답답하지 않고 가격도 저렴하고 너무 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "84",
+    "Word": "19",
+    "RDate": "20210826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " k94는 아주 만족하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "답답하지 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격도 저렴하고 너무 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488842",
+    "RawText": "사이즈가 넉넉하고 94마스크 치고  얇고 귀도 편하네요 얼굴이 크신 분들도 편하게 쓸 수 있을꺼 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "15",
+    "RDate": "20210818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈가 넉넉하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "94마스크 치고  얇고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 편하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "얼굴이 크신 분들도 편하게 쓸 수 있을꺼 같아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488856",
+    "RawText": "kf94 가격이 안정화되며 예전처럼 못 구해서 사재기 하기 보다는 필요할때마다 구매하고 있습니다  무난한 품질에 괜찮아요 국산이라니 기대가 됩니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "81",
+    "Word": "18",
+    "RDate": "20210814",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "무난한 품질에 괜찮아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "국산이라니 기대가 됩니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "488863",
+    "RawText": "마스크가 크다고 해서 샀는데 사이즈 좋습니다  얇긴 하지만 얼굴 큰 사람에게는 강추입니다 용량도 많아 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20210818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "마스크가 크다고 해서 샀는데 사이즈 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇긴 하지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "얼굴 큰 사람에게는 강추입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "용량도 많아 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488872",
+    "RawText": "저렴한 가격에 잘 쓰고 있습니다 매일 몇개씩 사용하는 소모품이다 보니 가성비 좋습니다. kf94라고 하니 믿어봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20210820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가성비 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " kf94라고 하니 믿어봅니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "488874",
+    "RawText": "귀가 안 이픈 마스크라고 하더니 진짜 좀 안 아픈거 같아요~ 가격이 착해서 재구매했어요~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "49",
+    "Word": "13",
+    "RDate": "20210825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀가 안 이픈 마스크라고 하더니 진짜 좀 안 아픈거 같아요~",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 착해서 재구매했어요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488876",
+    "RawText": "검은색 마스크 구입해서   잘사용하다가 여름이라 흰색도 사보았네요 귀도 덜아프고 가격도 넘저렴하고 94 라 믿을수있고 여러모로 만족합니다 1회용이라   부담스런가격이 아니라 더 좋아요~ 앞으로도 쭉 이용할것같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "118",
+    "Word": "24",
+    "RDate": "20210825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 덜아프고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 넘저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 94 라 믿을수있고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "1회용이라   부담스런가격이 아니라 더 좋아요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488877",
+    "RawText": "써보고 가성비  너무 좋아 계속 주문하게 되네요. 사이즈도 넉넉한편, 빠른배송, 저렴한 가격, 4중구조에 국산자재까지 나무랄데가 없네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "76",
+    "Word": "16",
+    "RDate": "20210820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가성비  너무 좋아 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈도 넉넉한편, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "4중구조에 국산자재까지 나무랄데가 없네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "국산자재까지 나무랄데가 없네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488879",
+    "RawText": "바스락 소리가 타브랜드 마스크보다 조금 거슬릴정도로 나는 편인데, 가격 생각하면 사이즈나 제품력이나 만족스러워요. 끈도 제법 길어서 엑스자로 꼬아 착용해야 얼추 맞네요!",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "94",
+    "Word": "21",
+    "RDate": "20210813",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소음",
+        "SentimentText": "바스락 소리가 타브랜드 마스크보다 조금 거슬릴정도로 나는 편인데, ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "가격 생각하면 사이즈나 제품력이나 만족스러워요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품력이나 만족스러워요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "끈도 제법 길어서 엑스자로 꼬아 착용해야 얼추 맞네요!",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "488881",
+    "RawText": "진짜 크고 좋아요 귀가 안아프고 지인한테 추천해도 욕먹지 않겠네요 ㅎㅎ 가격은 조금 비싼편입니다 ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20210824",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "진짜 크고 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀가 안아프고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 조금 비싼편입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "488884",
+    "RawText": "사이즈 넉넉하고 냄새도 안나고  얇아서 여름에 좋아요. 끈이 끊어지지 않고 튼튼하길 바래봅니다. 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20210826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈 넉넉하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 안나고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름에 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "끈이 끊어지지 않고 튼튼하길 바래봅니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "488904",
+    "RawText": "재구매 합니다. 사용해보니 피부에 닿는 부분이 너무 부드럽고 좋아요.귀도 아프지 않고...강력추천합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "11",
+    "RDate": "20210817",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "피부에 닿는 부분이 너무 부드럽고 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 아프지 않고...",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488906",
+    "RawText": "한팩에 5장이 들어서 조금은 번거로울수 있어요 한장씩 꺼내 써야하니까요 그렇지만 환경을 생각하면 4장의 비닐팩을 줄일수 있어요  마스크도 가볍고 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "84",
+    "Word": "19",
+    "RDate": "20210818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "한팩에 5장이 들어서 조금은 번거로울수 있어요 한장씩 꺼내 써야하니까요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "마스크도 가볍고 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488917",
+    "RawText": "94로 도톰해서 여름에 쓰기는 덥지만 가을 겨울에 사용하기 좋아요 귀끈이 안 끊어지게 내구성이 좋길 바래봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20210818",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "94로 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "도톰해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름에 쓰기는 덥지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 가을 겨울에 사용하기 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "귀끈이 안 끊어지게 내구성이 좋길 바래봅니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "488950",
+    "RawText": "가격이 저렴하고 귀안아프다고 해서 사봤더니 정말 좋네요 사이즈도 크고 국내산 부자재라 믿음도 가고 완전 맘에듭니다 또사고싶네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20210818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀안아프다고 해서 사봤더니 정말 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": " 사이즈도 크고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "국내산 부자재라 믿음도 가고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488956",
+    "RawText": "대형이라고 신랑도 사용하려고 했는데 ...신랑은 면적도 좀작고 귀도 아프다고 하네요 ~ 여자분들만 추천드려요 얼굴 작은 남자 아이들등..",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "60",
+    "Syllable": "76",
+    "Word": "17",
+    "RDate": "20210814",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "대형이라고 신랑도 사용하려고 했는데 ...신랑은 면적도 좀작고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 아프다고 하네요 ~ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "여자분들만 추천드려요 얼굴 작은 남자 아이들등..",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "488965",
+    "RawText": "넉넉한 치수에 갑갑하지않고 편안하게 착용할수있어  마음에 듭니다 잘쓰겠습니다 감사합니다 내구성이 좋길 바래봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "62",
+    "Word": "12",
+    "RDate": "20210818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "넉넉한 치수에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "갑갑하지않고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편안하게 착용할수있어  마음에 듭니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 내구성이 좋길 바래봅니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "488977",
+    "RawText": "요즘마스크가격 보다저렴하고 여름에 사용하기 편해요 부모님들도 드리고 두루두루 사용합니다 ~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "10",
+    "RDate": "20210814",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "요즘마스크가격 보다저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름에 사용하기 편해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "부모님들도 드리고 두루두루 사용합니다 ~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "488993",
+    "RawText": "가볍고  얼굴에  밀착이 잘되고 여름철에 써도 답답 하지 않아  숨쉬기  편해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "45",
+    "Word": "11",
+    "RDate": "20210815",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "얼굴에  밀착이 잘되고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "여름철에 써도 답답 하지 않아  숨쉬기  편해요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "489001",
+    "RawText": "사이즈 넉넉하구두껍지않아여름에쓰기도부담스럽지않아요 재구매의사있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "3",
+    "RDate": "20210815",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈 넉넉하구",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두껍지않아",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름에쓰기도부담스럽지않아요 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "489011",
+    "RawText": "후기보고 구입후 쓰는데 너무 좋아서 재주문했습니다. 입술이 닫는 안쪽은 넘 부드럽고 조금 큰사이즈라 한여름에 써도 편합니다. 계속 이 마스크만 쓸려구요.  좀 사이즈가 크고 편한걸 찾으시다면 강추합니다.!!^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "117",
+    "Word": "26",
+    "RDate": "20210820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "입술이 닫는 안쪽은 넘 부드럽고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": " 조금 큰사이즈라",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "한여름에 써도 편합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "좀 사이즈가 크고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편한걸 찾으시다면 강추합니다.!!^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "489037",
+    "RawText": "착용했을때 마스크가 불편하고 대용량인데도 가격이 비싼것 같습니다. 사용하기에 간편한건 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "10",
+    "RDate": "20210821",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용했을때 마스크가 불편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "대용량인데도",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싼것 같습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기에 간편한건 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "489045",
+    "RawText": "ㅇㅇㅇㅇ 마스크 착용감도 불편하구요 마스크 특유의 냄새도 나구 안좋아요 재구매 의사 없어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20210824",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감도 불편하구요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "마스크 특유의 냄새도 나구",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "489046",
+    "RawText": "여러번 샀어요 가격싸고 숨쉴때 딸려들어가지도 않고 탄탄해서 좋아요. 여러가지의 색상이면 좋겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "53",
+    "Word": "11",
+    "RDate": "20210823",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격싸고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "숨쉴때 딸려들어가지도 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "탄탄해서 좋아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": " 여러가지의 색상이면 좋겠어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "489051",
+    "RawText": "아주 불편하고 별로에요. 착용하면 귀도 불편합니다. 가격 품질 다 맘에 안 들고, 사이즈도 너무 작아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "15",
+    "RDate": "20210820",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "아주 불편하고 별로에요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용하면 귀도 불편합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 품질 다 맘에 안 들고,",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 다 맘에 안 들고,",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈도 너무 작아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "489053",
+    "RawText": "저렴히 잘삿어요 개별포장 아니라 좀 아쉽네요~~ 크기는  제가 여잔데 좀 커서 고무줄 묶어서 사용해요 ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20210821",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴히 잘삿어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "개별포장 아니라 좀 아쉽네요~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기는  제가 여잔데 좀 커서 고무줄 묶어서 사용해요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "489069",
+    "RawText": "우연히 알게되어 구매해 보았더니 정말 좋네요 사이즈도 넉넉하고 귀도 안아프고 가격도 저렴해서 매일매일 바꿔써도 부담없네요 한장에 백원이면 최고죠 또살꺼예요 굿굿굿",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "90",
+    "Word": "20",
+    "RDate": "20210818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈도 넉넉하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 안아프고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서 매일매일 바꿔써도 부담없네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "한장에 백원이면 최고죠",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "489076",
+    "RawText": "마스크 퀄리티가 생각보다 별로입니다. 끈 끊어짐도 여러개가 있고 착용시 안쪽이 간지럽기도 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20210820",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "마스크 퀄리티가 생각보다 별로입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "끈 끊어짐도 여러개가 있고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "착용시 안쪽이 간지럽기도 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "489080",
+    "RawText": "더운날씨에 얇지도 않고 가볍지도 않아요. 낱개포장이 아니여서 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "90",
+    "Syllable": "38",
+    "Word": "8",
+    "RDate": "20210823",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "더운날씨에 얇지도 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍지도 않아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "낱개포장이 아니여서 아쉽네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "489081",
+    "RawText": "우연히 티비보다 저렴하길래 샀어요 이건 대박 너무좋아요 귀도 편안하고 답답하지도 않고 지인들도 소개해서 많이들 주문했어요 ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20210818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "우연히 티비보다 저렴하길래 샀어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 편안하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": " 답답하지도 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "489083",
+    "RawText": "마스크 사이즈 넉넉하고 좋아요. 일반 대형보다 확실히 더 커요. 숨쉬기는 편하지만 김서림이 종종생겨 불편하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "80",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20210820",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "마스크 사이즈 넉넉하고 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "일반 대형보다 확실히 더 커요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기는 편하지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": " 김서림이 종종생겨 불편하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "489090",
+    "RawText": "크기도 넉넉하고 하루종일 써도  답답하지 않고. 가격도 너무 착해요 국산원자재라 믿을수 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20210824",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기도 넉넉하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "하루종일 써도  답답하지 않고. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 너무 착해요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "국산원자재라 믿을수 있어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "489106",
+    "RawText": "아주좋아요 너무 편하고 좋아서 2세트 추가구매했어요 다음에또 구매의사있어요~굿굿 가격도 너무 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "11",
+    "RDate": "20210821",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "너무 편하고 좋아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 너무 만족합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "489113",
+    "RawText": "장시간 착용해도 깝깝하지 않고 통풍이 잘되고 여름에 땀도 잘않차고 좋아요. 가격만 저렴하면 딱이겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20210823",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "장시간 착용해도 깝깝하지 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "통풍이 잘되고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "여름에 땀도 잘않차고 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격만 저렴하면 딱이겠어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "489115",
+    "RawText": "온종일 쓰고 있어도 부담없이 넘 편해요 가격도 착하구요 KF94니까 안심하고 쓰겠네요 추천합니다 ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20210817",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "온종일 쓰고 있어도 부담없이 넘 편해요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격도 착하구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " KF94니까 안심하고 쓰겠네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "489131",
+    "RawText": "편하다는 평들이 많아서 구입했습니다. 아직 사용전인데 불량품 없고, 부디 편했으면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20210824",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "불량품 없고, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "부디 편했으면 좋겠네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "489138",
+    "RawText": "장점 : 안쪽면이 부들부들해요 단점 : 얼굴 작은편도 아닌데 끈이 너무 길어서 묶어서 써요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "14",
+    "RDate": "20210821",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "안쪽면이 부들부들해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "끈이 너무 길어서 묶어서 써요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "489149",
+    "RawText": "너무 저렴해서 의심이 갔지만 제품 받아보니 국산제품에 FDA등록에 KF94에  믿을만 하네요  맘에 듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20210819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "너무 저렴해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "국산제품에",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " FDA등록에 KF94에  믿을만 하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "489159",
+    "RawText": "너무 두껍지 않아서 좋아요. 냄새도 없고 귀도 안 아파요. 무엇보다 5개씩 포장되어 있어 환경도 덜 피해줄 것 같아 마음에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "73",
+    "Word": "20",
+    "RDate": "20210826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "너무 두껍지 않아서 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 안 아파요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "5개씩 포장되어 있어 환경도 덜 피해줄 것 같아 마음에 들어요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "489160",
+    "RawText": "가격은 착한데 사이즈가 넘 커서 착용하면 불편해요 KF94라는데 성능은 믿어도 될까 싶네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20210821",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 착한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈가 넘 커서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용하면 불편해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "KF94라는데 성능은 믿어도 될까 싶네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "489163",
+    "RawText": "국산 원자재~~~~~등 맘에들어 구매했는데 저렴한 가격에 품질, 사이즈 모두 좋아 재구매합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "53",
+    "Word": "11",
+    "RDate": "20210826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "국산 원자재~~~~~등 맘에들어 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 품질, 사이즈 모두 좋아 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈 모두 좋아 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "489165",
+    "RawText": "다른 마스크는 귀가 아팠는데 이건 진짜 귀가 안아파서 좋아요. 가격도 맘에 듭니다. 색상만 다양했으면 딱 좋을 것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "67",
+    "Word": "18",
+    "RDate": "20210826",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "진짜 귀가 안아파서 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격도 맘에 듭니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상만 다양했으면 딱 좋을 것 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "489171",
+    "RawText": "KF94 마스크 적립금 등 사용해서 싸게 주문했네요. 5장씩 들어있고 얇은편이지만 싸니 그러저럭 괜찮네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "70",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20210825",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "KF94 마스크 적립금 등 사용해서 싸게 주문했네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇은편이지만",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸니 그러저럭 괜찮네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "489177",
+    "RawText": "가격대비에 비해 품질이 좋다 비싼 마스크보다도 보풀이 전혀 없고 귀도 편하다 잘 쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "90",
+    "Syllable": "50",
+    "Word": "13",
+    "RDate": "20210819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비에 비해 품질이 좋다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "비싼 마스크보다도 보풀이 전혀 없고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 편하다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "489183",
+    "RawText": "최근 구매한 마스크 중에서 귀거는 부분이 가장 편한 마스크가 아니였나 싶어요 ~ 오래착용시 늘 귀가 아팠는데 너무너무 만족합니다. kf94라고 하는데 믿어보겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "91",
+    "Word": "21",
+    "RDate": "20210826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀거는 부분이 가장 편한 마스크가 아니였나 싶어요 ~",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " kf94라고 하는데 믿어보겠습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "489184",
+    "RawText": "숨쉬기 편하고  귀가 아프지 않아서 다른 비싸게구매한것 보다 먼저 손이 가게 되는 마스크입니딘. 유통기한이 조금 짧은 것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20210816",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기 편하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀가 아프지 않아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 조금 짧은 것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "489204",
+    "RawText": "가격이 저렴해요. 마스크가 얇아서 숨쉬기 편해요. 사이즈가 커서 귀도 안아프고 숨쉬기도 편해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "53",
+    "Word": "12",
+    "RDate": "20210824",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "마스크가 얇아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기 편해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈가 커서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 안아프고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기도 편해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "489207",
+    "RawText": "가격도 저렴하고 할인도 받을수있어 구매해 보았는데 정말 귀도 안아프고 사이즈도 넉넉하고 좋네요 이가격에 이만한 제품없네요 국산부자재로 국내생산이라니 더할나위 없어요 또사고싶어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "98",
+    "Word": "20",
+    "RDate": "20210818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고 할인도 받을수있어 구매해 보았는데 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "정말 귀도 안아프고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈도 넉넉하고 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 이가격에",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "국산부자재로 국내생산이라니 더할나위 없어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "489231",
+    "RawText": "너무 가격이 싸서 제품에 의심이 가지만 착용해보니 좋아요 김서림이 좀 생기는 편이네요. 잘 쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20210815",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "너무 가격이 싸서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용해보니 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "김서림이 좀 생기는 편이네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "489246",
+    "RawText": "한번 사용해본 제품이라 믿고 구매 했습니다. 가격대비 가성비 최고입니다. 품질도 좋고 가격도 착하고.... 강추 합니다...",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "69",
+    "Word": "15",
+    "RDate": "20210806",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 가성비 최고입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착하고....",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "489251",
+    "RawText": "벌써 세 번째 구매했습니다.   얇아서 여름에 써도  숨쉬기가 편안해요. 단 습기가 잘 생겨서 조금 불편해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20210804",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "여름에 써도  숨쉬기가 편안해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "습기가 잘 생겨서 조금 불편해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "489252",
+    "RawText": "크기가 진짜크네요 ㅎㅎ 엄청 편해요 저한텐 살짝 끈이 헐겁긴한데 여름이라너무 딱맞는거누힘들어서 맘에들어요 귀도안아파서 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 마스크 대형100매",
+    "ReviewScore": "100",
+    "Syllable": "69",
+    "Word": "14",
+    "RDate": "20210808",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기가 진짜크네요 ㅎㅎ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 엄청 편해요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "저한텐 살짝 끈이 헐겁긴한데 여름이라너무 딱맞는거누힘들어서 맘에들어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도안아파서 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

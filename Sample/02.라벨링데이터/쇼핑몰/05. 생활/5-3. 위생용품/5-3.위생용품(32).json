@@ -1,0 +1,3632 @@
+[
+  {
+    "Index": "492745",
+    "RawText": "재구매 3번째입니다 편하고 가벼워서 좋아요 ~ 귀도 아프지 않아요~~ 다만 좋아서 그런지 타 제품보다는 비싸요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20210808",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 좋아요 ~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 아프지 않아요~~ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "타 제품보다는 비싸요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "492749",
+    "RawText": "한 번 써보고 너무 좋아서 계속 재구매 하고 있어요.  무엇보다 귀가 너무 편해서 좋아요.가격은 비싸요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "15",
+    "RDate": "20210809",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀가 너무 편해서 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "492753",
+    "RawText": "주변에서 좋다고 추천해서 처음 구매해봤습니다. 잠시 써도 귀가 아프고 숨 쉬는 것도 힘듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20210809",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "잠시 써도 귀가 아프고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨 쉬는 것도 힘듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "492757",
+    "RawText": "대형은 여자가 쓰기엔 너무 커요!  남자들에게는 사이즈 딱일듯! 하지만 얇고 너무 숨쉬기 편해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20210805",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "대형은 여자가 쓰기엔 너무 커요!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "너무 숨쉬기 편해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "남자들에게는 사이즈 딱일듯! ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "492765",
+    "RawText": "ㅇㅇ마스크 한번 사용해보고나서부터 다른마스크는 안써요~ 가격도 갯수도 너무 좋습니다 더운 여름 가볍고 얇고 오라하고 있어도 귀도 안아파서 너무너무 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "85",
+    "Word": "19",
+    "RDate": "20210715",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 갯수도 너무 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "갯수도 너무 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "오라하고 있어도 귀도 안아파서 너무너무 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "492780",
+    "RawText": "처음꺼내서 써본게 줄이끊어졌어요 ㅠ 사이즈는 큰거같은데 피부에닿는 부분이 까슬하니 거슬리네요  그나마 다행인건 두개시켰는데 어찌된건지 하나만 배송이왓고 하나는 준비중이라 바로 취소했네요  생각한거보다  별로네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "40",
+    "Syllable": "117",
+    "Word": "22",
+    "RDate": "20210730",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "처음꺼내서 써본게 줄이끊어졌어요 ㅠ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈는 큰거같은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "피부에닿는 부분이 까슬하니 거슬리네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "492798",
+    "RawText": "KF94  사용했던거보다 숨쉬기는 편하네요. 필터가 적어서 안심할수있는지는 확신이 안서네요.귓부분은 가위로 잘라줘야 깨끗하고 편해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "80",
+    "Syllable": "73",
+    "Word": "13",
+    "RDate": "20210718",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기는 편하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "필터가 적어서 안심할수있는지는 확신이 안서네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귓부분은 가위로 잘라줘야 깨끗하고 편해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "492802",
+    "RawText": "제품 품질은 항상 만족스러워요. 근데 중형쓰다가 땀 많이 나는 여름이라 조금 널널한 감으로 쓰고싶어서 대형 주문했더니 너무 넉넉해서...결국 아빠드렸네요 ㅠㅠㅋㅋ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "90",
+    "Syllable": "90",
+    "Word": "20",
+    "RDate": "20210803",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 품질은 항상 만족스러워요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "대형 주문했더니 너무 넉넉해서...",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "492806",
+    "RawText": "신랑이 무척 가볍고 편하다고 매일 노래를 합니다~ 다음에는 여성용도 주문해야겠어요~ 많이 파세요 강추합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20210728",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "신랑이 무척 가볍고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하다고 매일 노래를 합니다~ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "492807",
+    "RawText": "가볍지도 않고 귀걸이가 불편하네요. 오래 착용하니 귀뒤가 아파요. 여성용이라 그런가 사이즈가 좀 작은거 같아요. 지금은 초등 아이가 사용중 이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "81",
+    "Word": "19",
+    "RDate": "20210716",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍지도 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀걸이가 불편하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "오래 착용하니 귀뒤가 아파요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "여성용이라 그런가 사이즈가 좀 작은거 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "492827",
+    "RawText": "얇긴 얇아요. 근데 끈은 대형에 비해 짧고 마스크면적만 큰 느낌이에요. 이미 한장 써서 반품도 안될테고 그냥 쓰려고요 ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "10",
+    "Syllable": "68",
+    "Word": "18",
+    "RDate": "20210722",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇긴 얇아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "끈은 대형에 비해 짧고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "마스크면적만 큰 느낌이에요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "492828",
+    "RawText": "사이즈가 너무 작고 귀가 아파 재구매는 안할것 같아요  비행기 안에서 오랜 시간 착용해보니 다른 마스크보다 귀가 많이 아팠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "70",
+    "Word": "18",
+    "RDate": "20210804",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈가 너무 작고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀가 아파",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "다른 마스크보다 귀가 많이 아팠어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "492830",
+    "RawText": "너무  맘에든다 기존 마스크 대형은   오래쓰다보니 귀뒤가 당겨서  상처가나구 귀가  너무아팠는데 이  마스크는  너무 편하다 단지  처음배송될때  2개와야하는데  1개만와서 다시 전화하구  받았던게  좀 짜증났다. 가격도 비싸고.. 양이 많았으면 좋겠다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "142",
+    "Word": "29",
+    "RDate": "20210804",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "너무 편하다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸고.. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양이 많았으면 좋겠다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "492831",
+    "RawText": "사이즈가 많이크네요ㅠ 여자고 얼굴 작은편아닌 저에게도 큰편이라 마스크가 뜨네요. 중으로 다시사아할듯 싶어요ㅜ ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "12",
+    "RDate": "20210713",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈가 많이크네요ㅠ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "여자고 얼굴 작은편아닌 저에게도 큰편이라 마스크가 뜨네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "중으로 다시사아할듯 싶어요ㅜ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "492832",
+    "RawText": "역시 ㅇㅇ입니다 편안하게 잘 쓰고 있어요 중형보다 편안해 하네요 라지좋네요. 다쓰면 또 구매하겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20210804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편안하게 잘 쓰고 있어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "중형보다 편안해 하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "라지좋네요. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "492836",
+    "RawText": "얼굴을 많이 가려주고 귀 걸이가 편해서 오래쓰고있어도 편하게 쓸수있어요 넘 좋아요 잘쓰겠습니다 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20210804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "얼굴을 많이 가려주고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀 걸이가 편해서 오래쓰고있어도 편하게 쓸수있어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "492876",
+    "RawText": "일단 쉼쉬기가 편하고  장시간 착용해도 귀가 아프지 않아요. 여름에 야외에 있으면 땀이 많이 나는데 쓰고 벗을때 조금 불편함(귀에 거는 부분이 끊어질수 있어 조심해야 함)",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "80",
+    "Syllable": "95",
+    "Word": "24",
+    "RDate": "20210713",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": " 쉼쉬기가 편하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "장시간 착용해도 귀가 아프지 않아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "쓰고 벗을때 조금 불편함",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "귀에 거는 부분이 끊어질수 있어 조심해야 함",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "492887",
+    "RawText": "마스크 오래착용하고   직업상  일할때 이어폰을 꼭 써야해서 귀뒤쪽이 항상불편하다해서  아들에게 사주었는데  가볍지도 않고  귀  불편함이 있어 매우 별로네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "89",
+    "Word": "18",
+    "RDate": "20210705",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍지도 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀  불편함이 있어 매우 별로네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "492905",
+    "RawText": "ㅇㅇ 사용후 부터는 다른 마스크 못씁니다. 정말 가볍고 편합니다. 최고네요. 4번째 구매했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20210527",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "정말 가볍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편합니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "492915",
+    "RawText": "귀가 아파서 그거때문에 불만스럽네요 그리고 가벼운거 같지도 않아 착용하면 불편합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "46",
+    "Word": "10",
+    "RDate": "20210428",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀가 아파서 그거때문에 불만스럽네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼운거 같지도 않아",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용하면 불편합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "492924",
+    "RawText": "남편열굴이커서 다른마스크는항상불편해했는데 ㅇㅇ마스크써보고너무편하다고하네요~ 단 가격만 싸면 좋겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "7",
+    "RDate": "20210613",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "ㅇㅇ마스크써보고너무편하다고하네요~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격만 싸면 좋겠어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "492930",
+    "RawText": "가볍고 숨쉬기 편해서  홍보 많이했고 지인들이 구입했는데 이번엔 대형 샀더니  여성에게 커요 저는  m이 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20210615",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기 편해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "대형 샀더니  여성에게 커요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "492932",
+    "RawText": "대형도 살짝은 타이트한 느낌이네요^^ 새부리형만 쓰는데 귀걸이 부분이 부직포로 된 건 처음... 가볍지도 않고 불편해서 잘 안 쓸거 같애요...",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "80",
+    "Word": "19",
+    "RDate": "20210618",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "대형도 살짝은 타이트한 느낌이네요^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "귀걸이 부분이 부직포로 된 건 처음...",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍지도 않고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "불편해서 잘 안 쓸거 같애요...",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "492935",
+    "RawText": "그 많은 마스크중에 그래도 여름용이다 시퍼서 주문함.굉장히 가볍고 귀도 안아프고 좋습니다. 다만 마스크 뜯을때 찢어질까 엄청 조심하게 되고 귀부분도 남편은 좀더 길게 뜯으려하니 더 조심스럽더군요~ 그 불편을 감수하더라라도 지금 쓰기에 정말 편했어요~(거의 7시간을 계속 쓰고 있었는데도)",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "90",
+    "Syllable": "160",
+    "Word": "36",
+    "RDate": "20210530",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "굉장히 가볍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 안아프고 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "마스크 뜯을때 찢어질까 엄청 조심하게 되고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "귀부분도 남편은 좀더 길게 뜯으려하니 더 조심스럽더군요~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "지금 쓰기에 정말 편했어요~(거의 7시간을 계속 쓰고 있었는데도)",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "492943",
+    "RawText": "ㅇㅇ 마스크 정말 가벼워요. 사이즈도 커서 편해요. 귀걸이도 여유있어서 대만족입니다. 여름철  마스크쓰는것 걱정했는데 ㅇㅇ 마스크 잘 쓰고 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "81",
+    "Word": "18",
+    "RDate": "20210614",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "정말 가벼워요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈도 커서 편해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "귀걸이도 여유있어서 대만족입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "492946",
+    "RawText": "평소 쓰던것보다 사이즈 많이 크네요 커서 그런지 밀착이 잘 안됩니다  여름에 안쪽 공간이 많아져 덜 더울듯 하긴 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "18",
+    "RDate": "20210615",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "평소 쓰던것보다 사이즈 많이 크네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "커서 그런지",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "밀착이 잘 안됩니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름에 안쪽 공간이 많아져 덜 더울듯 하긴 하네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "492951",
+    "RawText": "귀가 편한거 찾다가 구입했는데 귀가 아프네요. 크기도 크지 않아서 별로구요. 너무 얇다는 느낌이 드네요 가격만 좀더 저렴해도 좋겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "80",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20210507",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀가 아프네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기도 크지 않아서 별로구요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "너무 얇다는 느낌이 드네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격만 좀더 저렴해도 좋겠어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "492952",
+    "RawText": "시중에 일반적인 마스크보단 비싸지만 아들 줄거라 좋은 ㅇㅇ제품 구매했어요. 그리고 쿠폰 활용해서 혜택받았으니 기분좋네요. 남성용으로 큰 사이즈 나와서 더 반갑습니다~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "92",
+    "Word": "20",
+    "RDate": "20210511",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "시중에 일반적인 마스크보단 비싸지만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "남성용으로 큰 사이즈 나와서 더 반갑습니다~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 활용해서 혜택받았으니 기분좋네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "492955",
+    "RawText": "간편하지도 않고 호흡도 안좋고 귀걸이도 꺼칠해서 요즘같은 시기에 최악이네요~ 다른 마그크에 품질도 별로고 가격은 많이 비싸요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20210512",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "간편하지도 않고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "호흡도 안좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "귀걸이도 꺼칠해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "요즘같은 시기에 최악이네요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "다른 마그크에 품질도 별로고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 많이 비싸요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "492957",
+    "RawText": "디자인이 얼굴형에 따라 호불호가 있을 듯 해요. 저한테는 잘 어울리지가 않고 얼굴에 밀착되지않아요. 남편은 잘 쓰고 다녀요. ㅇㅇ 마스크가 가격이 좀 있는편인데 뭐가 그리 좋은건지는 모르겠네요. 저는 다른 입체마스크94가 숨쉬고 말하기 공간이 더 편하고 ㅇㅇ는 숨쉬는게 좀 불편하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "80",
+    "Syllable": "159",
+    "Word": "38",
+    "RDate": "20210511",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 얼굴형에 따라 호불호가 있을 듯 해요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "저한테는 잘 어울리지가 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "얼굴에 밀착되지않아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "마스크가 가격이 좀 있는편인데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "다른 입체마스크94가 숨쉬고 말하기 공간이 더 편하고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "ㅇㅇ는 숨쉬는게 좀 불편하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "492967",
+    "RawText": "다른 마스크들 대형 특대형 여러가지 사봤지만 울남편한텐 은근 작아서 ㅜㅜ 몇번이고 이번꺼는 큰거야 더큰거야 말하면서 주기 민망했는데 드디어 진짜 대형 찾았네요 ! 처음 착용하자마자 오!! 귀가 하나도 안아프다고 너무 좋아해요 여차하면 귀부분 튿어서 특대형으로 써라고 할랫는데 그럴 필요없이 잘 맞다네요 ㅋㅋ ㅇㅇ때는 이미 다른 대형마스크에 많이 실망한터라 대형이래봤자 또 작겠지.. 기대감 1도 없어서 안샀었는데 이건 찐이네요ㅋ 하 ㅇㅇ때 살껄 ㅋㅋㅋ 저한텐 대형이 늠 커서 미듐으로 추가구매 하려구요 kf80도 대형 만들어주세요!",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "297",
+    "Word": "70",
+    "RDate": "20210507",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "드디어 진짜 대형 찾았네요 !",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "오!! 귀가 하나도 안아프다고 너무 좋아해요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "귀부분 튿어서 특대형으로 써라고 할랫는데 그럴 필요없이 잘 맞다네요 ㅋㅋ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "대형이래봤자 또 작겠지.. 기대감 1도 없어서 안샀었는데 이건 찐이네요ㅋ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "저한텐 대형이 늠 커서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "492975",
+    "RawText": "너무 커요.  턱 밑에 서 한참 내려가있음ㅠㅜ 여름인데 얼굴을 다 덮으니 불편하고 더워요. 코로나이후 여러제품 써봤지만 이거만큼 불편한게 없네요. 남편도 회사서 도중에 다른제품으로 바꿔썼대요ㅠㅜ 남은제품 어째요.ㅠㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "20",
+    "Syllable": "120",
+    "Word": "26",
+    "RDate": "20210607",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "너무 커요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "턱 밑에 서 한참 내려가있음ㅠㅜ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "여름인데 얼굴을 다 덮으니 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "불편하고 더워요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "이거만큼 불편한게 없네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "492979",
+    "RawText": "착용감도 너무좋고 귀가편해서 진짜좋은거 같아요 가볍고 답답한 느낌도 없어서 정말잘산거 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20210609",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감도 너무좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀가편해서 진짜좋은거 같아요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "답답한 느낌도 없어서 정말잘산거 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "492990",
+    "RawText": "ㅇㅇ보건용kf94정말 화가남 이게 무슨 마스크라고 ~~~ 입안에 닿는 부분이 털처럼 넘 날려서  마스크를 할수가 없음 이론 품질 상품을 어떻게 티비로 판매할수 있는지",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "10",
+    "Syllable": "92",
+    "Word": "22",
+    "RDate": "20210618",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "입안에 닿는 부분이 털처럼 넘 날려서 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이론 품질 상품을 어떻게 티비로 판매할수 있는지",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "492996",
+    "RawText": "날이 더워져서 얇은것  찾아 구매함 얇은데다 사이즈 하나가 더 생겨서  좋네요. 가격은 언제쯤 내려주실지 궁금하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20210622",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "날이 더워져서 얇은것  찾아 구매함",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇은데다 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": " 사이즈 하나가 더 생겨서  좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 언제쯤 내려주실지 궁금하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493005",
+    "RawText": "진짜 가볍고 오래 착용해도 귀도 안 아파요^^ 이제 마스크 유목민생활 천산하고 ㅇㅇ로 정착완료요^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20210522",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "진짜 가볍고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "오래 착용해도 귀도 안 아파요^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "493015",
+    "RawText": "너무 좋으네요 가볍고 숨쉬기도. 너무 편하고 좋으네요 제구매해서 써야겧어요 많이 파시고 사업 번창하세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20210525",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기도. 너무 편하고 좋으네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "493018",
+    "RawText": "남편이  안경을 써서 그런지 마스크를  착용하면 늘 귀가 아프다고 했는데  이 마스크를 착용하면 귀가 편해서  너무 맘에 든다고 합니다.그리고 가볍기까지 해서 더욱 좋다고 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "99",
+    "Word": "24",
+    "RDate": "20210503",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀가 편해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍기까지 해서 더욱 좋다고 합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "493024",
+    "RawText": "품질은 좋은데 가격은 비싼 편.  KF94 인데  가볍고  숨쉬기 좋아요 디자인은 제스탈은 아닌거 같지만",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "70",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20210706",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 좋은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싼 편. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "KF94 인데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기 좋아요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 제스탈은 아닌거 같지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493037",
+    "RawText": "주변에서 쓰고다니는게 편해보여서 물어보니 좋다해서 반신반의하며 샀는데 귀걸이개가 늘어나니 쪼이지않고 참 좋네요 밀착력을걱정했는데 그것또한 적당하게 잡아주어 잘쓰고다닐거같네요 강추입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "102",
+    "Word": "18",
+    "RDate": "20210519",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "귀걸이개가 늘어나니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "쪼이지않고 참 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": " 밀착력을걱정했는데 그것또한 적당하게 잡아주어 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "493049",
+    "RawText": "귀걸이  부분이  너무  약해서  계속  찢어짐 하루에  몇개씩  찢어짐  땀 에  떨어지고   마스크 걸이도  찢어져서  할수  없을 정도 ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "60",
+    "Syllable": "79",
+    "Word": "18",
+    "RDate": "20210520",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "귀걸이  부분이  너무  약해서 계속  찢어짐",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "하루에  몇개씩  찢어짐 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "땀 에  떨어지고  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "마스크 걸이도  찢어져서  할수  없을 정도",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493052",
+    "RawText": "다른 상품은 귀가 너무아파서 진물이  생겨서   많이 아파 했는데 이 제품도 마찬가지로 귀가 아프고 숨쉬기 힘드네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20210520",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀가 아프고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기 힘드네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493053",
+    "RawText": "친정엄마께 구매해 보내드렸어요 귀 아픔은 없는데 숨쉬기가 불편하다고 하네요. 가격도 좀 비싼편입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20210523",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀 아픔은 없는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": " 숨쉬기가 불편하다고 하네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좀 비싼편입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493061",
+    "RawText": "얼큰 아들에게 작은 사이즈입니다 중형을 구매했었는데 작아서 아들만 못썼었는데 이건 대형인데도 작네요. 운동으로 땀이 찰땐 세부리형이라 얼굴에 더 달라붙는다네요 무엇보다 귀가 아파서 불편하다고 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "110",
+    "Word": "24",
+    "RDate": "20210522",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "얼큰 아들에게 작은 사이즈입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "이건 대형인데도 작네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "운동으로 땀이 찰땐 세부리형이라 얼굴에 더 달라붙는다네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "무엇보다 귀가 아파서 불편하다고 하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493070",
+    "RawText": "남편이 한번 써보더니 불편하다고 하네요 귀가 조금만 있음 아파온다고 안쓰고 싶다네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "46",
+    "Word": "11",
+    "RDate": "20210629",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "남편이 한번 써보더니 불편하다고 하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀가 조금만 있음 아파온다고 안쓰고 싶다네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493072",
+    "RawText": "얼큰이를 위해  요즘 마스크 가격대비 비싸지만 구매했어요.  크기는 다른 새부리보다는 조금 넓은 편입니다. 다만 다른 새부리는 각이 잡혀 옆에 얼굴이 삐져 나와도 마스크만 보면 얼굴이 슬림해보이지만  이 마스크는 얼굴만큼 벌어져서 딱 얼큰이처럼 보이네요.  다만 조금 얇은 편이라 숨쉬기는 94치고는 편하나 얇다보니 숨쉴때 마스크가 쪼그라들었다 펴졌다해서.. 가격이 조금 싸다면 모를까 재구매 여부는 조금더 사용해보고 고민해봐야할거 같구요. 얼굴이 삐져나오는게 싫은 분들께는 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "80",
+    "Syllable": "272",
+    "Word": "60",
+    "RDate": "20210515",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "마스크 가격대비 비싸지만 구매했어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기는 다른 새부리보다는 조금 넓은 편입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이 마스크는 얼굴만큼 벌어져서 딱 얼큰이처럼 보이네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "조금 얇은 편이라",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기는 94치고는 편하나",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇다보니 숨쉴때 마스크가 쪼그라들었다 펴졌다해서.. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 조금 싸다면 모를까",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "얼굴이 삐져나오는게 싫은 분들께는 추천합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "493108",
+    "RawText": "길이 조절도 할 수 있어서 좋습니다 저희 부모님이 필요해서 샀는데, 부모님이 마스크를 하고도 숨쉬기 편하고 마스크를 오래 써도 귀가 아프지 않다고 하십니다 마스크 가격이 좀 더 내려가면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "109",
+    "Word": "28",
+    "RDate": "20210705",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "길이 조절도 할 수 있어서 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "마스크를 오래 써도 귀가 아프지 않다고 하십니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "마스크 가격이 좀 더 내려가면 좋겠어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493116",
+    "RawText": "남자친구에겐 적당한 사이즈로 귀도 안아프고 잘 맞아요 대형 사이즈라 여자인 저에겐 좀 큽니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "13",
+    "RDate": "20210515",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "남자친구에겐 적당한 사이즈로",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 안아프고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "잘 맞아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "대형 사이즈라 여자인 저에겐 좀 큽니다 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493129",
+    "RawText": "저렴하고 가볍고 큰얼굴에 맞지만  끈이 금방 찢어지며 재질이 저렴해서 그런지 민감한 피부엔 따갑고 그러니 비추입니다  싼맛에 막쓰기는 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "20",
+    "Syllable": "78",
+    "Word": "18",
+    "RDate": "20210625",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "큰얼굴에 맞지만 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "끈이 금방 찢어지며",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "재질이 저렴해서 그런지",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "민감한 피부엔 따갑고 그러니 비추입니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼맛에",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 막쓰기는 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "493130",
+    "RawText": "얼굴을 덮는 사이즈는 큰데 귀걸이 부분이 너무 작습니다.  귀가 너무 아파서 쓰고 있기 힘들어요. 가위로 귀부분을 잘라서 쓰고 있습니다. 중형,대형 두가지 다 아파요 반품되나요?",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "50",
+    "Syllable": "99",
+    "Word": "24",
+    "RDate": "20210531",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "얼굴을 덮는 사이즈는 큰데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "귀걸이 부분이 너무 작습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀가 너무 아파서 쓰고 있기 힘들어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "중형,대형 두가지 다 아파요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493135",
+    "RawText": "L사이즈 구매했는데 사이즈가 너무 크네요ㅠ 다른 마스크에 비해 사이즈 큰 편이니 신중하게 선택해야 될듯 하네요^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 60매 대형 KF94 보건용 마스크(블랙or화이트)",
+    "ReviewScore": "40",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20210505",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈가 너무 크네요ㅠ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "다른 마스크에 비해 사이즈 큰 편이니 신중하게 선택해야 될듯 하네요^^",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493140",
+    "RawText": "ㅇㅇ마스크쓰고 KF94중에 가장 답답하지 않고 너무 좋아서 마스크 주변에도 나눠주고 다 떨어지면 ㅇㅇ마스크만 사는데 100개 씩 두번째 주문했는데  이번에 왤케 불량이 많나요  지난번에도 이런게 나와서 그럴수 있지하고 버렸고  지지난주에 뜯은게 또 불량이라서 이번엔 업체에 얘기해야겠다 하고 나뒀는데 오늘 뜯은게 또 이래요  사진 보시면 귀고리 달린부분과 아예 다른걸 아실 수 있을꺼예요 업체 통해 연락 부탁드립니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 111매 대형 새부리형 KF94 마스크(개별포장/화이트or블랙)",
+    "ReviewScore": "50",
+    "Syllable": "232",
+    "Word": "54",
+    "RDate": "20211210",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "KF94중에 가장 답답하지 않고 너무 좋아서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이번에 왤케 불량이 많나요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "지난번에도 이런게 나와서 그럴수 있지하고 버렸고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "지지난주에 뜯은게 또 불량이라서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "오늘 뜯은게 또 이래요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "귀고리 달린부분과 아예 다른걸 아실 수 있을꺼예요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493143",
+    "RawText": "마스크  냄새도 안나고 숨쉬기 도 편하고 좋아요 줄이 부드러워서 귀도 아프지 안아요 잘쓰겄습니다   사이즈가 좀더 큰것도 나오면 좋겠네요. 코로나가 끝나는 그날이 빨리오기를....",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 111매 대형 새부리형 KF94 마스크(개별포장/화이트or블랙)",
+    "ReviewScore": "100",
+    "Syllable": "100",
+    "Word": "22",
+    "RDate": "20210926",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "마스크  냄새도 안나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기 도 편하고 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "줄이 부드러워서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 아프지 안아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈가 좀더 큰것도 나오면 좋겠네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493145",
+    "RawText": "배송도 빠르고 숨도 편하게 쉴수 있고 마스크도 예쁘고 저렴하게 나와서 정말 좋네요~ 끈이 조금 약해보이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 111매 대형 새부리형 KF94 마스크(개별포장/화이트or블랙)",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20210813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨도 편하게 쉴수 있고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "마스크도 예쁘고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴하게 나와서 정말 좋네요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "끈이 조금 약해보이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493146",
+    "RawText": "가격도 저렴하고 무엇보다 개별 포장이라 맘에 들어요. 대형이라 너무 크면 어쩌지 걱정했는데 남편이나 여자인 저에게 적당히 잘 맞네요. 다만 얼굴이 크신 분들에겐 다소 작을 수도 있겠어요. 포장지도 예쁘고 새부리형kf94 마스크라 안심되고 보관도 편리해서 강추합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 111매 대형 새부리형 KF94 마스크(개별포장/화이트or블랙)",
+    "ReviewScore": "100",
+    "Syllable": "148",
+    "Word": "34",
+    "RDate": "20210821",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "개별 포장이라 맘에 들어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "남편이나 여자인 저에게 적당히 잘 맞네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "얼굴이 크신 분들에겐 다소 작을 수도 있겠어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "kf94 마스크라 안심되고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "보관도 편리해서 강추합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "493151",
+    "RawText": "끈이 떨어지는 불량이 너무 많아요.. 다 모아서 환불받고싶을지경입니다..새로뜯어서 귀에 걸으려는순간 떨어지는게 벌써 몇개째인지..한두개 불량이겠거니하고 무심코 넘어갔는데   그러기엔 너무 많네요..",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 111매 대형 새부리형 KF94 마스크(개별포장/화이트or블랙)",
+    "ReviewScore": "10",
+    "Syllable": "110",
+    "Word": "19",
+    "RDate": "20210717",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "끈이 떨어지는 불량이 너무 많아요.. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "새로뜯어서 귀에 걸으려는순간 떨어지는게 벌써 몇개째인지..",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "한두개 불량이겠거니하고 무심코 넘어갔는데   그러기엔 너무 많네요..",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493158",
+    "RawText": "배송도 빠르고 교환도 너무 빨라서 잘사용할께요~ 숨쉬기 편하고 크기도 맘에 듭니다. 오래써도 귀가 안 아프길 바래봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 111매 대형 새부리형 KF94 마스크(개별포장/화이트or블랙)",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20210619",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기도 맘에 듭니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "오래써도 귀가 안 아프길 바래봅니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "493162",
+    "RawText": "기존에 대형쓰고있는데 여러모로 만족하는 마스크라 소형이있길래 우리아이도 바꿔주었어요. 지금2학년되는 남아인데  얼굴이 큰편아니라 현재 사이즈 딱 맞고 좋은데  3-4학년되면 작지않을까싶어요. 중형도 나오면 좋겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 111매 소형 새부리형_KF94 마스크 (개별포장/화이트)",
+    "ReviewScore": "80",
+    "Syllable": "119",
+    "Word": "22",
+    "RDate": "20220209",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "현재 사이즈 딱 맞고 좋은데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "3-4학년되면 작지않을까싶어요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "중형도 나오면 좋겠어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493166",
+    "RawText": "생각보다 무겁네요 그래도 착용했을때 편하고 귀도 안아파요 그래서 초딩딸도 같이 쓰고 있어요 주변지인들께도 추천했어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 111매 소형 새부리형_KF94 마스크 (개별포장/화이트)",
+    "ReviewScore": "100",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20220104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각보다 무겁네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 착용했을때 편하고 귀도 안아파요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "초딩딸도 같이 쓰고 있어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "493178",
+    "RawText": "우리 둘째 7세 인데 딱맞고 좋은거 같아요 숨쉬기 편하고 귀뒤에 안묶어도 되서 편해서 구입했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 111매 소형 새부리형_KF94 마스크 (개별포장/화이트)",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "14",
+    "RDate": "20210822",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "우리 둘째 7세 인데 딱맞고 좋은거 같아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "귀뒤에 안묶어도 되서 편해서 구입했어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "493179",
+    "RawText": "아이에게 맞는 사이즈를 찾고있는데 일반 소형보다는 작은편이라 좋아요 6세여아 머리크기가 작은편이라 소형도 컸는데 딱 맞네요 잘산것같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 111매 소형 새부리형_KF94 마스크 (개별포장/화이트)",
+    "ReviewScore": "100",
+    "Syllable": "75",
+    "Word": "16",
+    "RDate": "20210809",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "일반 소형보다는 작은편이라 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "6세여아 머리크기가 작은편이라 소형도 컸는데 딱 맞네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "493196",
+    "RawText": "가볍고 숨쉬기편해서 샀는데 좀오래쓰면형태가좀 무너지는게좀 흠임 또 오래쓰면 귀도 조금 아픈게 흠이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 200매 마스크 (KF-AD) (화이트/대형)",
+    "ReviewScore": "80",
+    "Syllable": "56",
+    "Word": "12",
+    "RDate": "20211011",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기편해서 샀는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "좀오래쓰면형태가좀 무너지는게좀 흠임",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 오래쓰면 귀도 조금 아픈게 흠이네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493199",
+    "RawText": "무겁고 오래 쓰고 있으면 귀 아프고  숨쉬기도 좀 힘든 마스크네요 가격도 비싼편이었는데 실망입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 200매 마스크 (KF-AD) (화이트/대형)",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20211012",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "오래 쓰고 있으면 귀 아프고  ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기도 좀 힘든 마스크네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싼편이었는데 실망입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493204",
+    "RawText": "숨쉬기 편하라고  AD 골랐고 귀편한줄 알았는데 별로였고 너무 얇아서 깜놀   추천하기 싫음",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 200매 마스크 (KF-AD) (화이트/대형)",
+    "ReviewScore": "40",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20211015",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 귀편한줄 알았는데 별로였고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "너무 얇아서 깜놀 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493214",
+    "RawText": "여름이라 조금이라도 숨쉬기 편한 마스크라 해서 구매 했는데 94도 아닌것이 숨쉬기 불편하고 숨쉴 때마다  마스크가 얼굴에 붙었다 떨어졌다 하네요 숨쉬기 불편하고 입김어서 나오는 수증기가 마스크 안쪽에 맺혀요 차라리 KF-94가 숨쉬기 더 편합니다 아닌걸 그렇다고 과대 광고 하지 마십시오",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 200매 마스크 (KF-AD) (화이트/대형)",
+    "ReviewScore": "10",
+    "Syllable": "160",
+    "Word": "38",
+    "RDate": "20210813",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "94도 아닌것이",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기 불편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉴 때마다  마스크가 얼굴에 붙었다 떨어졌다 하네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "입김어서 나오는 수증기가 마스크 안쪽에 맺혀요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "차라리 KF-94가 숨쉬기 더 편합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493224",
+    "RawText": "앏아서 더운날 가볍게 착용할수있는 마스크인거 같아요   말할때 입에 닿지안아서 좋아요 처음 사용할때 냄새나니까 꺼내놓구 사용하는게 좋을거같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 200매 마스크 (KF-AD) (화이트/대형)",
+    "ReviewScore": "100",
+    "Syllable": "79",
+    "Word": "16",
+    "RDate": "20210816",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "앏아서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "더운날 가볍게 착용할수있는 마스크인거 같아요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "말할때 입에 닿지안아서 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "처음 사용할때 냄새나니까",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493227",
+    "RawText": "방송과는 틀리네요 줄이 늘어나지도 않고 남자들한테는 작아서 못해요 여자인 제얼굴에도 딱 붙어서 답답하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 200매 마스크 (KF-AD) (화이트/대형)",
+    "ReviewScore": "40",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20210808",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "방송과는 틀리네요 줄이 늘어나지도 않고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "남자들한테는 작아서 못해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "여자인 제얼굴에도 딱 붙어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "답답하네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493230",
+    "RawText": "콧대를 잡아주는 와이어가없어 그런가 숨쉴때마다  면이 딸려들어와  숨을 쉴수가없네요 이거 200개 다쓸때까지 고생할생각하니 아찔 면은 히마리도없으면서 숨쉬긴 94보다 힘든데 선전하면서 알았을건데  너무한거아닌가요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 200매 마스크 (KF-AD) (화이트/대형)",
+    "ReviewScore": "10",
+    "Syllable": "118",
+    "Word": "22",
+    "RDate": "20210808",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "콧대를 잡아주는 와이어가없어 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": " 숨쉴때마다  면이 딸려들어와  숨을 쉴수가없네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "면은 히마리도없으면서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬긴 94보다 힘든데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493233",
+    "RawText": "착용감은 편한데 습기가 많이 차요 얇으면 괜찮을줄 알았는데... 마스크는 어쩔수 없나 봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 200매 마스크 (KF-AD) (화이트/대형)",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20210813",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감은 편한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "습기가 많이 차요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇으면 괜찮을줄 알았는데...",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "493236",
+    "RawText": "마스크를 하루종일 쓰면 귀가 아픈데 오래쓰고 있어도 안 아파요. 숨쉬는것도 편하고 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 200매 마스크 (KF-AD) (화이트/대형)",
+    "ReviewScore": "80",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "하루종일 쓰면 귀가 아픈데 오래쓰고 있어도 안 아파요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬는것도 편하고 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "493249",
+    "RawText": "가볍고 숨쉬기가 한층 수월해서 좋아요. 마스크를 착용하려면  반으로 접혀 밀착된 상태인 마스크를 조심해서 펼쳐야 하는 수고는 필수! (펼치는 도중 실수하면 못쓰고 버리게 되는 일이 몇차례 있었음.) 차분하게~~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 200매 마스크 (KF-AD) (화이트/대형)",
+    "ReviewScore": "80",
+    "Syllable": "117",
+    "Word": "27",
+    "RDate": "20210803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기가 한층 수월해서 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "반으로 접혀 밀착된 상태인 마스크를 조심해서 펼쳐야 하는 수고는 필수! ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493250",
+    "RawText": "일할때 쓰려고 샀는데 너무 좋아요. 귀도 편하고 숨쉬기도 편하고. 얼굴에 땀이 많은 편이라 두꺼운건 습기도 더 많이 차고 힘들었는데 이건 얇아서 그런지 습기 차는것도 덜하고 일하다 땀이 많이 찼다가도 선풍기 앞에 조금 있으면 바로 마르고 좋으네요. 사용해보니  좋아서 조만간 재구매 예정입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 200매 마스크 (KF-AD) (화이트/대형)",
+    "ReviewScore": "100",
+    "Syllable": "164",
+    "Word": "41",
+    "RDate": "20210725",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기도 편하고.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아서 그런지",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "습기 차는것도 덜하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "땀이 많이 찼다가도 선풍기 앞에 조금 있으면 바로 마르고 좋으네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "493251",
+    "RawText": "20매씩 들어있어 좋아요 얇아서 귀부분 아프지않아서 더 좋아요 둥근절취선 떼는거는 좀 귀찮긴하네요 ㅋ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 200매 마스크 (KF-AD) (화이트/대형)",
+    "ReviewScore": "100",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20210804",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀부분 아프지않아서 더 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "둥근절취선 떼는거는 좀 귀찮긴하네요 ㅋ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493259",
+    "RawText": "마스크는디자인도이쁘고,가벼워서넘좋은데계속쓰고있으려니공기가너무안통해서살짝숨이차서심장에무리가오네요,방역은잘되어심장이튼튼한사람은좋을것같아요^^귀에거는부분이너무잘늘어나짧은시간착용했는데도벗었다썼다하니금방너덜너덜해져,미관상너무안좋아요,",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 200매 마스크 (KF-AD) (화이트/대형)",
+    "ReviewScore": "60",
+    "Syllable": "125",
+    "Word": "1",
+    "RDate": "20210713",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도이쁘고,",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서넘좋은데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "공기가너무안통해서살짝숨이차서심장에무리가오네요,",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "방역은잘되어",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "귀에거는부분이너무잘늘어나",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "짧은시간착용했는데도벗었다썼다하니금방너덜너덜해져,",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493260",
+    "RawText": "가볍고 더운날에 쓰기 좋습니다.. 귀도 안아프고 제가 찾던마스크네요~^^단 오래쓰면 보풀이 좀 일어나네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 200매 마스크 (KF-AD) (화이트/대형)",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "12",
+    "RDate": "20210726",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "더운날에 쓰기 좋습니다.. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 안아프고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "오래쓰면 보풀이 좀 일어나네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493280",
+    "RawText": "얇으면서도 편안하고 좋네요. 여름에 쓰면 될 것 같아요. 그래도 땀은 좀 찹니다. 가격대비 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 200매 마스크 (KF-AD) (화이트/대형)",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20210606",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇으면서도",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편안하고 좋네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름에 쓰면 될 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "땀은 좀 찹니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 만족합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "493288",
+    "RawText": "15살 중학생 아들도 편히 잘 쓰고 엄마인 저도 너무 편하네요~ 입술 코  닿지 않아서 숨쉬기 너무 좋아요  94마스크 같은 비말 마스크는 한장당 가격이 비싸서 사람많은 외출시에만 쓰고 이건 편하게 볼일보러 나갈때 자주 바꿔 쓸수도 있고 가격 부담도 없고 좋으네요~ 사놓은 네모난 덴탈마스크는 안쓰고 이것만 쓰게되네요~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 200매 마스크 (KF-AD) (화이트/대형)",
+    "ReviewScore": "100",
+    "Syllable": "178",
+    "Word": "45",
+    "RDate": "20210531",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "중학생 아들도 편히 잘 쓰고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "저도 너무 편하네요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "입술 코  닿지 않아서 숨쉬기 너무 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하게 볼일보러 나갈때 자주 바꿔 쓸수도 있고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 부담도 없고 좋으네요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "493291",
+    "RawText": "아주가볍습니다~~요즘많이더운데~~답답하지도않고~콧등에 아무것도없어도 들뜨지않아요~~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 200매 마스크 (KF-AD) (화이트/대형)",
+    "ReviewScore": "100",
+    "Syllable": "46",
+    "Word": "3",
+    "RDate": "20210531",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "아주가볍습니다~~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "요즘많이더운데~~답답하지도않고~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "콧등에 아무것도없어도 들뜨지않아요~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "493292",
+    "RawText": "아 뜯기도힘들고 얇은데 더워요 얼굴크지도않는 우리신랑한테 너무딱맞아서 끼기싫데요.. 그리고 아무리 새부리형이라도 부리가  심하게 얇은데 접혀가지고 뾰족해서 새부리돌아간것같다고 공격적이라고 .. 보는사람마다ㅜㅜ  구강튀어나오신분들 좋을듯.. 하여간 좀웃겨요.. 언제다쓰지..힝",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 200매 마스크 (KF-AD) (화이트/대형)",
+    "ReviewScore": "10",
+    "Syllable": "153",
+    "Word": "25",
+    "RDate": "20210530",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 뜯기도힘들고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇은데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": " 더워요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "얼굴크지도않는 우리신랑한테 너무딱맞아서 끼기싫데요..",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "새부리형이라도 부리가  심하게 얇은데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "접혀가지고 뾰족해서 새부리돌아간것같다고 공격적이라고 ..",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "구강튀어나오신분들 좋을듯..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "493307",
+    "RawText": "2번째 구매인데 언제나 믿고 사는 ㅇㅇ마스크입니다  착용감도 좋고 숨쉬기도 편하구요 다쓰면 또 구매하겠습니다   ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KFAD 마스크 201매 새부리형 (화이트/3매입*67팩)",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "13",
+    "RDate": "20220219",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기도 편하구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "493350",
+    "RawText": "더운 여름에 착용하려 구입했는데  숨쉬기는 94보다 편하지 않네요 남자가 착용하면 조금 작은듯하네요. 사이즈가 여성용인듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KFAD 마스크 201매 새부리형 (화이트/3매입*67팩)",
+    "ReviewScore": "100",
+    "Syllable": "72",
+    "Word": "15",
+    "RDate": "20210828",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기는 94보다 편하지 않네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "남자가 착용하면 조금 작은듯하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈가 여성용인듯 합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493354",
+    "RawText": "타 사이트에서 사서 썼는데 남편이 잘 쓰고 다녀서  여긴 양도 많고 가격도 좋고 해서 구매합니다~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KFAD 마스크 201매 새부리형 (화이트/3매입*67팩)",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "15",
+    "RDate": "20210918",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양도 많고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좋고 해서 구매합니다~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "493362",
+    "RawText": "얼큰이 남편도 편하게 잘쓰고있어요~ 보통여자얼굴에도 잘맞아요 약간큰듯해서 붕뜨거나 흘러내려갑니다 숨쉬기는 편해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KFAD 마스크 201매 새부리형 (화이트/3매입*67팩)",
+    "ReviewScore": "100",
+    "Syllable": "62",
+    "Word": "11",
+    "RDate": "20210827",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "얼큰이 남편도 편하게 잘쓰고있어요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "보통여자얼굴에도 잘맞아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "약간큰듯해서 붕뜨거나 흘러내려갑니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기는 편해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "493364",
+    "RawText": "마스크 안쪽에 잔 털이 부풀어 올라와서 사용하지 않고 폐기 처분함 ㅡ 구매 절대 하지 마시기 바랍니다. 내구성도 좋지 않아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KFAD 마스크 201매 새부리형 (화이트/3매입*67팩)",
+    "ReviewScore": "100",
+    "Syllable": "69",
+    "Word": "19",
+    "RDate": "20210909",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "마스크 안쪽에 잔 털이 부풀어 올라와서 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "내구성도 좋지 않아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하지 않고 폐기 처분함",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493365",
+    "RawText": "온 가족이 잘 쓰고 있어요  가격도 좋고 숨쉬고 말하기  편하고  좋아요 많이 파시고 사업 번창하시길 바랍니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KFAD 마스크 201매 새부리형 (화이트/3매입*67팩)",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "16",
+    "RDate": "20210828",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "온 가족이 잘 쓰고 있어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬고 말하기  편하고  좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "493380",
+    "RawText": "저렴한가격에 샀습니다.  조금 큰듯하고  숨쉬기가 좀 힘들고 밀착이 잘 되지 않습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KFAD 마스크 201매 새부리형 (화이트/3매입*67팩)",
+    "ReviewScore": "100",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20210813",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한가격에 샀습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "조금 큰듯하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기가 좀 힘들고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "밀착이 잘 되지 않습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493384",
+    "RawText": "여름에 하고 다니기는 불편하네요.  숨쉬기가 불편하고 무엇보다 귀가 오래 착용하면 아픕니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KFAD 마스크 201매 새부리형 (화이트/3매입*67팩)",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "11",
+    "RDate": "20210814",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름에 하고 다니기는 불편하네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기가 불편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀가 오래 착용하면 아픕니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493390",
+    "RawText": "여름용으로는 안좋아요 숨쉬기 불편하고 공간이 없습니다. 사용중 잠시 접어 보관하기는 위생적이네요. 가격은 좋구요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KFAD 마스크 201매 새부리형 (화이트/3매입*67팩)",
+    "ReviewScore": "100",
+    "Syllable": "62",
+    "Word": "13",
+    "RDate": "20210819",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름용으로는 안좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기 불편하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "공간이 없습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "사용중 잠시 접어 보관하기는 위생적이네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 좋구요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "493401",
+    "RawText": "너무 가볍고 좋아요~김서림도덜하고 밀할때불편하지도않아요..가격도착하고 완전강추 색상만 좀 더 다양했으면 좋겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KFAD 마스크 201매 새부리형 (화이트/3매입*67팩)",
+    "ReviewScore": "100",
+    "Syllable": "62",
+    "Word": "10",
+    "RDate": "20210821",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "너무 가볍고 좋아요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "김서림도덜하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "밀할때불편하지도않아요..",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도착하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상만 좀 더 다양했으면 좋겠어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493402",
+    "RawText": "상품후기에 갯수가 안맞는다는 얘기가 있던데 설마 했더니..흠.. 일부러 그러는건 아니겠지만 5개 묶음하고 낱개로 2개를 넣어야 하는데 낱개 2개에서 헷갈리다니..한개 보내달라 하기도 그렇고 그냥 쓰지만 이거 아니라고 봅니다...ad치고는 숨쉬기가 편하지 않아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KFAD 마스크 201매 새부리형 (화이트/3매입*67팩)",
+    "ReviewScore": "40",
+    "Syllable": "145",
+    "Word": "30",
+    "RDate": "20210819",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "ad치고는",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기가 편하지 않아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493405",
+    "RawText": "엄청 가벼워요~~   지인들에게도 자랑했더니 한박스 부탁해서 함께 주문 했어요   아이가 이게 편하다고 하면서 이것만 쓸려고 해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KFAD 마스크 201매 새부리형 (화이트/3매입*67팩)",
+    "ReviewScore": "100",
+    "Syllable": "72",
+    "Word": "16",
+    "RDate": "20210820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "엄청 가벼워요~~ ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "아이가 이게 편하다고 하면서 이것만 쓸려고 해요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "493408",
+    "RawText": "너무 좋아요.직업상 립스틱을 안바를수가 없는데 묻지도 않고 숨쉬기도 편하고 좋아요 마스크라 얇아서 더울때 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KFAD 마스크 201매 새부리형 (화이트/3매입*67팩)",
+    "ReviewScore": "100",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20210821",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "직업상 립스틱을 안바를수가 없는데 묻지도 않고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기도 편하고 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아서 더울때 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "493413",
+    "RawText": "가성비가 좋은 편안한 마스크 ~~ 여름용으로 아주 좋아요. 3개씩 소포장되어 있어 편리해서 좋아요. 잘 쓰겠습니다 ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KFAD 마스크 201매 새부리형 (화이트/3매입*67팩)",
+    "ReviewScore": "100",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20210819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좋은",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편안한 마스크 ~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름용으로 아주 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 3개씩 소포장되어 있어 편리해서 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "493416",
+    "RawText": "입이 닿지않고 AD라서 얇은데도 형태가 무너지지 않고짱짱하고 좋습니다. 식구모두 좋다고 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KFAD 마스크 201매 새부리형 (화이트/3매입*67팩)",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "11",
+    "RDate": "20210822",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "입이 닿지않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "AD라서 얇은데도",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "형태가 무너지지 않고짱짱하고 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "493418",
+    "RawText": "너무 가벼워서 쓴듯 안쓴듯~~^^;;   다행히 이상품은 귀도 안아프고 좋네요  많이 파세요~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KFAD 마스크 201매 새부리형 (화이트/3매입*67팩)",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "11",
+    "RDate": "20210820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "너무 가벼워서 쓴듯 안쓴듯~~^^;; ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 안아프고 좋네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "493420",
+    "RawText": "저렴히잘샀어요 품질도좋고 가격도좋고 다쓰면 또구매할거예요 밀착력좋고 숨쉬기편해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KFAD 마스크 201매 새부리형 (화이트/3매입*67팩)",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "7",
+    "RDate": "20210824",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴히잘샀어요 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "밀착력좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기편해요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "493422",
+    "RawText": "지금껏 써본 마스크중에  젤 좋은거같아요 정말  kf94 나 80  비말차단  일회용 통 털어서 저는 젤 맘에 듭니다  첨 방송할때 사서 다쓰고 재구매합니다  가격이 만원 인하해서 더 좋아요. 여름에도 쓰기 좋습니다 ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KFAD 마스크 201매 새부리형 (화이트/3매입*67팩)",
+    "ReviewScore": "100",
+    "Syllable": "121",
+    "Word": "30",
+    "RDate": "20210815",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 만원 인하해서 더 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름에도 쓰기 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "493435",
+    "RawText": "크지도 적지도 않게 딱 적당한 사이즈로 얼굴이 큰데도 불편함 없이 마스크가 잘 맞아요 ~~~색상이 좀 아쉽긴하지만 최곱니다 ^^ ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KFAD 마스크 201매 새부리형 (화이트/3매입*67팩)",
+    "ReviewScore": "100",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20210805",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크지도 적지도 않게 딱 적당한 사이즈로 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "얼굴이 큰데도 불편함 없이 마스크가 잘 맞아요 ~~~",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 좀 아쉽긴하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "493444",
+    "RawText": "다른 브랜드 비말마스크보다 가볍고 착용감도 착 감기는 느낌이라  숨쉬기가 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KFAD 마스크 201매 새부리형 (화이트/3매입*67팩)",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20210803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 착용감도 착 감기는 느낌이라",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": " 숨쉬기가 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "493445",
+    "RawText": "두번째 구매인데 ㅇㅇㅇ마스크 숨쉬기도 편하고 ㅇㅇ쇼핑이 훨씬 저렴하더라구요. 강추합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KFAD 마스크 201매 새부리형 (화이트/3매입*67팩)",
+    "ReviewScore": "100",
+    "Syllable": "49",
+    "Word": "9",
+    "RDate": "20210807",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기도 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "훨씬 저렴하더라구요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

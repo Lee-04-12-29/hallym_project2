@@ -1,0 +1,3266 @@
+[
+  {
+    "Index": "520780",
+    "RawText": "삼단이라 많이 걸수 있고 튼튼합니다 가격도 저렴해서 너무 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "36",
+    "Word": "9",
+    "RDate": "20180104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "삼단이라 많이 걸수 있고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 튼튼합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서 너무 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520785",
+    "RawText": "조립하다가 거칠어 손도다치고 지지대가 너무 약한것같네요 플라스틱부분이 많이 거칩니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "1",
+    "Syllable": "46",
+    "Word": "9",
+    "RDate": "20180106",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "조립하다가 거칠어 손도다치고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "지지대가 너무 약한것같네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "플라스틱부분이 많이 거칩니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "520786",
+    "RawText": "튼튼하기도 하고 간편합니다 빨래 널어도 휘거나 하지 않아서 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "37",
+    "Word": "9",
+    "RDate": "20180106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하기도 하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "간편합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "빨래 널어도 휘거나 하지 않아서 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520787",
+    "RawText": "표면이 거칠어 건조대 조립하다 손찢어졌네요 옴봉에 잘들어가지도않고 억지로 끼우려다 아랫봉 마감처리는 왜이리 날카롭게해놨는지",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "3",
+    "Syllable": "68",
+    "Word": "13",
+    "RDate": "20180106",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "표면이 거칠어 건조대 조립하다 손찢어졌네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "옴봉에 잘들어가지도않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "아랫봉 마감처리는 왜이리 날카롭게해놨는지",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "520792",
+    "RawText": "조립이 조금 번거롭네요. 상품 조립 설명이 없고 대충 적혀있어서 아쉬웠어요. 거칠어서 봉조립할때 조심하지 않으면 손 다치기 쉽네요. 개인적으로 빨래가 좀 덜 말르는것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "23",
+    "RDate": "20180108",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립이 조금 번거롭네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "거칠어서 봉조립할때 조심하지 않으면 손 다치기 쉽네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "상품 조립 설명이 없고 대충 적혀있어서 아쉬웠어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "520793",
+    "RawText": "바닥에 끼우는 곳에도 잡아주는 시스템이었으면 더 견고하지 않을까 생각됩니다. 흔들면 쉽게 흔들리는 것이 생각보다 견고하다는 느낌은 들지 않아요. 그리고 사용설명서에 조립 방법을 좀 더 구체적으로 했으면 좋겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "3",
+    "Syllable": "117",
+    "Word": "27",
+    "RDate": "20180108",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "바닥에 끼우는 곳에도 잡아주는 시스템이었으면 더 견고하지 않을까 생각됩니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "흔들면 쉽게 흔들리는 것이 생각보다 견고하다는 느낌은 들지 않아요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "사용설명서에 조립 방법을 좀 더 구체적으로 했으면 좋겠어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "520799",
+    "RawText": "조립 쉽습니다 그런데 바퀴가 잘 안굴러가서 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "28",
+    "Word": "7",
+    "RDate": "20180109",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립 쉽습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "바퀴가 잘 안굴러가서 아쉽네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "520800",
+    "RawText": "원래 팔벌리고 있는 빨랫대보다 힘이 약한거 알고 샀지만 확실히 약해보입니다. 조립은 단순하게 쉬웠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "4",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20180109",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "힘이 약한거 알고 샀지만 확실히 약해보입니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립은 단순하게 쉬웠어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520804",
+    "RawText": "싼맛이라서 그럴까요 손이많이다쳤네요 쇠부분을 자르고 갈아주셔서 보내야되는거아닌가요 제품 살경우 주의하셔야 겠어요 여러분 순식간에 다쳐요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "1",
+    "Syllable": "75",
+    "Word": "14",
+    "RDate": "20180111",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "손이많이다쳤네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 쇠부분을 자르고 갈아주셔서 보내야되는거아닌가요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "순식간에 다쳐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "싼맛이라서 그럴까요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "520806",
+    "RawText": "빨래거치하는 부분이 얇아서 걱정했는데 조립하니 단단해 보이고 괜찮은거 같습니다. 가격대비 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "4",
+    "Syllable": "58",
+    "Word": "11",
+    "RDate": "20180111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "빨래거치하는 부분이 얇아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "조립하니 단단해 보이고 괜찮은거 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 만족스럽습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520807",
+    "RawText": "생각보다 조립하기도 쉽고 이불봉도 넣었다 뺏다 할수 있고 바퀴도 굴러가지않게 고정도 되고 이건 공간 많이 차지안해서 완전 좋습니다 비오는날에도 이불 빨래해서 실내에 걸수 있으니 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "25",
+    "RDate": "20180111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "생각보다 조립하기도 쉽고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "이불봉도 넣었다 뺏다 할수 있고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "바퀴도 굴러가지않게 고정도 되고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "공간 많이 차지안해서 완전 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "비오는날에도 이불 빨래해서 실내에 걸수 있으니 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520812",
+    "RawText": "이런 디자인의 헹거를 샀는데 너무 잘써서 이번에도 구입했어요. 전체적인 길이는 생각보다 짧네요 그렇지만 만족해요 혼자서 쉽게 만들었어요. 양쪽에 옷걸이 거는 게 아직은 좀 빡빡하네요 아무튼 이상품도 오래쓸수있기를 바랍니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "123",
+    "Word": "28",
+    "RDate": "20180112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "전체적인 길이는 생각보다 짧네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "혼자서 쉽게 만들었어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "양쪽에 옷걸이 거는 게 아직은 좀 빡빡하네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "이상품도 오래쓸수있기를 바랍니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "520817",
+    "RawText": "좋네요 맘에 쏙들고 크고 크기도 적당하고 완벽하네요 이불도 널려고 이불봉 있는거 주문했는데 너무 좋습니다 일요일에 주문해서 화요일에 받았습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "18",
+    "RDate": "20180116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520819",
+    "RawText": "배송 빠르고 품질 좋습니다 높이가 조금만 더 높았으면 하는 아쉬움은 있어요  그래도 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20180117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "높이가 조금만 더 높았으면 하는 아쉬움은 있어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "520823",
+    "RawText": "가벼워서 금방 고장 날 거라고 생각 했는데 튼튼해요. 여러 사이트 중 제일 저렴해요 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "14",
+    "RDate": "20180118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해요. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "제일 저렴해요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520827",
+    "RawText": "아주 많이 널 수 있겟네요 남편이 조립햇으면 하루종일 걸릴거 십분만에 제가 햇어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "45",
+    "Word": "12",
+    "RDate": "20180120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "아주 많이 널 수 있겟네요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "남편이 조립햇으면 하루종일 걸릴거 십분만에 제가 햇어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520828",
+    "RawText": "제품자체는 좋은데 원룸에서 쓰긴 많이 큽니다 본가에서 써야될것 같아요 높이도 낮아서 좀 그렇네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "4",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20180121",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "원룸에서 쓰긴 많이 큽니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "높이도 낮아서 좀 그렇네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "520830",
+    "RawText": "적은 공간에서 많은 빨래를 널 수 있어서 좋은것 같습니다. 다용도봉이 좀 길다보니 사용할때 끼워지지 않아 불편해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "4",
+    "Syllable": "63",
+    "Word": "16",
+    "RDate": "20180123",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "많은 빨래를 널 수 있어서 좋은것 같습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "다용도봉이 좀 길다보니 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 사용할때 끼워지지 않아 불편해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "520834",
+    "RawText": "조립하는게 단순하네요. 그치만 왠지 부실해 보이기도 합니다. 툭 치면 부러질것 같은 느낌입니다. 가격대비 좋고 잘 사용하고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20180124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립하는게 단순하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "왠지 부실해 보이기도 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "툭 치면 부러질것 같은 느낌입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520835",
+    "RawText": "두번째 구매에요 매우 공간효율이 좋은 건조대에요 다만 너무 많이 널면 건조대 빨래사이의 공간이 좁아 마르는 시간이 지연되네요 그래도 성능쪽으로는 좋습니다 그리고 오랫동안 사용했는데도 잘버텨주는 잘만든 제품이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "117",
+    "Word": "26",
+    "RDate": "20180124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 매우 공간효율이 좋은 건조대에요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "건조대 빨래사이의 공간이 좁아",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "마르는 시간이 지연되네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능쪽으로는 좋습니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오랫동안 사용했는데도 잘버텨주는 잘만든 제품이네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520836",
+    "RawText": "좋아요 생각했던것보다 훨신 튼튼하네요 넉넉한사이즈 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "32",
+    "Word": "6",
+    "RDate": "20180131",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "생각했던것보다 훨신 튼튼하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "넉넉한사이즈 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520837",
+    "RawText": "배송도 빠르고, 제품도 좋습니다. 무엇보다 옷을 많이 넣을 수 있어서 너무 좋구요. 곧 태어날 아기옷 미리 세탁해서 속싸개랑 겉싸개 널었는데, 사이즈가 너무 맘에 듭니다. 조립 어렵다고 해서 걱정했는데, 신랑과 함께 했더니 10분도 안 걸렸렸어요. 좋은 제품 감사해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "150",
+    "Word": "37",
+    "RDate": "20180131",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "무엇보다 옷을 많이 넣을 수 있어서 너무 좋구요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈가 너무 맘에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립 어렵다고 해서 걱정했는데, 신랑과 함께 했더니 10분도 안 걸렸렸어요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520838",
+    "RawText": "높이에 비해서 튼튼하지는 않네요 빨래양 적을때는 한쪽만 널기에는 무게를 잘 못견디는것 같아요 설명서도 좀 자세하지 않고 좀허술한 부분이 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "4",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20180131",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하지는 않네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "빨래양 적을때는 한쪽만 널기에는 무게를 잘 못견디는것 같아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "설명서도 좀 자세하지 않고 좀허술한 부분이 있어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "520840",
+    "RawText": "크기도 커서 좋고 많은양을 널수 있어서 너무 좋네요 빨래를 널고 안방에 놓으니 가습의 효과까지 일석이조입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20180201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기도 커서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "많은양을 널수 있어서 너무 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "빨래를 널고 안방에 놓으니 가습의 효과까지 일석이조입니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520844",
+    "RawText": "사용하는 제품이 부셔져서 하나 다시 장만했네요 튼튼하고 가족이 많은 집은 무지 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "12",
+    "RDate": "20180201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "가족이 많은 집은 무지 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520848",
+    "RawText": "기존에 쓰던것보다 부드럽고 튼튼하네요 전에 쓰던건 살이 다 빠지고 그랬는데  ㅇㅇㅇㅇ껀 튼튼합니다 오래 쓸것같습니다 가격도 착해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "16",
+    "RDate": "20180205",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "부드럽고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 오래 쓸것같습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520850",
+    "RawText": "올스텐으로 구매했어요. 좋은 내구성을 기대해봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "28",
+    "Word": "5",
+    "RDate": "20180206",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "올스텐으로 구매했어요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "좋은 내구성을 기대해봅니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "520853",
+    "RawText": "생각보다는 튼튼해 보이지는 않습니다 빨래도 많이 안널리네요 그러나 잘쓰고 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "4",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20180207",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "생각보다는 튼튼해 보이지는 않습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": " 빨래도 많이 안널리네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "520856",
+    "RawText": "봉 안으로 부속 넣다가 날카로워 손가락 살이 떨어져 나갔어요 조립 순서와 주의사항 문구 정도는 있어야 할 것 같네요. 봉 끝이 흉기처럼 날카롭거든요 제품은 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "4",
+    "Syllable": "94",
+    "Word": "25",
+    "RDate": "20180209",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "봉 안으로 부속 넣다가 날카로워 손가락 살이 떨어져 나갔어요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "봉 끝이 흉기처럼 날카롭거든요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립 순서와 주의사항 문구 정도는 있어야 할 것 같네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "520858",
+    "RawText": "추가 금액 주고 스테인레스로 샀습니다. 조립해보니 튼튼하고 좋아보이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "40",
+    "Word": "8",
+    "RDate": "20180210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "스테인레스로 샀습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고 좋아보이네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520864",
+    "RawText": "다리에 힘이 없어 자꾸 쓰러집니다 무거운 이불같은건 널지도못하겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "3",
+    "Syllable": "37",
+    "Word": "8",
+    "RDate": "20180212",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "다리에 힘이 없어",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "자꾸 쓰러집니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "무거운 이불같은건 널지도못하겠어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "520870",
+    "RawText": "조립이 생각보다 쉽습니다. 가격 대비 품질은 최고라 생각합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "35",
+    "Word": "8",
+    "RDate": "20180219",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립이 생각보다 쉽습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격 대비 품질은 최고라 생각합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520874",
+    "RawText": "배송 빠르네요 저렴하니 좋구요 근데 튼튼한 느낌은 좀 덜합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "34",
+    "Word": "9",
+    "RDate": "20180220",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하니 좋구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼한 느낌은 좀 덜합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "520876",
+    "RawText": "첨에 조립하는게 너무 햇갈렸는데 만들어 놓고 보니 생각했던것보다 크고 좋아요 가격도 짱 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20180221",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "첨에 조립하는게 너무 햇갈렸는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "생각했던것보다 크고 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 짱 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520879",
+    "RawText": "첨 뜯을땐 조립하기 괜찮을까 했는데 역시나 어려웠어요 생각보다 튼튼하기는 합니다. 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "11",
+    "RDate": "20180221",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립하기 괜찮을까 했는데 역시나 어려웠어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "생각보다 튼튼하기는 합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520882",
+    "RawText": "오늘 받았습니다 쓰던게 고장나서 기본 주문했는데 집에쓰던 빨래대 다용도 봉이랑 싸이즈가 딱 맞아서 꽂았네요. 튼튼합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20180222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "집에쓰던 빨래대 다용도 봉이랑 싸이즈가 딱 맞아서 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520886",
+    "RawText": "생각보다 커서 반으로 접어쓰고 있네요 엄청 튼튼한거 같지는 않아요 그래도 가격대비 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "4",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20180224",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "생각보다 커서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "반으로 접어쓰고 있네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 엄청 튼튼한거 같지는 않아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 만족합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520888",
+    "RawText": "많이 널리고 좋아요 간편하구요 공간효율도 좋습니다 감사해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "4",
+    "Syllable": "32",
+    "Word": "7",
+    "RDate": "20180225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "많이 널리고 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "간편하구요 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "공간효율도 좋습니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520890",
+    "RawText": "기존것보다 많이 널수 있네요 자리 차지 않하고 좋아요 구입 너무 잘한듯해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "4",
+    "Syllable": "41",
+    "Word": "11",
+    "RDate": "20180228",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "기존것보다 많이 널수 있네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "자리 차지 않하고 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520892",
+    "RawText": "생각보다 엄청 큽니다 기본으로 샀는데도 원룸에 놓기엔 많이 커요. 뒤에 장 싸이즈 폭을 넘길정도네요 많이 걸수 있긴한데 사이즈 보시고 선택하세요 더 넓은집에 갈때까지 잘 쓸게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "4",
+    "Syllable": "98",
+    "Word": "25",
+    "RDate": "20180228",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "생각보다 엄청 큽니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "기본으로 샀는데도 원룸에 놓기엔 많이 커요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": " 뒤에 장 싸이즈 폭을 넘길정도네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "많이 걸수 있긴한데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈 보시고 선택하세요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "520893",
+    "RawText": "하숙집에서 사용하려 구매했네요 생각보다 작지만 유용하게 쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "36",
+    "Word": "7",
+    "RDate": "20180301",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "생각보다 작지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "유용하게 쓰겠습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520895",
+    "RawText": "마트보다휠씬 저렴하게잘샀습니다 튼튼하네요 정말 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "30",
+    "Word": "5",
+    "RDate": "20180303",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트보다휠씬 저렴하게잘샀습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520896",
+    "RawText": "조립이 많이 번거롭긴 하네요. 설치해 놓으니 생각보다 크고 많이 널수 있어서 좋은거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "13",
+    "RDate": "20180303",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립이 많이 번거롭긴 하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "생각보다 크고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "많이 널수 있어서 좋은거 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520904",
+    "RawText": "구입해서 잘 사용하고 있어요 접는것도 편리하게 되어 있습니다 타사 제품보다 실용적이고 사용하기 편하고 좋은 제품입니다 감사해요 많이 파세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "18",
+    "RDate": "20180306",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "접는것도 편리하게 되어 있습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "실용적이고 사용하기 편하고 좋은 제품입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520914",
+    "RawText": "튼튼해서 좋고 조립도 간단하네요 침대 커버나 시트 세탁하고 널수 있을 정도여서 추천합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "12",
+    "RDate": "20180310",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해서 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립도 간단하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "침대 커버나 시트 세탁하고 널수 있을 정도여서 추천합니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520915",
+    "RawText": "솔직히 그냥 싸니까 써볼까 하고 샀엇는데 생각보다 활용도도 좋고 튼튼합니다 가성비는 최고입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20180310",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸니까 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "활용도도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 튼튼합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비는 최고입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520921",
+    "RawText": "생각보다 큽니다. 조립해야하네요. 옮길때 봉이 잘빠집니다. 살짝씩 봉이 맞질 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "4",
+    "Syllable": "48",
+    "Word": "10",
+    "RDate": "20180318",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "생각보다 큽니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "옮길때 봉이 잘빠집니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "살짝씩 봉이 맞질 않습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "520936",
+    "RawText": "약해서 실제로 쓸땐 불안불안합니다 지지대 봉이 높지 않아서 3개층으로 쓰기엔 높이가 많이 모자라네요 양말걸이는 없는것보단 낫지만 불편해서 별로에요 다른덴 다 회색인데 아래쪽 가로봉만 흰색이어서 좀 튀는듯하고 흰색 페인트 칠은 깔끔하지 못하게 갈색 얼룩 같은 게 묻어있네요 포장은 조금 파손 되어 왔어요 재구매는 안할듯합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "3",
+    "Syllable": "180",
+    "Word": "43",
+    "RDate": "20180324",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "약해서 실제로 쓸땐 불안불안합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": " 지지대 봉이 높지 않아서 3개층으로 쓰기엔 높이가 많이 모자라네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "양말걸이는 없는것보단 낫지만 불편해서 별로에요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "다른덴 다 회색인데 아래쪽 가로봉만 흰색이어서 좀 튀는듯하고 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "흰색 페인트 칠은 깔끔하지 못하게 갈색 얼룩 같은 게 묻어있네요 ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "520943",
+    "RawText": "전에 삿던거 아이가 망가뜨려서 이번에 프리미엄으로 구매했네요 튼튼하고 좋아보입니다 오래오래 사용할수 있었으면 좋겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "13",
+    "RDate": "20180327",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고 좋아보입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 오래오래 사용할수 있었으면 좋겠네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "520947",
+    "RawText": "필요할까 싶어 선택했는데 무조건 선택해야 될듯싶어요 이불봉 하나더 있으니 확실히 튼튼해 지는군요 두터운 겨울옷도 전혀 무리없어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "16",
+    "RDate": "20180327",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "이불봉 하나더 있으니 확실히 튼튼해 지는군요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "두터운 겨울옷도 전혀 무리없어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520948",
+    "RawText": "조립이 조금 힘들기는 하네요 저렴하게 잘 샀어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "26",
+    "Word": "7",
+    "RDate": "20180327",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립이 조금 힘들기는 하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 샀어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520953",
+    "RawText": "집. 사무실. 친구집벌써 세번째 구매합니다 튼튼하고 많은 빨래도 한번에 걱정이 없습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "4",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20180329",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "많은 빨래도 한번에 걱정이 없습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520970",
+    "RawText": "항상 빨래 널 공간이 부족했는데 잘 쓰겠습니다 조금 약해보이긴 하지만 조심히 잘 쓸려구요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "13",
+    "RDate": "20180402",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "조금 약해보이긴 하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "조심히 잘 쓸려구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520975",
+    "RawText": "가격대비 만족해요 조금 약한것 같네요 빨래를 많이 널진 못할것같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "38",
+    "Word": "9",
+    "RDate": "20180403",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 만족해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "조금 약한것 같네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "빨래를 많이 널진 못할것같습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "520983",
+    "RawText": "좀약해보이네요 그래도공간차지안하고 이동가능해 유용하게쓰이긴하겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "4",
+    "Syllable": "37",
+    "Word": "4",
+    "RDate": "20180405",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "좀약해보이네요 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "공간차지안하고 이동가능해 유용하게쓰이긴하겠습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520984",
+    "RawText": "전에 쓰던거 부러져서 새로 샀네요 검정색바닥은 신랑이 새로 만들어서 바퀴도 달아줬어요 하도 잘 깨지니까 우리신랑 맥가이버 괜히 또하나 샀네요 튼튼하고 빨래도 많이 널수 있어 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "100",
+    "Word": "25",
+    "RDate": "20180406",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "빨래도 많이 널수 있어 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "520987",
+    "RawText": "깔끔하고 기본 스타일입니다 조금더 튼튼하면 더 좋을듯 싶네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "4",
+    "Syllable": "33",
+    "Word": "8",
+    "RDate": "20180406",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔하고 기본 스타일입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "조금더 튼튼하면 더 좋을듯 싶네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "521004",
+    "RawText": "생각했던거보다 크기가 커서 좋아요 널어도 널어도 공간이 남습니다 넘 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "41",
+    "Word": "10",
+    "RDate": "20180411",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "생각했던거보다 크기가 커서 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "널어도 널어도 공간이 남습니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "521006",
+    "RawText": "3단으로 된 튼튼한 제품으로 배송도 빠릅니다 양말걸기의 아이디어도 좋은 제품으로 적극 추천해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20180412",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "3단으로 된 튼튼한 제품으로",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 양말걸기의 아이디어도 좋은 제품",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "521014",
+    "RawText": "여자인 저혼자도 조립하기 쉽네요 튼튼하고 크기가 커서 빨래도 많이 널 수 있어서 좋습니다 추천합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "14",
+    "RDate": "20180415",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "여자인 저혼자도 조립하기 쉽네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기가 커서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": " 빨래도 많이 널 수 있어서 좋습니다 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "521016",
+    "RawText": "양말을 걸수 있는 공간이 없네요 당연히 있는줄알고 확인안했는데요. 다른것보다 좀 넓게 나온것같습니다 전에쓰던건 수건 두개 널면 딱맞앗는데 요건 약간 여유있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "4",
+    "Syllable": "88",
+    "Word": "20",
+    "RDate": "20180417",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "양말을 걸수 있는 공간이 없네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "다른것보다 좀 넓게 나온것같습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "전에쓰던건 수건 두개 널면 딱맞앗는데 요건 약간 여유있어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "521017",
+    "RawText": "재질이 플라스틱이라 그런지 조금 약한것같은 느낌은 있습니다 그래도 불편함 없이 사용 가능해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "4",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20180417",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "재질이 플라스틱이라 그런지",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "조금 약한것같은 느낌은 있습니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "불편함 없이 사용 가능해서 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "521019",
+    "RawText": "기존에 쓰던 것이 오래되어 파손되어 새로 샀네요 가격도 마트 보다 싸요 빨래를 많이 널수 있어 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "16",
+    "RDate": "20180419",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 마트 보다 싸요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "빨래를 많이 널수 있어 좋네요  ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "521024",
+    "RawText": "전에 썼던거보다 훨씬 튼튼합니다 오래쓸거같네요 가격도만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "34",
+    "Word": "6",
+    "RDate": "20180421",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "전에 썼던거보다 훨씬 튼튼합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오래쓸거같네요 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도만족합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "521028",
+    "RawText": "튼튼하고 조립도 편하고 좋아요. 단점이라면 이동할 때 기둥이 뽑혀서 불편하긴 하네요. 그래도 그 부분 그냥 면테이프로 고정시키니까 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "18",
+    "RDate": "20180424",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립도 편하고 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이동할 때 기둥이 뽑혀서 불편하긴 하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "521034",
+    "RawText": "여자 혼자서도 금방 조립하네요 제 옷이 큰데 넓게 널수 있어서 넘 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "41",
+    "Word": "12",
+    "RDate": "20180428",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "여자 혼자서도 금방 조립하네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "넓게 널수 있어서 넘 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "521039",
+    "RawText": "저렴하네요 가격 대비 튼튼하구요 많이 널수 있습니다 구매하길 정말 잘했네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "41",
+    "Word": "10",
+    "RDate": "20180502",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "가격 대비 튼튼하구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "많이 널수 있습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "521040",
+    "RawText": "자리공간때문에 구매했네요 솔직히 실망입니다 너무 힘이없네요 그냥 대충쓰다가 버려야 겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "3",
+    "Syllable": "49",
+    "Word": "10",
+    "RDate": "20180502",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "너무 힘이없네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "그냥 대충쓰다가 버려야 겠어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "521041",
+    "RawText": "혼자서 조립해도 쉽네요 자리 많이 차지하지 않아 좋구요 바퀴로 이동하니 너무 편합니다  무거운걸 널기가 살짝 걱정은 되는데 좀더 튼튼하면 좋겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "20",
+    "RDate": "20180503",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "혼자서 조립해도 쉽네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "자리 많이 차지하지 않아 좋구요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "바퀴로 이동하니 너무 편합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "무거운걸 널기가 살짝 걱정은 되는데 좀더 튼튼하면 좋겠네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "521046",
+    "RawText": "중간부분이 무거운거 널면 좀 헐렁해질것같긴하네요 그래도 많이 널수있고 맘에듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 6단 빨래건조대 일반형",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "9",
+    "RDate": "20180508",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "중간부분이 무거운거 널면 좀 헐렁해질것같긴하네요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": " 많이 널수있고 맘에듭니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "521049",
+    "RawText": "튼튼하다의 정의가 조금 달랐나보네요 고정 부분이 플라스틱이라 그거 뽀개지면 그냥 사요나라 일것 같습니다 그 부분이 좀 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 튼튼한 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20220711",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "고정 부분이 플라스틱이라",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "그거 뽀개지면 그냥 사요나라 일것 같습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "521054",
+    "RawText": "일반 건조대보다 좀 큽니다 블랙이라 고급스러워 보여요 다리 내 모퉁이가 뾰족 합니다 실내에서는 조심해야 될 거 같아요 장점은 이불 빨래도 널 수 있고 많은 양의 세탁물도 기뜬히 널수있어서 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 튼튼한 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "29",
+    "RDate": "20220520",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "일반 건조대보다 좀 큽니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "블랙이라 고급스러워 보여요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 다리 내 모퉁이가 뾰족 합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "실내에서는 조심해야 될 거 같아요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "이불 빨래도 널 수 있고 많은 양의 세탁물도 기뜬히 널수있어서 만족해요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "521066",
+    "RawText": "검색해보니깐 튼튼하다고 해서 구매했네요 색도 검정색이라 이쁘구여 튼튼해 보입니다  잘사용하겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 튼튼한 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "10",
+    "RDate": "20220414",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색도 검정색이라 이쁘구여 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해 보입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "521070",
+    "RawText": "튼튼하네요 검정색이라 빨래걸이 접촉부분이 하얗게 변합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 튼튼한 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "31",
+    "Word": "6",
+    "RDate": "20220327",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "검정색이라 빨래걸이 접촉부분이 하얗게 변합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "521081",
+    "RawText": "안녕하세요 배송도 빠르게 잘 왔습니다 제품도 저렴하게 구입했어요 배송도 꼼꼼하게 안전히 잘 왔네요 단 빨래가 많이 널릴 것 같진 않습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 튼튼한 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "20",
+    "RDate": "20220225",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입했어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "빨래가 많이 널릴 것 같진 않습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "521086",
+    "RawText": "굉장히 크네요 생각하던 디자인인데 큽니다 그래도 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 튼튼한 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "30",
+    "Word": "7",
+    "RDate": "20211124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "굉장히 크네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "생각하던 디자인인데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "큽니다 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "521087",
+    "RawText": "딸아이 사주고 제법 튼튼하니맘에 들더라구요 또 샀네요 일단 튼튼해서 무게감은 상당히 있어요 보통 헹거가 약하고 흔들거린다면 이건 아주 튼튼합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 튼튼한 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "19",
+    "RDate": "20210830",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "제법 튼튼하니맘에 들더라구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감은 상당히 있어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "아주 튼튼합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "521091",
+    "RawText": "잘 받았어요 살짝 휜 빨랫대가 있긴했으나 펴서 쓰기로 했네요 올스텐이라 튼튼해서 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 강** 건조대 올스텐 특대 2단",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "12",
+    "RDate": "20220820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "살짝 휜 빨랫대가 있긴했으나",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "올스텐이라",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 튼튼해서 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "521094",
+    "RawText": "가격은 타상품 대비 2배 가까이 비싼데 올스텐이라 구매했네요 기존에 쓰던 건조대는 햇빛에 플라스틱부분이 약해져 부러졌어요 스텐은 튼튼할꺼라 생각되어 구매했네요 그러나 가격은 확실히 부담스럽습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 강** 건조대 올스텐 특대 2단",
+    "ReviewScore": "4",
+    "Syllable": "108",
+    "Word": "23",
+    "RDate": "20220810",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 타상품 대비 2배 가까이 비싼데 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "올스텐이라 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": " 스텐은",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 튼튼할꺼라 생각되어 구매했네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격은 확실히 부담스럽습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "521096",
+    "RawText": "생각한거 보단 가벼워서 전 좋은데, 지지대가 넘 얇아서 좀 걱정입니다. 높이는 너무 좋고요. 제습기 들어가서 넘 좋네요. 닦는데 좀 고생했어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 강** 건조대 올스텐 특대 2단",
+    "ReviewScore": "4",
+    "Syllable": "79",
+    "Word": "20",
+    "RDate": "20220808",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각한거 보단 가벼워서 전 좋은데,",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "지지대가 넘 얇아서 좀 걱정입니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "높이는 너무 좋고요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "닦는데 좀 고생했어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "제습기 들어가서 넘 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "521103",
+    "RawText": "올 스텐이라 짱짱할거 같아 마음에 듭니다 배송은 하루만에 빠르게 도착했습니다 높이가 낮아서 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 강** 건조대 올스텐 특대 2단",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20220720",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "올 스텐이라 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "짱짱할거 같아 마음에 듭니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "높이가 낮아서 아쉽네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "521105",
+    "RawText": "튼튼하고 키가 커서 좋아요 바지걸이에 바지를 걸어널어도 바닥에 끌리지않네요 다만 다른 후기에서도 지적한것 처럼 날개를 지탱하는 곳이 가늘어서 오래쓸수 있을지 의구심이 생겨요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 강** 건조대 올스텐 특대 2단",
+    "ReviewScore": "4",
+    "Syllable": "96",
+    "Word": "22",
+    "RDate": "20220719",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "키가 커서 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "바지걸이에 바지를 걸어널어도 바닥에 끌리지않네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "날개를 지탱하는 곳이 가늘어서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오래쓸수 있을지 의구심이 생겨요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "521110",
+    "RawText": "7년을 사용했는데도 구입당시와 변함없이 튼튼해요 선물해드렸더니 강하고 튼튼하다며 좋다고 하시면서 하나더 구입해달라고 하시네요 다른분이 보시고 사용하고 싶다고 한다고 또 주문해드렸어요 좋은 제품 감사드립니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 강** 건조대 올스텐 특대 2단",
+    "ReviewScore": "5",
+    "Syllable": "114",
+    "Word": "23",
+    "RDate": "20220703",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "구입당시와 변함없이 튼튼해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "강하고 튼튼하다며",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "521120",
+    "RawText": "튼튼하고 커서 좋네요 많은 양의 세탁물을 베란다에서 한번에 건조 할수 있어 편합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 강** 건조대 올스텐 특대 2단",
+    "ReviewScore": "4",
+    "Syllable": "46",
+    "Word": "12",
+    "RDate": "20220610",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "커서 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "많은 양의 세탁물을 베란다에서 한번에 건조 할수 있어 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "521121",
+    "RawText": "올스텐이라 정말 좋아요 처음에 휘어진 부분이 있어서 교환해서 잘 쓰고 있네요 이음새가 플라스틱이면 깨져서 오래 못 써요 이건 이음새도 올스텐이라 정말 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 강** 건조대 올스텐 특대 2단",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "22",
+    "RDate": "20220609",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "올스텐이라 정말 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "처음에 휘어진 부분이 있어서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "이음새가 플라스틱이면 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "깨져서 오래 못 써요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "이건 이음새도 올스텐이라 정말 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "521123",
+    "RawText": "플라스틱이 없어서 부식될 염려가 없어서 좋아요 다만 조금 무겁네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 강** 건조대 올스텐 특대 2단",
+    "ReviewScore": "5",
+    "Syllable": "36",
+    "Word": "9",
+    "RDate": "20220605",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "플라스틱이 없어서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "부식될 염려가 없어서 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "조금 무겁네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "521130",
+    "RawText": "배송도 빠르고 만족해요. 검색한것중에제일 튼튼해보여서 구매했다 실제로도 마감도 깨끗하고 좋습니다. 사이즈도 딱 적당하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 강** 건조대 올스텐 특대 2단",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "13",
+    "RDate": "20220521",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감도 깨끗하고 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈도 딱 적당하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "521135",
+    "RawText": "너무 만족하고 잘 사용하고 있어요 올 스텐이라 튼튼하고 견고하네요 오래 잘 사용할것 같아요 한가지 아쉬운 점은 접고 펴는부분이 많이 뻑뻑해요 오래 사용하면 유연해질거라 생각했는데 그렇지는 않네요. 그래도 제품 이상없고 만족하며 잘 사용 하고 있다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 강** 건조대 올스텐 특대 2단",
+    "ReviewScore": "5",
+    "Syllable": "137",
+    "Word": "34",
+    "RDate": "20220511",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "올 스텐이라 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고 견고하네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오래 잘 사용할것 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "접고 펴는부분이 많이 뻑뻑해요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "오래 사용하면 유연해질거라 생각했는데 그렇지는 않네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "521139",
+    "RawText": "풀스댕이라 묵직하니 맘에 들어요 많은 애기빨래도 거뜬합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 강** 건조대 올스텐 특대 2단",
+    "ReviewScore": "5",
+    "Syllable": "32",
+    "Word": "7",
+    "RDate": "20220506",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "풀스댕이라",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직하니 맘에 들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "많은 애기빨래도 거뜬합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "521140",
+    "RawText": "빨래건조장 겸 바베큐장 용도인 비닐하우스 안에서 사용하기 위해 구매했네요. 배송도 빨라요 제품도 튼튼하고 하자없이 잘 도착했어요 완전 올스텐이라 부식 등의 걱정도 없을 꺼 같네요 아주 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 강** 건조대 올스텐 특대 2단",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "26",
+    "RDate": "20220505",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "제품도 튼튼하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "하자없이 잘 도착했어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "완전 올스텐이라",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "부식 등의 걱정도 없을 꺼 같네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "521142",
+    "RawText": "잘 받았어요 스텐재질도 좋고 디자인도 맘에 듭니다 빨래 많은날 세탁물이 좋아하네요 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 강** 건조대 올스텐 특대 2단",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20220503",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "스텐재질도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 맘에 듭니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "빨래 많은날 세탁물이 좋아하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "521145",
+    "RawText": "가볍구 디자인이 깔끔합니다 활용성도 좋고 높이가 약간 높긴 하지만 사용하는데 불편하진 않네요. 마음에 쏙 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 강** 건조대 올스텐 특대 2단",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20220422",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍구",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 깔끔합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "활용성도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "높이가 약간 높긴 하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하는데 불편하진 않네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "521154",
+    "RawText": "올스텐이라 튼튼하고 오래잘쓸것 같습니다 근데 닦으니 시커멓게 나와서 몇번 닦았습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 강** 건조대 올스텐 특대 2단",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "10",
+    "RDate": "20220406",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "올스텐이라",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고 오래잘쓸것 같습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 닦으니 시커멓게 나와서 몇번 닦았습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "521156",
+    "RawText": "박스포장만잇구 안에는 비닐포장없이 덩그러니 물건만 들어있어요 펼치는부분이 많이 뻑뻑하고 찍힘이잇습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 강** 건조대 올스텐 특대 2단",
+    "ReviewScore": "3",
+    "Syllable": "56",
+    "Word": "10",
+    "RDate": "20220406",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "펼치는부분이 많이 뻑뻑하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "찍힘이잇습니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "521157",
+    "RawText": "상품평보고 주문해서 받았는데 너무 맘에 들어요 깔끔하고 튼튼합니다 강추에요 연마제는 꼭 닦아주고 사용하시면 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 강** 건조대 올스텐 특대 2단",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20220405",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "연마제는 꼭 닦아주고 사용하시면 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "521165",
+    "RawText": "앞전 사용하던 건조대가 너무 부실해서 튼튼하고 후기 좋은 상품 조회하다가 구매했네요 딱 보기에도 가격만큼 품질 좋고 튼튼해보여 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 강** 건조대 올스텐 특대 2단",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20220317",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격만큼 품질 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해보여 만족해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "521166",
+    "RawText": "요즘 건조기 대세라지만 건조기 사용 못하는 세탁물이 있어 건조대가 아쉬울 때가 있어요. 프라스틱으로 연결된 부위가 없어서 견고합니다 부러질 염려가 전혀 없네요 매우 탄탄해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 강** 건조대 올스텐 특대 2단",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "23",
+    "RDate": "20220315",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "프라스틱으로 연결된 부위가 없어서 견고합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "부러질 염려가 전혀 없네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 매우 탄탄해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "521170",
+    "RawText": "진짜 받아보니 더 튼튼하걸 알겠네요 여름에 제습기 밑에 놓고 건조시킬 실내용으로 딱입니다 전 겨울에 베란다에서 잘 안마르는 세탁물 때문에 샀는데 너무너무 잘 사용하고 있습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 강** 건조대 올스텐 특대 2단",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "24",
+    "RDate": "20220312",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "진짜 받아보니 더 튼튼하걸 알겠네요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름에 제습기 밑에 놓고 건조시킬 실내용으로 딱입니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "겨울에 베란다에서 잘 안마르는 세탁물 때문에 샀는데 너무너무 잘 사용하고 있습니다",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "521172",
+    "RawText": "빨래 고정지지대가 약하네요. 이부분이 너무중요한데 신경써주셔서 만들어주셨으면좋겠네요. 그리고 고정지지대살이 빠집니다. 기존모델도 플라스틱부분이 오래쓰고 햇빛에노출되니 이상한냄새가나서 올스텐으로 바꾸게되었던건데 중간지지대가 개선이 되면 좋겠네요 지지대 빼면 흠잡을곳 없이 너무 좋은 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 강** 건조대 올스텐 특대 2단",
+    "ReviewScore": "4",
+    "Syllable": "163",
+    "Word": "28",
+    "RDate": "20220312",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "빨래 고정지지대가 약하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "고정지지대살이 빠집니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "중간지지대가 개선이 되면 좋겠네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 지지대 빼면 흠잡을곳 없이 너무 좋은 제품입니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "521173",
+    "RawText": "바퀴 달린 제품 써봤는데 플라스틱이라 살이 잘 빠지고 바퀴도 잘 빠졌는데요. 생각만큼 접어서 보관도 힘들었고요. 이 상품은 접기도 편하고 제품이 완전 튼튼해서 좋습니다 좋은 상품의 품질입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 강** 건조대 올스텐 특대 2단",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "26",
+    "RDate": "20220312",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "접기도 편하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "제품이 완전 튼튼해서 좋습니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "좋은 상품의 품질입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

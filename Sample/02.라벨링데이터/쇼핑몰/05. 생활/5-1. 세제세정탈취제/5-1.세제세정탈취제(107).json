@@ -1,0 +1,3056 @@
+[
+  {
+    "Index": "395375",
+    "RawText": "사용 전이라 후기 남길 게 없지만 상품평이 좋아서 구매했으니 효과가 좋기를 기대합니다. 냄새도 심하지 않았으면 좋겠습니다. 많이 필요해서 3통 구매했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "4",
+    "Syllable": "87",
+    "Word": "20",
+    "RDate": "20220430",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과가 좋기를 기대합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 심하지 않았으면 좋겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "395376",
+    "RawText": "변기 사이에 생긴 요석으로 스트레스 받았습니다. 그런데 이 제품을 만나서 붓 질 몇 번에 깨끗해져 너무 놀랐습니다. 냄새는 아쉽습니다. 그래도 만족.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "21",
+    "RDate": "20220429",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "붓 질 몇 번에 깨끗해져 너무 놀랐습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새는 아쉽습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395377",
+    "RawText": "변기랑 세면대에 묵은 때가 많아서 세제를 검색하다보니 OOO을 알게 됐고 반신반의 하면서 주문했습니다. 이틀에 걸쳐 겔을 여러 번 덧 발라주고 수세미로 빡빡 문질렀더니 많이 깨끗해져서 너무 좋습니다. 소독약 같은 냄새가 나서 환기는 필수입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "136",
+    "Word": "33",
+    "RDate": "20220429",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "겔을 여러 번 덧 발라주고 수세미로 빡빡 문질렀더니 많이 깨끗해져서 너무 좋습니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "소독약 같은 냄새가 나서 환기는 필수입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395382",
+    "RawText": "처음 한번으로는 효과가 없어서 여러 번 반복 사용을 해야하니 좀 번거롭습니다. 양이 적어서 몇 번 사용하면 없어져서 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "4",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20220426",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "처음 한번으로는 효과가 없어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여러 번 반복 사용을 해야하니 좀 번거롭습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 적어서 몇 번 사용하면 없어져서 아쉽습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395386",
+    "RawText": "한 번 사용으로는 극적인 효과는 없습니다. 누런 부분이 확실히 지워지려면 여러 번 사용해야 할 것 같습니다. 용기가 불투명해서 양이 얼마나 있는지 모르겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "22",
+    "RDate": "20220423",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "한 번 사용으로는 극적인 효과는 없습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "누런 부분이 확실히 지워지려면 여러 번 사용해야 할 것 같습니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기가 불투명해서 양이 얼마나 있는지 모르겠습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395392",
+    "RawText": "변기 요석이 너무 심해서 물 다 뺀 후에 제거제 넣고 며칠 방치 후 물을 내렸더니 정말 새 것처럼 깨끗하게 되서 깜짝 놀랐네요.  깨끗해진 변기 볼 때마다 기분이 좋아지네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "28",
+    "RDate": "20220421",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "제거제 넣고 며칠 방치 후 물을 내렸더니 정말 새 것처럼 깨끗하게 되서 깜짝 놀랐네요. ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "깨끗해진 변기 볼 때마다 기분이 좋아지네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395397",
+    "RawText": "사용하면 반짝반짝 새 변기가 될 줄 알았어요. 그런데 그냥 누런게 조금 연해진 느낌이에요. 정말 세정력이 좋은지는 못 느끼겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20220419",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 사용하면 반짝반짝 새 변기가 될 줄 알았어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 그냥 누런게 조금 연해진 느낌이에요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "정말 세정력이 좋은지는 못느끼겠네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395400",
+    "RawText": "세제 사용하고 나서 변기속의 요석이 깔끔히 없어져서 아주 좋네요. 가격도 저렴해서 더 좋습니다. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20220418",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세제 사용하고 나서 변기속의 요석이 깔끔히 없어져서 아주 좋네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서 더 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395401",
+    "RawText": "OO이라는 제품은 약간 점성이 있는 액체로 된 제품인데, 페인트붓에 묻혀 변기 내부의 요석에 3번 정도 발라주었어요. 잠시 후 요석이 녹아내리는 모습이 보이기 시작했고, 약 10분 후에 샤워기로 물을 뿌리며 닦아주자 완전히 새 변기처럼 깨끗해졌습니다. 첨부한 사진 중 앞의 5장은 닦아내기 전의 사진이고, 나중의 5장이 닦아낸 이후의 사진입니다. 강력 추천해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "202",
+    "Word": "49",
+    "RDate": "20220417",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "요석이 녹아내리는 모습이 보이기 시작했고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "샤워기로 물을 뿌리며 닦아주자 완전히 새 변기처럼 깨끗해졌습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395405",
+    "RawText": "실리콘에 곰팡이가 있는데 기존에 가지고 있던 제품에서는 효과를 보질 못해서 지인추천으로 구매했습니다. 얼른 청소해 보고 싶습니다. 지인 추천이라서 세정력이 기대됩니다. 좋아하는 사이즈라 더 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "110",
+    "Word": "24",
+    "RDate": "20220414",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "지인 추천이라서 세정력이 기대됩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "좋아하는 사이즈라 더 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395411",
+    "RawText": "오래된 소변기에 사용했더니 잘 닦입니다. 저희 집 변기가 아주 오래되어서 시간이 좀 걸리긴 했지만 깨끗하게 됐네요.그 전 상태를 사진 찍어 놓을껄 하고 생각 할 정도로 세정력에 만족합니다.빠른 배송도 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "4",
+    "Syllable": "118",
+    "Word": "29",
+    "RDate": "20220412",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "오래된 소변기에 사용했더니 잘 닦입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "시간이 좀 걸리긴 했지만 깨끗하게 됐네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력에 만족합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395413",
+    "RawText": "광고 인 줄 알았는데 정말 효과가 좋네요. 몸이 아픈 저도 사용할 수 있을 정도로 사용하기 편해서 좋네요. 감사해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "18",
+    "RDate": "20220411",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "정말 효과가 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 편해서 좋네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395414",
+    "RawText": "전세 줬다 들어오니 양쪽 화장실 난리가 났네요. 그래서 구입했는데 깨끗이 세척 잘했습니다. 독한 냄새는 환기하면서 사용하면 되네요. 빠른배송 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "4",
+    "Syllable": "85",
+    "Word": "19",
+    "RDate": "20220411",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "깨끗이 세척 잘했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "독한 냄새는 환기하면서 사용하면 되네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395417",
+    "RawText": "대박입니다. 몇 년 동안 속 썩이던 변기 속 찌든 때가 요석제거제 덕분에 한방에 없어졌습니다. 냄새도 독하지 않습니다. 이제부터라도 열심히 써야겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "20",
+    "RDate": "20220409",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "변기 속 찌든 때가 요석제거제 덕분에 한방에 없어졌습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 독하지 않습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "395422",
+    "RawText": "오자마자 화장실 변기에 사용했는데 OOO으로도 해결 못한 누런 요석이 깨끗이 해결되어서 너무 좋습니다. 냄새도 독하지 않습니다. 재구매 의사 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "19",
+    "RDate": "20220408",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "누런 요석이 깨끗이 해결되어서 너무 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 독하지 않습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "395423",
+    "RawText": "몇년동안 방법이 없어 항상 거슬렸던 변기 바닥색이 깨끗하게 없어졌어요. 미심쩍어 꼬챙이로 긁어 자국은 생겼지만 세번정도 한시간씩 용액을 붓고 솔질했더니 깨끗해졌습니다. 남은것도 가끔씩 이용해 깨끗한 변기 유지하도록 해야겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "126",
+    "Word": "27",
+    "RDate": "20220407",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "몇년동안 방법이 없어 항상 거슬렸던 변기 바닥색이 깨끗하게 없어졌어요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세번정도 한시간씩 용액을 붓고 솔질했더니 깨끗해졌습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395424",
+    "RawText": "강아지 배변판 요석제거용으로 구매했습니다. 독하다 해서 붓으로 적당히 바르고 문질렀더니 거의 사라져서 신기했습니다. 나중에 줄눈 청소에도 효과가 있기를 기대해 보겠습니다. 다음에도 재구매 하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "111",
+    "Word": "23",
+    "RDate": "20220407",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "붓으로 적당히 바르고 문질렀더니 거의 사라져서 신기했습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "나중에 줄눈 청소에도 효과가 있기를 기대해 보겠습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "395425",
+    "RawText": "향기 나는 제품으로 선택한건데 향기가 별로 안나고 변기 안쪽의 묵은 때는 두번 정도 반복 사용했는데도 깨끗하게 제거는 안됩니다.대신 오래되지 않은 변기 안쪽은 깨끗하게 제거가 되긴 하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "105",
+    "Word": "26",
+    "RDate": "20220406",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기 나는 제품으로 선택한건데 향기가 별로 안나고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "변기 안쪽의 묵은 때는 두번 정도 반복 사용했는데도 깨끗하게 제거는 안됩니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "오래되지 않은 변기 안쪽은 깨끗하게 제거가 되긴 하네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395428",
+    "RawText": "이 제품 진짜 마음에 듭니다.  오랫동안 찌든 때로 안지워지던 변기가 깨끗해져서 속이 다 개운합니다. 요석제거에 이만한 효과가 있는 것이 없을 듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "22",
+    "RDate": "20220406",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "오랫동안 찌든 때로 안지워지던 변기가 깨끗해져서 속이 다 개운합니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "요석제거에 이만한 효과가 있는 것이 없을 듯 합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395431",
+    "RawText": "워낙 심한 상태여서 요석이 완벽하게 제거는 안되었네요. 몇 번 더 사용하면 효과가 있으리라 생각합니다. 열심히 청소해 보겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20220405",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "요석이 완벽하게 제거는 안되었네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "몇 번 더 사용하면 효과가 있으리라 생각합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "395433",
+    "RawText": "제품 도착하자마자  화장실 청소 했는데 악취는 많이 좋아졌네요. 워낙 묵은 상태라 그런지 완벽 제거되지는 않았어요. 기대많이 했는데 효과는 무난한것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "20",
+    "RDate": "20220405",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": " 악취는 많이 좋아졌네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 워낙 묵은 상태라 그런지 완벽 제거되지는 않았어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "기대많이 했는데 효과는 무난한것 같네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "395440",
+    "RawText": "요석때문에 고민이 많았는데 친구 추천으로 구매했습니다. 깨끗하게 잘 제거됩니다. 생각보다 냄새도 독하지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "13",
+    "RDate": "20220403",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "깨끗하게 잘 제거됩니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "생각보다 냄새도 독하지 않습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "395442",
+    "RawText": "함께 주신 붓으로 바른 다음 변기 솔로 몇 번 밀었더니 아주 깔끔하게 닦아졌습니다 OO를 뿌려도 닦이지 않았던 것이 이 세제를 사용하니 말끔하게 닦여서 좋네요 변기 주위에 물 나오는 곳도 완벽하게 제거해서 기분이 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "124",
+    "Word": "33",
+    "RDate": "20220331",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "솔로 몇 번 밀었더니 아주 깔끔하게 닦아졌습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "이 세제를 사용하니 말끔하게 닦여서 좋네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "변기 주위에 물 나오는 곳도 완벽하게 제거해서 기분이 좋습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "함께 주신 붓으로 바른 다음",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395444",
+    "RawText": "평소 화장실 냄새 때문에 많이 힘들어서 구매했는데 냄새제거에는 그닥 효과가 없습니다. 오히려 독한 냄새가 섞여서 더 지독해지네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20220330",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": " 냄새제거에는 그닥 효과가 없습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 오히려 독한 냄새가 섞여서 더 지독해지네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395445",
+    "RawText": "요석이 쌓여 있는것을 보고 어떻게 제거하나 하고 고민을 많이 했는데  한번에 해결했습니다.100%완벽하게 깨끗해지진 않지만 손에 닿지 않는 부분까지도 깨끗해지고 냄새도 사라지니 만족입니다. 사용해 보세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "4",
+    "Syllable": "114",
+    "Word": "24",
+    "RDate": "20220330",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "100%완벽하게 깨끗해지진 않지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "손에 닿지 않는 부분까지도 깨끗해지고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "냄새도 사라지니 만족입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395447",
+    "RawText": "성능이 너무 좋습니다. 사은품으로 준 솔로 살살 뭍혀서 닦아내니 OO로도 안지워지던 소변자국이 잘 닦여져서 놀랐습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20220330",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능이 너무 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품으로 준 솔로",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " OO로도 안지워지던 소변자국이 잘 닦여져서 놀랐습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395448",
+    "RawText": "전날 변기에 붓고 잤는데 아침에 물내리니까 완전 깨끗해지네요.  화장실이 너무 깨끗해져서 좋아요.  좋은 제품인데 너무 많이 사용하면 좋지는 않겠지요?",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "19",
+    "RDate": "20220330",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "전날 변기에 붓고 잤는데 아침에 물내리니까 완전 깨끗해지네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "화장실이 너무 깨끗해져서 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395450",
+    "RawText": "OOO 변기세정제 리필형 가걱대비 품질 만족도가 매우 높은제품이에요. 기존에 사용하던 제품은 물에 잘 안녹거나 녹아서 끈적임이 많았는데 액상형 변기세정제는 사용해보니 깨끗하게 세정이 되네요. 4인 가정에서 석달정도는 교체 안하고 사용하니 편하고 좋네요. 제품품질은 정말 만족스러워요. 강추합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "4",
+    "Syllable": "165",
+    "Word": "35",
+    "RDate": "20220329",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": " 가걱대비 품질 만족도가 매우 높은제품이에요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 사용해보니 깨끗하게 세정이 되네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "4인 가정에서 석달정도는 교체 안하고 사용하니 편하고 좋네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품품질은 정말 만족스러워요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395457",
+    "RawText": "완전 잘 닦입니다. 수전부분이랑 변기 물 나오는곳 노랗게 된곳들 솔로 문질러도 안되던것들이 깔끔하게 제거되었어요. 종이컵에 조금 덜어내서 솔로 발라주고 사용하는게 편해서 좋은것 같습니다. 동봉된 솔로 약품 발라주고 5분정도 놔뒀다가 샤워기로 씻어냈는데도 깨끗해졌어요. 찌든때는 세척솔로 솔질 한번 해주니 더 잘 닦여요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "178",
+    "Word": "40",
+    "RDate": "20220327",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "완전 잘 닦입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "수전부분이랑 변기 물 나오는곳 노랗게 된곳들 솔로 문질러도 안되던것들이 깔끔하게 제거되었어요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "종이컵에 조금 덜어내서 솔로 발라주고 사용하는게 편해서 좋은것 같습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "동봉된 솔로 약품 발라주고 5분정도 놔뒀다가 샤워기로 씻어냈는데도 깨끗해졌어요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "찌든때는 세척솔로 솔질 한번 해주니 더 잘 닦여요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395463",
+    "RawText": "OO보고 사용했는데 OO처럼 되려면 여러 번 사용해야 해서 불편합니다. 세정력이 약해서 5분이 아니라 몇 시간 후에 물로 내려야 제거가 되니 좀 번거로워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "22",
+    "RDate": "20220325",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여러 번 사용해야 해서 불편합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력이 약해서 5분이 아니라 몇 시간 후에 물로 내려야 제거가 되니 좀 번거로워요.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395465",
+    "RawText": "몇 번 사용하면 없어져서 용량이 많았으면 좋겠어요. 너무 잘 닦여요. 잘 쓸게요. 사업 번창하시길 바라겠습니다. 빠른 배송 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20220325",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "몇 번 사용하면 없어져서 용량이 많았으면 좋겠어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "너무 잘 닦여요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395467",
+    "RawText": "화장실 청소가 편하려고 구매했는데 오히려 찌꺼기가 많이 남아 있어서 더 신경 써야 해서 불편합니다. 산성이 너무 세서 피부에 닿으면 안 좋을 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "23",
+    "RDate": "20220324",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "찌꺼기가 많이 남아 있어서 더 신경 써야 해서 불편합니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "산성이 너무 세서 피부에 닿으면 안 좋을 것 같습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395471",
+    "RawText": "변기 청소중 안에 찌든 때가 늘 거슬렸거든요. 때가 분해되어 깨끗하게 되는게 눈으로 보이니 속이 시원하네요. 효과 진짜 좋아요. 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20220323",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "때가 분해되어 깨끗하게 되는게 눈으로 보이니 속이 시원하네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과 진짜 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395473",
+    "RawText": "세척력 효과 짱입니다. 화장실 들어갈 때마다 스트레스였는데 완전 깨끗한 새 변기가 되어서 기분 좋습니다. 철수세미로 씻어도 요석이 없어지지 않았는데 너무 깨끗해졌습니다. 완전 강추합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "104",
+    "Word": "23",
+    "RDate": "20220323",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력 효과 짱입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "완전 깨끗한 새 변기가 되어서 기분 좋습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "철수세미로 씻어도 요석이 없어지지 않았는데 너무 깨끗해졌습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395474",
+    "RawText": "받자마자 변기청소했어요. 다른 세제들 사용했을 땐 절대 없어지지 않던 찌든 때들이 발라놓고 좀 있으니까 막 흘러 내려요. 아주 만족합니다!! 붓도 함께 와서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "23",
+    "RDate": "20220323",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "찌든 때들이 발라놓고 좀 있으니까 막 흘러 내려요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "붓도 함께 와서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395478",
+    "RawText": "오랫동안 묵은 요석을 이 제품이 제거해 줘서 속이 후련합니다. 그동안 별짓을 다해도 안됐던 것을 이 제품 한통으로 효과를 봤네요. 강추합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "20",
+    "RDate": "20220322",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "오랫동안 묵은 요석을 이 제품이 제거해 줘서 속이 후련합니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "이 제품 한통으로 효과를 봤네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395479",
+    "RawText": "향기나는 제품은 냄새가 좀 힘들어요. 근데 이 제품은 냄새도 별로 나지 않고, 세정력도 나쁘지 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "4",
+    "Syllable": "57",
+    "Word": "15",
+    "RDate": "20220322",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "이 제품은 냄새도 별로 나지 않고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력도 나쁘지 않아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "395481",
+    "RawText": "강철 브러쉬로 닦아도 없어지지 않는 요석이 제거제를 붓으로 발라 주는 순간부터 녹아내리네요. 효과 정말 좋습니다. 강추.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20220322",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "제거제를 붓으로 발라 주는 순간부터 녹아내리네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과 정말 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395487",
+    "RawText": "냄새가 전혀 나지 않아서 좋고 물때가 분해되는 속도가 정말 빨라서 맘에 듭니다. 힘들게 청소하지 마시고 사용해 보시길 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20220321",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 전혀 나지 않아서 좋고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "물때가 분해되는 속도가 정말 빨라서 맘에 듭니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395488",
+    "RawText": "더러운 변기가 정말 깨끗해지네요. 갤 타입이라 붓으로 바르면 잘 발리네요.그 후에 스크래퍼 같은 걸로 살살 긁어내면 묵은 때가 잘 벗겨지네요. 독한 냄새때문에 환기와 마스크 고무장갑은 필수네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "108",
+    "Word": "26",
+    "RDate": "20220321",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "더러운 변기가 정말 깨끗해지네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "갤 타입이라 붓으로 바르면 잘 발리네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "스크래퍼 같은 걸로 살살 긁어내면 묵은 때가 잘 벗겨지네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "독한 냄새때문에 환기와 마스크 고무장갑은 필수네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395489",
+    "RawText": "OO같은 냄새날까봐 걱정했는데 자극적이지 않고 은은한 향이나서 좋았습니다. 젤같은 질감으로 오염물에 부착이 잘 됐고 세면대 OO로도 못 지웠던 노란 얼룩이 말끔하게 지워졌습니다. 마치 새것마냥 반짝거리며 변했습니다. 변기 물내려오는곳의 노란얼룩도 지워졌습니다. 같이주신 붓도 마음에 들고 활용도가 좋아 더욱 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "177",
+    "Word": "38",
+    "RDate": "20220320",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "자극적이지 않고 은은한 향이나서 좋았습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "젤같은 질감으로 오염물에 부착이 잘 됐고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "노란 얼룩이 말끔하게 지워졌습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "마치 새것마냥 반짝거리며 변했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "변기 물내려오는곳의 노란얼룩도 지워졌습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "같이주신 붓도 마음에 들고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "활용도가 좋아 더욱 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395490",
+    "RawText": "양변기 요석제거하려 샀는데 제거가 90%정도 된거 같아요. 효과가 좋은편이에요. 배송도 하루만에 받아서 좋았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "4",
+    "Syllable": "64",
+    "Word": "13",
+    "RDate": "20220320",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "양변기 요석제거하려 샀는데 제거가 90%정도 된거 같아요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과가 좋은편이에요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395491",
+    "RawText": "변기 상태가 워낙 심해서 한 번의 사용으로는 지워지지 않고 몇 번 더 해야 지워집니다. 그래도 가격은 나쁘지 않아요. 빠른 배송 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "4",
+    "Syllable": "78",
+    "Word": "21",
+    "RDate": "20220320",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "한 번의 사용으로는 지워지지 않고 몇 번 더 해야 지워집니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 나쁘지 않아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "395493",
+    "RawText": "피부에 닿으니까 따가우니 꼭 장갑끼고 해야 할 것 같아요. 냄새도 많이 지독하네요. 세정력은 기대한것보다는 그냥 그런것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "4",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20220318",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "피부(손)보호",
+        "SentimentText": "피부에 닿으니까 따가우니 꼭 장갑끼고 해야 할 것 같아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 많이 지독하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력은 기대한것보다는 그냥 그런것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "395498",
+    "RawText": "이사와서 변기를 보니 찌든 요석이 거슬렸는데 이 제품으로 세척하니 깨끗해져서 너무 좋아요. 근데 냄새가 너무 지독합니다. 그래도 꼼꼼한 배송 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "20",
+    "RDate": "20220317",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "이 제품으로 세척하니 깨끗해져서 너무 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 너무 지독합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395499",
+    "RawText": "오래 사용한 좌변기를 교체할까 고민하던 중이었는데 이 제품 구매해 사용해보니 너무 깔끔해져서 맘에 쏙 들어요. 요석제거제에 붓까지있어 청소하기 간편하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "19",
+    "RDate": "20220317",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "너무 깔끔해져서 맘에 쏙 들어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "요석제거제에 붓까지있어 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "청소하기 간편하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395532",
+    "RawText": "우연히 OOO에서 보고 반신반으로 주문을 했어요. 정말 너무너무 효과가 좋습니다. 솔로 바르자마자 찌든때가 흘러내리고 20분정도 있다가 닦으니까 모두 깔끔하게 지워져 있어요. 강력추천합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "105",
+    "Word": "22",
+    "RDate": "20220312",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "정말 너무너무 효과가 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "솔로 바르자마자 찌든때가 흘러내리고 20분정도 있다가 닦으니까 모두 깔끔하게 지워져 있어요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395546",
+    "RawText": "공용화장실 남자 소변기가 물이 잘 안내려가서 구매해봤습니다. 일단 부어놓긴 했는데 효과는 기다려봐야 알듯해요. 근데 향은 너무 별로에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "4",
+    "Syllable": "76",
+    "Word": "17",
+    "RDate": "20220308",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과는 기다려봐야 알듯해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 너무 별로에요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395547",
+    "RawText": "변기에 눌어붙은 요석이 한번에 제거는 안되었지만 몇 번 사용하니 거의 사라졌습니다. 나누어 부어서 아직 한번정도 더 쓸 정도 남았으니 주말에 한번더 할 예정입니다. 냄새가 그리 심하지는 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "27",
+    "RDate": "20220308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "한번에 제거는 안되었지만 몇 번 사용하니 거의 사라졌습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 그리 심하지는 않습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "395550",
+    "RawText": "효과 괜찮다는 후기가 좀 보이고 가격도 저렴해서 구매했습니다. 솔도 같이 있어서 사용하기 편했어요. 발라 놓고 10분 후에 문질러야 되는데 까먹고 있다가 봤더니 요석이 녹아서 싹 사라져서 기분이 아주 좋았어요. 요석이 약하게 굳은 건 금방 지워지기도 하니 이 제품 정말 굿입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "156",
+    "Word": "40",
+    "RDate": "20220307",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서 구매했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 솔도 같이 있어서 사용하기 편했어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "요석이 녹아서 싹 사라져서 기분이 아주 좋았어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "요석이 약하게 굳은 건 금방 지워지기도 하니 이 제품 정말 굿입니다. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395553",
+    "RawText": "늘 요석 제거가 골치 아팠는데 변기에 물 빼고 말린 후 같이 온 붓으로 바르고 30분정도 후에 씻어내니 아주 깨끗해져서 너무 마음에 드네요. 변기냄새도 안나서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "25",
+    "RDate": "20220306",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "변기에 물 빼고 말린 후 같이 온 붓으로 바르고 30분정도 후에 씻어내니 아주 깨끗해져서 너무 마음에 드네요",
+        "SentimentWord": "17",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "변기냄새도 안나서 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395555",
+    "RawText": "이거 정말 물건입니다. 세정력 짱이네요. 변기 찌든때가 너무 오래되기도 했고 변색이 되서 세제를 많이 사용했더니 새거처럼 깨끗해졌어요 변기 교체까지 고려 중이었는데 완전 만족입니다.강추.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "104",
+    "Word": "23",
+    "RDate": "20220305",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력 짱이네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "새거처럼 깨끗해졌어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395556",
+    "RawText": "배송 빠르고 효과 좋습니다. 일단 변기 물 다 빼고 붓으로 바르자마자 효과가 바로 나타나고 조금 불렸다 세척하니 깨끗해졌어요.  물내려가는 배관쪽이 심한데 완전 제거는 아니지만 만족스럽습니다.  좀 더 여러 번 반복하면 깨끗해질 듯 해요. 변기의 누런 요석으로 고민하시는 분들은 함 사용해보시면 효과 진짜 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "176",
+    "Word": "43",
+    "RDate": "20220305",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 효과 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "변기 물 다 빼고 붓으로 바르자마자 효과가 바로 나타나고",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "물내려가는 배관쪽이 심한데 완전 제거는 아니지만 만족스럽습니다.  ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "좀 더 여러 번 반복하면 깨끗해질 듯 해요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "변기의 누런 요석으로 고민하시는 분들은 함 사용해보시면 효과 진짜 좋습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 조금 불렸다 세척하니 깨끗해졌어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395558",
+    "RawText": "가격이 비싸도 요석 제거가 잘 된다 해서  구매했는데 변기 테두리 물때에 여러 번 사용했는데도 잘 지워지지 않습니다. 잘못 구매 했네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "3",
+    "Syllable": "76",
+    "Word": "20",
+    "RDate": "20220304",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싸도",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "변기 테두리 물때에 여러 번 사용했는데도 잘 지워지지 않습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395559",
+    "RawText": "5분 정도 계속 붓으로 쓱쓱 발라주기만 했는데 완전 깨끗하게 돴어요.  OO 붓고 화장지에 OO 부어서 붙여도 안닦였는데 효과가 정말 대단하네요. 평생 쓸 수 있을 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "26",
+    "RDate": "20220304",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "5분 정도 계속 붓으로 쓱쓱 발라주기만 했는데 완전 깨끗하게 돴어요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과가 정말 대단하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395560",
+    "RawText": "부모님집 이사 청소용으로 사용했어요. 부모님이 사용하시기에 뚜껑이 뻑뻑해서 불편하네요. 그래도 줄눈 사이 곰팡이와 때가 깨끗해 졌습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "4",
+    "Syllable": "76",
+    "Word": "16",
+    "RDate": "20220303",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "부모님이 사용하시기에 뚜껑이 뻑뻑해서 불편하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "줄눈 사이 곰팡이와 때가 깨끗해 졌습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395561",
+    "RawText": "최고 만족입니다. 그동안 여러방법으로 요석을 제거하려고 힘쓰다가 실패했는데 이 제품은 효과가 월등해요. 변기가 새것으로 바뀔 정도예요. 변기 안쪽 깊은 곳까지는 손이 닿지 않아 아쉬운 부분이 있지만 약품이 지나간 곳은 효과만점입니다. 강추합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "137",
+    "Word": "31",
+    "RDate": "20220303",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "여러방법으로 요석을 제거하려고 힘쓰다가 실패했는데 이 제품은 효과가 월등해요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "변기가 새것으로 바뀔 정도예요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "약품이 지나간 곳은 효과만점입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395562",
+    "RawText": "뭘해도 안지워져서 변기를 새로 사고 싶었는데 진짜 깨끗하게 청소가 됐네요. 세정제 냄새가 너무 독해서 눈이 따가운 건 어쩔 수 없나봐요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "20",
+    "RDate": "20220302",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "깨끗하게 청소가 됐네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 너무 독해서 눈이 따가운 건 어쩔 수 없나봐요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395567",
+    "RawText": "물기 없는 상태에서 사용해야 하는 불편함이 있습니다. 때가 오래된 것은 좀 불려야해서 오래 기다리는 번거로움이 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20220301",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "물기 없는 상태에서 사용해야 하는 불편함이 있습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "때가 오래된 것은 좀 불려야해서 오래 기다리는 번거로움이 있습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395576",
+    "RawText": "오래된 요석제거로 이 제품이 유명해 구입해봤습니다. 사용해보니 변기 속이 깔끔해지는 느낌이 안드네요. 세정력이 생각보다 약한것 같아 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "17",
+    "RDate": "20220225",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "변기 속이 깔끔해지는 느낌이 안드네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력이 생각보다 약한것 같아 아쉽습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395579",
+    "RawText": "배송은 빨라서 좋은데 효과가 별로네요. 유명한 제품이라 배송비가 들어도 구매했는데 생각보다 세정력이 떨어져서 재구매는 안할거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "16",
+    "RDate": "20220223",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과가 별로네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력이 떨어져서 재구매는 안할거 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395583",
+    "RawText": "요석 제거하는 것에 이 제품이 제일 좋다고 하여 구입해봤습니다. 명성처럼 요석제거가 잘 되면 좋겠네요. 써보고 효과가 좋으면 계속 구입해서 사용해 보려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "22",
+    "RDate": "20220222",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "명성처럼 요석제거가 잘 되면 좋겠네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "써보고 효과가 좋으면 계속 구입해서 사용해 보려고 합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "395584",
+    "RawText": "변기 안이 누렇게 변색된 게 하얗게 변신했네요. 바르고 닦으니 힘도 안들고 잘닦여요. 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20220222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "변기 안이 누렇게 변색된 게 하얗게 변신했네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "바르고 닦으니 힘도 안들고 잘닦여요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395587",
+    "RawText": "생각보다 효과가 없어서 아쉽습니다. 변기가 깨끗하게 새것처럼 되길 기대했는데 그대로네요. 괜히 구매한것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "13",
+    "RDate": "20220222",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "생각보다 효과가 없어서 아쉽습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "변기가 깨끗하게 새것처럼 되길 기대했는데 그대로네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395590",
+    "RawText": "요석으로 인해 소변기가 막혀 부어보았는데 요석제거에 별 반응이 없는 모습이네요. 효과가 없는거 같아 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20220221",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "요석제거에 별 반응이 없는 모습이네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과가 없는거 같아 아쉽습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395591",
+    "RawText": "한번 써봤는데 효과가 기대 이상이에요. 좌변기 하나 닦아 내는데 종이컵 거의 반도 안쓰고 다 씻어집니다. 효과 작살이에요. 냄새도 없고 동봉해서 온 붓으로 그냥 쓱쓱 문지르면 다 닦입니다. 정기적으로 OO 쓰던거에 비하면 냄새도 없고 효과 좋고 드는 돈도 훨씬 적게 들어요. 확실히 편하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "163",
+    "Word": "42",
+    "RDate": "20220220",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "한번 써봤는데 효과가 기대 이상이에요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "좌변기 하나 닦아 내는데 종이컵 거의 반도 안쓰고 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "다 씻어집니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과 작살이에요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "동봉해서 온 붓으로 그냥 쓱쓱 문지르면 다 닦입니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 효과 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 확실히 편하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " OO 쓰던거에 비하면 냄새도 없고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395597",
+    "RawText": "사용전이지만 후기가 좋으니 믿고 써보려고 합니다. 요석제거가 잘 되길 기대해 봅니다. 깨끗한 화장실을 위해 효과가 좋으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "17",
+    "RDate": "20220218",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "요석제거가 잘 되길 기대해 봅니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "깨끗한 화장실을 위해 효과가 좋으면 좋겠습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "395598",
+    "RawText": "배송 빠르고 신문지로 잘 싸서 포장 잘 되어 있네요. 붓과 설명서가 있다고 하던데 저는 안들어 있더라고요. 변기에 요석이 있어서 구매했는데 밤에 부어놓고 아침에 물 내려도 요석이 그대로 있네요. 효과가 없는듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "4",
+    "Syllable": "121",
+    "Word": "31",
+    "RDate": "20220218",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "붓과 설명서가 있다고 하던데 저는 안들어 있더라고요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "밤에 부어놓고 아침에 물 내려도 요석이 그대로 있네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과가 없는듯 합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395599",
+    "RawText": "오래된 변기에 사용하려고 구매했는데 요석도 찌든때도 없어지지 않네요. 많이 기대했는데 효과가 없어 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20220218",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "요석도 찌든때도 없어지지 않네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과가 없어 아쉽습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395602",
+    "RawText": "홍보는 잘되어 있는데 오늘 사용해 보니 효과가 그렇게 좋지는 않아서 실망이 큽니다. 요석이 제거되지 않고 그대로더라구요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "2",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20220216",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과가 그렇게 좋지는 않아서 실망이 큽니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "요석이 제거되지 않고 그대로더라구요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395603",
+    "RawText": "변기가 너무 지져분해서 검색해서 주문했습니다. 배송 오자자마자 변기 청소했는데 냄새도 없고 완전 잘 지워네요. 물을 퍼내면 아래도 될 것 같았는데 귀찮아서 아래는 그냥 가루 세정제 부어놨습니다. 암튼 속이 다 시원합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "123",
+    "Word": "30",
+    "RDate": "20220215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "완전 잘 지워네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395608",
+    "RawText": "물기가 좀 있을 때 했는데도 효과가 안나타나네요. 붓질을 몇 번이나 해도 요석이 녹아내리지 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "14",
+    "RDate": "20220214",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "물기가 좀 있을 때 했는데도 효과가 안나타나네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "붓질을 몇 번이나 해도 요석이 녹아내리지 않아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395614",
+    "RawText": "요석제거제 중에서 효과는 많이 떨어지네요. 단독으로 사용했을때는 별다른 효과가 보이지 않아 아쉽습니다. 다른 약품에 닿으면 냄새도 너무 독해서 조심히 사용해야 할듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "22",
+    "RDate": "20220210",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "요석제거제 중에서 효과는 많이 떨어지네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "단독으로 사용했을때는 별다른 효과가 보이지 않아 아쉽습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "다른 약품에 닿으면 냄새도 너무 독해서 조심히 사용해야 할듯 합니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395615",
+    "RawText": "1리터라 양이 작아 아쉽습니다. 세정력이 좋아 소변기 청소 제대로 할 수 있길 기대해봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "13",
+    "RDate": "20220209",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "1리터라 양이 작아 아쉽습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력이 좋아 소변기 청소 제대로 할 수 있길 기대해봅니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "395617",
+    "RawText": "상품평이 좋아서 구매했으니 기대합니다. 시원하게 청소가 되었으면 좋겠습니다. 냄새가 독하니 환기는 꼭 해야겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "4",
+    "Syllable": "63",
+    "Word": "13",
+    "RDate": "20220208",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "시원하게 청소가 되었으면 좋겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 독하니 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395618",
+    "RawText": "뿌려 놓기만 해서는 깨끗해지지 않고 대략 10분 정도 있다가 솔로 문질러줘야해서 사용감이 힘듭니다. 빠른 배송 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20220208",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "뿌려 놓기만 해서는 깨끗해지지 않고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "대략 10분 정도 있다가 솔로 문질러줘야해서 사용감이 힘듭니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395620",
+    "RawText": "용량이 작아서 너무 금방 써 버리겠네요. 요석이 깨끗하게 지워지지 않아서 여러번 사용해야 합니다. 빠른 배송은 감사드려요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20220207",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 작아서 너무 금방 써 버리겠네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "요석이 깨끗하게 지워지지 않아서 여러번 사용해야 합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395630",
+    "RawText": "사이즈가 생각보다 많이 작네요. 변기 청소에 굿이라기에 구매해서 믿고 써보려 합니다. 빠른 배송 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "4",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20220204",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "사이즈가 생각보다 많이 작네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "변기 청소에 굿이라기에 구매해서 믿고 써보려 합니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "395632",
+    "RawText": "종이컵에 덜어서 같이 주신 붓으로 삭삭 발랐더니 아주 조금 녹아 내리네요. 솔로 물구멍 속까지 계속 문지르니 계속 찌꺼기가 나옵니다. 근데 아주 빡빡 문질러야서 힘드네요. 엄청 깨끗하게 되진 않고 얼룩덜룩해지네요. 냄새도 지독하고요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "130",
+    "Word": "31",
+    "RDate": "20220203",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "종이컵에 덜어서 같이 주신 붓으로 삭삭 발랐더니 아주 조금 녹아 내리네요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "솔로 물구멍 속까지 계속 문지르니 계속 찌꺼기가 나옵니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아주 빡빡 문질러야서 힘드네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "엄청 깨끗하게 되진 않고 얼룩덜룩해지네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 지독하고요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395633",
+    "RawText": "양변기가 새 것처럼 깨끗해져서 너무 좋습니다. 품질을 반신반의하며 구입해봤는데 효과가 정말 끝내주네요.  감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "13",
+    "RDate": "20220131",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "양변기가 새 것처럼 깨끗해져서 너무 좋습니다.  ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질을 반신반의하며 구입해봤는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과가 정말 끝내주네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395634",
+    "RawText": "평이 좋아 주문했었는데 생각보다 그닥 말끔하게 제거되지는 않네요. 냄새도 약간 독해요. 지인들에게 추천은 못하겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20220130",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "생각보다 그닥 말끔하게 제거되지는 않네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 약간 독해요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395635",
+    "RawText": "완전 대박이에요. 찌든때 제거에 진짜 큰 효과 보실거에요. 청소 깔끔히 한다고 했지만 요석 찌든때는 어쩔수 없었는데요. 변기 교체 알아보다가 닦아봤는데 바르자마자 녹아내리더니 일회용수세미로 슥슥 문지르니 다 닦이네요.  배송비까지 다해도 정말 저렴한 가격에 찌든때가 다 제거가 됐어요. 별점 5개 아쉬워요.  양도 많아서 원없이 쓰겠네요. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "196",
+    "Word": "44",
+    "RDate": "20220129",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "찌든때 제거에 진짜 큰 효과 보실거에요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "바르자마자 녹아내리더니 일회용수세미로 슥슥 문지르니 다 닦이네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "정말 저렴한 가격에",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "찌든때가 다 제거가 됐어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아서 원없이 쓰겠네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395637",
+    "RawText": "청소는 아직은 못했지만 쉬는날 도전해보려고 합니다. 변기가 깨끗해지면 좋겠네요. 생각보다 용량이 작아서 당황했네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "13",
+    "RDate": "20220127",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "변기가 깨끗해지면 좋겠네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "생각보다 용량이 작아서 당황했네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395640",
+    "RawText": "요석제거 잘 되어서 좋습니다. 소량으로도 요석제거가 잘 되서 만족스럽네요. 효과가 오래가기를 기대해 봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20220125",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "요석제거 잘 되어서 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "소량으로도 요석제거가 잘 되서 만족스럽네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과가 오래가기를 기대해 봅니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "395643",
+    "RawText": "오래 묵은 변기 안쪽 요석찌꺼기가 하나도 제거가 안되네요. 정품이 맞는건지 그냥 걸쭉한 물같은 느낌이에요. 냄새도 독하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20220124",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "오래 묵은 변기 안쪽 요석찌꺼기가 하나도 제거가 안되네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "그냥 걸쭉한 물같은 느낌이에요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 독하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395651",
+    "RawText": "진짜 이제까지 왜 찌든 때와 씨름했나 싶어요. 그만큼 성분도 독한 건가 싶기도 하지만 변기가 새 거처럼 되서 너무 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "20",
+    "RDate": "20220122",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "그만큼 성분도 독한건가 싶기도 하지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "변기가 새 거처럼 되서 너무 맘에 듭니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395653",
+    "RawText": "상품을 소개해 주신 분이 너무좋다 하셔서 구매하게 됐습니다. 아직 미사용인데 변기가 깨끗히 닦이면 좋겠네요. 생각보다 용량은 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "17",
+    "RDate": "20220122",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "변기가 깨끗히 닦이면 좋겠네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "생각보다 용량은 아쉬워요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395655",
+    "RawText": "세정력 정말 좋아요. 붓을 바르고 2~4분 정도 지나면 그냥 깔끔해져요. 냄새도 독하지 않고 참 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "4",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20220121",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력 정말 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "붓을 바르고 2~4분 정도 지나면 그냥 깔끔해져요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 독하지 않고 참 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395658",
+    "RawText": "와! 이거 진짜 대박 상품입니다. 사무실 남자 소변기 막혀서 업체 불러야하나 하다가 검색해보고 이 제품 구입했어요. 너무 저렴해서 기대 안하고 3분의 2 부어놓고 30분 있다가 솔로 문질렀어요. 요석이 막 떨어지고 새것처럼 깨끗하게 되더라고요. 완전 새 소변기 되어서 대만족입니다. 이거이거 진짜 잘 닦이고 잘 뚫립니다. 진짜 신기해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "188",
+    "Word": "46",
+    "RDate": "20220120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "너무 저렴해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "요석이 막 떨어지고 새것처럼 깨끗하게 되더라고요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "완전 새 소변기 되어서 대만족입니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "진짜 잘 닦이고 잘 뚫립니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395663",
+    "RawText": "사용이 능숙하지 못해서인지 찌든곳은 잘 제거되지 않아요. 양도 많았는데 그냥 많이 부어만 놓으면 효과가 좋을줄 알았네요. 다시 사야할듯해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "18",
+    "RDate": "20220118",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 찌든곳은 잘 제거되지 않아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많았는데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "그냥 많이 부어만 놓으면 효과가 좋을줄 알았네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395664",
+    "RawText": "화장실 변기 청소하려고 주문했는데 아직 사용전이라 잘 모르겠지만 효과가 좋으면 좋겠네요. 근데 좀더 큰 용량으로 시킬걸 그랬나봐요. 1L가 생각보다 작네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "4",
+    "Syllable": "87",
+    "Word": "20",
+    "RDate": "20220118",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과가 좋으면 좋겠네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "좀더 큰 용량으로 시킬걸 그랬나봐요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "1L가 생각보다 작네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395671",
+    "RawText": "저희 집은 강아지가 화장실에서 볼일을 보기 때문에 다른 세정제로 닦아도 소용이 없었는데 가격이 비싸도 OO 쓰니까 바로 녹아서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "19",
+    "RDate": "20220114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싸도",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "OO 쓰니까 바로 녹아서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395675",
+    "RawText": "전세라 변기를 바꿀수가 없어서 구매했는데 아래 까만게 전혀 없어지지 않네요. 그리고 1L라  생각보다 크지는 않은데 따라 쓰기가 불편하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "4",
+    "Syllable": "78",
+    "Word": "18",
+    "RDate": "20220113",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "아래 까만게 전혀 없어지지 않네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "1L라  생각보다 크지는 않은데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "따라 쓰기가 불편하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395677",
+    "RawText": "혹시나 하고 사용해 봤는데 에어워셔에 붙은 석회도 제거가 되어 좋습니다. 세제나 구연산을 사용하는 것 보다 더 깨끗해져서 정말 좋네요.  진짜 잘 산 것 같아요~~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "24",
+    "RDate": "20220112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "에어워셔에 붙은 석회도 제거가 되어 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세제나 구연산을 사용하는 것 보다 더 깨끗해져서 정말 좋네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395681",
+    "RawText": "받자 마자 바로 화장실 변기 청소했는데 기대만큼 깨끗해지지는 않아서 실망했네요. 가격도 비싼데 효과가 아쉬워서 추천은 안할래요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "16",
+    "RDate": "20220112",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "기대만큼 깨끗해지지는 않아서 실망했네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싼데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과가 아쉬워서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395684",
+    "RawText": "요석을 제거하긴 했습니다. 그런데 붓 사용이 힘들어 양변기의 경우 차라리 부어놓는게 더 효과적이었을것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20220110",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "요석을 제거하긴 했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 붓 사용이 힘들어",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 양변기의 경우 차라리 부어놓는게 더 효과적이었을것 같아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "395694",
+    "RawText": "잘 지지않았던 요석이 이 제품을 바르고 잠시 두웠더니 조금 닦이긴 했어요. 근데 드라마틱한 세정력은 아니에요. 후기 믿고 샀는데 전 별로네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "20",
+    "RDate": "20220105",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "잘 지지않았던 요석이 이 제품을 바르고 잠시 두웠더니 조금 닦이긴 했어요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "드라마틱한 세정력은 아니에요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "395699",
+    "RawText": "정말 신세계네요. 변기에 오래된 요석도 다 제거됩니다. 정말 세정력 좋구요. 진짜 최고!!!",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20211230",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 변기에 오래된 요석도 다 제거됩니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 정말 세정력 좋구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "395707",
+    "RawText": "아직은 사용전이에요. 이사 간 집 변기에 요석이 끼어있어서 가격도 저렴하길래 주문했어요. 요석이 깨끗하게 없어지길 기대해봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "4",
+    "Syllable": "71",
+    "Word": "15",
+    "RDate": "20211224",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하길래 주문했어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "요석이 깨끗하게 없어지길 기대해봅니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "395708",
+    "RawText": "방송 보다가 화장실 변기 청소 잘 된다기에 구입했는데 또 속았네요. 깔끔하게 닦이지도 않고 냄새도 독합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 1L 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20211224",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "화장실 변기 청소 잘 된다기에 구입했는데 또 속았네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "깔끔하게 닦이지도 않고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 독합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  }
+]

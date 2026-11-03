@@ -1,0 +1,3350 @@
+[
+  {
+    "Index": "588681",
+    "RawText": "일단 향이 진짜 안 좋습니다 별로구요 뽀득뽀득 닦이는 느낌도 없습니다. 추천받아서 샀는데 실망이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20210908",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "일단 향이 진짜 안 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "뽀득뽀득 닦이는 느낌도 없습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "588683",
+    "RawText": "향이 무척이나 좋습니다 그냥두면 방안에서 은은하게 퍼지네요 잘 닦이고 부드럽습니다 무르지도 않고 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20210907",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 무척이나 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "그냥두면 방안에서 은은하게 퍼지네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦이고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드럽습니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "무르지도 않고 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "588700",
+    "RawText": "비누향이 은은하며 강하지 않고 잘 무르지 않아서 오래쓸 수 있습니다 땀이 많이 났을 때 이 비누를 사용해서 샤워하면 상쾌하고 깨끗해지는 거 같습니다 세정력도 좋고 가격도 착합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "26",
+    "RDate": "20210902",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "비누향이 은은하며 강하지 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "잘 무르지 않아서 오래쓸 수 있습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "이 비누를 사용해서 샤워하면 상쾌하고 깨끗해지는 거 같습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세정력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "588701",
+    "RawText": "향도 은은한지 잘 모르겠고 잘 물러져요 풍성하게 거품이 나지 않아 깨끗해 지는 느낌이 없어요 그리고 가격도 그리 만족스럽지 않아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "19",
+    "RDate": "20210902",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 은은한지 잘 모르겠고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "잘 물러져요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "풍성하게 거품이 나지 않아 깨끗해 지는 느낌이 없어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 그리 만족스럽지 않아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "588708",
+    "RawText": "처음에 향이 정말 좋은데 며칠지나니 금방 날라갑니다 비누가 무르진 않아서 끝까지 사용할때까지 원형 그대로입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20210827",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "처음에 향이 정말 좋은데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "며칠지나니 금방 날라갑니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "비누가 무르진 않아서 끝까지 사용할때까지 원형 그대로입니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "588709",
+    "RawText": "향기가 참 좋아요 세정력이야 당연한거구요 참 좋습니다요 피부도 촉촉하고 보드라워진 느낌이네요 피부 보세요 깨끗하네요 하하 칠십글짜 이상 쓰라니 땀나네요 비누로 씻어야겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "21",
+    "RDate": "20210827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기가 참 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세정력이야 당연한거구요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수분감/보습력",
+        "SentimentText": "피부도 촉촉하고 보드라워진 느낌이네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "피부 보세요 깨끗하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "588719",
+    "RawText": "이전에도 향이 너무 좋아서 애용하는 비누에요 이건 말이 필요 없습니다 가격이 비싸다고 느껴져도 저는 항상 사 씁니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "17",
+    "RDate": "20210821",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싸다고 느껴져도",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "588725",
+    "RawText": "여름이라서 비누 많이 쓰니까 많이 샀어요 향 은은하니 좋네요 코로나 때문에 손도 자주 깨끗이 씻어야해서 자주 사용하고 있습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "3",
+    "Syllable": "70",
+    "Word": "18",
+    "RDate": "20210818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향 은은하니 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "코로나 때문에 손도 자주 깨끗이 씻어야해서 자주 사용하고 있습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "588739",
+    "RawText": "향이 거부감이 들 정도로 별로입니다 가격도 생각보다 비싼편이네요. 배송은 빨라서 좋은데 쉽게 물러지니 별로입니다. 거품도 별로 안나서 안써요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "18",
+    "RDate": "20210806",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 거부감이 들 정도로 별로입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 생각보다 비싼편이네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "쉽게 물러지니 별로입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품도 별로 안나서 안써요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "588745",
+    "RawText": "비누가 금방 물러지는거 같아요 향기도 그리 좋은지 모르겠고 거품도 잘 안나는거 같아요 비추입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20210803",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "비누가 금방 물러지는거 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 그리 좋은지 모르겠고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품도 잘 안나는거 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "588760",
+    "RawText": "늘 사용하는 제품입니다 향도 좋구요 보습력도 좋아서 잘 사용하고 있습니다 가격을 좀 내릴 생각은 없으신가요~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20210728",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋구요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수분감/보습력",
+        "SentimentText": "보습력도 좋아서 잘 사용하고 있습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격을 좀 내릴 생각은 없으신가요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "588791",
+    "RawText": "목욕탕을 못가니 바디워시로만 하는 샤워로는 몸이 근질근질 하더라구요 한번씩 비누로 목욕하는 상쾌함이 좋고 향도 좋습니다 잘 무르지도 않고 만만하게 쓰기 참 좋습니다 가격도 좋네요 세정력도 좋고요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "108",
+    "Word": "26",
+    "RDate": "20210718",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "한번씩 비누로 목욕하는 상쾌함이 좋고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향도 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "잘 무르지도 않고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "만만하게 쓰기 참 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세정력도 좋고요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "588803",
+    "RawText": "향이 너무좋아서 서랍에 넣어두었어요 저렴한 가격에 만족합니다 20개나 되니 한참동안 걱정 없이 쓰겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20210716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 만족합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "20개나 되니 한참동안 걱정 없이 쓰겠네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "588806",
+    "RawText": "집에서 막쓰기 좋은 비누입니다. 양도 많고 저렴해서 부담없이 쌓아두고 쓰기 좋은 것 같습니다 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20210715",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "집에서 막쓰기 좋은 비누입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양도 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "부담없이 쌓아두고 쓰기 좋은 것 같습니다 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "588808",
+    "RawText": "향도 좋고, 세정력도 우수하네요. 더운 여름철에 사용하기 정말 좋습니다. 가격이 저렴한것도 마음에 듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20210715",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세정력도 우수하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "더운 여름철에 사용하기 정말 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴한것도 마음에 듭니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "588855",
+    "RawText": "가족들이 이 비누만 찾네요. 비누가 부드럽게 풀려서 좋고 은은한 향이 거부감이 없어 좋습니다 오래 사용해도 다 쓸 때까지 물렁거리지 않고 모양을 잘 유지해 주니 강추할만하네요. 배송도 빠르고 가격도 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "115",
+    "Word": "29",
+    "RDate": "20210711",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "비누가 부드럽게 풀려서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "은은한 향이 거부감이 없어 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오래 사용해도 다 쓸 때까지 물렁거리지 않고 모양을 잘 유지해 주니 강추할만하네요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 만족해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "588859",
+    "RawText": "배송도 빠르고 저렴하게 잘 산거 같습니다 후기처럼 향이 그렇게 좋은지는 모르겠어요 그래도 잘 쓸게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "14",
+    "RDate": "20210711",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 산거 같습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "후기처럼 향이 그렇게 좋은지는 모르겠어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "588875",
+    "RawText": "예전에 써봐서 다시 구매 한번해봤네요  향이 여전히 좋습니다 저렴한 가격에 양도 많아서 만족합니다 잘 쓸게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20210710",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 여전히 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양도 많아서 만족합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "588887",
+    "RawText": "저렴하게 잘 구입했습니다. 배송도 빠르네요 양이 많아서 오랫동안 사용할거 같네요. 향도 좋아서 괜찮네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20210709",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 구입했습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양이 많아서 오랫동안 사용할거 같네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋아서 괜찮네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "588905",
+    "RawText": "처음 써보는데 거품도 잘나고 잘 씻겨져서 좋습니다. 크기도 많이 커서 정말 좋네요. 향은 너무 진해서 별로지만 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20210708",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품도 잘나고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 씻겨져서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기도 많이 커서 정말 좋네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 너무 진해서 별로지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "588926",
+    "RawText": "저렴하면서도 기본적인 품질이 좋습니다 욕실, 주방 비누로 다용도로 쓰고 있습니다 광속배송 만족스럽네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "12",
+    "RDate": "20210706",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하면서도 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "기본적인 품질이 좋습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 욕실, 주방 비누로 다용도로 쓰고 있습니다 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "588979",
+    "RawText": "향이 좋아 애용하는 비누에요 조금더 단단했으면 합니다 단단해서 빨리 없어지는 단점만 보안된다면 하는 바램이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "4",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20210624",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋아 애용하는 비누에요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "조금더 단단했으면 합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "단단해서 빨리 없어지는 단점만 보안된다면 하는 바램이네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "589014",
+    "RawText": "향이 무난하네요. 비누쟁여놨습니다 향도 진하거나 특이하지않은 비누향이네요. 무른정도도 적당해서 오래쓸듯해요 피부가 민감한 일인으로서 바디클린저도 안쓰는데 바디클린져겸 잘쓰고있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "17",
+    "RDate": "20210601",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 무난하네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 진하거나 특이하지않은 비누향이네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "무른정도도 적당해서 오래쓸듯해요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "피부가 민감한 일인으로서 바디클린저도 안쓰는데 바디클린져겸 잘쓰고있어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589019",
+    "RawText": "단단하지 않고 욕실에 두니 무르네요. 향도 후기처럼 그렇게 좋은지 모르겠어요. 가격대비 품질 별로인거 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20210524",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "단단하지 않고 욕실에 두니 무르네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 후기처럼 그렇게 좋은지 모르겠어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 품질 별로인거 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "589020",
+    "RawText": "향도 좋고 무르지 않아서 좋습니다. 세정력도 좋아서 잘 씻기는것 같네요. 사이즈도 커서 오래쓸수 있다. 행사할때 샀는데 싸게 잘 산것 같다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "20",
+    "RDate": "20210524",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "무르지 않아서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세정력도 좋아서 잘 씻기는것 같네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈도 커서 오래쓸수 있다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "행사할때 샀는데 싸게 잘 산것 같다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589030",
+    "RawText": "향이 너무 강합니다  단단해서 잘 줄지 않는 단점이 있네요 향이 강해서 얼른 써버리고 싶은데 큰일이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "15",
+    "RDate": "20210520",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 강합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "단단해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 강해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "589031",
+    "RawText": "후리지아 향 다 아시죠? 똑같습니다 계절마다 후리지아 향 느낄 수 있어 좋네요 세정력 당연히 좋아요 비누가 금방 녹지않고 적당히 부드러워서 촉촉한 느낌이네요. 비교적 저렴하게 구매했고 자유롭게 쓰고 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "114",
+    "Word": "28",
+    "RDate": "20210520",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "후리지아 향 다 아시죠? 똑같습니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "계절마다 후리지아 향 느낄 수 있어 좋네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세정력 당연히 좋아요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "비누가 금방 녹지않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "적당히 부드러워서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수분감/보습력",
+        "SentimentText": " 촉촉한 느낌이네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비교적 저렴하게 구매했고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589032",
+    "RawText": "상큼해서 비누 사용하고나면 상쾌하네요 향도 좋고 세정력 당연히 좋습니다 화장실에 향이 퍼져서 좋네요 그리고 생각보다 무르지않아서 적당히 사용하기 좋은 것 같습니다 너무 마르지도 않고 물 묻히면 금방 부드러워지네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "118",
+    "Word": "28",
+    "RDate": "20210520",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "상큼해서 비누 사용하고나면 상쾌하네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세정력 당연히 좋습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "화장실에 향이 퍼져서 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "생각보다 무르지않아서 적당히 사용하기 좋은 것 같습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "너무 마르지도 않고 물 묻히면 금방 부드러워지네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589059",
+    "RawText": "향이 오래간다는 후기보고 첫구매해 봤는데 향이 그렇게 쎄지도 않고 지속력이 좋은지도 모르겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20210511",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 그렇게 쎄지도 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "지속력이 좋은지도 모르겠어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "589075",
+    "RawText": "가격이 최고입니다 세일해서 너무 좋네요 미끈 거리지 않고 뽀드득하네요 다만 비누가 물러서 한개에 삼사일 이면 끝나는 듯합니다 하지만 재구매 의사 있음 추천해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "22",
+    "RDate": "20210501",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 최고입니다 세일해서 너무 좋네요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "미끈 거리지 않고 뽀드득하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "비누가 물러서 한개에 삼사일 이면 끝나는 듯합니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "589081",
+    "RawText": "써보니 괜찮아서 주변 사람들에게 나눠 주려고 많이 샀다. 향도 참으로 은은해서 좋고 승용차에 담아 놓으니 차안에 은은한 향기가 너무 좋아서 차에도 장식용으로 실고 다니고 있어요 내차에 탔던분들이 감탄을 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "116",
+    "Word": "29",
+    "RDate": "20210430",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 참으로 은은해서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "승용차에 담아 놓으니 차안에 은은한 향기가 너무 좋아서",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "차에도 장식용으로 실고 다니고 있어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589087",
+    "RawText": "향도 별로고 거품도 잘 안나는거 같아요 ㅠㅠ 지인 추천으로 샀는데 실망감이 이만저만이 아닙니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20210430",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 별로고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품도 잘 안나는거 같아요 ㅠㅠ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "589098",
+    "RawText": "향이 너무 좋아서 구매했는데 부드럽고 좋습니다 20개나 되어서 한참 사용할수 있을거 같습니다 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20210428",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 좋아서 구매했는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드럽고 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "20개나 되어서 한참 사용할수 있을거 같습니다 만족합니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589111",
+    "RawText": "향이 너무 좋네요  배송도 빠르고 아주 만족합니다 20개라 너무 좋구요 화장실에 다 넣어놓았더니 방향제도 필요없이 후리지아향이 나서 너무좋습니다 완전 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "20",
+    "RDate": "20210425",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "20개라 너무 좋구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "방향제도 필요없이 후리지아향이 나서 너무좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589132",
+    "RawText": "향기도 좋고 사용감도 좋습니다 배송 조회가 잘 되지 않았으나 빠르게 잘 도착했어요 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "13",
+    "RDate": "20210422",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용감도 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589145",
+    "RawText": "싸고 많아서 좋습니다 빨래비누와 후리지아향이 섞인 향이네요 향이 퍼져서 공간을 향긋해지길 바랬는데 부족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "4",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20210420",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "많아서 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "빨래비누와 후리지아향이 섞인 향이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 퍼져서 공간을 향긋해지길 바랬는데 부족해요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "589153",
+    "RawText": "반반 구매했는데 한가지로 왔네요 그냥 가성비로 만족하고 잘쓰겠습니다. 향은 은은하게 나서 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "12",
+    "RDate": "20210418",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비로 만족하고 잘쓰겠습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 은은하게 나서 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589157",
+    "RawText": "항상 사용하고 있습니다 향도 좋고 거품도 잘납니다 가격을 좀만 더 저렴하게 팔면 좋겠습니다~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "4",
+    "Syllable": "51",
+    "Word": "13",
+    "RDate": "20210417",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품도 잘납니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격을 좀만 더 저렴하게 팔면 좋겠습니다~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "589185",
+    "RawText": "ㅇㅇㅇ 비누 세일된 가격에 구매하여 만족이네요 손을 자주 씻어서 아주 잘 사용하고 있어요 향이 강하지는 않지만 욕실 선반에 놓아두었더니 은은한 향은 납니다 배송은 빨랐고 박스에 잘 포장되어 도착했네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "111",
+    "Word": "28",
+    "RDate": "20210412",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일된 가격에 구매하여 만족이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손을 자주 씻어서 아주 잘 사용하고 있어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 강하지는 않지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "욕실 선반에 놓아두었더니 은은한 향은 납니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589238",
+    "RawText": "향기도 좋고 가성비도 최고입니다 식구많은집은 쟁겨두고 잘쓰고 있습니다. 단단한감은 덜하지만 그래도 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "4",
+    "Syllable": "59",
+    "Word": "12",
+    "RDate": "20210331",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비도 최고입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "단단한감은 덜하지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "589253",
+    "RawText": "우선 배송과 포장은 만족하네요 구매한지 이틀만에 잘도착했습니다 가격대비 이정도면 괜찮은편입니다 양도 괜찮아요 쿠폰사용으로 착한가격에 구매했어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "4",
+    "Syllable": "79",
+    "Word": "15",
+    "RDate": "20210328",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 이정도면 괜찮은편입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양도 괜찮아요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰사용으로 착한가격에 구매했어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589259",
+    "RawText": "좋아요. 프리지아향 참 좋습니다 좋은가격은 아니었지만 그램수도 많고 ㅇㅇㅇ라 쓰기전 이지만 잘 산거같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20210328",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "프리지아향 참 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은가격은 아니었지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "그램수도 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589261",
+    "RawText": "보습력도 괜찮고 이정도면 가성비는 좋네요. 단 향이 너무 진해서 머리가 아픕니다. 깨끗하게 세정되는지는 아직 모르겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20210328",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "수분감/보습력",
+        "SentimentText": "보습력도 괜찮고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이정도면 가성비는 좋네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 진해서 머리가 아픕니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "깨끗하게 세정되는지는 아직 모르겠어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "589270",
+    "RawText": "잘 받았네요. 배송도 빠릅니다 쿠폰 행사가로 좋은 가격으로 샀습니다. 갯수도 넉넉해서 좋습니다 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20210327",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 행사가로 좋은 가격으로 샀습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "갯수도 넉넉해서 좋습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589274",
+    "RawText": "가장 무난하고 오래 사용해도 좋은 비누라 생각드네요 향도 은은하고 세정력도 우수합니다 사용후에 좀 건조한건 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20210326",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 은은하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세정력도 우수합니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수분감/보습력",
+        "SentimentText": "사용후에 좀 건조한건 있어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "589275",
+    "RawText": "3년째 집과 직장에서 이 비누만 쓰고 있어요 피부 트러블도 없어서 좋고 향도 좋아서 계속 사용중이네요 가격은 말할것도 없이 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "19",
+    "RDate": "20210326",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부 트러블도 없어서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 말할것도 없이 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589282",
+    "RawText": "향도 좋고 저렴하게 잘구입했습니다. 포장재를 종이로 완충재로 쓰고 포장테입도 종이로 친환경적 포장이라 마음에 드네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20210326",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴하게 잘구입했습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589301",
+    "RawText": "저렴하게 샀네요. 향이 나쁘지는 않아요 다른 구성도 저렴하게 판매하면 더 좋을 듯 하네요. 잘 쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "4",
+    "Syllable": "58",
+    "Word": "15",
+    "RDate": "20210325",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 샀네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 나쁘지는 않아요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "589332",
+    "RawText": "배송 빠릅니다 할인쿠폰 있을때 저렴하게 잘 산것 같네요 향도 나쁘지 않습니다 양 많아 좋은것 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "15",
+    "RDate": "20210324",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인쿠폰 있을때 저렴하게 잘 산것 같네요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 나쁘지 않습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양 많아 좋은것 같네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589358",
+    "RawText": "이 비누는 처음 시켜보는데 향이 괜찮은것 같네요 쓰다보면 물러지는 경우가 있는데 그러지않았음 좋겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20210324",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 괜찮은것 같네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "쓰다보면 물러지는 경우가 있는데 그러지않았음 좋겠습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "589364",
+    "RawText": "23년 12월까지 유통기한이라 조금 짧은편임 쿠폰사용으로 개당 400원 이하꼴로 구입했어요 후레지아 향기 아주 좋긴하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 두** 비누 100g 20개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "14",
+    "RDate": "20210324",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "23년 12월까지 유통기한이라 조금 짧은편임 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 쿠폰사용으로 개당 400원 이하꼴로 구입했어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "후레지아 향기 아주 좋긴하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589715",
+    "RawText": "역시 기름기많은 제 피부에는 ㅇㅇ비누같은 세정력 쎄고 산뜻한 비누가 딱이에요 원래 흰색써가지구 흰색을 많이 주문했는데 이번에 골드도 쓰려고 주문했어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "19",
+    "RDate": "20160716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "ㅇㅇ비누같은 세정력 쎄고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "산뜻한 비누가 딱이에요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "흰색을 많이 주문했는데 이번에 골드도 쓰려고 주문했어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589717",
+    "RawText": "배송 아주 빠릅니다.가격은 다른 곳에 비해 가장 싸요. 하지만 가끔씩 ㅇㅇ비누가 30개 8000원정도의 세일도 있다는 사실이 심리적 가성비를 떨어트리네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "4",
+    "Syllable": "86",
+    "Word": "19",
+    "RDate": "20160803",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 다른 곳에 비해 가장 싸요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " ㅇㅇ비누가 30개 8000원정도의 세일도 있다는 사실이 심리적 가성비를 떨어트리네요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "589719",
+    "RawText": "이번 여름철처럼 더운 날에 사용하기 정말 좋은 비누네요 기름기가 없어 뽀드득 거리며 끈적이지 않아 아주 좋습니다 양도 넉넉해서 한 동안 비누걱정이 없겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "22",
+    "RDate": "20160831",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "이번 여름철처럼 더운 날에 사용하기 정말 좋은 비누네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "기름기가 없어 뽀드득 거리며",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적이지 않아 아주 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양도 넉넉해서 한 동안 비누걱정이 없겠네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589730",
+    "RawText": "회사에서 사용해요. 너무 비싼걸 사기는 그렇고, 가격대비 품질이 좋은 제품이네요. 더 저렴한 건, 피부가 건조해지는데 이건 안그래요. 잘 사용하고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "20",
+    "RDate": "20190129",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 품질이 좋은 제품이네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수분감/보습력",
+        "SentimentText": "피부가 건조해지는데 이건 안그래요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589731",
+    "RawText": "가격이 저렴하네요. 사실 더 저렴한 제품이 있기는 한데 그건 너무 품질이 떨어져서 이제품을 선택했어요. 가격대비 품질이 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20190129",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 품질이 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589748",
+    "RawText": "배송도 빠르고 잘 샀어요. 향도 좋고 단단하기도 적당하고, 두가지 향 다 주문해 봤네요. 예전에 썼던 비누라 익숙한 향이 너무 좋아요. 다음에 또 주문할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "23",
+    "RDate": "20200407",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "단단하기도 적당하고, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "익숙한 향이 너무 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589755",
+    "RawText": "살구비누 같은 냄새가 많이 납니다 비누로 닦고 손에서 냄새 계속나고 화장실만 들어가도 비누냄새로 가득해서 별로네요. 세정력은 좋은거 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "18",
+    "RDate": "20200426",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "살구비누 같은 냄새가 많이 납니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "비누로 닦고 손에서 냄새 계속나고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "화장실만 들어가도 비누냄새로 가득해서 별로네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세정력은 좋은거 같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589759",
+    "RawText": "어렷을적 사용하던 비누입니다 오랜만에 구매했는데 향도 추억이 돋네요 생각외로 촉촉하지는 않습니다 가격은 저렴하고 좋습니다 제조일자는 2019년 7월로 좀 오래된듯 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "94",
+    "Word": "20",
+    "RDate": "20200521",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 추억이 돋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "수분감/보습력",
+        "SentimentText": "생각외로 촉촉하지는 않습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴하고 좋습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "제조일자는 2019년 7월로 좀 오래된듯 합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "589764",
+    "RawText": "세정력도 좋고 향도 깨끗해서 언제나 쓰고 있어요 가격비교 다해보고 사요 이번에도 ㅇㅇ에서 사길 잘했습니다 쿠폰도 유용하게 잘써서 좋은가격에 좋은제품 샀네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "20",
+    "RDate": "20200812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세정력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 깨끗해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰도 유용하게 잘써서 좋은가격에 좋은제품 샀네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589766",
+    "RawText": "후기가 좋아서 믿고 구매했어요. 배송이 빠르고 크기가 엄청 크진 않지만 특가로 구매해서 저렴하게 샀습니다 양이 많아서 오래 쓸수 있을것 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "20",
+    "RDate": "20200821",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기가 엄청 크진 않지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "특가로 구매해서 저렴하게 샀습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": " 양이 많아서 오래 쓸수 있을것 같네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589773",
+    "RawText": "향이 너무 좋습니다. 옛날향수가 물씬풍기네요 많은 양을 저렴한 가격으로 구입해서 좋습니다. 감사합니다 잘 쓸게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20200926",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 좋습니다. 옛날향수가 물씬풍기네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "많은 양을",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴한 가격으로 구입해서 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589774",
+    "RawText": "서랍장 방향 및 방충용으로 옷장 서랍장 다 넣었더니 집안에 좋은향기도 나서 좋네요 일석이조 싸게 잘샀습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20201006",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "옷장 서랍장 다 넣었더니 집안에 좋은향기도 나서 좋네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "일석이조 싸게 잘샀습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589776",
+    "RawText": "항상구매하는제품입니다 향도 좋고 거품도 풍성하고요 세정력도 좋습니다. 로션을 안 바르면 건조한건 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "12",
+    "RDate": "20201012",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품도 풍성하고요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 세정력도 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수분감/보습력",
+        "SentimentText": "로션을 안 바르면 건조한건 있어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "589783",
+    "RawText": "어릴때부터 꾸준히 써오던 제품이네요 세정력 좋고 개운한 향이 좋아서 바디워시대신 ㅇㅇㅇ비누로 샤워하면 개운합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "13",
+    "RDate": "20201017",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세정력 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "개운한 향이 좋아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "ㅇㅇㅇ비누로 샤워하면 개운합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589786",
+    "RawText": "택배사 사정으로 조금 늦게 받았지만 제품은 만족해요. 가격도 저렴하고 항균 비누라서 늘 쓰고 있는 제품이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20201019",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "항균 비누라서 늘 쓰고 있는 제품이네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589787",
+    "RawText": "착한가격에 빠른배송 만족하네요. 오래전부터 사용하던 비누입니다. 지성피부인데 세안을 하면 촉촉해서 최고입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "11",
+    "RDate": "20201020",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한가격에 빠른배송 만족하네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수분감/보습력",
+        "SentimentText": "지성피부인데 세안을 하면 촉촉해서 최고입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589795",
+    "RawText": "가성비 좋으나 뭔가 전체적으로 상품이 눅눅하네요 오래된것 받은느낌이 듭니다. 생각보다 향도 별로네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "12",
+    "RDate": "20201107",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋으나 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "뭔가 전체적으로 상품이 눅눅하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "오래된것 받은느낌이 듭니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "생각보다 향도 별로네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "589797",
+    "RawText": "빠른배송에 무료배송까지되네요 제품은 다 알고 사고 쓰는 비누입니다 거품도 잘 나서 좋습니다 향은 없지만 저렴하고 향균비누라서 쓰고 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20201108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품도 잘 나서 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 없지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "향균비누라서 쓰고 있어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589802",
+    "RawText": "매번 여기에다가 오더하고 있어요 이번은 배송이 조금 늦어서 아쉽네요 그래도 가격 및 품질도 매우 만족하고 주문 계속하고 있습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20201211",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 및 품질도 매우 만족하고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 매우 만족하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589805",
+    "RawText": "수량에 깜짝 놀랬어요 여드름 난 아들이 쓰려고 구입 했는데 너무 많아서 주변에 좋은 일 할것 같네요 번창하세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "17",
+    "RDate": "20171119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "수량에 깜짝 놀랬어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "너무 많아서 주변에 좋은 일 할것 같네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589816",
+    "RawText": "피부과 의사가 추천한대서 오래전부터 사용중입니다 여기서 완전 저렴히 구매했습니다 저는 향이 좋은지는 모르겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20181213",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "완전 저렴히 구매했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "저는 향이 좋은지는 모르겠어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "589817",
+    "RawText": "3년전 피부트러블 생겼을 때 병원 원장님께서 추천해주셨던 ㅇㅇ비누입니다 그땐 효과가 좋았던 기억이 나서 이번에 또 트러블이 생겨서 구매했어요 이번에도 효과가 있었으면 좋겠네요. 유통기한이 너무 짧아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "111",
+    "Word": "25",
+    "RDate": "20181213",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 효과가 있었으면 좋겠네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 너무 짧아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "589828",
+    "RawText": "가성비 짱 좋아요 향기도 좋고 양도 많구요  배송시간도 엄청 짧았습니다 많이 파시고 번창하세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20190106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 짱 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양도 많구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589835",
+    "RawText": "저렴한 가격에 감사해요. 단단하고 양이 많아서 오래 쓸수 있어서 아주 좋습니다. 단 제가 생각했던 향은 아니라서 아쉬워요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20190117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 감사해요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "단단하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양이 많아서 오래 쓸수 있어서 아주 좋습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "제가 생각했던 향은 아니라서 아쉬워요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "589842",
+    "RawText": "그동안 ㅇㅇ과 ㅇㅇㅇ를 사용하다가 처음으로 구입했어요 오늘 사용해봤는대 거품도 잘 일어나고 좋습니다 가격도 이정도면 나쁘지 않은듯하네요 좋은 제품 감사드립니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "19",
+    "RDate": "20190201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품도 잘 일어나고 좋습니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 이정도면 나쁘지 않은듯하네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "589845",
+    "RawText": "비누는 이것만 쟁여놓고 써요 세정력 갑 오브 갑이네요 가격도 착해서 최고입니다. 양도 너무 많아서 오래씁니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20190208",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세정력 갑 오브 갑이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착해서 최고입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": " 양도 너무 많아서 오래씁니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589850",
+    "RawText": "ㅇㅇ보다 더 저렴하고 좋습니다. 비누냄새도 너무 좋네요 세균만 잘 씻겨내길 바랍니다 비쌀 이유가 없는 국산 화장비누들 반성해야합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "17",
+    "RDate": "20190225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "ㅇㅇ보다 더 저렴하고 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "비누냄새도 너무 좋네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "세균만 잘 씻겨내길 바랍니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "589857",
+    "RawText": "지인께 보냈는데요, 향도좋고 양도 많아서 늘 좋아하십니다. 가성비도 너무 괜찮습니다. 항상 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "12",
+    "RDate": "20190324",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도좋고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양도 많아서 늘 좋아하십니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비도 너무 괜찮습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589862",
+    "RawText": "비누 향기는 별로여도 개운함이 있는 전통의 ㅇㅇㅇ비누가 최고입니다 22개 한 가득 채워 놓으니 널널하게 사용할듯 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20190406",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "비누 향기는 별로여도",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운함이 있는 전통의 ㅇㅇㅇ비누가 최고입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "22개 한 가득 채워 놓으니 널널하게 사용할듯 하네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589863",
+    "RawText": "집에늘 선물세트비누만 사용하다 사람들에게 인심을 잃었는지 더이상선물이 들어오지않아 첨으로 비누를 구입했어요. 첨 사용해보는건데...아직사용전이고 갯수와 가격은 마음에 듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "17",
+    "RDate": "20190417",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "갯수와 가격은 마음에 듭니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 마음에 듭니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589867",
+    "RawText": "보습작용이 많은 것은 세안후에도 어딘지 모르게 깔끔한 느낌을 못느껴서 안좋았어요 ㅇㅇ비누를 사용하고는 뽀송뽀송한 피부를 느낄 수 있어 너무 좋습니다. 자극도 덜 되서 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "23",
+    "RDate": "20190514",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "수분감/보습력",
+        "SentimentText": "뽀송뽀송한 피부를 느낄 수 있어 너무 좋습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극도 덜 되서 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589873",
+    "RawText": "중학교 다닐때 ㅇㅇㅇ씨가 나와서 광고하던 그 비누입니다. 이 비누의 특장점을 꼽자면 엄청난 새척력입니다. 피지가 많으신 분들은 강추해요. 새척력이 무지막지 합니다. 그래서 여름철에 딱 맞는 비누가 아닐까해요. 배송도 빨랐고 가격도 착하고 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "137",
+    "Word": "31",
+    "RDate": "20190627",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "엄청난 새척력입니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "피지가 많으신 분들은 강추해요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 새척력이 무지막지 합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름철에 딱 맞는 비누가 아닐까해요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착하고 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589874",
+    "RawText": "냄새도 너무 좋고 싸게 샀습니다 용량도 크고 거품도 잘나고 뽀드득 거려서 최고네요 아쉬운건 너무 금방 물러서 물에 씻겨 나가는게 반인거 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "21",
+    "RDate": "20190627",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 너무 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 샀습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "용량도 크고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품도 잘나고 뽀드득 거려서 최고네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "아쉬운건 너무 금방 물러서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "물에 씻겨 나가는게 반인거 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "589886",
+    "RawText": "골드쓰다 좋아서 화이트를 구매했어요 저를 제외한 나머지 가족들은 화이트가 순한것 같고 색도 이뻐서 좋다고 하는데 저는 골드의 특유의 향 이 좋습니다 누런색 마저 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "94",
+    "Word": "24",
+    "RDate": "20210803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "골드의 특유의 향 이 좋습니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "누런색 마저 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589890",
+    "RawText": "항균 비누로써 최고인것 같습니다. 냄새도 너무 좋은것 같네요. 흠이 있다면 조금 딱딱했으면 좋을 것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20210905",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "항균 비누로써 최고인것 같습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 너무 좋은것 같네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "조금 딱딱했으면 좋을 것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "589897",
+    "RawText": "해외배송인데 그렇게 오래 걸리지 않았어요 처음 써보는데 생각보다 향이 좋네요 자극적이지 않고 세안하고 나서 산뜻한 느낌이 들어요 가성비 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "19",
+    "RDate": "20220309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "생각보다 향이 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극적이지 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세안하고 나서 산뜻한 느낌이 들어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589898",
+    "RawText": "비누 22장 고맙게 잘받았네요 향도 좋고 품질도 좋습니다 계속 사용하게 되는군요 다쓰면 재주문 하려고 합니다 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20220312",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589904",
+    "RawText": "일차적으로 배송이 빨라요.그 다음 가격이 매우 저렴하네요. 실제 사용해보니 비누 느낌이 촉촉해서 좋네요. 여드름 때문에 사용해 보는건데 효과를 보려면 아무래도 시간이 좀 걸릴듯함. 일단 꾸준히 사용해 보겠습니다.많이 파세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "124",
+    "Word": "28",
+    "RDate": "20171222",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 매우 저렴하네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수분감/보습력",
+        "SentimentText": "사용해보니 비누 느낌이 촉촉해서 좋네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과를 보려면 아무래도 시간이 좀 걸릴듯함. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "589906",
+    "RawText": "하와이에서 써보고 좋아서 구매하게 됐습니다 가격도 저렴하고 양도 많아서 한동안 비누살일을 없을듯 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20180108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양도 많아서 한동안 비누살일을 없을듯 합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589908",
+    "RawText": "항균비누라서 사용하고 있습니다 향도 좋고 113g이라 사이즈가 커서 좋네요 개별포장이 아니라 보관에 용이한것 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20180203",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "항균비누라서 사용하고 있습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": " 113g이라",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈가 커서 좋네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "개별포장이 아니라 보관에 용이한것 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589919",
+    "RawText": "마트에서 할인 판매 비누 사지마세요. 3분의1정도 쓰면 거품도 잘안나고 이게 비눈지 돌인지 싼게 비지떡이죠. ㅇㅇ비누의 장점은 다쓸때까지 거품이 잘 납니다. 단단함도 좋고요 역시 ㅇㅇ비누 최고입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "110",
+    "Word": "25",
+    "RDate": "20180318",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "다쓸때까지 거품이 잘 납니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 단단함도 좋고요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589925",
+    "RawText": "처음 써봤는데 거품도 잘나고 좋습니다. 가격대비 양도 많아서 좋습니다. 여드름에 좋다길래 아들위해 사봤습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20180410",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품도 잘나고 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "가격대비 양도 많아서 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589927",
+    "RawText": "싼 가격에 잘 구입했네요. 어렸을적 사용했던 비누입니다 어떤 비누를 살까하다가 오랜 기간 판매되고 있는 ㅇㅇㅇ비누가 생각나 구입했어요. 향도 그대로 좋기를 바랍니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "21",
+    "RDate": "20180414",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼 가격에 잘 구입했네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 그대로 좋기를 바랍니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "589931",
+    "RawText": "양도 맘에들구요. 가격도 맘에 듭니다. 온가족 다써도 넉넉한 양 덕분에 부담없습니다. 제품도 믿음가네요. 2번째구매인데 후회없는 선택 입니다 재구매하고 싶군요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "19",
+    "RDate": "20180418",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양도 맘에들구요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 맘에 듭니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "온가족 다써도 넉넉한 양 덕분에 부담없습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589933",
+    "RawText": "배송 양호하네요. 박스에 이중으로 포장되어 안전하게 잘 도착했어요. 거품도 잘 나고 세정력이 좋아요. 잘 쓸게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20180423",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품도 잘 나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세정력이 좋아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589953",
+    "RawText": "예전보다 큰듯합니다. 예전엔 더 단단한 느낌이였는데 단단한 느낌이 없네요 암튼 잘 쓰도록 하겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "4",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20180601",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "예전보다 큰듯합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "예전엔 더 단단한 느낌이였는데 단단한 느낌이 없네요 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "589957",
+    "RawText": "여름에 쓰기 좋은 것 같네요. 양도 많아서 오래 쓸듯함니다 세정도 좋고 거품도 잘나서 좋네요. 효과가 있는지는 아직 모르겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "18",
+    "RDate": "20180621",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름에 쓰기 좋은 것 같네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양도 많아서 오래 쓸듯함니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세정도 좋고 거품도 잘나서 좋네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과가 있는지는 아직 모르겠어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "589976",
+    "RawText": "어렸을때 항상쓰던 ㅇㅇ비누 왕창 구매했습니다 향이 여전히 좋네요 맘껏 쓰려구요 저렴하게 구입하게 해주셔서 감사해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20180725",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 여전히 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입하게 해주셔서 감사해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "589990",
+    "RawText": "가격이 저렴해 주문해봤습니다 속옷을 벗으면 손빨래하는데 비누가 물러선지 얼마못써서 댓글이 좋아 주문해봤네요 써보고 좋으면 다시 주문할게요. 단단하길 바래봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 골** 비누 113g 22개",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "18",
+    "RDate": "20180811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해 주문해봤습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "단단하길 바래봅니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  }
+]

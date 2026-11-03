@@ -1,0 +1,3104 @@
+[
+  {
+    "Index": "338016",
+    "RawText": "향이 너무 좋아서 항상 OO 라벤더만 사용합니다. 세척도 깨끗하게 잘 되고요. 강력 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20190628",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 좋아서 항상 OO 라벤더만 사용합니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척도 깨끗하게 잘 되고요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338022",
+    "RawText": "항상 재구매해서 쓰고 있는 제품입니다. 향도 좋고 깨끗하게 세탁되는 느낌이라 믿고 씁니다. 잘 쓰고 있습니다. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20190629",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "깨끗하게 세탁되는 느낌이라 믿고 씁니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338055",
+    "RawText": "양도 많고 빨래 후 라벤더 향이 은은하게 나서 좋습니다. 건조 후에도 향이 오래 지속되어서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "15",
+    "RDate": "20190709",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "빨래 후 라벤더 향이 은은하게 나서 좋습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "건조 후에도 향이 오래 지속되어서 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338114",
+    "RawText": "매일 쓰는 세제로 잘 쓰고 있습니다. 다 쓰진 않았지만 가격이 저렴해 미리 구매해뒀습니다. 가격할인도 좋고 향도 좋고 마트보다 저렴하게 구매해서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "21",
+    "RDate": "20190731",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해 미리 구매해뒀습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격할인도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트보다 저렴하게 구매해서 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338119",
+    "RawText": "향이 은은하고 좋아요.   빨래의  때도 잘 지워져서 좋습니다. 찬물에도 잘 녹아 좋구요. 사은품도 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20190801",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 은은하고 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "빨래의  때도 잘 지워져서 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "찬물에도 잘 녹아 좋구요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 마음에 듭니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338137",
+    "RawText": "OO 쓰다가 이 세제로 바꿔봤어요. 깨끗히 세탁되는것은 최고로 만족해요. 그런데 세제가 다른 제품보다 묽어서 사용감이 많이 헤프네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "17",
+    "RDate": "20190806",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "깨끗히 세탁되는것은 최고로 만족해요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "세제가 다른 제품보다 묽어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용감이 많이 헤프네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "338149",
+    "RawText": "예전에 사용해 봤는데 새로 리뉴얼되서 나왔다 해서 주문했습니다. 세척력이 더 좋아졌으리라 기대해요. 함께 온 보냉백은 품질이 별로예요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "17",
+    "RDate": "20190809",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력이 더 좋아졌으리라 기대해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "함께 온 보냉백은 품질이 별로예요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "338152",
+    "RawText": "라벤더 향이 좋아 항상 쓰는 세제입니다. 섬유린스기능까지 탁월하고 사은품도 가격도 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "11",
+    "RDate": "20190811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "라벤더 향이 좋아 항상 쓰는 세제입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "섬유린스기능까지 탁월하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 가격도 만족스럽습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 만족스럽습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338160",
+    "RawText": "손빨래 하면서 OO을 쓰는데 때가 정말 잘 가요. 향도 좋아요. 세탁기는 아직 안 써봤는데 깨끗해질 옷이 상상이 되네요. 싼 가격에 잘 샀습니다. 잘 쓸게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "24",
+    "RDate": "20190814",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "손빨래 하면서 OO을 쓰는데 때가 정말 잘 가요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁기는 아직 안 써봤는데 깨끗해질 옷이 상상이 되네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼 가격에 잘 샀습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338166",
+    "RawText": "OO 처음 사용해 봅니다. 라벤더 향이 강하지도 않으면서 은은하니 좋습니다. 품질이 가격대비 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20190817",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "라벤더 향이 강하지도 않으면서 은은하니 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 가격대비 만족스럽습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338170",
+    "RawText": "늘 쓰던 세제입니다. 가격도 저렴하게 구입하여 좋습니다. 용량도 대용량이라 사용할때 무거운게 단점입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "12",
+    "RDate": "20190818",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게 구입하여 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 대용량이라 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "사용할때 무거운게 단점입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "338174",
+    "RawText": "OOOO 항상 쓰는 제품 딥클린은 처음 구매해봤어요. 세척력이 좋으면 계속 사용하려고 합니다. 가성비가 좋아서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20190819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력이 좋으면 계속 사용하려고 합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좋아서 만족합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338182",
+    "RawText": "저렴하게 잘 샀네요. 포장도 꼼꼼하게 해주시고 배송도 빨라서 아주 잘 받았네요. 대용량이라 오래 쓸 수 있어서 든든합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20190823",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 샀네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 오래 쓸 수 있어서 든든합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338189",
+    "RawText": "제품 구성이 좋네요. 세척력 좋다는 말을 많이 들어서 기대가 되네요. 더불어 향도 좋으면 금상첨화일 것 같습니다. 잘 사용할게요. 빠른 배송 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "21",
+    "RDate": "20190826",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "제품 구성이 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력 좋다는 말을 많이 들어서 기대가 되네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "더불어 향도 좋으면 금상첨화일 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "338220",
+    "RawText": "잘 받아서 쓰고 있습니다. 계속 사용해 오는 제품이라 믿고 주문하는데 품질은 당연 좋습니다. 가격도 저렴하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20190907",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 당연 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338232",
+    "RawText": "향도 좋고 때도 잘 지워져서 항상 OO만 사용하고 있습니다. 겨울에도 온도에 상관 없이 사용할수 있어 좋은데, 계속 이런 좋은제품 만들어 주시면 좋을것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "23",
+    "RDate": "20190912",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "때도 잘 지워져서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "겨울에도 온도에 상관 없이 사용할수 있어 좋은데, ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338246",
+    "RawText": "고농축이라 조금만 사용해도 되니 마음에 드는 세제입니다. 세탁이 잘되고 잔향이 오래 남아 좋습니다. 강추합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20190920",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "고농축이라 조금만 사용해도 되니 마음에 드는 세제입니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁이 잘되고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "잔향이 오래 남아 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338264",
+    "RawText": "적립금 소진하려고 구매했는데 저렴한 가격도 좋고 배송도 빨라서 만족합니다. 4개 구성이라 한동안 세제 걱정 없을거같아 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20190927",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격도 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "4개 구성이라 한동안 세제 걱정 없을거같아 좋네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338282",
+    "RawText": "매번 쓰는 세제라서 이번에도 구매했습니다. 향긋한 냄새가 정말 좋네요. 향기도 오래가서 더욱 맘에 듭니다. 다 쓰면 또 구매하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20191005",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향긋한 냄새가 정말 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향기도 오래가서 더욱 맘에 듭니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338298",
+    "RawText": "세탁 후 깨끗하고 시원한 느낌과 빨래에서 나는 상큼한 향이 정말 맘에 들어 계속 이 세제를 사용합니다. 또 빨래도 깨끗하게 잘되서 앞으로도 이 제품만 쓰려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "25",
+    "RDate": "20191007",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁 후 깨끗하고 시원한 느낌과",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "빨래에서 나는 상큼한 향이 정말 맘에 들어",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "빨래도 깨끗하게 잘되서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338322",
+    "RawText": "OO 믿고 사용하는 제품입니다. 가격이 다른 제품보다 비싸서 살 때마다 고민이에요.  그래도 세정력이 좋아서 계속 사용 중이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20191012",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 다른 제품보다 비싸서 살 때마다 고민이에요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력이 좋아서 계속 사용 중이네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338327",
+    "RawText": "뚜껑이 문제인지 제품이 새서 조금씩 흘러내려 속상하네요. 향이 진하고 좋고 가격도 저렴하게 잘 샀습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20191013",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "뚜껑이 문제인지 제품이 새서 조금씩 흘러내려 속상하네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 진하고 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게 잘 샀습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338328",
+    "RawText": "배송은 빠르네요. 세탁은 잘 되는 것 같은데 특유의 향이 좀 강하게 나서 거슬리네요. 고농축이라 빨래 용량에 맞게 세제량 조절을 신경써야 해서 귀찮네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "22",
+    "RDate": "20191014",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁은 잘 되는 것 같은데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 특유의 향이 좀 강하게 나서 거슬리네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "고농축이라 빨래 용량에 맞게 세제량 조절을 신경써야 해서 귀찮네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "338340",
+    "RawText": "농축형 제품이고 향이 너무 좋아서 섬유유연제 굳이 쓰지 않아도 될 거 같아 편하고 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "14",
+    "RDate": "20191019",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "농축형 제품이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "섬유유연제 굳이 쓰지 않아도 될 거 같아 편하고 좋네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338356",
+    "RawText": "쿠폰 사용해서 저렴하게 구입해서 만족합니다. 향이 진하지 않고 은은해서 좋네요. 아직 사용 전이라 세탁이 잘 되는지는 모르겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20191025",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 사용해서 저렴하게 구입해서 만족합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 진하지 않고 은은해서 좋네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "아직 사용 전이라 세탁이 잘 되는지는 모르겠네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "338370",
+    "RawText": "떨어지면 불안해서 쌓아두고 사용하는 제품입니다. 저렴한 가격에 잘 구매했네요. 세척력도 최고입니다. 계속 쓰는 제품입니다. 수고하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "15",
+    "RDate": "20191104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 잘 구매했네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력도 최고입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338379",
+    "RawText": "가격도 좋고 무엇보다 라벤다 향이 좋아서 자주 구매하려고 합니다. 지인들에게도 강력추천 하려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20191108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "라벤다 향이 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338398",
+    "RawText": "늘 사용하고 있던 상품인데 인터넷 구매는 처음이네요. 오프라인에서 구매하는 것보다 저렴해서 좋네요. 성분도 오프라인과 똑같은 제품이겠죠?? 믿습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "17",
+    "RDate": "20191223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "오프라인에서 구매하는 것보다 저렴해서 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "성분도 오프라인과 똑같은 제품이겠죠?? ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "338400",
+    "RawText": "애용하는 제품이라 요번에도 믿고 사용하네요. 무게감이 있어 세탁할 때 조금 불편하지만 착한가격에 배송이 빠르고  품질이 좋아 단번에 구매했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "4",
+    "Syllable": "80",
+    "Word": "18",
+    "RDate": "20191227",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감이 있어 세탁할 때 조금 불편하지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한가격에 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 품질이 좋아 단번에 구매했어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338419",
+    "RawText": "저렴하게 구입해서 기분이 좋습니다.  세탁물에서 나는 향이 너무 좋구요. 무엇보다 세척력이 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20200212",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입해서 기분이 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 세탁물에서 나는 향이 너무 좋구요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세척력이 마음에 듭니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338420",
+    "RawText": "늘 쓰고 있는 제품입니다. 빨래 때가 잘 빠져서 마음에 듭니다. 향도 은은하고 좋습니다. 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "4",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20200214",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 빨래 때가 잘 빠져서 마음에 듭니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 은은하고 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338448",
+    "RawText": "세정력이 좋은지는 아직 잘 모르고요. 다만  꿉꿉한 냄새는 없어져서 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "4",
+    "Syllable": "42",
+    "Word": "10",
+    "RDate": "20200318",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력이 좋은지는 아직 잘 모르고요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "꿉꿉한 냄새는 없어져서 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338452",
+    "RawText": "향도 좋고 세탁력도 좋아서 다음에 또 주문하려고 합니다. 근데 사고보니 다른 사이트보다 많이 비싸게 산거 같아서 좀 속상하긴 했네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "19",
+    "RDate": "20200322",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁력도 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 사이트보다 많이 비싸게 산거 같아서 좀 속상하긴 했네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "338471",
+    "RawText": "세정력이 좋아 세탁이 깨끗하게 잘 되어 좋았습니다. 냄새도 좋고 OO 후회없는 선택이라는 생각이 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20200417",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력이 좋아 세탁이 깨끗하게 잘 되어 좋았습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338477",
+    "RawText": "향기 좋고 세척력까지 좋아 아주 만족합니다. 좋은상품 저렴하게 구매할 수 있도록 고객입장에서 바라봐주는 OO홈쇼핑에 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "15",
+    "RDate": "20200528",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세척력까지 좋아 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은상품 저렴하게 구매할 수 있도록",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338486",
+    "RawText": "향기가 좋아서 계속 사용하고 있는 제품입니다. 뚜껑이 문제인지 세제가 박스에 흘러서 와서 아쉽습니다. 배송시 뚜껑 부분 한번 더 신경써서 보내주시면 좋을 것 같네요. 사은품도 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "25",
+    "RDate": "20200709",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기가 좋아서 계속 사용하고 있는 제품입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "뚜껑이 문제인지 세제가 박스에 흘러서 와서 아쉽습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 만족스럽습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338487",
+    "RawText": "빨래에 찌꺼기 없이 깨끗하게 빨립니다. 빨래후 은은한 향도 너무 좋아요. 역시 세제는 OO입니다. 양도 대용량이라 오래 쓸수 있어서 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20200712",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "빨래에 찌꺼기 없이",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "깨끗하게 빨립니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "빨래후 은은한 향도 너무 좋아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 대용량이라 오래 쓸수 있어서 만족해요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338495",
+    "RawText": "생각했던 것보다 색깔이 예뻐요. 크기도 적당하고 디자인도 맘에 듭니다~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "4",
+    "Syllable": "39",
+    "Word": "9",
+    "RDate": "20200801",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "생각했던 것보다 색깔이 예뻐요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "크기도 적당하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인도 맘에 듭니다~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338499",
+    "RawText": "친정 어머니가 잘 사용하셔서 꾸준히 주문해드리고 있어요. 가격이 비싸서 좀 부담스럽지만 세척력이 좋아서 만족하십니다. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "15",
+    "RDate": "20200810",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싸서 좀 부담스럽지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력이 좋아서 만족하십니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338502",
+    "RawText": "안전하고 빠르게 배송 잘 받았습니다. 세탁해 보니 오염도 잘 지워지고 향도 맘에 들어서 좋습니다. 꾸준히 사용하고 싶습니다. 추천할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20200812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "오염도 잘 지워지고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 맘에 들어서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338504",
+    "RawText": "늘 사용하는 제품이라 저렴한 가격에 잘 구매했습니다. 향도 좋고 세탁력도 우수해 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "12",
+    "RDate": "20200819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 잘 구매했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁력도 우수해 만족스럽습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338512",
+    "RawText": "향이 오래가면 굳이 섬유유연제 안써도 되는데 향이 오래 가지 않아서 매일 쓰면서 아쉽네요. 세척력도 다른세제와 특별히 다른점도 못느끼겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "4",
+    "Syllable": "78",
+    "Word": "18",
+    "RDate": "20200829",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향이 오래 가지 않아서 매일 쓰면서 아쉽네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력도 다른세제와 특별히 다른점도 못느끼겠어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "338513",
+    "RawText": "품질이 좋아 매번 구매하는 상품이에요. 4개라는 좋은 구성에 가격도 저렴해서 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20200830",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋아 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "4개라는 좋은 구성에 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서 마음에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338516",
+    "RawText": "우선 세정력이 좋습니다. 세제 찌꺼기도 많이 남지 않고 OO은 섬유유연제를 쓰지 않아도 세제의 향이 좋아서 잔향이 은은하게 남습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20200907",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력이 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "세제 찌꺼기도 많이 남지 않고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "섬유유연제를 쓰지 않아도 세제의 향이 좋아서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": " 잔향이 은은하게 남습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338519",
+    "RawText": "라벤더 향이 너무 좋네요. 무엇보다 5배 딥클린이라 빨래가 깨끗하게 세탁되어서 더욱 좋네요. 잘 사용할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "4",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20200914",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "라벤더 향이 너무 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "5배 딥클린이라 빨래가 깨끗하게 세탁되어서 더욱 좋네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338521",
+    "RawText": "다른 브랜드를 쓰다가 비싸지만 OO로 바꿨습니다. 명성답게 깨끗하게 세탁되어서 좋습니다. 잘 쓰고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20200919",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸지만",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "명성답게 깨끗하게 세탁되어서 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338523",
+    "RawText": "항상 사용하고 있는 세제입니다. 얼룩이 잘 지워져서 좋네요. 미세먼지가 제거되는 효과도 좋고요. 배송은 좀 느리네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20200926",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "얼룩이 잘 지워져서 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "미세먼지가 제거되는 효과도 좋고요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338524",
+    "RawText": "라벤더는 처음 구매라 세척력이 좋으리라 믿고 구매했습니다. 무거운데 기사아저씨가 수고가 많으셨어요 잘 쓰겠습니다!",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "13",
+    "RDate": "20201005",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력이 좋으리라 믿고 구매했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거운데 기사아저씨가 수고가 많으셨어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "338529",
+    "RawText": "어머니가 세정력이나 향기 등등 타사와 비교해서 OO이 더 좋다고 하시네요.  배송이 너무 느려서 세제가 좀 남앗을때 미리 사두는 편입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20201014",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력이나 향기 등등 타사와 비교해서 OO이 더 좋다고 하시네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기 등등 타사와 비교해서 OO이 더 좋다고 하시네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338551",
+    "RawText": "저렴한 가격에 좋은 구성으로 구매 할 수 있어서 좋습니다. 항상 사용하는 제품인 OO도 들어 있어 더욱 더 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "19",
+    "RDate": "20200114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "좋은 구성으로",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "항상 사용하는 제품인 OO도 들어 있어 더욱 더 맘에 듭니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338554",
+    "RawText": "세정력이 좋아 빨래가 깨끗이 잘 세탁 되네요. 라벤더 향이 좋아서 섬유린스도 따로 필요 없어도 될거같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20200407",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력이 좋아 빨래가 깨끗이 잘 세탁 되네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "라벤더 향이 좋아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "섬유린스도 따로 필요 없어도 될거같네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338561",
+    "RawText": "배송도 빠르고 품질도 좋습니다. 가격까지 저렴해서 너무 만족스럽네요. 적은양으로도 거품이 잘나서 좋아요. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "14",
+    "RDate": "20191108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격까지 저렴해서 너무 만족스럽네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "적은양으로도 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "거품이 잘나서 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338572",
+    "RawText": "항상 사용했던건줄 알고 주문했는데 다른거였습니다. 딥클린은 처음인데 만족할꺼라 믿고 사용해보려고 합니다. 쿠폰 적립금 사용해서 저렴하게 구입했네요. 양이 많아 당분간은 세제 걱정 안해도 돼서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "113",
+    "Word": "24",
+    "RDate": "20190412",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 적립금 사용해서 저렴하게 구입했네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아 당분간은 세제 걱정 안해도 돼서 만족합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338575",
+    "RawText": "좋은 가격에 잘 구매해서 만족합니다. 가격도 저렴하고 사은품도 두개나 챙겨주셔서 감사했습니다. 강력추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "12",
+    "RDate": "20190413",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 잘 구매해서 만족합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 두개나 챙겨주셔서 감사했습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338585",
+    "RawText": "항상 사용하고있는 세탁세제입니다. 다른제품들에 비해 가격이 비싼편이기는 하나 세정력이 좋아서 사용하는 세제에요. 오프라인보다 저렴해서 OO몰에서 많은양을한번에 사게됩니다. OOO은 세탁후 잔향이 오래 지속되어서 섬유린스를 넣지 않아도 깔끔하고 기분좋네요. 오늘받은 제품 은 업그레이드가 되었는지 미세먼지 세척력에 대한 문구도 있어요 얼룩은 30분정도 OOO풀고담궈놓으면 얼룩이 쏙 빠지기도합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "221",
+    "Word": "43",
+    "RDate": "20190514",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른제품들에 비해 가격이 비싼편이기는 하나",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력이 좋아서 사용하는 세제에요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "오프라인보다 저렴해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "세탁후 잔향이 오래 지속되어서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "얼룩은 30분정도 OOO풀고담궈놓으면 얼룩이 쏙 빠지기도합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "섬유린스를 넣지 않아도 깔끔하고 기분좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338590",
+    "RawText": "향도 라벤더향이 은은하게 나서 좋네요. 빨래도 다른 세제보다 잘되는 거 같습니다. 세척력이 특히 마음에 들어 재구매해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20190518",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 라벤더향이 은은하게 나서 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "빨래도 다른 세제보다 잘되는 거 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력이 특히 마음에 들어 재구매해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338591",
+    "RawText": "상품 품질이 좋아요. 고농축이라 세제를 조금만 써도 되니 마음에 듭니다. 계속 이 상품 이용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "3",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20190519",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "고농축이라 세제를 조금만 써도 되니 마음에 듭니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338594",
+    "RawText": "세제가 떨어져서 급하게 주문했는데 빠른 배송 감사합니다. 이 제품은 다른 세제에 비해 비싸네요. 특별한 효과는 없는 것 같은데 말이죠.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "19",
+    "RDate": "20190523",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 제품은 다른 세제에 비해 비싸네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "특별한 효과는 없는 것 같은데 말이죠",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "338597",
+    "RawText": "좋은 가격에 잘 구매해서 만족합니다. OO은 늘 쓰던거라 왠지 다른 브랜드는 못쓰겠더라고요. OOO 쓰다가 이번엔 세탁력이 좀 강한걸로 구매해봤는데 세탁력은 비슷한거같습니다. 향이 조금 강한 느낌이 있는데 빨고 나면 산뜻한 정도의 향이라 개운한 느낌이있어 나쁘지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "152",
+    "Word": "35",
+    "RDate": "20190526",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 잘 구매해서 만족합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "이번엔 세탁력이 좀 강한걸로 구매해봤는데 세탁력은 비슷한거같습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 조금 강한 느낌이 있는데 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "빨고 나면 산뜻한 정도의 향이라 개운한 느낌이있어 나쁘지 않습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "338602",
+    "RawText": "2.7L 4개짜리 구성이 좋습니다. 세탁력 맘에 들고요 섬유 유연제도 사은품으로 와서 좋네요. 많이 파세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20190603",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "2.7L 4개짜리 구성이 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁력 맘에 들고요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "섬유 유연제도 사은품으로 와서 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338610",
+    "RawText": "싸게 잘 샀습니다.  얼룩 제거도 탁월해서 마음에 들어 잘 쓰고 있어요. 사은품도 좋습니다. 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20190611",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 잘 샀습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "얼룩 제거도 탁월해서 마음에 들어 잘 쓰고 있어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338616",
+    "RawText": "상품 품질이 좋아서 마음에 듭니다.  배송도 엄청 빨랐습니다. 단, 가격만 착하면 더할 나위 없이 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20190626",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋아서 마음에 듭니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격만 착하면 더할 나위 없이 좋겠네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "338620",
+    "RawText": "OO 세제 세번째 구매했습니다. 라벤더 향도 좋고 세척력도 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "38",
+    "Word": "9",
+    "RDate": "20190802",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "라벤더 향도 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338622",
+    "RawText": "늘 쓰는 OO인데 가격이 좋아서 구매했습니다. 배송도 빠릅니다. 무거워서 사오기 힘든데  배송 받으니 편하고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20190816",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좋아서 구매했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거워서 사오기 힘든데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "338626",
+    "RawText": "좋은 가격에 잘 구매했어요. 향도 좋고 양도 많아서 한동안 세제 걱정은 안해도 될 것 같네요. 대형 마트보다 저렴한 가격으로 살 수 있어서 정말 행복합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "24",
+    "RDate": "20190902",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 잘 구매했어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아서 한동안 세제 걱정은 안해도 될 것 같네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "대형 마트보다 저렴한 가격으로 살 수 있어서 정말 행복합니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338632",
+    "RawText": "항상 대형 마트에서 한 개씩 사서 사용하고 있었는데 OO에서 4개씩 세트로 싸게 살 수 있어 좋았어요. 사은품으로 샘풀까지 챙겨주셔서 감사합니다. 양이 많아서 오랫동안 세제 걱정 않하고 잘 쓸 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "114",
+    "Word": "30",
+    "RDate": "20190922",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 4개씩 세트로",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 살 수 있어 좋았어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 사은품으로 샘풀까지 챙겨주셔서 감사합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 양이 많아서 오랫동안 세제 걱정 않하고 잘 쓸 것 같네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338634",
+    "RawText": "상품 품질이 좋아 마음에 듭니다. 웬만한 마트보다 싸고, 한꺼번에 많은 양을 구매할 수 있어 너무 좋습니다. 배송도 빨라서 항상 이용하고 있어요. 다음에 또 구매할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "94",
+    "Word": "24",
+    "RDate": "20190925",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋아 마음에 듭니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "웬만한 마트보다 싸고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "한꺼번에 많은 양을 구매할 수 있어 너무 좋습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338638",
+    "RawText": "마트에 가지 않고 집에서 받으니 좋네요.^^ 항상 온라인에서 세제를 구입했는데 이번엔 포장을 허술하게 해서 보냈네요. 뽁뽁이 몇번 감싸서 안전하게 새지 않게 배송해야 하는데 마개가 열렸는지 흐르는 게 보이고 점성이 있는 제품이라 끈적거려서 교환 요청했네요. 빠른 교환 배송해 주세요.^^ 가격은 저렴해서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "174",
+    "Word": "41",
+    "RDate": "20191001",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "점성이 있는 제품이라 끈적거려서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴해서 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338639",
+    "RawText": "세제는 OO 브랜드를 자주 쓰는데 이 제품은 고농축이라 조금만 써도 되니 좋습니다. 이번에 구입한 라벤더향보다는 지난 번에 쓴 레몬향이 더 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "21",
+    "RDate": "20191003",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "고농축이라 조금만 써도 되니 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "라벤더향보다는 지난 번에 쓴 레몬향이 더 좋네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "338642",
+    "RawText": "평소에도 OO 사용하고 있어요. 세일이라 이번에는 딥클린워젤로 구매했어요. 이건 가격이 좀 비싼걸로 알았는데 일반과 같이 저렴해서 구매해 봤어요.아직은 사용 전이지만 OO의 효과를 믿고 사용 할 것이고 향은 다른 세제보다 좀 세제냄새가 심한 것 같아 좀 불편하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "148",
+    "Word": "36",
+    "RDate": "20191005",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "일반과 같이 저렴해서 구매해 봤어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "아직은 사용 전이지만 OO의 효과를 믿고 사용 할 것이고 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향은 다른 세제보다 좀 세제냄새가 심한 것 같아 좀 불편하네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "338649",
+    "RawText": "세척력이 좋아서 꾸준히 사용합니다. 깜빡하고 섬유 유연제를 안 써도 될만큼 향이 좋아서 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 헨** 세탁세제 드럼용 2.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20191012",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력이 좋아서 꾸준히 사용합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "섬유 유연제를 안 써도 될만큼 향이 좋아서 마음에 듭니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338667",
+    "RawText": "대용량이라 오래 사용할 수 있어서 좋네요. 성분이 착한 건 좋은데, 거품이 잘 나오지 않네요. 빨래가 깨끗하게 세척이 안돼요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 에** 액체세제 2.5L 4개",
+    "ReviewScore": "4",
+    "Syllable": "70",
+    "Word": "18",
+    "RDate": "20220830",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 오래 사용할 수 있어서 좋네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "성분이 착한 건 좋은데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "거품이 잘 나오지 않네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "빨래가 깨끗하게 세척이 안돼요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "338669",
+    "RawText": "향은 진하지 않고 은은하게 나고 세탁하면 거품 많이 나서 깨끗하게 빨리는 기분이 듭니다. 가성비도 좋습니다.잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 에** 액체세제 2.5L 4개",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20220830",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 진하지 않고 은은하게 나고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁하면 거품 많이 나서 깨끗하게 빨리는 기분이 듭니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338681",
+    "RawText": "용기에 계량 뚜껑이 없어 사용하다 보면 좀 불편합니다. 정량보다 조금 더 넣긴 했지만 드럼세탁기 안에 거품이 반 이상이나 생겨서 깜짝 놀랐습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 에** 액체세제 2.5L 4개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "21",
+    "RDate": "20220829",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기에 계량 뚜껑이 없어 사용하다 보면 좀 불편합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "정량보다 조금 더 넣긴 했지만 드럼세탁기 안에 거품이 반 이상이나 생겨서 깜짝 놀랐습니다.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338702",
+    "RawText": "가격이 저렴합니다. 양이 많아서 쟁여 놓고 쓸 수 있어 좋습니다. 단 뚜껑이 계량컵이 아니라 쓰기에 적당하지 않아 별하나 빼려구요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 에** 액체세제 2.5L 4개",
+    "ReviewScore": "4",
+    "Syllable": "73",
+    "Word": "19",
+    "RDate": "20220828",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격이 저렴합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아서 쟁여 놓고 쓸 수 있어 좋습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "뚜껑이 계량컵이 아니라 쓰기에 적당하지 않아 별하나 빼려구요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "338710",
+    "RawText": "향이 너무 좋습니다. 아직은 사용 전이라 잘 모르겠는데 찌든 때도 잘 지워지면 좋겠습니다. 많이 파시길요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 에** 액체세제 2.5L 4개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20220828",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "찌든 때도 잘 지워지면 좋겠습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "338714",
+    "RawText": "세탁 세제의 세척력은 비슷해서 저렴하고 상품평 좋은 제품으로 구매하는 편이네요. 워낙 소량씩 자주 빨래하는 편이라 세제를 빨리 쓰는데  가성비 좋습니다. 그런데  세제 찌꺼기가 조금 남습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 에** 액체세제 2.5L 4개",
+    "ReviewScore": "4",
+    "Syllable": "107",
+    "Word": "25",
+    "RDate": "20220827",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": " 세제 찌꺼기가 조금 남습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "338733",
+    "RawText": "OO 사용하다 바꿔보았습니다. 향이 별로 나지 않는 것 외에는 다른 점이 없습니다. 세척력은 그럭저럭 괜찮습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 에** 액체세제 2.5L 4개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20220826",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 별로 나지 않는 것",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력은 그럭저럭 괜찮습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "338735",
+    "RawText": "양이 많은게 가장 마음에 듭니다. 향도 진하니 마음에 듭니다. 좋은 상품을 배송 빠르게 보내주셔서 감사해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 에** 액체세제 2.5L 4개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20220826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많은게 가장 마음에 듭니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 진하니 마음에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338759",
+    "RawText": "저렴한 가격이라 좋습니다. 배송도 빠르고, 용량도 많아서 맘에 들고요.  빨래도 잘 되는 것 같아서 계속 애용합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 에** 액체세제 2.5L 4개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20220825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격이라 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 많아서 맘에 들고요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "빨래도 잘 되는 것 같아서 계속 애용합니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338770",
+    "RawText": "다른 브랜드의 제품을 사용해 오다가 이 제품으로 바꿨습니다. 아이옷, 어른옷 모두 사용가능하고 옷감 손상도 없네요.  그런데 찌든때가 너무 안져요. 세척력이 정말 별로입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 에** 액체세제 2.5L 4개",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "22",
+    "RDate": "20220825",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아이옷, 어른옷 모두 사용가능하고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "옷감 손상도 없네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 찌든때가 너무 안져요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력이 정말 별로입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "338780",
+    "RawText": "액체세제가 편해서 구입했습니다. 라임향이 그닥 많이 나질 않아서 좀 아쉽네요. 빨래는 깨끗하고 깔끔하게 잘 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 에** 액체세제 2.5L 4개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20220824",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "액체세제가 편해서 구입했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "라임향이 그닥 많이 나질 않아서 좀 아쉽네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "빨래는 깨끗하고 깔끔하게 잘 됩니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338783",
+    "RawText": "며칠 전 세제 구입 후 마음에 들어서 언니네도 보냈습니다. 친환경 제품이라 좋아하고 세정력도 좋다고 말하네요. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 에** 액체세제 2.5L 4개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20220824",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "친환경 제품이라 좋아하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력도 좋다고 말하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338799",
+    "RawText": "꾸준히 재주문해서 사용하고 있는 제품입니다. 저렴해서 집에서 잘 쓰는 세제인데 세탁시 가격대비 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 에** 액체세제 2.5L 4개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20220824",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "세탁시 가격대비 만족합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338817",
+    "RawText": "세탁세제가 얼마 안남아 구매했습니다. 친환경세제라 믿음이 가고 용량이 넉넉해서 더 좋네요. 배송도 빨라서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 에** 액체세제 2.5L 4개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20220823",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "친환경세제라 믿음이 가고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 넉넉해서 더 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338829",
+    "RawText": "저렴한 가격입니다. 빨래도 잘 돼서 자주 구입하고 있는 제품입니다. 액체세제라서 사용하기 편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 에** 액체세제 2.5L 4개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20220823",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "빨래도 잘 돼서 자주 구입하고 있는 제품입니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "액체세제라서 사용하기 편합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338830",
+    "RawText": "대용량이라 오랫동안 쓸수 있겠네요. 배송도 빠르고. 세일가격으로 저렴하게 잘 산거같아요. 세정력이 좋으면 재구매하려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 에** 액체세제 2.5L 4개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "14",
+    "RDate": "20220823",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 오랫동안 쓸수 있겠네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일가격으로 저렴하게 잘 산거같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력이 좋으면 재구매하려고 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "338835",
+    "RawText": "저렴하게 잘 산것 같아 좋습니다. 세정력이 좋아 세탁도 잘 되고 조합향료 냄새가 안나서 너무 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 에** 액체세제 2.5L 4개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20220823",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 산것 같아 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력이 좋아 세탁도 잘 되고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "조합향료 냄새가 안나서 너무 만족스럽습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338864",
+    "RawText": "가격도 저렴해서 좋고 구성도 만족합니다. 배송도 빠르고 집에서 편안하게 받을수 있어 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 에** 액체세제 2.5L 4개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20220820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 만족합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338878",
+    "RawText": "라임 향이 진해서 좋아요. 무엇보다 착한 성분이어서 아기부터 가족 전체 옷을 세탁할 수 있어서 만족합니다. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 에** 액체세제 2.5L 4개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20220819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "라임 향이 진해서 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "착한 성분이어서 아기부터 가족 전체 옷을 세탁할 수 있어서 만족합니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338879",
+    "RawText": "성분이 좋은 액체세제라서 아주 좋습니다. 양도 많아서 오랫동안 사용할 것 같아요.  한가지 아쉬운점은 빨래한 후에 옷에서 향이 거의 나지 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 에** 액체세제 2.5L 4개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "20",
+    "RDate": "20220819",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "성분이 좋은 액체세제라서 아주 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아서 오랫동안 사용할 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "빨래한 후에 옷에서 향이 거의 나지 않네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "338882",
+    "RawText": "택배가 연락도 없이 집앞에 놓고 가서 짜증이나네요. 액체세제는 처음인데 거품도 잘 나고 세척력도 좋았으면 합니다. 아직사용전이라 알 수 없지만요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 에** 액체세제 2.5L 4개",
+    "ReviewScore": "4",
+    "Syllable": "81",
+    "Word": "19",
+    "RDate": "20220819",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "거품도잘나고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력도 좋았으면 합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "338907",
+    "RawText": "가루세제로 가게에서 타올만 세탁하다가 액체세제로 바꿔보려고 주문했습니다. 사용하기에는 액체세제가 더 좋습니다.  향도 진하지 않고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 에** 액체세제 2.5L 4개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "15",
+    "RDate": "20220818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "사용하기에는 액체세제가 더 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 진하지 않고 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338916",
+    "RawText": "저렴한 가격에 세탁도 잘 되는거 같아 좋습니다. 양도 많아서 몇년 동안 쓸 수 있어 세제 걱정은 이제 없습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 에** 액체세제 2.5L 4개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "18",
+    "RDate": "20220817",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세탁도 잘 되는거 같아 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아서 몇년 동안 쓸 수 있어 세제 걱정은 이제 없습니다. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338946",
+    "RawText": "품질이 아주 만족스럽습니다. 사용하는 세제량도 기존거 하고 크게 다르지 않아 좋고 깨끗하게 잘되는 것 같아 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 에** 액체세제 2.5L 4개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20220817",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 아주 만족스럽습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "사용하는 세제량도 기존거 하고 크게 다르지 않아 좋고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "깨끗하게 잘되는 것 같아 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338949",
+    "RawText": "새로운 제품 써보고 싶어 주문했는데 대용량에 가격도 저렴하네요. 근데 배송 박스가 완전 누더기처럼 와서 뜯기가 너무 힘들었어요. 좀 더 신경 써서 배송해주세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 에** 액체세제 2.5L 4개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "22",
+    "RDate": "20220817",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량에",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338954",
+    "RawText": "오랫동안 사용하고 있는 세제에요. 믿고 쓰는 가격이고, 세탁도 깨끗이 잘되는 품질 좋은 제품이에요. 배송도 빨라서 좋았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 에** 액체세제 2.5L 4개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20220816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "믿고 쓰는 가격이고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁도 깨끗이 잘되는",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 좋은 제품이에요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338959",
+    "RawText": "세탁력이 좋습니다. 성분을 보니 첨가물이 많이 들어가 있지 않아 안심하고 세탁할 것 같습니다. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 에** 액체세제 2.5L 4개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20220816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁력이 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "성분을 보니 첨가물이 많이 들어가 있지 않아 안심하고 세탁할 것 같습니다. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338961",
+    "RawText": "좋은 제품 가격도 싸게 잘 샀습니다. 4개의 통에 소분되어 있어 사용하기도 편해서 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 에** 액체세제 2.5L 4개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20220816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 제품 가격도 싸게 잘 샀습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "4개의 통에 소분되어 있어 사용하기도 편해서 만족스럽습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "338987",
+    "RawText": "가격이 저렴하진 않지만 안전한 성분으로 만들어져서 믿을 수 있어 좋아요.  액체 세제가 가루 세제를 대체하기에 좋습니다. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 에** 액체세제 2.5L 4개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "17",
+    "RDate": "20220813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하진 않지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "안전한 성분으로 만들어져서 믿을 수 있어 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": " 액체 세제가 가루 세제를 대체하기에 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

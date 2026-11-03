@@ -1,0 +1,3487 @@
+[
+  {
+    "Index": "917316",
+    "RawText": "기존에 계속 사용하고 있던거라 또 주문했습니다. 가격이 좀 비싸졌지만 성능이 좋아서 구매했어요. 허접한 휴지보다는 도톰하고 부드러운 편입니다. 뜯을때 날림도 별로 없어서 꾸준히 구매하는 상품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 35m (24롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "110",
+    "Word": "24",
+    "RDate": "20220804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 비싸졌지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능이 좋아서 구매했어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "허접한 휴지보다는 도톰하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드러운 편입니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "뜯을때 날림도 별로 없어서 꾸준히 구매하는 상품입니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "917320",
+    "RawText": "늘 쓰던거 요기가 제일 가격 좋아 구입했습니다 이미 다 뜯어서 사진 못찍었어요 예전엔 몰랐는데 잔잔한 향도 나는 거 같습니다 잘 쓸게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 35m (24롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "21",
+    "RDate": "20220802",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "요기가 제일 가격 좋아 구입했습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "잔잔한 향도 나는 거 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "917369",
+    "RawText": "타사보다 저렴한가격에 구입해서 득템했습니다. 생각보다 흡수력도 나쁘지 않고 가로너비가 넓어서 꼭 이 사이즈만 구입해요. 잘 사용할께요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 35m (24롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "16",
+    "RDate": "20220713",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "생각보다 흡수력도 나쁘지 않고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "가로너비가 넓어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴한가격에",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "917405",
+    "RawText": "대형마트에서 ㅇㅇㅇㅇ 30m 24롤 구매해서 사용해보니 너무 부드럽고 좋았어요 그래서 동일한 상품으로 구매했다. 그런데 도착하고 뜯어보니 마트에서 산 것과 차이가 있네요. 마트화장지가 원이 더 큽니다. 빽빽한정도를 보면 별로인듯함 향도 너무 세네요 화장지 표면이 살짝 거칩니다 그래선지 화장지를 풀 때 먼지가 좀 나요. 여기서 구매한건 상대적으로 약간 거칠어요 물론 3겹이라 두껍도 튼튼하고, 질기고 좋지만 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 35m (24롤) 1팩",
+    "ReviewScore": "3",
+    "Syllable": "232",
+    "Word": "54",
+    "RDate": "20220625",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "구매해서 사용해보니 너무 부드럽고 좋았어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "마트화장지가 원이 더 큽니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "빽빽한정도를 보면 별로인듯함",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 너무 세네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": " 화장지 표면이 살짝 거칩니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "화장지를 풀 때 먼지가 좀 나요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "상대적으로 약간 거칠어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "3겹이라 두껍도",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "튼튼하고, 질기고 좋지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "917432",
+    "RawText": "사용하던거라 재주문했어요. 하루만에 배송되었고 포장도 종이박스안에 비닐을 따로 해주셨네요. 먼지 없고 짱짱하게 감겨 있네요.폭도 넓은편이라 사용에 용이합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 35m (24롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "17",
+    "RDate": "20220615",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "먼지 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "짱짱하게 감겨 있네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "폭도 넓은편이라",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용에 용이합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "917443",
+    "RawText": "화장지 면적이 크고 부드럽고 향도 좋습니다. 그러나 두껍지 않고 얇은편이고 먼지도 좀 있는 편입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 35m (24롤) 1팩",
+    "ReviewScore": "4",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20220611",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "화장지 면적이 크고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드럽고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두껍지 않고 얇은편이고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "먼지도 좀 있는 편입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "917548",
+    "RawText": "화장지 구입 할 때 종류가 많아 고르기 힘듭니다 이건 많이 부드럽지 않고 뜯을때 먼지가 나는 것 같네요 세겹이라 두툼할줄 알았는데 아니네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 35m (24롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "21",
+    "RDate": "20220513",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "많이 부드럽지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "먼지가 나는 것 같네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "세겹이라 두툼할줄 알았는데 아니네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "917601",
+    "RawText": "항상 구입하는 제품입니다. 두껍고 사용감이 좋으면서 향기도 좋아요. 그리고 이곳에서 구입을 하면 비닐포장에다가 박스포장이라서 배송 중 오염될 일이 없어서 안심하고 받을 수 있어서 너무 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 35m (24롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "25",
+    "RDate": "20220418",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "두껍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용감이 좋으면서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 좋아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "917673",
+    "RawText": "빠른 배송이 마음에 드네요 늘 쓰다 갈아 탔었는데 다시 주문했습니다 가격이 다른 제품보다 비싸지만 향이 있어 더 사용감이 좋아지는거 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 35m (24롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "20",
+    "RDate": "20220323",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 다른 제품보다 비싸지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 있어",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "더 사용감이 좋아지는거 같네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "917680",
+    "RawText": "상품 품질이 좋아요 마음에 듭니다 재구매 계속 하고 있습니다 무향만 쓰다가 향이 있는걸로 바꿨는데 괜찮더라구요 포장도 꼼꼼하게 해서 배송 받았네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 35m (24롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "20",
+    "RDate": "20220322",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋아요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "무향만 쓰다가 향이 있는걸로 바꿨는데 괜찮더라구요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "917717",
+    "RawText": "데코앤소프트 주문했는데 살짝 거친느낌이 드는데 기분탓일까요? 배송은 빨랐는데 비싼가격 주고 산거라 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 35m (24롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "12",
+    "RDate": "20220311",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "살짝 거친느낌이 드는데 기분탓일까요?",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싼가격 주고 산거라",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "917728",
+    "RawText": "기존에 27미터짜리 쓰니까 자주 교체해야되서 은근히 귀찮았어요 35미터짜리는 더 두껍기도 하고 톡톡하고 크기도 살짝 커서 좋네요 무형광이라 더 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 35m (24롤) 1팩",
+    "ReviewScore": "4",
+    "Syllable": "84",
+    "Word": "19",
+    "RDate": "20220307",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "35미터짜리는",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "더 두껍기도 하고 톡톡하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기도 살짝 커서 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "무형광이라 더 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "917747",
+    "RawText": "좋은 가격에 잘 구매했어요. ㅇㅇㅇㅇ 다른 라인으로 쓰고 있는데 향 있는 제품은 첨 써 보네요 무향을 선호 하는데 전 별로인듯함",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 35m (24롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "20",
+    "RDate": "20220228",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 잘 구매했어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "무향을 선호 하는데 전 별로인듯함",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "917758",
+    "RawText": "ㅇㅇ쇼핑에서 늘 구입하고 있습니다. 먼지가 거진 없고 부드러움은 점점 좋아지는것 같아서 앞으로도 쭉 재구매하려고해요. 구입할때마다 3개에서 4개를 구입하기에 가격을 조금만 저렴하게 해 주었으면 하는 바램이 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 35m (24롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "120",
+    "Word": "26",
+    "RDate": "20220225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "먼지가 거진 없고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드러움은 점점 좋아지는것 같아서 앞으로도 쭉 재구매하려고해요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격을 조금만 저렴하게 해 주었으면 하는 바램이 있습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "917822",
+    "RawText": "마음에 듭니다 벌써 몇 번째 구매인지 모르겠네요 와이드라 넓어서 쓰기 편하고 향도 무난해서 이것만 쓰게 됩니다 휴지라고 다 같은 휴지가 아니란걸 이걸 쓰고 느끼네요 느낌인지 몰라도 먼지도 덜 나는 것 같고 디자인도 예쁘니 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 35m (24롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "128",
+    "Word": "34",
+    "RDate": "20220204",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": " 와이드라 넓어서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 쓰기 편하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 무난해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 먼지도 덜 나는 것 같고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인도 예쁘니 만족해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "917828",
+    "RawText": "여러가지 사용해보았는데 이 상품이 제일 맘에 들어 꾸준히 사용하고 있습니다 먼지도 별로 없고 향도 진하지 않아 좋습니다 세겹인것도 맘에 듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 35m (24롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "20",
+    "RDate": "20220202",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "먼지도 별로 없고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 진하지 않아 좋습니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "세겹인것도 맘에 듭니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "917859",
+    "RawText": "친구가 추천해준뒤로 계속 사용하는 제품입니다. 살짝 얇은 느낌이 있습니다. 향이 은은하고 나쁘진 않지만 조금 밀려요. 폭이 넓은점은 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 35m (24롤) 1팩",
+    "ReviewScore": "3",
+    "Syllable": "78",
+    "Word": "18",
+    "RDate": "20220117",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "살짝 얇은 느낌이 있습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 은은하고 나쁘진 않지만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "조금 밀려요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "폭이 넓은점은 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "917944",
+    "RawText": "향이 좀 나는건 별로지만 다른거 쓰다가 결국엔 이걸로 다시 사용하게 되네요 너무 부드러워도 좀 불편한데 이건 적당히 부드러워 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 35m (24롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "19",
+    "RDate": "20211210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좀 나는건 별로지만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "너무 부드러워도 좀 불편한데 이건 적당히 부드러워 좋습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "917949",
+    "RawText": "도톰해서 잘 찢어지지 않고 와이드라 넓어서 좋습니다 은은한 향도 괜찮아 자주 구매합니다 빠르고 친절한 배송에 감사드려요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 35m (24롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20211208",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "도톰해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "잘 찢어지지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "와이드라 넓어서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "은은한 향도 괜찮아 자주 구매합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "917972",
+    "RawText": "좋은 가격에 잘 구매했어요. 백화점에서 사는 ㅇㅇㅇㅇ가 토톰하고 좋아서 늘 이제품만 사용하고 있습니다 세일도하고 해서 좋은 가격에 잘사서 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 35m (24롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "19",
+    "RDate": "20211130",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 잘 구매했어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "토톰하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일도하고 해서 좋은 가격에 잘사서 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "917980",
+    "RawText": "상품 품질이 좋아요 항상 시켜서 쓰는 ㅇㅇㅇ 휴지입니다 다른거 써봤지만 이게 제일 적당한거 같습니다 두께나 길이가 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 35m (24롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20211127",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋아요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께나 길이가 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이가 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918026",
+    "RawText": "ㅇㅇㅇㅇ 브랜드 중에서도 데코엔소프트가 젤 괜찮긴 한데요. 이전보다 부드러움이 덜한 거 같긴 해요. 가격은 비싼편입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 35m (24롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20211109",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "이전보다 부드러움이 덜한 거 같긴 해요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싼편입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "918050",
+    "RawText": "품질은 나쁘지 않아요. 부드롭고 먼지도 많이 날리지 않는 것 같습니다. ㅇㅇ쇼핑에서 휴지는 처음 사 봤는데 배송도 빨리 오니 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 35m (24롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "19",
+    "RDate": "20211031",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 나쁘지 않아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드롭고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "먼지도 많이 날리지 않는 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918054",
+    "RawText": "조금 비싸지만 다른 화장지는 알레르기가 있어 오랫동안 자극성 없는 ㅇㅇ만 사용합니다 은은한 향기까지 우리가족 최애 화장지에요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 35m (24롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20211028",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "조금 비싸지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극성 없는 ㅇㅇ만 사용합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "은은한 향기까지 우리가족 최애 화장지에요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918130",
+    "RawText": "상품 품질이 좋네요. 마음에 들어요 항상 쟁여놓고 쓰는 화장지입니다 두툼하고 사이즈 넓고 부드러워서 항상 이것만 쓰게 됩니다 싸게 잘샀어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 35m (24롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20210929",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": " 두툼하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈 넓고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드러워서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 잘샀어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918349",
+    "RawText": "늘 재구매하는 품질좋은 제품이에요. 먼지도 적고 형광물질 등을 넣지 않아 안심하고 사용할 수 있으니 더 좋아요. 박스에 넣어 포장까지 완벽해 찌그러짐 없이 배송되어 ㅇㅇ쇼핑에서 구입하길 잘한것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "111",
+    "Word": "27",
+    "RDate": "20220306",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질좋은 제품이에요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "먼지도 적고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "형광물질 등을 넣지 않아 안심하고 사용할 수 있으니 더 좋아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918351",
+    "RawText": "개인차가 있지만 저는 두께 질감 만족해요. 포장은 비닐포장을 따로 했으며 배송은 빠르지는 않았어요. 가격대비 좋은 상품인 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "4",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20171109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께 질감 만족해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "질감 만족해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 좋은 상품인 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918356",
+    "RawText": "늘쓰는 화장지인데 많이 얇아 졌네요 그전처럼 두툼하지 않습니다 세겹은 맞는데... 아쉬움이 남네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "3",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20190211",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "늘쓰는 화장지인데 많이 얇아 졌네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "그전처럼 두툼하지 않습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "세겹은 맞는데... 아쉬움이 남네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "918358",
+    "RawText": "두께가 굵고 톡톡해서 찢어짐 없이 잘 닦이긴 하는데, 그래서인지 금방 다 쓰게 되는 것 같네요. 마트보다는 저렴하게 구매했는데 가성비가 좀 더 좋았으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "23",
+    "RDate": "20190308",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께가 굵고 톡톡해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "찢어짐 없이 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦이긴 하는데,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그래서인지 금방 다 쓰게 되는 것 같네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트보다는 저렴하게 구매했는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좀 더 좋았으면 좋겠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "918379",
+    "RawText": "화장지가 다 떨어져서 샀는데 가격이 저렴하여 2묶음을 샀습니다 품질이 별로인거 같네요 먼지도 많이 나는거 같고 두께도 원래 쓰던거 보다 얇아요 싼게 비지떡이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "22",
+    "RDate": "20170222",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하여",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 별로인거 같네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "먼지도 많이 나는거 같고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께도 원래 쓰던거 보다 얇아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "싼게 비지떡이네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "918381",
+    "RawText": "가격도 착하고 배송도 빠르고 화장지도 부드럽고 너무 좋아서 항상 이것만 주문해서 사용하고 있어요. 앞으로도 구매할 예정입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20170305",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "화장지도 부드럽고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918382",
+    "RawText": "생각보다 두툼하지 않아서 두 세장쓰게 되어 낭비가 심하네요. 별로입니다. 생각보다 먼지도 많이 나옵니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20170307",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "생각보다 두툼하지 않아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "두 세장쓰게 되어 낭비가 심하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "생각보다 먼지도 많이 나옵니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "918384",
+    "RawText": "좋습니다 항상 화장지는 천연펄프 3겹 무형광으로 사고 있는데요 저렴하게 잘산것같습니다 도톰하고 부드럽네요 배송도 빨리와서 너무 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "16",
+    "RDate": "20170407",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘산것같습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": " 도톰하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드럽네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918386",
+    "RawText": "ㅇㅇ 순수 제품보다 가격도 저렴하고 훨씬 두툼해서 오래 써요 배송도 빠르고 좋습니다 잘 쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "14",
+    "RDate": "20170420",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "훨씬 두툼해서 오래 써요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918388",
+    "RawText": "마트보다 저렴하네요. 집에서 사용하는데 부드럽고 두께도 알맞아 사용하기에 편해서 좋습니다. 집까지 배달해 주니 무겁게 사서 들고 올 필요 없어서 편합니다. 떨어지면 계속 구입할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "4",
+    "Syllable": "101",
+    "Word": "23",
+    "RDate": "20170507",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트보다 저렴하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드럽고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께도 알맞아 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기에 편해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918392",
+    "RawText": "가격은 저렴하고 품질은 고급스러운 제품을 잘 구입했어요. 규격도 108 mm라 사용하기 좋습니다. 추천해요. 후회하지 않으실 거에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "16",
+    "RDate": "20170612",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 고급스러운 제품을 잘 구입했어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "규격도 108 mm라 사용하기 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918396",
+    "RawText": "ㅇㅇㅇㅇ 사용하다가 이번에 바꾸어 사용하니 부드러운  느낌이라 만족해요. 두께도 좋고 끊어짐도 질기고 문양도 이뻐서 잘 사용하고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "17",
+    "RDate": "20170627",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드러운  느낌이라 만족해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "끊어짐도 질기고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "문양도 이뻐서 잘 사용하고 있어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918485",
+    "RawText": "늘 사용하는 제품입니다. 두께도 사용하기 적당하고, 보푸라기도 없어서 사용하기도 깨끗하고 좋네요. 가격도 제품의 질에 비해 적당하고 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "17",
+    "RDate": "20170321",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께도 사용하기 적당하고,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "보푸라기도 없어서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기도 깨끗하고 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 제품의 질에 비해 적당하고 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918497",
+    "RawText": "거의 3년째 이 화장지만 씁니다. 마트와는 비교도 할 수 없이 저렴하고 휴지도 질이 정말 좋네요. 잘못 사면 사용시 찢어지고 그러는데, 그런것도 없고 가장 맘에 드는 제품이라 앞으로도 쭉 사용할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "111",
+    "Word": "29",
+    "RDate": "20190408",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트와는 비교도 할 수 없이 저렴하고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "휴지도 질이 정말 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "잘못 사면 사용시 찢어지고 그러는데, 그런것도 없고 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918541",
+    "RawText": "집에서 쓰기 딱 좋은 가성비 좋은 휴지네요 두께도 두툼해서 몇장만 사용해도 충분합니다 흡수력도 좋은편이라 사용하기 정말 편리하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20200302",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "집에서 쓰기 딱 좋은",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은 휴지네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께도 두툼해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "몇장만 사용해도 충분합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수력도 좋은편이라 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 정말 편리하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918553",
+    "RawText": "늘 주문해온 상품이에요 두께도 도톰하고 질긴 정도도 적당하고 먼지 날림도 느끼지 못하네요 전 먼지같은 가루 알러지가 심해서 그런 부분에는 늘 신경을 써서 구매해서 잘 알아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "25",
+    "RDate": "20200512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께도 도톰하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "질긴 정도도 적당하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "먼지 날림도 느끼지 못하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "전 먼지같은 가루 알러지가 심해서 그런 부분에는 늘 신경을 써서 구매해서 잘 알아요",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918583",
+    "RawText": "도톰한 무향 휴지를 찾던 중에 적당한 제품을 찾았습니다. 저렴한 가격에 잘 구매한 것 같아서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "15",
+    "RDate": "20200711",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "도톰한 무향 휴지를 찾던 중에 적당한 제품을 찾았습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "무향 휴지를 찾던 중에 적당한 제품을 찾았습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 잘 구매한 것 같아서 만족합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918592",
+    "RawText": "저번에도 이 제품을 썼는데 재질도 이만하면 좋고 가격도 좋습니다. 양도 많고 배송도 빠릅니다. 먼지도 많이 없는거 같아서 되도록 이 제품으로 쓸 생각이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "22",
+    "RDate": "20170322",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "재질도 이만하면 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양도 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "먼지도 많이 없는거 같아서 되도록 이 제품으로 쓸 생각이에요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918616",
+    "RawText": "일반 화장지보다 길이가 길고 두툼합니다 많이 단단하게 감겨인는것 같아요 조금만 써도 깔끔하게 잘딱입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20181215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "일반 화장지보다 길이가 길고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두툼합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "많이 단단하게 감겨인는것 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "조금만 써도 깔끔하게 잘딱입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918629",
+    "RawText": "기존에 집에서 사용하던 것보다 두꺼워서 좋은거 같습니다 같은 3겹인데 더 두꺼워서 닦을때 훨씬 좋아요 배송도 빨리 왔고, 길이도 넉넉해서 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "20",
+    "RDate": "20190222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "기존에 집에서 사용하던 것보다 두꺼워서 좋은거 같습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "같은 3겹인데 더 두꺼워서 닦을때 훨씬 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이도 넉넉해서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918671",
+    "RawText": "가격도 저렴하게 구입했고 제품 질도 좋습니다. 마트에서 사는것보다 저렴하고 집에서 편하게 받을수 있으니 더욱 만족스러워요. 늘 인터넷에서 사는데 무엇보다 저렴한 가격에 득템한 기분입니다. 한번에 두팩 샀으니 한참동안 걱정없이 사용할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "4",
+    "Syllable": "137",
+    "Word": "31",
+    "RDate": "20180123",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게 구입했고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 질도 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트에서 사는것보다 저렴하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "집에서 편하게 받을수 있으니 더욱 만족스러워요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "무엇보다 저렴한 가격에 득템한 기분입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "한번에 두팩 샀으니 한참동안 걱정없이 사용할 것 같습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918721",
+    "RawText": "화장실 휴지를 살때 그냥 아무거나 구매하고는 했는데 휴지도 가격에 따라 질이 천차만별 이더라구요 확실이 가격이 비싼게 질이 좋은거 같아요 기존에 쓰던 휴지보다 더 도톰하고 부드러운게 다 쓰면 또 구매하겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "3",
+    "Syllable": "116",
+    "Word": "29",
+    "RDate": "20170208",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "확실이 가격이 비싼게",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "질이 좋은거 같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "기존에 쓰던 휴지보다 더 도톰하고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드러운게",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918723",
+    "RawText": "최저가 검색하면 같은 브랜드 프리미엄 제품은 많지만 순수가 있는 제품은 더 부드럽고 고급 화장지에요 부드러운 화장지를 찾는다면 꼭 순수를 확인하고 구매해야 해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "22",
+    "RDate": "20170312",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "더 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "고급 화장지에요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드러운 화장지를 찾는다면 꼭 순수를 확인하고 구매해야 해요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918725",
+    "RawText": "1등에는 다 이유가 있나봅니다. 더 도톰하고 더 부드럽네요. ㅇㅇㅇ가 최고네요. 오랜만에 구입해 본 두루마리 화장지인데, 잘 선택한 거 같습니다. 화장지를 온라인에서 처음 구입해 본 소감은 아주 만족이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "115",
+    "Word": "27",
+    "RDate": "20180308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "더 도톰하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "더 부드럽네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918745",
+    "RawText": "휴지가 쫀쫀한 느낌이네요 넓이도 넓어서 사용하기 참 좋습니다 가성비 참 좋은 재품이에요 넉넉하게 구매해놓고 사용하시면 좋을꺼 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "17",
+    "RDate": "20200406",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "휴지가 쫀쫀한 느낌이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "넓이도 넓어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 참 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 참 좋은 재품이에요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918752",
+    "RawText": "ㅇㅇㅇㅇ ㅇㅇ 프리미엄 첫 구매네요 순수 3겹을 계속해서 사용하였는데 점점 먼지도 많이 날리고 얇아지는 것 같아서 갈등하던 중에 순수 프리미엄 을 알게되어 구매했어요 두께감도 마음에 들고 무엇보다 먼지 날림이 없어서 만족스러워요 재구매 의사 확실합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "140",
+    "Word": "34",
+    "RDate": "20170418",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께감도 마음에 들고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 먼지 날림이 없어서 만족스러워요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918755",
+    "RawText": "줄곧 순수3겹 쓰다가 재질이 변해서 갈등하다가, 순수 프리미엄으로 갈아탔는데 완전 만족이에요. 먼지 날림도 적고 가성비도 최고라 추천해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "17",
+    "RDate": "20170513",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "먼지 날림도 적고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비도 최고라 추천해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918758",
+    "RawText": "화장지 구매할때 상품명이 다 비슷해서 혼란스러워 써보고 괜찮았던 제품을 구매했어요 가격과 품질이 적당해서 계속 구매할게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "4",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20170522",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격과 품질이 적당해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 적당해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918761",
+    "RawText": "두툼하지 않고 양만 많네요 배송은 빨라서 좋네요 흡수력은 약하지만 사용하기에는 크게 불편함은 없어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20170607",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "두툼하지 않고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양만 많네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수력은 약하지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기에는 크게 불편함은 없어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918783",
+    "RawText": "포장도 튼튼히 잘되어 왔습니다. 처음 써보는 종류의 휴지라 어떨까 싶었는데, 전에 쓰던 제품이랑 크게 다르지 않고 오히려 부드러우면서도 탄탄하게 감겨있어 만족감이 높아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "22",
+    "RDate": "20190613",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "오히려 부드러우면서도",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "탄탄하게 감겨있어 만족감이 높아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918799",
+    "RawText": "저렴한거 사서 써봤는데 화장지가 얇고 휘날려서 그만큼 많이 쓰게 되었어요. 아이들도 있는 집이라 화장지는 여기저기쓰니 좋은거 쓰자 생각했네요. 그래도 저렴한 가격에 품질도 좋은 휴지를 구매해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "113",
+    "Word": "26",
+    "RDate": "20191011",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋은 휴지를 구매해서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918808",
+    "RawText": "몇년째인지 모르지만 리뉴얼 되어도 계속 이 제품만 쓰고 있습니다. 친정도 이걸로 바꿔드렸는데 두툼하면서도 부드럽다고 좋아하시네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "15",
+    "RDate": "20191028",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "두툼하면서도",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드럽다고 좋아하시네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918857",
+    "RawText": "휴지의 두께나 질감도 좋고 양에서 아주 만족하고 쓰고 있어요 저렴한 돈 주고 질 낮은 제품을 쓰면 먼지등등 안좋은점이 많아 조금 비싸더라도 이 제품을 계속 사용합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "25",
+    "RDate": "20190307",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "휴지의 두께나 질감도 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "질감도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양에서 아주 만족하고 쓰고 있어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "조금 비싸더라도",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "918867",
+    "RawText": "사무실에서 쓰기에는 좋은 픔질이네요. 가정에서도 그럭저럭 쓸만한 품질이고요. 가격도 착한 편이고 배송 빨리 잘 왔어요. 추천할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "16",
+    "RDate": "20190407",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "사무실에서 쓰기에는 좋은 픔질이네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가정에서도 그럭저럭 쓸만한 품질이고요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착한 편이고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "918882",
+    "RawText": "두롤을 샀는데 휴지가 많이 얇아서 쓰기에 불편합니다 잘 찢어지고 여러장을 쓰게 되어 아껴쓸수가 없네요. 다음에는 안사야겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20190425",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "휴지가 많이 얇아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "쓰기에 불편합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "잘 찢어지고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "여러장을 쓰게 되어 아껴쓸수가 없네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "918965",
+    "RawText": "처음 주문 했는데 3겹인데 많이 얇아서 별로입니다 다음엔 다른 제품으로 구매 해야 겠어요 가격도 비싸서 별로네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20191226",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": " 3겹인데 많이 얇아서 별로입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸서 별로네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "919008",
+    "RawText": "너무 얇아서 두겹인줄 알았어요 당연히 그닥 부드럽지도 않아요 재구매 의향은 전혀 없네요 가격도 싸지도 않아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "2",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20200226",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "너무 얇아서 두겹인줄 알았어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "그닥 부드럽지도 않아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 싸지도 않아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "919019",
+    "RawText": "두루마리 휴지가 두툼하고 다른 제품보다 먼지가 훨씬 덜 나며 부드러우면서 정말 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "12",
+    "RDate": "20200308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "두루마리 휴지가 두툼하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "다른 제품보다 먼지가 훨씬 덜 나며",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드러우면서 정말 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "919020",
+    "RawText": "휴지걸이의 폭이 넓어 기존의 휴지는 빠지고 했었는데 이건 폭이 넓어 고정되고 가격도 싸고 아주 만족해요 재구매 의사 있습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "18",
+    "RDate": "20200310",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "이건 폭이 넓어 고정되고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 싸고 아주 만족해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "919049",
+    "RawText": "원래 쓰던거 보다 가격이 저렴해서 주문해 봤습니다 두께가 도톰하지도 않고 먼지도 좀 날리네요 가격만큼의 품질인거 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20190413",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "원래 쓰던거 보다 가격이 저렴해서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께가 도톰하지도 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "먼지도 좀 날리네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격만큼의 품질인거 같습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "919051",
+    "RawText": "무형광이라 주문했는데 먼지도 좀 있는거 같고 30m라는데 그리 길어보이지 않네요 가격도 그리 싼편은 아니었어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20190117",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "무형광이라 주문했는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "먼지도 좀 있는거 같고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "30m라는데 그리 길어보이지 않네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 그리 싼편은 아니었어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "919052",
+    "RawText": "이 휴지는 처음 써보는데 길이도 짧은거 같고 부드럽지도 않은거 같고 얇아서 별로네요 물에 잘 녹지도 않습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "16",
+    "RDate": "20200309",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이도 짧은거 같고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드럽지도 않은거 같고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아서 별로네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "물에 잘 녹지도 않습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "919071",
+    "RawText": "금요일에 주문했는데 수요일에 받았으니 배송은 좀 느렸어요 가격은 저렴한 편이지만 두께도 좀 얇은거 같고 먼지도 납니다 딱히 부드러운지도 모르겠어요 저렴한티가 납니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "21",
+    "RDate": "20190214",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴한 편이지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께도 좀 얇은거 같고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "먼지도 납니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "딱히 부드러운지도 모르겠어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "저렴한티가 납니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "919085",
+    "RawText": "원래 ㅇㅇㅇ 썼었는데 요새 가격이 너무 비싸져서 망설이던 차에 ㅇㅇㅇㅇ 써보고 좋으면 바꿔보려고 샀네요 기존에 쓰던거 보단 얇긴한데 괜찮을것 같습니다 비데쓰는집이라 너무 얇으면 안되는데 나쁘지 않은것같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "114",
+    "Word": "26",
+    "RDate": "20190529",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "기존에 쓰던거 보단 얇긴한데 괜찮을것 같습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "너무 얇으면 안되는데 나쁘지 않은것같네요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "919089",
+    "RawText": "제조일이 최근이라서 맘에들어요 적당히 부드러운 질감에 무엇보다 먼지가 많이 나지 않아서 애용합니다 세일 할 때 구매해서 저렴한 가격으로 잘 산 것 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "4",
+    "Syllable": "86",
+    "Word": "22",
+    "RDate": "20191229",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "제조일이 최근이라서 맘에들어요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "적당히 부드러운 질감에",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "먼지가 많이 나지 않아서 애용합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일 할 때 구매해서 저렴한 가격으로 잘 산 것 같습니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "919144",
+    "RawText": "여태 이것만 고집한 이유가 있습니다 먼지 없고 부드럽고 두꺼워요 가격이 오른거는 조금 아쉽기는 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 순** 프리미엄 화장지 30m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20211112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "먼지 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드럽고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두꺼워요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 오른거는 조금 아쉽기는 하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "919173",
+    "RawText": "27미터보단 30미터 이상되는게 좋은거 같네요 기존보다 다소 짧고 좁은거 같습니다 담부터는 30미터 이상에 폭 108미리 이상으로 검색해야겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 27m (30롤) 1팩",
+    "ReviewScore": "4",
+    "Syllable": "81",
+    "Word": "17",
+    "RDate": "20221001",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "27미터보단 30미터 이상되는게 좋은거 같네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "기존보다 다소 짧고 좁은거 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "좁은거 같습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "담부터는 30미터 이상에 폭 108미리 이상으로 검색해야겠습니다 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "폭 108미리 이상으로 검색해야겠습니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "919202",
+    "RawText": "데코 앤 소프트 부케향은 향 성분 때문에 피부에 알러지가 생겨서 못 쓰는데, 화이트는 무향이라 피부 알러지 없이 사용할 수 있어서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 27m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "21",
+    "RDate": "20220319",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "화이트는 무향이라",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "피부 알러지 없이 사용할 수 있어서 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "919221",
+    "RawText": "3겹이라고 하기엔 너무 얇은 느낌이네요. 사람마다 느끼는게 다르겠지만 저는 상품 품질이 별로 마음에 안 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 27m (30롤) 1팩",
+    "ReviewScore": "3",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20220104",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "3겹이라고 하기엔 너무 얇은 느낌이네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 별로 마음에 안 듭니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "919274",
+    "RawText": "이전에ㅇㅇ마트에서 구매한 것과 같은 제품인줄 알고 샀는데 화장지를 꺼내보니 느낌이 완전 다르네요 길이만 다른게 아니라 두께감이 더 얇게 느껴져서 별로입니다 저처럼 같은건줄 알고 구입하는 일이 없길 바래서 남겨보네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 27m (30롤) 1팩",
+    "ReviewScore": "2",
+    "Syllable": "119",
+    "Word": "28",
+    "RDate": "20210919",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이만 다른게 아니라",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께감이 더 얇게 느껴져서 별로입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "919297",
+    "RawText": "ㅇㅇㅇ 화이트는 향이 없고 ㅇㅇ소프트보다 부드럽고 두께감이 있어서 좋았는데요 이건 두께가 얇은데 물에 잘 녹아 화장실에서 사용하기에는 괜찮은 것 같습니다. 배송은 이중포장으로 손상없이 잘 왔습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 27m (30롤) 1팩",
+    "ReviewScore": "4",
+    "Syllable": "109",
+    "Word": "25",
+    "RDate": "20210813",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께가 얇은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "물에 잘 녹아 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "화장실에서 사용하기에는 괜찮은 것 같습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "919372",
+    "RawText": "색이 없는 완전 흰색으로 바뀐줄 몰랐어요. 용량이나 사이즈마저 부실해진 느낌에 뻣뻣합니다. 한밤중에 문앞에 두고간것도 별로고 추천안해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 27m (30롤) 1팩",
+    "ReviewScore": "1",
+    "Syllable": "76",
+    "Word": "16",
+    "RDate": "20210312",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색이 없는 완전 흰색으로 바뀐줄 몰랐어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "용량이나 사이즈마저 부실해진 느낌에",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈마저 부실해진 느낌에",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "뻣뻣합니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "919393",
+    "RawText": "부드럽지도 않고 얇습니다 비데용으로 찾았는데 얇아서 실용적이지는 않아요 비데용으로 사용하지 않으면 좋을 것 같긴 해요 배송은 정말 빠릅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 27m (30롤) 1팩",
+    "ReviewScore": "4",
+    "Syllable": "77",
+    "Word": "18",
+    "RDate": "20210109",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드럽지도 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇습니다 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "실용적이지는 않아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "비데용으로 사용하지 않으면 좋을 것 같긴 해요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "919396",
+    "RawText": "여기저기 검색하다 ㅇㅇ쇼핑이 아주 살짝 더 저렴해서 ㅇㅇ쇼핑에서 주문했어요 무향이라 자극적이지 않고 피부 트러블도 없네요 다만 향이 있는 제품은 왠만한 대형마트에서 다 판매하던데 이 제품은 온라인 쇼핑몰 아니면 찾기가 힘드네요 그래도 피부 트러블 없고 순해서 이 제품만 사용하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 27m (30롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "156",
+    "Word": "38",
+    "RDate": "20210106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "ㅇㅇ쇼핑이 아주 살짝 더 저렴해서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "무향이라",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극적이지 않고 피부 트러블도 없네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부 트러블 없고 순해서 이 제품만 사용하네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "919419",
+    "RawText": "ㅇㅇㅇ는 이름과 저렴한 가격에 얼른 주문했는데 받아보니 화장지가 엉성하게 감겨있습니다 비싸긴해도 마트에서 사면  짱짱하게 감겨있는데 이건 아니네요 과연 이게 저렴한게 맞는건지 모르겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 27m (30롤) 1팩",
+    "ReviewScore": "3",
+    "Syllable": "103",
+    "Word": "22",
+    "RDate": "20201202",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "화장지가 엉성하게 감겨있습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "마트에서 사면  짱짱하게 감겨있는데 이건 아니네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "과연 이게 저렴한게 맞는건지 모르겠네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "919467",
+    "RawText": "어머니 구입해드리려고 조금 좋은 제품을 구입한다고 샀는데 질은 많이 좋은편은 아닌거 같습니다. 가격도 배송료 포함하면 비싸서 조금 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 뉴** 화장지 27m (30롤) 1팩",
+    "ReviewScore": "3",
+    "Syllable": "78",
+    "Word": "18",
+    "RDate": "20200513",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "질은 많이 좋은편은 아닌거 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 배송료 포함하면 비싸서 조금 아쉬워요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "919509",
+    "RawText": "ㅇㅇㅇㅇ 품질은 좋은데 좀 얇은감이 있습니다. 다음엔 좀 더 두꺼운걸 사야겠네요. 그래도 잘 쓰겠습니다. 증정품도 잘 받았어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 티슈 230매 (6개) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20181014",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "ㅇㅇㅇㅇ 품질은 좋은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "좀 얇은감이 있습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "다음엔 좀 더 두꺼운걸 사야겠네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "증정품도 잘 받았어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "919520",
+    "RawText": "티슈 떨어져서 사려고 하는데 적립금 들어와서 샀습니다. ㅇㅇ쇼핑 감사해요. 티슈는 ㅇㅇㅇㅇ죠. 잘 닦이고 부드럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 티슈 230매 (6개) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "14",
+    "RDate": "20181130",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드럽습니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "919735",
+    "RawText": "곽 ㅇㅇ 티슈에요 두께감은 곽 디자인이 어렴풋 투과될듯한 두께이고 부드러움은 그야말로 ㅇㅇ 티슈입니다 재구매 의사 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 티슈 230매 (6개) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20200205",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께감은 곽 디자인이 어렴풋 투과될듯한 두께이고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드러움은 그야말로 ㅇㅇ 티슈입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "919833",
+    "RawText": "ㅇㅇㅇㅇ 클래식 각티슈는 먼지도 적고 품질이 좋아서 미용티슈로 생활티슈로 늘 사용하고있습니다. ㅇㅇ쇼핑에서 적립금 사용으로 저렴하게 잘 샀습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 티슈 230매 (6개) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "17",
+    "RDate": "20200330",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "ㅇㅇㅇㅇ 클래식 각티슈는 먼지도 적고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "미용티슈로 생활티슈로 늘 사용하고있습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "ㅇㅇ쇼핑에서 적립금 사용으로 저렴하게 잘 샀습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "919946",
+    "RawText": "10일날 주문해서 16일 받았으니 배송은 느린편입니다 타사이트랑 비교해보니 여기 가격이 나쁘지 않아 구매했습니다 재질 아주 부드러운건 아니지만 나쁘지 않아요 가성비 좋은거 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 티슈 230매 (6개) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "100",
+    "Word": "22",
+    "RDate": "20210216",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기 가격이 나쁘지 않아 구매했습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "재질 아주 부드러운건 아니지만 나쁘지 않아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은거 같습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "919958",
+    "RawText": "기존 사용했던 팩디자인이 바뀌어 아쉽네요 기분 좋은 가격에 잘 구매해 사용하고 있습니다 부드럽고 먼지 날림이 아주 적어 더 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 티슈 230매 (6개) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "19",
+    "RDate": "20210322",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "팩디자인이 바뀌어 아쉽네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "기분 좋은 가격에 잘 구매해",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드럽고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "먼지 날림이 아주 적어 더 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "919959",
+    "RawText": "먼지가 좀 날리네요. 옛날 모델이 왔네요. 요즘 제품은 향도 있고 무늬도 있어서 별로던데, 옛날 모델이라 그런지 무향에 무늬가 없어서 그 점은 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 티슈 230매 (6개) 1팩",
+    "ReviewScore": "3",
+    "Syllable": "85",
+    "Word": "22",
+    "RDate": "20210330",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "먼지가 좀 날리네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "무향에",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "무늬가 없어서 그 점은 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "920221",
+    "RawText": "ㅇㅇㅇㅇ만 사용하는데 언젠가부터 티슈가 사용중 쉽게 찢어지네요. 나만 그런가 싶어서 남편과 딸에게 물어보니 다 잘 찢어 진다고 합니다. ㅇㅇㅇ라는 브랜드 명성을 믿고 오래도록 사용했는데 그 명성을 지키려는 노력이 필요할듯하네요 그래야 앞으로도 오래도록 믿고 사용할듯하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 티슈 230매 (6개) 1팩",
+    "ReviewScore": "4",
+    "Syllable": "151",
+    "Word": "34",
+    "RDate": "20210519",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": " 언젠가부터 티슈가 사용중 쉽게 찢어지네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 남편과 딸에게 물어보니 다 잘 찢어 진다고 합니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "920364",
+    "RawText": "이전부터 계속 믿고 구매하는 브랜드입니다 가격비교 해보니 ㅇㅇ쇼핑이 가장 저렴 하고 적립금까지 줘서 아주 좋아요 좋은 가격에 마음에 드는 상품을 사게 되어서 매우 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 티슈 230매 (6개) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "24",
+    "RDate": "20190107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "ㅇㅇ쇼핑이 가장 저렴 하고 적립금까지 줘서 아주 좋아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "920500",
+    "RawText": "2겹이라 얇긴 하지만 먼지 안나고 흡수력이 좋아서 계속 사용하고 있는 제품입니다. 저렴하게 구매해서 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 안** 키친타월 200매 (2롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20210603",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "2겹이라 얇긴 하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "먼지 안나고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수력이 좋아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매해서 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "920592",
+    "RawText": "일단 제품은 얇습니다 먼지도 많이 날리네요 그리고 다른 상품이랑 묶음 배송이 안 된다고 해서 배송비 이중으로 내고 주문 했는데 이거 그냥 파란 비닐봉투에 담아져서 왔네요 이럴거면 갑티슈 박스에 테이프로 감아서 보내주시지 그러셨어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 안** 키친타월 200매 (2롤) 1팩",
+    "ReviewScore": "1",
+    "Syllable": "128",
+    "Word": "32",
+    "RDate": "20200226",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "제품은 얇습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "먼지도 많이 날리네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "920600",
+    "RawText": "ㅇㅇㅇㅇ에서 만드는 키친타올 입니다 이제품 보다더 좋은제품도 있지만 가격대비 좋은 제품이네요 일반휴지 보다 찌져지지 않고 흡수력도 좋습니다 특히 기름찌거기 딱기에 제일 좋네요 배송은 5일 정도 걸렸어요  여러개 구입해서 오래 쓰고 있습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 안** 키친타월 200매 (2롤) 1팩",
+    "ReviewScore": "4",
+    "Syllable": "133",
+    "Word": "31",
+    "RDate": "20210304",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 좋은 제품이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "일반휴지 보다 찌져지지 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수력도 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "기름찌거기 딱기에 제일 좋네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "920603",
+    "RawText": "두께는 얇지만 부드럽고 흡수력이 좋아 이 제품만 쓰게 됩니다 저렴한 가격에 만족하며 항상 쓰는 제품이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 안** 키친타월 200매 (2롤) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20211022",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께는 얇지만 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": " 부드럽고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수력이 좋아",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴한 가격에 만족하며 항상 쓰는 제품이네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "920626",
+    "RawText": "포장 잘해서 왔네요 근데 제가찾던건 아니군요 ㅇㅇㅇㅇ에 있는 두툼하고 정사각티슈를 찾았는데 이건 얇고 직사각형 휴지라서 별로네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 미용티슈 100매 (6개) 1팩",
+    "ReviewScore": "4",
+    "Syllable": "71",
+    "Word": "16",
+    "RDate": "20221012",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "직사각형 휴지라서 별로네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "920669",
+    "RawText": "작은 상자에 든 작은 티슈는 잘 안올라와서 사용하기 불편한데 이 제품은 티슈가 잘 뽑혀서 사용하기도 좋고요 좁은 공간에 두고 쓰기도 좋습니다 저렴하게 구입까지 했습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 미용티슈 100매 (6개) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "24",
+    "RDate": "20190922",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "티슈가 잘 뽑혀서 사용하기도 좋고요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "좁은 공간에 두고 쓰기도 좋습니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴하게 구입까지 했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "920677",
+    "RawText": "가격 저렴했어요 100매 짜리는 매수는 작지만 그래도 한장의 면적이 넓어서 사용하기 편한것 같습니다 배송도 빠르고 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 미용티슈 100매 (6개) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20180724",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 저렴했어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "100매 짜리는 매수는 작지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "한장의 면적이 넓어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 편한것 같습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "920694",
+    "RawText": "시중 마트에서 정사각티슈를 잘 팔지 않아, 온라인으로 구매했어요 저렴한 가격에 잘 구입했네요. 질도 부드럽고 좋은것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 미용티슈 100매 (6개) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20170613",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴한 가격에 잘 구입했네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "질도 부드럽고 좋은것 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "920699",
+    "RawText": "케이스가 미니라 당연히 휴지도 미니사이즈인줄 알고 샀는데 휴지사이즈가 생각보다 커서 별로네요. 미니사이즈가 사용하기 편한데 이건 좀 불편한것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 미용티슈 100매 (6개) 1팩",
+    "ReviewScore": "3",
+    "Syllable": "82",
+    "Word": "18",
+    "RDate": "20170224",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "휴지사이즈가 생각보다 커서 별로네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "미니사이즈가 사용하기 편한데 이건 좀 불편한것 같아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "920708",
+    "RawText": "작은사이즈 티슈구하기 힘들었는데 다른거 사면서 묶음배송으로 받았습니다 생각보다 더 작은거 같긴합니다 사물함에 넣고 사용하기는 좋을것 같습니다 먼지가 덜하다고 쓰여있던데 기대됩니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 미용티슈 100매 (6개) 1팩",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "20",
+    "RDate": "20160308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "생각보다 더 작은거 같긴합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사물함에 넣고 사용하기는 좋을것 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "먼지가 덜하다고 쓰여있던데 기대됩니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  }
+]

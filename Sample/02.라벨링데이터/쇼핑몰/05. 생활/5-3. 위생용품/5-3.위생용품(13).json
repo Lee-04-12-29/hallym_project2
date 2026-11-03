@@ -1,0 +1,3422 @@
+[
+  {
+    "Index": "479044",
+    "RawText": "양치하고 나서 개운한 맛이 없네요. 손잡이도 쓰기 불편해서 그렇고ㆍ재구매 의사는 없습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "80",
+    "Syllable": "50",
+    "Word": "11",
+    "RDate": "20211216",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치하고 나서 개운한 맛이 없네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손잡이도 쓰기 불편해서 그렇고ㆍ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "479046",
+    "RawText": "저렴한게 갯수도 많아서 재구매했어요 미세모라서 잘 닦여서 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "8",
+    "RDate": "20220220",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한게",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "갯수도 많아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "미세모라서 잘 닦여서 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479086",
+    "RawText": "우연히 홈쇼핑에서 단일상품으로 저렴한 제품들이 많이 나오길래 하나 사봤어요 저렴만 가격에 구성이 많아서 잘 구매했습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "80",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20211115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 제품들이 많이 나오길래",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴만 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 구성이 많아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479090",
+    "RawText": "기존 사용하던거 보다 크기가 커서 사용하기 불편했는데... 적응하니 쓸만 합니다. 다른 칫솔에 비해 가격은 있는편이에요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "80",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20211202",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "기존 사용하던거 보다 크기가 커서 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 불편했는데... ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "적응하니 쓸만 합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 칫솔에 비해 가격은 있는편이에요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "479113",
+    "RawText": "칫솔너무 좋아요~~ 그냥 사도 싼데 적립금 할인받아 반값에 사서  그냥 꽁짜로산거나 다름없네요ㅎㅎ  가격대비 너무칫솔이 좋아요~~~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "73",
+    "Word": "15",
+    "RDate": "20210903",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "그냥 사도 싼데 적립금 할인받아 반값에 사서  그냥 꽁짜로산거나 다름없네요ㅎㅎ ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 너무칫솔이 좋아요~~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479115",
+    "RawText": "움... 쓰던 칫솔보다 머리부분이 커서 조금 둔탁한 느낌도 있고 가윤데 실리콘이 있어서 역간 뻣뻣한 으낌도 있긴 한데.. 그냥그냥 괜찮아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20210827",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "쓰던 칫솔보다 머리부분이 커서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "조금 둔탁한 느낌도 있고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "가윤데 실리콘이 있어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": " 역간 뻣뻣한 으낌도 있긴 한데.. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "479117",
+    "RawText": "고탄성 멀티기능에   미백 ㆍ구취ㆍ프라그제거 까지 ~~ 좋은제품을  양도 많고 저렴하게 구수있어 대  만족합니다  잘 사용하겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "73",
+    "Word": "15",
+    "RDate": "20210915",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "고탄성 멀티기능에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "미백 ㆍ구취ㆍ프라그제거 까지 ~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "좋은제품을  양도 많고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구수있어 대  만족합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479118",
+    "RawText": "칫솔모도 부드럽고  손잡이가 사용하기에 너무 편하고 좋아요. 가격도 너무 착하고  잘 샀어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20210828",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "칫솔모도 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손잡이가 사용하기에 너무 편하고 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 너무 착하고  잘 샀어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479120",
+    "RawText": "이칫솔 너무좋아요  미세모 안에 실리콘도있어서 이중으로 깨끗해지는 느낌 득템함 잘쓸게요♡",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "49",
+    "Word": "10",
+    "RDate": "20210903",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "미세모 안에 실리콘도있어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "이중으로 깨끗해지는 느낌",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479127",
+    "RawText": "처음 사용할때는  기존에 쓰던거랑 칫솔모가 많이 달라 이상했는데 계속 써보니 편하고 좋네요. 칫솔 뒤쪽에 혀 클리너도 있어 편해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20210928",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "계속 써보니 편하고 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "칫솔 뒤쪽에 혀 클리너도 있어 편해요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479131",
+    "RawText": "칫솔이 30개나 되서 네가족이 쓰기 좋네요. 칫솔과 함께 실리콘이 붙어 있어서 잇몸 마사지도 되는것 같아요 ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20210926",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "칫솔이 30개나 되서 네가족이 쓰기 좋네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 칫솔과 함께 실리콘이 붙어 있어서 잇몸 마사지도 되는것 같아요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479138",
+    "RawText": "양이 엄청많아요 한달에 한개씩 바꾸면될거같아요ㅋㅋ적당히 부드럽고 자극적이지 않아 괜찮은거같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "9",
+    "RDate": "20210831",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양이 엄청많아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "적당히 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극적이지 않아 괜찮은거같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479166",
+    "RawText": "가성비는 좋은데 칫솔 모 부분의 크기가 큰편이라 양치할때 구강 작은 사람은 불편할때가 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "80",
+    "Syllable": "51",
+    "Word": "13",
+    "RDate": "20210818",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비는 좋은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": " 칫솔 모 부분의 크기가 큰편이라 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "양치할때 구강 작은 사람은 불편할때가 있어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "479179",
+    "RawText": "칫솔모 힘있고 혀클리너 부분도 있어서 전 좋은데 모가 작거나 좁은 칫솔을 원하시는 분들은 별로일지도 모르겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20210822",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "칫솔모 힘있고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "혀클리너 부분도 있어서 전 좋은데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "모가 작거나 좁은 칫솔을 원하시는 분들은 별로일지도 모르겠네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "479184",
+    "RawText": "드뎌 오늘 배송왔습니다. 양이 많아서 당분간 든든하네요. 그리고 21.06.21.제조로 확인되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "10",
+    "RDate": "20210820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양이 많아서 당분간 든든하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "21.06.21.제조로 확인되네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479190",
+    "RawText": "배송 받고 보니 가운데가 솔이 아니라서  불편한감이 있습니다. 저렴한 가격에 구입했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "60",
+    "Syllable": "50",
+    "Word": "11",
+    "RDate": "20210819",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "가운데가 솔이 아니라서  불편한감이 있습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 구입했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479196",
+    "RawText": "4인가족 한달에 한번씩은 칫솔갈이 하는데 일단 수량이 많아서 좋고 가격도 할인받아 잘 구매한것같아 좋으네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20210819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "수량이 많아서 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 할인받아 잘 구매한것같아 좋으네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479197",
+    "RawText": "자주구매하는 상품입니다 중간중간 실리콘이 있어서 좋으네요  잇몸 마사지 효과가 있는것 같아요 저렴한 가격이 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20210816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "중간중간 실리콘이 있어서 좋으네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸 마사지 효과가 있는것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격이 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479198",
+    "RawText": "저렴한 가격에 잘샀어요 근데 칫솔모가 뭔가 불편해요 아직 익숙하지 않아서 그렇겠죠 뭐~ 잘쓸께요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20210817",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 잘샀어요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "칫솔모가 뭔가 불편해요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "479201",
+    "RawText": "갯수도 많고 가격이 저렴해서 샀는데 넘 치솔이 크고 저하고는 안맞아서 다른분 드렸어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "30",
+    "Syllable": "47",
+    "Word": "12",
+    "RDate": "20210816",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "갯수도 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "넘 치솔이 크고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "479205",
+    "RawText": "자주구매하는 상품입니다 미세모가 부드러워 좋구요 실리콘이라 그립감도 좋아요 자주바꿀수 있어서가성비가좋아용",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "10",
+    "RDate": "20210816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "미세모가 부드러워 좋구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "실리콘이라",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "그립감도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "자주바꿀수 있어서가성비가좋아용",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479213",
+    "RawText": "처음 받았을때 수량도 많고 크고 해서 좋았는데 사용하니 치솔이 입에 꽉 차네요 치솔질이 불편하고 아픕니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "60",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20210821",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "수량도 많고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크고 해서 좋았는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하니 치솔이 입에 꽉 차네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "치솔질이 불편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": " 아픕니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "479218",
+    "RawText": "자주 사는데 살때마다 좋아요 대량구매하는데도 가격도 좋고 양이 많아서 칫솔 지주 교체할수있어서 좋아용 아주 만족스러워용",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20210816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "대량구매하는데도",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양이 많아서 칫솔 지주 교체할수있어서 좋아용",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479220",
+    "RawText": "저렴하게 구입했어요. 양이 많아 동생도 주고 손님오면 쓰고 해야겠어요. 양치했을때 잇몸이 안아프길 바래봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20210817",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입했어요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양이 많아 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": " 양치했을때 잇몸이 안아프길 바래봅니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "479266",
+    "RawText": "칫솔은 자주 바꿔 줘야 하잖아요. 항상 미세모 사용하고 있는데 자극없어서 좋고 구성도 가격도 좋아요~ 감사해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20210808",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극없어서 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 가격도 좋아요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좋아요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479297",
+    "RawText": "미백,구취,프라그 3가지 구강 고민 해결에 안성 맞춤 상품이라고 생각되어 구매하게 되었습니다.고탄성 멀티기능 러버와 대나무 숯 미세모로 양치할때 구석구석 개운하게 잘 닦입니다.구취제거용 혀클리너도 있어서 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "70",
+    "Syllable": "118",
+    "Word": "24",
+    "RDate": "20210810",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "미백,구취,프라그 3가지 구강 고민 해결에 안성 맞춤 상품이라고 생각되어",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "고탄성 멀티기능 러버와 대나무 숯 미세모로",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "구석구석 개운하게 잘 닦입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구취제거용 혀클리너도 있어서 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479316",
+    "RawText": "아주 많이 저렴하게 구입해서 좋아요  칫솔모가 작지 않아서 잘 닦이는 느낌입니다 가성비 최고 입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "90",
+    "Syllable": "55",
+    "Word": "14",
+    "RDate": "20210813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "아주 많이 저렴하게 구입해서 좋아요  ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "칫솔모가 작지 않아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦이는 느낌입니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가성비 최고 입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479319",
+    "RawText": "배송이 빨라서 좋네요. 가격도 저렴하고, 양치질을 할때도 부드러우면서도 힘이 있어서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20210803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "양치질을 할때도 부드러우면서도",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "힘이 있어서 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 좀 촌스럽긴 하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "479328",
+    "RawText": "미세모사이에 실리콘이 있어서 양치하기 편합니다. 색상은 4가지입니다. 가격대도 저렴한 편인듯 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "11",
+    "RDate": "20210806",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "미세모사이에 실리콘이 있어서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "양치하기 편합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "색상은 4가지입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격대도 저렴한 편인듯 하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479338",
+    "RawText": "가격이 너무 저렴하고 질도 좋아서 구매했습니다. 다른분에게도 추천 드리고 싶어요~~ 부드럽게 잘 닦이면 좋겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20210804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 너무 저렴하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "질도 좋아서 구매했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "부드럽게 잘 닦이면 좋겠어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "479343",
+    "RawText": "상품평보고구매했는데잘닦여지네요 구매잘했다는생각입니다혀닦는부분이있어서더좋았어요 칫솔모가 조금 뻣뻣함이 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "6",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘닦여지네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "혀닦는부분이있어서더좋았어요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": " 칫솔모가 조금 뻣뻣함이 있어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "479344",
+    "RawText": "적립금으로 저렴하게 구매 잘 했네요  아직 사용전이라  품질은 잘 모르겠네요 깨끗하게 닦이면 좋겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20210805",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금으로 저렴하게 구매 잘 했네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "아직 사용전이라  품질은 잘 모르겠네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "깨끗하게 닦이면 좋겠습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "479353",
+    "RawText": "저렴하게 잘샀어요 칫솔모도 흐물거리지않는 제가 원하는 칫솔로 잘쓰고있슴다. 색상이 좀 촌스러워요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "53",
+    "Word": "11",
+    "RDate": "20210806",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘샀어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "칫솔모도 흐물거리지않는 제가 원하는 칫솔로 잘쓰고있슴다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": " 색상이 좀 촌스러워요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "479365",
+    "RawText": "금액에비해 칫솔수가넘많아서좋아요 사용해보니부드럽고혀닦는부분이있어서 잘딱여지네요감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "48",
+    "Word": "4",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "금액에비해 칫솔수가넘많아서좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "사용해보니부드럽고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "혀닦는부분이있어서 잘딱여지네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479366",
+    "RawText": "칫솔모가  서로다른 색깔로되여있어 촌스럽네요 중간중간 칫솔모받쳐주는 기둥대도  만들어져있어 튼튼해보이긴 합니다.  집에 칫솔  많은데도 좋을것같아서 또 구입했어요.  잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "99",
+    "Word": "18",
+    "RDate": "20210804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "칫솔모가  서로다른 색깔로되여있어 촌스럽네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "중간중간 칫솔모받쳐주는 기둥대도  만들어져있어 튼튼해보이긴 합니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479368",
+    "RawText": "질도 좋고 양치도 잘됩니다 수량도 많아 당분간 칫솔구매 할일 없겠넹ᆢㄷ 색상이 전체 화이트였으면 더 좋았을것 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20210804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "질도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치도 잘됩니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "수량도 많아 당분간 칫솔구매 할일 없겠넹ᆢㄷ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 전체 화이트였으면 더 좋았을것 같네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "479376",
+    "RawText": "배송 받고 바로  사용해봤는데 너무 좋아요 칫솔모도 미세모랑 실리콘이랑 섞여 있어서 부드럽고 손잡인는 잡는순간 착 달라붙는것같이 좋았어요 치솔질을 좀더 오래하게되는것 같아요 강력추천입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "104",
+    "Word": "22",
+    "RDate": "20210802",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "칫솔모도 미세모랑 실리콘이랑 섞여 있어서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드럽고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "손잡인는 잡는순간 착 달라붙는것같이 좋았어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "치솔질을 좀더 오래하게되는것 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479385",
+    "RawText": "적립금 사용해서 저렴하게 구매했어요. 칫솔이 미세모라서 자극이 적어 사용하기 좋습니다!",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "48",
+    "Word": "10",
+    "RDate": "20210803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금 사용해서 저렴하게 구매했어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "칫솔이 미세모라서 자극이 적어 사용하기 좋습니다!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479395",
+    "RawText": "저렴하게 잘 구입했어요. 미세모라 부드럽고 일반칫솔보다 칫솔헤드가 큰 느낌이예요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "45",
+    "Word": "9",
+    "RDate": "20210803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 구입했어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "미세모라 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "일반칫솔보다 칫솔헤드가 큰 느낌이예요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479416",
+    "RawText": "손님접대용으로 쓰기 딱좋은 제품입니다 미세모가 덜 부드럽지만 수량 많고 가격저렴하고... 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "90",
+    "Syllable": "55",
+    "Word": "11",
+    "RDate": "20210804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손님접대용으로 쓰기 딱좋은 제품입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "미세모가 덜 부드럽지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": " 수량 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격저렴하고... ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479417",
+    "RawText": "부모님 사드렸는데 좀 둔탁하신지 드냥그렇다시네요.. 잇몸약하신븐들은 별론가바요 가격도 그렇게 싼편도 아니네요 ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "80",
+    "Syllable": "61",
+    "Word": "11",
+    "RDate": "20210803",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "좀 둔탁하신지 드냥그렇다시네요.. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "잇몸약하신븐들은 별론가바요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 그렇게 싼편도 아니네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "479419",
+    "RawText": "치솔모가 커서 안쪽까지 잘 닦이지는 않네요ㅠ 가격은 싸요… 칫솔모도 그렇게 부드럽지도 않은것 같아요 ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20210804",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "치솔모가 커서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 싸요…",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "칫솔모도 그렇게 부드럽지도 않은것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "안쪽까지 잘 닦이지는 않네요ㅠ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "479448",
+    "RawText": "저렴하여 구매하였으나 잇몸 자극이 조금 있어서 저처럼 잇몸이 약한 분은 더 부드러운 솔이 좋을듯합니다~  다른 식구들은 잘쓰고 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20210803",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하여 구매하였으나",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "잇몸 자극이 조금 있어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "저처럼 잇몸이 약한 분은 더 부드러운 솔이 좋을듯합니다~",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "479482",
+    "RawText": "상품평 작성시 약속드리대로 벌써 4번째 재구매입니다. 상품에 대한 평은 제 밑에 글 참조 보탁드리고요. 사장님 대박나세요~~~~~~ 가격이 너무 저렴하여,  혹시 품질이 떨어지지 않을까 걱정도 하였습니다만, 그래도 ㅇㅇㅇ 제품을 믿고 구매하였는데, 이건 완전히 로또! 맞은 기분입니다. 품질 최고등급. 이가 예민한 편이라 치약과 칫솔 선택에 신중을 기하는데, 이 제품은 과감히 강추드립니다. 칫솔모가 부드러우면서도 단단히 잡아줍니다.아울러 칫솔모 위 혀 청소 기능은 신의 한수입니다.물론 기능이 120프로 작용하고요.그립감도 미끄러지지않아 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "305",
+    "Word": "65",
+    "RDate": "20210701",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 너무 저렴하여, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 최고등급. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "칫솔모가 부드러우면서도",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "단단히 잡아줍니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "칫솔모 위 혀 청소 기능은 신의 한수입니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "기능이 120프로 작용하고요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "그립감도 미끄러지지않아 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479521",
+    "RawText": "가성비 좋습니다. 치솔 거칠게 사용해서 빨리 마모 되는데....  양도 많고, 저렴히 구입하니 더 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20210513",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양도 많고,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴히 구입하니 더 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479527",
+    "RawText": "빠른 배송에 감사드리며 가격, 품질 좋고 푸짐함에 또 한번 반했습니다. 당분간은 가족 모두가 잘 쓸것같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20210504",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격, 품질 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "푸짐함에 또 한번 반했습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479532",
+    "RawText": "너무 저렴한 가격에 온식구가 한동안 칫솔걱정 안하고살겠네요. 양치후에  잇몸도 편안하고 깨끗한 느낌이예요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "12",
+    "RDate": "20201109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "너무 저렴한 가격에 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "잇몸도 편안하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "깨끗한 느낌이예요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479533",
+    "RawText": "ㅇㅇ칫솔 미세모가 부드러워 좋아요~ 양도 많고 사용감도 좋아요~~ 가격도 저렴합니다. 깨끗하게 닦이는지는 더써봐야 알겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "68",
+    "Word": "14",
+    "RDate": "20201024",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "ㅇㅇ칫솔 미세모가 부드러워 좋아요~ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양도 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 사용감도 좋아요~~ ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "깨끗하게 닦이는지는 더써봐야 알겠어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "479537",
+    "RawText": "싸서 사긴 했는데 상품평 처럼 양치후 깨운한 느낌이 부족 하고  고무 때문에 양치시 좀불편 하고 아프네요...",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "60",
+    "Syllable": "61",
+    "Word": "16",
+    "RDate": "20200929",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸서 사긴 했는데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 양치후 깨운한 느낌이 부족 하고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "고무 때문에 양치시 좀불편 하고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "아프네요...",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "479567",
+    "RawText": "만족합니다  치솔 자주 바꿔줘야된다해서 찾던중 구매하게 되었어요 개운하고 잘 닦여요 가격 저렴하고 품질좋고 대박나세요~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "14",
+    "RDate": "20210606",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운하고 잘 닦여요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 저렴하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479570",
+    "RawText": "양 많아서 한동안 칫솔 살 일 없겠어요. 잇몸도 마사지 되는 듯 하고요^^ 칫솔모도 정말 부드럽습니다 ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "15",
+    "RDate": "20210624",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양 많아서 한동안 칫솔 살 일 없겠어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸도 마사지 되는 듯 하고요^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "칫솔모도 정말 부드럽습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479599",
+    "RawText": "평소 사용하던 칫솔과 너무 달라 처음엔 놀랐어요. 치아가 뽀드득하긴 하지만 잇몸이 자극되어 아프기도 하고 해서  ㅜ.ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20201004",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "치아가 뽀드득하긴 하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "잇몸이 자극되어 아프기도 하고 해서  ㅜ.ㅜ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "479638",
+    "RawText": "좋은 치솔을 싼값에 사서 대만족입니다 칫솔모도 아주 부드러워요 제품구성도 아주 맘에 듭니다 좋네요  ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20201023",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼값에 사서 대만족입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "칫솔모도 아주 부드러워요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "제품구성도 아주 맘에 듭니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479657",
+    "RawText": "별로에요 많이 주는지도 모르겠고 가격도 품질도 괜찮은지 모르겠어요 행사라고 샀는데 맘에 들지 않네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20201225",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "많이 주는지도 모르겠고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 품질도 괜찮은지 모르겠어요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 괜찮은지 모르겠어요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "479669",
+    "RawText": "솔이 부드럽고 좋아요 세세히  잘닦아지는느낌입니다 싸고 양도 많아서 나눠쓰고 아주 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "11",
+    "RDate": "20210404",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "솔이 부드럽고 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 세세히  잘닦아지는느낌입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양도 많아서 나눠쓰고 아주 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479677",
+    "RawText": "가격이 너무 저렴하여,  혹시 품질이 떨어지지 않을까 걱정도 하였습니다만, 그래도 ㅇㅇ 제품을 믿고 구매하였는데, 이건 완전히 로또! 맞은 기분입니다. 품질 최고등급. 이가 예민한 편이라 치약과 칫솔 선택에 신중을 기하는데, 이 제품은 과감히 강추드립니다. 칫솔모가 부드러우면서도 단단히 잡아줍니다.아울러 칫솔모 위 혀 청소 기능은 신의 한수입니다.물론 기능이 120프로 작용하고요.그립감도 미끄러지지 않으며, 양치질 하기에 편한 구조입니다. 추가 구매 예정입니다.대박나세요★★★★★",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "270",
+    "Word": "56",
+    "RDate": "20210623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 너무 저렴하여,  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 최고등급.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "칫솔모가 부드러우면서도",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "단단히 잡아줍니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 칫솔모 위 혀 청소 기능은 신의 한수입니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "기능이 120프로 작용하고요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "그립감도 미끄러지지 않으며, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "양치질 하기에 편한 구조입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479701",
+    "RawText": "가격 맘에들고 갯수  짱짱!!  아직 사용은 안해봐서 어떨지는 모르겠으나  쟁여놓으니 맘이 든든하네요ㅎㅎ 잘 닦이길 바래봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "80",
+    "Syllable": "70",
+    "Word": "15",
+    "RDate": "20210508",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 맘에들고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "갯수  짱짱!! ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦이길 바래봅니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "479706",
+    "RawText": "ㅇㅇㅇ ㅇㅇ  ㅇㅇㅇㅇㅇ 치솔모가 부드럽네요.  사용시 너무 깨끗하게 딱여서 너무 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "11",
+    "RDate": "20201124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "치솔모가 부드럽네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "사용시 너무 깨끗하게 딱여서 너무 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479742",
+    "RawText": "여러가지 용도로 사용하려고 주문했어요. 부드럽고 좋네요 제품구성도 알차고 좋아서 맘에 듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20210710",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여러가지 용도로 사용하려고 주문했어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드럽고 좋네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "제품구성도 알차고 좋아서 맘에 듭니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479757",
+    "RawText": "저렴한이유가 있네요. ㅠ 너무 크고 투박해서 어금니까지 잘안닦여요. 저렴하니 그냥 화장실 청소나 싱크대 청소에 사용해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "10",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20200825",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "저렴한이유가 있네요. ㅠ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "너무 크고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "투박해서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 어금니까지 잘안닦여요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하니",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그냥 화장실 청소나 싱크대 청소에 사용해요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "479820",
+    "RawText": "완전 불편한 칫솔. 반품하고 싶으나 하나 쓴죄로 반품 못하네요.   ㅠㅠ.   칫솔머리가 너무 크고.  닦아도 개운치 않고 닦을때마다 실리콘부분 머리가엄청 거슬리네요ㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "10",
+    "Syllable": "93",
+    "Word": "20",
+    "RDate": "20200615",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "완전 불편한 칫솔.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "칫솔머리가 너무 크고. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 닦아도 개운치 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 닦을때마다 실리콘부분 머리가엄청 거슬리네요ㅠ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "479821",
+    "RawText": "동생이랑 나눠쓰는데 칫솔모는 부드럽고 좋은데 양치하고나면 개운함이 느껴지지 않아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "45",
+    "Word": "9",
+    "RDate": "20200528",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "칫솔모는 부드럽고 좋은데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치하고나면 개운함이 느껴지지 않아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "479912",
+    "RawText": "작은 칫솔 선호했는데 이 사이즈는 머리모양이 곡선으로 되어있어 좁고 점차 넓어지는 , 쓰기에 딱 좋은 것 같아요. 싼 가격에 깔끔하게 잘 쓸 수 있어서 재 구매 하려고 합니다. 디자인은 조금 지루해요. ^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 트** 칫솔 미세모 6입x5개",
+    "ReviewScore": "100",
+    "Syllable": "115",
+    "Word": "32",
+    "RDate": "20200420",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "머리모양이 곡선으로 되어있어 좁고 점차 넓어지는 ,",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "쓰기에 딱 좋은 것 같아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "깔끔하게 잘 쓸 수 있어서 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 조금 지루해요. ^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "479918",
+    "RawText": "9살 남자 아이가 쓰기엔 칫솔모가 많이 작은 느낌이지만 9세까지라 믿고 씁니다~ 1달에 1번씩 갈아주기 참 좋네요, 색감도 이쁘고^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 키즈 삼** 칫솔 12입",
+    "ReviewScore": "100",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20210205",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "9살 남자 아이가 쓰기엔 칫솔모가 많이 작은 느낌이지만",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "1달에 1번씩 갈아주기 참 좋네요, ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감도 이쁘고^^",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479919",
+    "RawText": "배송 엄청 빨라요  저렴한 가격에 칫솔을 구매했어요  한달에 한번 아이 칫솔 교체해주는데 가성비가 좋을것 같아요  휴대용 칫솔살균기에도 잘 들어가는 크기라서 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 키즈 삼** 칫솔 12입",
+    "ReviewScore": "100",
+    "Syllable": "91",
+    "Word": "21",
+    "RDate": "20220207",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 칫솔을 구매했어요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좋을것 같아요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "휴대용 칫솔살균기에도 잘 들어가는 크기라서 좋네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479920",
+    "RawText": "양이 많아서 매달 까먹지않고 바꿀수있어서 좋네요 색감도 이쁘고 칮솔모도 부드러워요. 가격도 나쁘지 않습니다 ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 키즈 삼** 칫솔 12입",
+    "ReviewScore": "100",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20210819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양이 많아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "매달 까먹지않고 바꿀수있어서 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감도 이쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "칮솔모도 부드러워요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 나쁘지 않습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "479927",
+    "RawText": "세일해서 싸게 구매하게 되었어요~평소에 구매하고 싶어 여러 브랜드를 주의 깊게 보고 있었는데 좋은 가격인거 같아 덥석 주문했네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 구강케어 풀세트",
+    "ReviewScore": "60",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20210827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일해서 싸게 구매하게 되었어요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격인거 같아 덥석 주문했네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479931",
+    "RawText": "할인도 있고 저렴해서 사용해보고자 구매했읍니다..아직 익숙하지 않지만  양치후 개운함은 좀 없는것 같은데 좀더 사용해봐야할 것 같네요..사용하기는 편리합니다..휴대하기도 편리하게 케이스가 있어서 좋으네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 구강케어 풀세트",
+    "ReviewScore": "100",
+    "Syllable": "113",
+    "Word": "21",
+    "RDate": "20210819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인도 있고 저렴해서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치후 개운함은 좀 없는것 같은데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기는 편리합니다..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "휴대하기도 편리하게 케이스가 있어서 좋으네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479934",
+    "RawText": "집에서 사용중인 제품인데 괜찮아요..칫솔을 바꾸어야 할거 같아 세트로 다시 구매해 봅니다.. 충전하면 오래 쓰는 거 같네요. 가격도 양호한편임",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 구강케어 풀세트",
+    "ReviewScore": "70",
+    "Syllable": "79",
+    "Word": "18",
+    "RDate": "20210805",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "충전하면 오래 쓰는 거 같네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 양호한편임",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479953",
+    "RawText": "배송도 빠르고 포장상태도 만족스럽습니다 ~ 추가사은품은 언제 오나요~?? 저 구성에 저 가격이라니 놀랍네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 구강케어 풀세트",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20210617",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 저 구성에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저 가격이라니 놀랍네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479954",
+    "RawText": "기숙사생활하는 신랑 하나보내고 하나는 저 쓰려고 구매했어요~   그냥 2인세트살랬더니 충전기가 1개라 풀세트로 샀네요~ ㅎ  같이 살면 충전기 하나여도 되는데ㅎㅎ주말부부라ㅎㅎㅎㅎㅎ 작동 잘되고 기존에 쓰던 음파칫솔이 오래쓰니 약해져서 새로 구입한건데 이것도 좋네요^^ 잘 닦여요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 구강케어 풀세트",
+    "ReviewScore": "100",
+    "Syllable": "155",
+    "Word": "32",
+    "RDate": "20201113",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "작동 잘되고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦여요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479958",
+    "RawText": "깨끗하게 잘 달리고 칫솔모도 많이들어있어서 좋네요. 칫솔모가격정도로 기기까지얻어서 정말 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 구강케어 풀세트",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "10",
+    "RDate": "20210625",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "깨끗하게 잘 달리고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "칫솔모도 많이들어있어서 좋네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "칫솔모가격정도로 기기까지얻어서 정말 만족합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "479977",
+    "RawText": "첨엔 어색하고 이게 잘닦이나 싶었는데 너무편하고 좋네요 양치후 너무 개운해요  두개라 집하고 회사에놓고 혼자사용합니다 강추강추합니다~^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 구강케어 풀세트",
+    "ReviewScore": "100",
+    "Syllable": "76",
+    "Word": "15",
+    "RDate": "20200730",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "너무편하고 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치후 너무 개운해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "480022",
+    "RawText": "잘 보고 사세요. 무료체험분은 본품 15개 중 하나예요. 사진에 칫솔 케이스 옆의 박스는 칫솔케이스 박스이지 추가구성품이 아닙니다. 구성내역 중 색상랜덤으로 써 있는 건 랜덤으로 추가 증정이 아니라 본품박스 5개씩 포장된 박스 내에서 하나 아무 색이나 빼서 쓰고 반품가능하다는 의미였네요 ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 크** 초극세모 칫솔 15개",
+    "ReviewScore": "10",
+    "Syllable": "161",
+    "Word": "39",
+    "RDate": "20210203",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "잘 보고 사세요. 무료체험분은 본품 15개 중 하나예요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사진에 칫솔 케이스 옆의 박스는 칫솔케이스 박스이지 추가구성품이 아닙니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성내역 중 색상랜덤으로 써 있는 건 랜덤으로 추가 증정이 아니라",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "본품박스 5개씩 포장된 박스 내에서 하나 아무 색이나 빼서 쓰고 반품가능하다는 의미였네요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "480027",
+    "RawText": "치솔모가 부드러우면서도 잘 닦이네요. 닦고나면 깨끗해진 느낌입니다. 가격도 이만하면 괜찮은 것 같네요. 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 크** 초극세모 칫솔 15개",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "13",
+    "RDate": "20201121",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "치솔모가 부드러우면서도",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦이네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "닦고나면 깨끗해진 느낌입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 이만하면 괜찮은 것 같네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "480037",
+    "RawText": "마음에 쏙 듭니다. 확실히 기존이 쓰던 칫솔보다 부드럽고 양치후 개운합니다. 양도 많아서 오래 쓰겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 크** 초극세모 칫솔 15개",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20210214",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "기존이 쓰던 칫솔보다 부드럽고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치후 개운합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양도 많아서 오래 쓰겠어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "480059",
+    "RawText": "기대이상입니다.잇몸이 넘약해서 칫솔은 부드럽다는 칫솔은  다 써봤는데 오늘산  이칫솔은 찐입니다.부드러우면서 이빨사이사이 넘잘 닦입니다.담에또 예약합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 크** 초극세모 칫솔 25개",
+    "ReviewScore": "100",
+    "Syllable": "86",
+    "Word": "14",
+    "RDate": "20200728",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드러우면서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "이빨사이사이 넘잘 닦입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "480060",
+    "RawText": "늘 쓰던 제품인데 칫솔 폭이 넘 작아요 종류를 잘보고 사야 할 것같아요 초극세모라고 하는데 그렇게 부드럽지도 않아요 ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 크** 초극세모 칫솔 25개",
+    "ReviewScore": "10",
+    "Syllable": "65",
+    "Word": "17",
+    "RDate": "20200920",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "칫솔 폭이 넘 작아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "초극세모라고 하는데 그렇게 부드럽지도 않아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "480068",
+    "RawText": "ㅇㅇ칫솔 좋아서 주문했고 이상없이 받았습니다. 하지만 2개를 추가한다고 상품구성에는 돼있었는데 그런 것은 눈을 씻고 찾아봐도 없네요. 다른 설명도 없구요. 이럴때 아그들의 표현을 빌리자면 얼척이 없다라는거지요? 신속하고 명확한 답변 바랍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 크** 초극세모 칫솔 25개",
+    "ReviewScore": "100",
+    "Syllable": "135",
+    "Word": "29",
+    "RDate": "20200417",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "이상없이 받았습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 2개를 추가한다고 상품구성에는 돼있었는데 그런 것은 눈을 씻고 찾아봐도 없네요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "480084",
+    "RawText": "예전부터 눈독들이고 있었는데 무료체험이라는 말에 바로 주문했어요  받자마자 바로 사용해봤는데 성능 진짜 좋으네요 제가 잇몸 진짜 예민해서 칫솔 진짜 많이 써봤는데  짱입니다... 절대 반품 안합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 크** 초극세모 칫솔 25개",
+    "ReviewScore": "100",
+    "Syllable": "110",
+    "Word": "25",
+    "RDate": "20190307",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "잇몸 진짜 예민해서 칫솔 진짜 많이 써봤는데  짱입니다...",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능 진짜 좋으네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "480099",
+    "RawText": "거품이 잘 생기고 부드럽게 잘 닦이고 게으함이 좋네요 구취제거에도 좋다고는 하는데 아직은 잘 모르겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 덴** 치약 15개+추가 1개 구성",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20200118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품이 잘 생기고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "부드럽게 잘 닦이고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "게으함이 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "구취제거에도 좋다고는 하는데 아직은 잘 모르겠어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "480129",
+    "RawText": "잇몸이 시린증상이 생기고부터 치약 선택은 신중하게 하고 있습니다. 좋은 효과보길 기대합니다. 제품구성도 맘에 들어요 ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 덴** 치약 15개+가글 2개 구성",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20191204",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 좋은 효과보길 기대합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "제품구성도 맘에 들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "480130",
+    "RawText": "배송도 빠르고 상품품질도 괜찮은거같네요.거품도 잘나고..ㅇㅇ제약 믿고 씁니다. 앞으로도 좋은상품 만들어주세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 덴** 치약 15개+가글 2개 구성",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "10",
+    "RDate": "20200107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품품질도 괜찮은거같네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품도 잘나고..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "480137",
+    "RawText": "몇번 사용했는데  잇몸 치약이 아닌것 같습니다. 입안이 깨끗해지는 느낌이 없고 잇몸에 자극이 되는지 잇몸이 아파요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 덴** 치약 15개+가글 2개 구성",
+    "ReviewScore": "100",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20200105",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "몇번 사용했는데  잇몸 치약이 아닌것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "입안이 깨끗해지는 느낌이 없고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "잇몸에 자극이 되는지 잇몸이 아파요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "480225",
+    "RawText": "잇몸이 안좋아 치과 치료 중인데 상품받고 바로 사용해 보니 아프지도않고 개운합니다. 오랫만에 힘 안들이고 잘 닦았습니다. 좋은제품 감사합니다. 번창하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 구강케어 풀세트",
+    "ReviewScore": "100",
+    "Syllable": "86",
+    "Word": "19",
+    "RDate": "20200430",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "아프지도않고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운합니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "힘 안들이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦았습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "480271",
+    "RawText": "쓰던거보다 강한느낌이들어 며칠 어색했는데 확실히  깨끗한느낌 드네요 계속 적응해서 써보려구요 아이와 함꼐 쓰고있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 구강케어 풀세트",
+    "ReviewScore": "100",
+    "Syllable": "64",
+    "Word": "13",
+    "RDate": "20200222",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "확실히  깨끗한느낌 드네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "쓰던거보다 강한느낌이들어 며칠 어색했는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "480331",
+    "RawText": "여러가지 치약을 써봤는데 이치약은 맵지않으면서도 개운 해요. 아침에 입안이 텁텁하지않고  좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 덴** 치약12+가글2+음파진동칫솔1",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "11",
+    "RDate": "20200508",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "맵지않으면서도",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운 해요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "아침에 입안이 텁텁하지않고  좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "480359",
+    "RawText": "버턴 불켜고~~ 끄기가 안되네요 꺼질때까지 놔둬야됩니다. 애들은 꺼질때까지 양치하겟네요 배터리교환 안됩니다.  수명을 다해서 불은 안들어오겠지만 칫솔모는 여분이  있어서 갈아쓸수있습니다. 교체방법은~솔을 힘껏 잡아당기면 빠집니다. 한달이다되가는데 미백은 아직 잘모르겠고  계속써봐야 알것같습니다. 입안은 개운합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 엘** 칫솔치약 1+1(칫솔대2+칫솔모6+치약2)+치약 2개 더",
+    "ReviewScore": "80",
+    "Syllable": "176",
+    "Word": "31",
+    "RDate": "20200201",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "버턴 불켜고~~ 끄기가 안되네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "꺼질때까지 놔둬야됩니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "애들은 꺼질때까지 양치하겟네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "배터리교환 안됩니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "칫솔모는 여분이  있어서 갈아쓸수있습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "교체방법은~솔을 힘껏 잡아당기면 빠집니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "한달이다되가는데 미백은 아직 잘모르겠고  계속써봐야 알것같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "입안은 개운합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "480361",
+    "RawText": "배송도 2일만에 왔고 갯수도 많아 좋아요 품질도 괜찮아요 칫솔모 6개랑 칫솔 치약 세트 1개가 누락된거 같아요 ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 엘** 칫솔치약 1+1(칫솔대2+칫솔모6+치약2)+치약 2개 더",
+    "ReviewScore": "100",
+    "Syllable": "64",
+    "Word": "17",
+    "RDate": "20200229",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "갯수도 많아 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 괜찮아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "480363",
+    "RawText": "아이가 원해서 샀어요~불들어와서3분닦기좋고 모가 부드럽다고 조아하네요~첨에 칫솔모없는줄알았는데 칫솔들어있는상자에2개씩있네요~9개월까지불안꺼지고잘썻음좋겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 엘** 칫솔치약 1+1(칫솔대2+칫솔모6+치약2)+치약 2개 더",
+    "ReviewScore": "100",
+    "Syllable": "86",
+    "Word": "8",
+    "RDate": "20200228",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "불들어와서3분닦기좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "모가 부드럽다고 조아하네요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "9개월까지불안꺼지고잘썻음좋겠어요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "첨에 칫솔모없는줄알았는데 칫솔들어있는상자에2개씩있네요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "480365",
+    "RawText": "송염이라~쫌~짠맛이날까걱정했는데~짠맛도없고~치약냄새가마니나지않아좋구요~닦고나다음~입안에텁텁한거없이개운하네요 ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 치약 120g 9입+트** 칫솔 4개",
+    "ReviewScore": "100",
+    "Syllable": "60",
+    "Word": "1",
+    "RDate": "20210831",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "송염이라~쫌~짠맛이날까걱정했는데~짠맛도없고~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "치약냄새가마니나지않아좋구요~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "닦고나다음~입안에텁텁한거없이개운하네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "480384",
+    "RawText": "저렴한가격에 좋은 품질의 상품입니다 추천합니다 거품 잘나고 좋아요~~ 다음에 또 구매 예정입니다 감사해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 치약 120g 9입+트** 칫솔 4개",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한가격에",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "좋은 품질의 상품입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품 잘나고 좋아요~~ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "480386",
+    "RawText": "싼가격에  사은품으로 칫솔까지  덩으로 주니 잘  쓸게요. 양치를 해보니 개운함이 좀 덜하는 것 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 치약 120g 9입+트** 칫솔 4개",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20210803",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼가격에",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품으로 칫솔까지  덩으로 주니 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 양치를 해보니 개운함이 좀 덜하는 것 같네요 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "480401",
+    "RawText": "치약은 좋은데 칫솔이 너무 크네요. 작은게 닦기가 더 편하고 좋은데 크니까 사용하기 불편해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 치약 120g 9입+트** 칫솔 4개",
+    "ReviewScore": "80",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20201105",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "칫솔이 너무 크네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "작은게 닦기가 더 편하고 좋은데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크니까 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 불편해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "480419",
+    "RawText": "개운하고 텁텁하지않고  ㅇㅇ치약좋아요~ 마트세일할때 가격이나 언제할지도  모르고  배송되니 좋으네요 칫솔도 아이들  쓰라고 바꿔줬더니 구석구석 잘닦이고 좋다네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 치약 120g 9입+트** 칫솔 4개",
+    "ReviewScore": "100",
+    "Syllable": "89",
+    "Word": "16",
+    "RDate": "20210523",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운하고 텁텁하지않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "구석구석 잘닦이고 좋다네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "480421",
+    "RawText": "치약이 향도 좋고 조금만 짜서 해도 거품이 많이나네요ㅠㅠ 추천드립니다~~ 번창하시고 많이 파세요~~~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 치약 120g 9입+트** 칫솔 4개",
+    "ReviewScore": "100",
+    "Syllable": "56",
+    "Word": "12",
+    "RDate": "20210707",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "치약이 향도 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "조금만 짜서 해도 거품이 많이나네요ㅠㅠ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "480459",
+    "RawText": "손잡이 부분이  안정감 없고 너무 미끄럽고 가격은 비싸네요. 디자인만 보고 샀는데 잘못 산듯합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 쿨** 칫솔 10입 x2",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20210807",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "손잡이 부분이  안정감 없고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "너무 미끄럽고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인만 보고 샀는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "480469",
+    "RawText": "이칫솔써보고 다른거 못쓰겠어요  양사이드 실립콘같은모가 더 뽀득뽀득 닦아주고 잇몸에 자극이 덜해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 잇몸케어 칫솔 4입 x2",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "11",
+    "RDate": "20201213",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "양사이드 실립콘같은모가 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "더 뽀득뽀득 닦아주고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "잇몸에 자극이 덜해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "480480",
+    "RawText": "칫솔모 전체크기가 좀작은편이구  칫솔모 단단해서 좀아파요ㅜㅜ 닦이는건 잘닦이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 듀** 부드러운모 칫솔 4입 x3",
+    "ReviewScore": "80",
+    "Syllable": "44",
+    "Word": "8",
+    "RDate": "20210607",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "칫솔모 전체크기가 좀작은편이구 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "칫솔모 단단해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "좀아파요ㅜㅜ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "닦이는건 잘닦이네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "480515",
+    "RawText": "무난하게 사용 할 수 있는 치약입니다. 칫솔도 필요했는데 구성이 좋아서 구매했어요~1년은 치약 칫솔 걱정 없네요~^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 메** 치약 9개+칫솔4입 기획세트",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20220120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "무난하게 사용 할 수 있는 치약입니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "칫솔도 필요했는데 구성이 좋아서 구매했어요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "1년은 치약 칫솔 걱정 없네요~^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,3572 @@
+[
+  {
+    "Index": "514648",
+    "RawText": "쓸만합니다. 너비가 40센치 정도 되어 욕실용으로 샀는데 좀 좁은 면은 힘들 것 같네요. 길이 조절이 되어서 좋은데 자꾸 흔들흔들 돌아가기도하고 그래요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 다용도 스퀴즈 1개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "21",
+    "RDate": "20161001",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "좀 좁은 면은 힘들 것 같네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "자꾸 흔들흔들 돌아가기도하고 그래요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "너비가 40센치 정도 되어",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "길이 조절이 되어서 좋은데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514654",
+    "RawText": "일반 매장 보다 싸게 샀습니다 사이즈가 넓어서 화장실청소 할때나 거실창문 청소할때 사용하기 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 다용도 스퀴즈 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20160826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "일반 매장 보다 싸게 샀습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈가 넓어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 화장실청소 할때나 거실창문 청소할때 사용하기 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514657",
+    "RawText": "생각보다 엄청 커서 놀랐네요 3m의 기존 유리창 물기 제거대를 사용중이어서 이것을 구매했어요 아직 사용전인데 튼튼해보입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 다용도 스퀴즈 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20160806",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "생각보다 엄청 커서 놀랐네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해보입니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514660",
+    "RawText": "빠른 배송 감사해요 상품 구성 및 가격이 괜찮다고 생각듭니다  많이 파세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 다용도 스퀴즈 1개",
+    "ReviewScore": "4",
+    "Syllable": "41",
+    "Word": "11",
+    "RDate": "20160724",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "상품 구성 및 가격이 괜찮다고 생각듭니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 괜찮다고 생각듭니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514662",
+    "RawText": "욕실 바닥 물 제거용도로 샀는데 너무 좋습니다 바닥 금방 마르고 좋네요 ㅇㅇㅇ에서 고리 사서 수건걸이에 걸어놨습니다 ㅇㅇㅇㅇ가 젤 저렴하게 판매합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 다용도 스퀴즈 1개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "20",
+    "RDate": "20160707",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "바닥 금방 마르고 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "ㅇㅇㅇ에서 고리 사서 수건걸이에 걸어놨습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "ㅇㅇㅇㅇ가 젤 저렴하게 판매합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514663",
+    "RawText": "아주 좋습니다 화장실에 두고 쓰는데 요긴합니다 근데 물기를 제거하는 넓은 받침 부분이 좀 헐겁다는 느낌이 있네요 힘을 주고 바닥을 긁다보면 어느새 연결부분이 돌아가서 불편해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 다용도 스퀴즈 1개",
+    "ReviewScore": "4",
+    "Syllable": "97",
+    "Word": "24",
+    "RDate": "20160701",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "화장실에 두고 쓰는데 요긴합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "물기를 제거하는 넓은 받침 부분이 좀 헐겁다는 느낌이 있네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "힘을 주고 바닥을 긁다보면 어느새 연결부분이 돌아가서 불편해요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "514669",
+    "RawText": "손잡이가 길이 조절되서 좋긴합니다. 길게 뺐을 때 흠집이 나면 녹이 금방 슬어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 다용도 스퀴즈 1개",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "12",
+    "RDate": "20160527",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손잡이가 길이 조절되서 좋긴합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "길게 뺐을 때 흠집이 나면 녹이 금방 슬어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "514670",
+    "RawText": "가격 저렴합니다 총알배송이구요 일단 큼직해서 좋네요 욕실바닥을 몇번만 쓸어도 물기 제거 잘 됩니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 다용도 스퀴즈 1개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20160519",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 저렴합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "일단 큼직해서 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "욕실바닥을 몇번만 쓸어도 물기 제거 잘 됩니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514675",
+    "RawText": "유리창닦이에 물기제거가 있지만 영 그리 시원찮아서 따로 구입했습니다. 가격은 그나마 이곳이 저렴해요. 근데 상품스티커가 제품마다 앞뒤로 두개씩 붙어있어 떼느라 애먹었습니다. 물기제거 잘돼요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 다용도 스퀴즈 1개",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "22",
+    "RDate": "20160420",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 그나마 이곳이 저렴해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "물기제거 잘돼요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514678",
+    "RawText": "고심끝에 ㅇㅇㅇ 호스릴 구입했습니다 역시 잘 선택했군요 호스재질이 매우 유연성이 있어 만족해요 품질도 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 터** 브라운 호스릴 20m",
+    "ReviewScore": "4",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20220615",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "호스재질이 매우 유연성이 있어 만족해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514691",
+    "RawText": "요령만 잘 터득하면 쉽습니다 걸레 쪽이 위로 오게하고 닦으면 진짜 깨끗합니다 다만 닦을 때 좌우로 살짝살짝 흔들면서 하면 너무 잘됩니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "20",
+    "RDate": "20220713",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "걸레 쪽이 위로 오게하고 닦으면 진짜 깨끗합니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "닦을 때 좌우로 살짝살짝 흔들면서 하면 너무 잘됩니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "요령만 잘 터득하면 쉽습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514693",
+    "RawText": "어머님께 보내 드렸는데 자력이 너무 강해서 창문 하나 닦고 몸살 나셨다고 하네요. 튼튼하지만 너무 강해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "4",
+    "Syllable": "58",
+    "Word": "15",
+    "RDate": "20220703",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자력이 너무 강해서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "창문 하나 닦고 몸살 나셨다고 하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하지만 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "너무 강해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "514694",
+    "RawText": "배송빠르고 제품도 좋습니다 자력도 너무 쎄거나 약하거나 하지 않고 적당하네요 사용하는데 불편하지 않습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20220701",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자력도 너무 쎄거나 약하거나 하지 않고 적당하네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하는데 불편하지 않습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "514699",
+    "RawText": "미세먼지에 황사 너무 지저분해서 함 닦아보려고 구매했습니다 자력이 엄청 셉니다 이것으로 큰유리창 닦으려면 반나절 이상은 걸리겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "4",
+    "Syllable": "72",
+    "Word": "16",
+    "RDate": "20220520",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 자력이 엄청 셉니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "이것으로 큰유리창 닦으려면 반나절 이상은 걸리겠어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "514701",
+    "RawText": "상품 받자마자 처음에 뭣모르고 양면창닦이 사이에 끼워진 안전판을 빼다가 손가락 아작날뻔 했습니다. 자력이 너무 강해서 안전판을 빼자마자 양면창닦이가 서로 강하게 붙어버렸네요. 붙으면 떼기도 힘듭니다. 끌듯이 밀어서 겨우 떼어냈네요. 사용법 적응하기 너무 어려워요. 자력이 강해서 잘못하면 사용하다 유리창이 깨질 것 같아요 사용할 엄두도 못내고 보관중입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "1",
+    "Syllable": "199",
+    "Word": "44",
+    "RDate": "20220515",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "양면창닦이 사이에 끼워진 안전판을 빼다가 손가락 아작날뻔 했습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자력이 너무 강해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "붙으면 떼기도 힘듭니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "안전판을 빼자마자 양면창닦이가 서로 강하게 붙어버렸네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "끌듯이 밀어서 겨우 떼어냈네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용법 적응하기 너무 어려워요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자력이 강해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "잘못하면 사용하다 유리창이 깨질 것 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용할 엄두도 못내고 보관중입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "514703",
+    "RawText": "자석힘도 좋고 잘 닦입니다. 비올 때 창문 닦았더니 잘 닦였어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "36",
+    "Word": "10",
+    "RDate": "20220513",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자석힘도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "잘 닦입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "비올 때 창문 닦았더니 잘 닦였어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514730",
+    "RawText": "상품 잘받았습니다 자석이 엄청 강력해요 양쪽이 같이 붙어버리면 정말 떼기 어렵네요 비틀고 힘다해 떼어야 간신히 떨어집니다 자석붙는 압력이 고무망치로 때리는 수준이에요 베란다 창문 바깥쪽이 닦이 어려운데 양면자석 청소닦이가 용이하게 사용됩니다. 잘 닦여요 물로만 닦으면 뻑뻑하게 밀리는데 비누거품 같이 사용하면 매끄럽게 더잘닦여요 편리하고 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "192",
+    "Word": "43",
+    "RDate": "20220209",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자석이 엄청 강력해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "양쪽이 같이 붙어버리면 정말 떼기 어렵네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "비틀고 힘다해 떼어야 간신히 떨어집니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자석붙는 압력이 고무망치로 때리는 수준이에요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "양면자석 청소닦이가 용이하게 사용됩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "잘 닦여요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "비누거품 같이 사용하면 매끄럽게 더잘닦여요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편리하고 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514744",
+    "RawText": "자력이 어마무시합니다. 유리창은 자력이 강해서 아주 잘 닦여요. 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "40",
+    "Word": "9",
+    "RDate": "20220103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자력이 어마무시합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자력이 강해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "아주 잘 닦여요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514751",
+    "RawText": "사용 전입니다. 배송이 빨라서 좋네요 제품을 유리창에 붙쳐보니 자석의 힘이 좋아서 창문이 잘 딱일것 같다고 생각해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "4",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20211217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자석의 힘이 좋아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "창문이 잘 딱일것 같다고 생각해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514758",
+    "RawText": "자성이 높아서 조심히 사용하셔야 되요 생각보다 힘이 많이들어서 불편해요 그래도 깨끗한 유리보면 기분이 좋아지네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20211207",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자성이 높아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "조심히 사용하셔야 되요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 생각보다 힘이 많이들어서 불편해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 깨끗한 유리보면 기분이 좋아지네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514769",
+    "RawText": "배송 빠릅니다 제품이 튼튼해 보이구요 세제를 넣을 수 있어 좋아요 사용해 본 후 후기 올릴게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "4",
+    "Syllable": "52",
+    "Word": "15",
+    "RDate": "20211112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "제품이 튼튼해 보이구요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 세제를 넣을 수 있어 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514774",
+    "RawText": "그럴듯한 외국산 샀다가 조잡해서 반품하고 다시 구입했다 역시 국산이 좋네요 손잡이, 디자인, 청소용 걸레 등 실용적이고 리필가능해서 좋다. 한자적혀 있는 제품은 외국산이에요 생산지 표시를 뒷쪽에 하니 잘 확인하세요. 자석이 세니 손가락 끼임 조심하세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "140",
+    "Word": "33",
+    "RDate": "20211107",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손잡이, 디자인, 청소용 걸레 등 실용적이고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자석이 세니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "손가락 끼임 조심하세요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 리필가능해서 좋다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514779",
+    "RawText": "손가락이 중간에 껴서 짤라지는줄 알았네요 압력이 어마무시합니다 손톱에 멍들었습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "1",
+    "Syllable": "45",
+    "Word": "9",
+    "RDate": "20211024",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "손가락이 중간에 껴서 짤라지는줄 알았네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "압력이 어마무시합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "손톱에 멍들었습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "514781",
+    "RawText": "배송이 조금 늦었네요 사용해볼려고 아무 생각 없이 두개를 붙였다가 혼줄 났습니다 자석이 너무 강력해서 정말 힘들게 떼어냈네요 유리창에 생각없이 붙이면 깨질듯 합니다 옆으로 조심해서 붙여 사용해야 겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "4",
+    "Syllable": "113",
+    "Word": "27",
+    "RDate": "20211022",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용해볼려고 아무 생각 없이 두개를 붙였다가 혼줄 났습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자석이 너무 강력해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "정말 힘들게 떼어냈네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "유리창에 생각없이 붙이면 깨질듯 합니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "옆으로 조심해서 붙여 사용해야 겠습니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "514785",
+    "RawText": "부착력이 좋아요 자력이 너무 강해서 손이 다칠뻔 했네요 조심히 사용하셔야 됩니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "11",
+    "RDate": "20211017",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "부착력이 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자력이 너무 강해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "손이 다칠뻔 했네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "조심히 사용하셔야 됩니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "514796",
+    "RawText": "여러모로 아쉬운 제품이네요 코너가 잘 안닦여요 유리창 가로 줄이 남아 닦아내야합니다. 베란다 창이 한쪽으로만 열리는 구조에서는 사용하기 힘들어요. 특히 창호에 자성물체가 들어있거나 쇠가 있는 경우 문틀에 달라붙어버립니다. 그런 창문인줄 몰랐다가 손이 끼어버려서 살점이 뜯겨 나갔네요 창틀에 꼭 테스트를 하라고 크게 좀 써주셨으면 해요 깨끗하게 닦여요. 물이 너무 빨리 말라서 물을 흠뻑 적셔야 합니다구래도 추석때부터 닦고싶었던 외창을 드디어 닦아서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "4",
+    "Syllable": "257",
+    "Word": "59",
+    "RDate": "20211002",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "코너가 잘 안닦여요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "유리창 가로 줄이 남아 닦아내야합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "창이 한쪽으로만 열리는 구조에서는 사용하기 힘들어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "자성물체가 들어있거나 쇠가 있는 경우 문틀에 달라붙어버립니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "창틀에 꼭 테스트를 하라고 크게 좀 써주셨으면 해요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "깨끗하게 닦여요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "물이 너무 빨리 말라서 물을 흠뻑 적셔야 합니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "손이 끼어버려서 살점이 뜯겨 나갔네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "514801",
+    "RawText": "정말 잘 구매했어요. 처음에 약간 어렵지만 요령이 생기면 그렇게 어렵지는 않아요.자석의 힘이 강해서 힘이 좀 드는데, 그만큼 유리창에 대한 접착력은 좋은거 같아요. 닦은 곳과 안닦은 곳이 확연히 구별이 됩니다.시야가 확 트인 기분입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "132",
+    "Word": "32",
+    "RDate": "20210915",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "처음에 약간 어렵지만 요령이 생기면 그렇게 어렵지는 않아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자석의 힘이 강해서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡착/접착력",
+        "SentimentText": "유리창에 대한 접착력은 좋은거 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "닦은 곳과 안닦은 곳이 확연히 구별이 됩니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "힘이 좀 드는데,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "시야가 확 트인 기분입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514806",
+    "RawText": "후기를 보고 괜찮은것 같았는데 사용하기 너무 힘드네요 닦이는건 깨끗한데 사용하는데 너무 힘들어서 어찌할까 걱정됩니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "4",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20210908",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 너무 힘드네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 닦이는건 깨끗한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하는데 너무 힘들어서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "514807",
+    "RawText": "샷시에 달라붙어있다가 좀 움직이는가싶으면 뚝 떨어지고 끈까지짧게했는데 자꾸떨어져서 샷시며 외벽 다 망가지게생겼습니다 자석면이 반이상차지하고 닦이는면은 마트 영수증만하네요 그냥박스에다시넣어놨습니다 비슷한거 광고하는거보면 완전신세계처럼 보였는데.착각이였어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "3",
+    "Syllable": "141",
+    "Word": "22",
+    "RDate": "20210908",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "샷시에 달라붙어있다가 좀 움직이는가싶으면 뚝 떨어지고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "끈까지짧게했는데 자꾸떨어져서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "샷시며 외벽 다 망가지게생겼습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자석면이 반이상차지하고 닦이는면은 마트 영수증만하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "514813",
+    "RawText": "접착력은 완전 좋아요 근데 청소하다가 손가락이 끼여서 혼자서 뗄수도 없어요 너무아파서 어쩔수 없이 언니가 떼줬어요 손가락 까지고 피보고 짜증나서 청소고뭐고 그냥 처박아 노았어요 여자혼자서 하기에는 너무힘듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "116",
+    "Word": "26",
+    "RDate": "20210901",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "흡착/접착력",
+        "SentimentText": "접착력은 완전 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "청소하다가 손가락이 끼여서 혼자서 뗄수도 없어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "청소고뭐고 그냥 처박아 노았어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여자혼자서 하기에는 너무힘듭니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "514818",
+    "RawText": "유리창청소하려다 식겁했네요 설명서도 읽지않고 하다가 유리박살날뻔했어요 엄청난자력에 놀랐네요 청소는 정말 잘됩니다 그러나 힘이 많이 들어서 불편합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "3",
+    "Syllable": "82",
+    "Word": "16",
+    "RDate": "20210819",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "설명서도 읽지않고 하다가 유리박살날뻔했어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "엄청난자력에 놀랐네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "청소는 정말 잘됩니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "힘이 많이 들어서 불편합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "514825",
+    "RawText": "전 자력이 너무 세서 1미터 이상 거리를 두었어요 엄청난 자력이네요 손조심 하셔야 됩니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "13",
+    "RDate": "20210814",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "전 자력이 너무 세서 1미터 이상 거리를 두었어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "엄청난 자력이네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손조심 하셔야 됩니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "514830",
+    "RawText": "저렴히 잘샀습니다 물구멍에 물을 채우면 새는문제가 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "31",
+    "Word": "7",
+    "RDate": "20210805",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴히 잘샀습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "물구멍에 물을 채우면 새는문제가 있어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "514853",
+    "RawText": "테스트 해보려고 준비하다가 손가락 부러질뻔했네요 자력이 엄청나네요 비오는 날 청소해야될듯 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "11",
+    "RDate": "20210709",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "테스트 해보려고 준비하다가 손가락 부러질뻔했네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 자력이 엄청나네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "비오는 날 청소해야될듯 합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "514855",
+    "RawText": "자석이 넘 단단해서 놀랬네요 손조심해야될듯 합니다 쫙붙는힘이짱이구요 잘쓸게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "4",
+    "Syllable": "42",
+    "Word": "8",
+    "RDate": "20210707",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자석이 넘 단단해서 놀랬네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "손조심해야될듯 합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "쫙붙는힘이짱이구요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514858",
+    "RawText": "자석의 힘은 강하네요. 자석 힘이 유리 두께에 따라 타월같은 걸 이용해서 자력을 약화시켜야지 사용가능하네요. 만약 5미리 이하 유리라면 자력이 너무 쎄서 잘 밀리지 않아요. 그럴땐 수건을 안쪽으로 덧대서 자력을 약화시키시면 되는데요 그럴경우 안쪽은 수건때문에 깨끗하게 닦이진 않습니다. 암튼 닦고나니 깨끗하긴 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "4",
+    "Syllable": "177",
+    "Word": "41",
+    "RDate": "20210705",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자석의 힘은 강하네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "닦고나니 깨끗하긴 합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514862",
+    "RawText": "반신반의 햇는데 획기적인 상품이네요 주방배란다가 흙먼지로 유독 지저분햇는데 정말 말끔히 정소해주었어요 자석힘이 새니 주의사항 꼭 확인하셔서 손 안다치게만하심될것 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "19",
+    "RDate": "20210628",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "정말 말끔히 정소해주었어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자석힘이 새니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "주의사항 꼭 확인하셔서 손 안다치게만하심될것 같네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514864",
+    "RawText": "정말 닦일까 고민했는데 대만족합니다 천천히 움직이면 절대 떨어질일 없구요 대신 모서리 부분에서 턴 할때 부딪히는 부분만 없으면 절대 안전유리도 잘 딱입니다 세월의 흔적을 지운것처럼 속이 시원합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "26",
+    "RDate": "20210626",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "정말 닦일까 고민했는데 대만족합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "천천히 움직이면 절대 떨어질일 없구요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "턴 할때 부딪히는 부분만 없으면 절대 안전유리도 잘 딱입니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세월의 흔적을 지운것처럼 속이 시원합니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514867",
+    "RawText": "물 공급하는 통도 있고 자력도 강해 사용은 편해요. 자력이 강해서인지 ㅇㅇ과 물을 충분히 적셔주었는데도 코팅된 안쪽 유리창에 스크래치가 발생했어요. 대안으로 안쪽면에 얇은 극세사 청소포를 추가로 덧대고하니 이후 문제가 없었어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "127",
+    "Word": "29",
+    "RDate": "20210620",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "물 공급하는 통도 있고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자력도 강해 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "코팅된 안쪽 유리창에 스크래치가 발생했어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용은 편해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자력이 강해서인지",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514872",
+    "RawText": "자석이 너무강해서 조심해서 사용해야합니다 같이 들고있으면 자력이 너무강해서 손이 다칠수도 있어요 그렇치만 가격대비 성능은 고가인제품보다 뒤떨어지지 않습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "3",
+    "Syllable": "86",
+    "Word": "17",
+    "RDate": "20210615",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자석이 너무강해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "조심해서 사용해야합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자력이 너무강해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 손이 다칠수도 있어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "가격대비 성능은 고가인제품보다 뒤떨어지지 않습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514888",
+    "RawText": "스킬이 없어서 얼룩이 지긴하네요 검정물이 떨어지는거보니 속이시원합니다 손끼임 조심해서 사용하세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "4",
+    "Syllable": "53",
+    "Word": "10",
+    "RDate": "20210518",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "스킬이 없어서 얼룩이 지긴하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "검정물이 떨어지는거보니 속이시원합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손끼임 조심해서 사용하세요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "514890",
+    "RawText": "자석에 손가락껴서 까졌네요 창문에 잘 붙어있긴 합니다 혹시 저처럼 방심하다가 손가락끼시는 분 있을까봐상품평에 남깁니다.겁나 아프네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "15",
+    "RDate": "20210517",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "자석에 손가락껴서 까졌네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡착/접착력",
+        "SentimentText": "창문에 잘 붙어있긴 합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514891",
+    "RawText": "조심해서 사용하세요 자력이 강합니다 삼각형모영이면 모서리 쪽이 더 잘 닦일것 같네요 그래도 그전보다는 깨끗해져서 뿌듯하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20210517",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "조심해서 사용하세요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자력이 강합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 삼각형모영이면 모서리 쪽이 더 잘 닦일것 같네요 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "그전보다는 깨끗해져서 뿌듯하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514902",
+    "RawText": "유리창에 처음 붙일때 조심해서 사용하세요 자석이 강해 손가락 끼여서 멍들었어요 충격에 얇은 유리(홀겹)는 깨질수도 있을거 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "4",
+    "Syllable": "71",
+    "Word": "16",
+    "RDate": "20210509",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "유리창에 처음 붙일때 조심해서 사용하세요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자석이 강해 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "손가락 끼여서 멍들었어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "충격에 얇은 유리(홀겹)는 깨질수도 있을거 같네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "514903",
+    "RawText": "가성비 좋습니다.자력도 상당히 쎄구요.아주 잘 닦여요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "30",
+    "Word": "6",
+    "RDate": "20210508",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자력도 상당히 쎄구요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "아주 잘 닦여요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514905",
+    "RawText": "이중 두꺼운 유리라서 30mm 제품구입해서 자석힘은 좋습니다 방향전환할때 자칫 분리될수있으니 조심해서 천천히 사용해야합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "13",
+    "RDate": "20210507",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자석힘은 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 방향전환할때 자칫 분리될수있으니 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "조심해서 천천히 사용해야합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "514925",
+    "RawText": "창문 물기가 너무 빨리 말라 물이나 세정제를 충분히 넣어 줘야 합니다 달리 비오는 날에 사용하신다는 분들이 있는게 아니네요 그리고 오래동안 관리가 안된 곳엔 요고 하나로는 효과 보기가 힘드네요 안한것 보다는 조금 나온 정도",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "3",
+    "Syllable": "124",
+    "Word": "33",
+    "RDate": "20210421",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "창문 물기가 너무 빨리 말라 물이나 세정제를 충분히 넣어 줘야 합니다",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "달리 비오는 날에 사용하신다는 분들이 있는게 아니네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "오래동안 관리가 안된 곳엔 요고 하나로는 효과 보기가 힘드네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "안한것 보다는 조금 나온 정도",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "514932",
+    "RawText": "사용하기 힘은 들어도 유리창 청소가 잘 되네요 요령을 터득하면 쉽게 할 수 있을 것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "4",
+    "Syllable": "50",
+    "Word": "15",
+    "RDate": "20210420",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 힘은 들어도",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "유리창 청소가 잘 되네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "요령을 터득하면 쉽게 할 수 있을 것 같아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514939",
+    "RawText": "극세사보다 스펀지가 더 잘 닦이네요. 사용하기 편하네요. 20년전에 샀던 제품은 자석 힘은 좋으나 닦으면 줄이 생겨요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "1",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20210417",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "스펀지가 더 잘 닦이네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 편하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514953",
+    "RawText": "받아서 유리창을 닦았는데 정말 깨끗하게 잘 닦여요 아주 좋은 제품이네요 유리 창문이 더러워도 손이 안가서 안 닦거든요 그리고 위험해서 닦을수가 없었는데 사용이 편해 한방에 해결해 아주 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "27",
+    "RDate": "20210329",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "정말 깨끗하게 잘 닦여요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용이 편해 한방에 해결해 아주 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514956",
+    "RawText": "오늘 처음 사용했는데 사용설명서대로 하면 잘 됩니다 크기가 조금 컸으면 하는 아쉬움이 있네요 더 사용하면서 요령을 익혀야 될듯 하네요 잘 쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "4",
+    "Syllable": "82",
+    "Word": "21",
+    "RDate": "20210325",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "오늘 처음 사용했는데 사용설명서대로 하면 잘 됩니다 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기가 조금 컸으면 하는 아쉬움이 있네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "더 사용하면서 요령을 익혀야 될듯 하네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "514962",
+    "RawText": "예전에 이렇게 생긴거 좀 작은거 사고는 잘 안되어서 방치했었는데 이거는 유리창 잘 닦이고 좋아요. 비 그치면 바깥창문도 깨끗하게 닦아야겠어요. 품질 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "21",
+    "RDate": "20210320",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "유리창 잘 닦이고 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "514978",
+    "RawText": "창문의 성격상 위아래로 반복해서 닦아야하는데 이건 한방향으로만 닦게 되어 있어 불편하고 자성만 강하여 하등의 실효성이 없는 제품이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "1",
+    "Syllable": "74",
+    "Word": "17",
+    "RDate": "20210304",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "한방향으로만 닦게 되어 있어 불편하고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자성만 강하여",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "하등의 실효성이 없는 제품이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "514983",
+    "RawText": "닦이기는 엄청 잘 닦입니다 무심결 옆에 뒀다가 손가락 끼여서 아프네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "38",
+    "Word": "10",
+    "RDate": "20210225",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "닦이기는 엄청 잘 닦입니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "무심결 옆에 뒀다가 손가락 끼여서 아프네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "514985",
+    "RawText": "잘 닦여요. 자석도 강력해요. 손끼이지 않도록 조심해야됩니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "33",
+    "Word": "7",
+    "RDate": "20210224",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "잘 닦여요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자석도 강력해요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "손끼이지 않도록 조심해야됩니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "514987",
+    "RawText": "거실 유리창 닦으려고 좌석으로 된 유리창 닦기 구매했다. 아직 써보진 않았지만 잘 닦이면 좋겠다. 편리해보인다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20210223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "아직 써보진 않았지만 잘 닦이면 좋겠다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편리해보인다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "515029",
+    "RawText": "전혀 닦을 수 없었던 아파트 베란다 창문을 어느 정도까지는 닦을 수 있네요. 하지만 물자국이 남는건 어쩔 수 없나봐요. 창문에 물기 없으면 잘 떨어져서 사용할 수 없구요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "3",
+    "Syllable": "95",
+    "Word": "26",
+    "RDate": "20201225",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "전혀 닦을 수 없었던 아파트 베란다 창문을 어느 정도까지는 닦을 수 있네요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "물자국이 남는건 어쩔 수 없나봐요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "창문에 물기 없으면 잘 떨어져서 사용할 수 없구요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "515034",
+    "RawText": "자력 세다고는 들었는데 이정도일줄은 몰랐네요 중간에 다른 걸레끼고 붙였는데도 손다칠뻔했습니다 떼려고 엄청 고생했습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "13",
+    "RDate": "20201216",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자력 세다고는 들었는데 이정도일줄은 몰랐네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "중간에 다른 걸레끼고 붙였는데도 손다칠뻔했습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "떼려고 엄청 고생했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "515057",
+    "RawText": "비올때마다 사용을 잘하고 있어요. 가성비가 매우 우수합니다. 코너부분에서 회전이 잘되었으면 더 좋은 제품이 될것 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20201121",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "비올때마다 사용을 잘하고 있어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 매우 우수합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "코너부분에서 회전이 잘되었으면 더 좋은 제품이 될것 같네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "515078",
+    "RawText": "다른 포장없이 상품포장지에 택배전표 붙여서 왔는데 다행히 문제는 없었네요 베란다 큰 창문은 잘닦입니다 작은 창문은 닦는게 어렵네요 ㅇㅇ을 충분히 묻혀주어야 부드럽게 나가는 거 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "24",
+    "RDate": "20201102",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "베란다 큰 창문은 잘닦입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "작은 창문은 닦는게 어렵네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "ㅇㅇ을 충분히 묻혀주어야 부드럽게 나가는 거 같습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "515088",
+    "RawText": "손가락 조심하셔야 합니다. 너무 강력하고.거즈가 작지만 잘 닦여요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "37",
+    "Word": "8",
+    "RDate": "20201019",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "손가락 조심하셔야 합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "너무 강력하고.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "거즈가 작지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "잘 닦여요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "515091",
+    "RawText": "자력이 너무 커서 아무리 물을 많이 뿌려서 사용해도 움직이는데 힘이 너무 듭니다. 한번 하고 나면 기력이 빠져요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "2",
+    "Syllable": "63",
+    "Word": "17",
+    "RDate": "20201018",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자력이 너무 커서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "물을 많이 뿌려서 사용해도 움직이는데 힘이 너무 듭니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "한번 하고 나면 기력이 빠져요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "515107",
+    "RawText": "배송이 빠르네요 잘 닦여요. 자석의 힘도 매우 강합니다 두꺼운 유리창도 잘 닦여요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "45",
+    "Word": "12",
+    "RDate": "20200926",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "잘 닦여요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자석의 힘도 매우 강합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "두꺼운 유리창도 잘 닦여요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "515114",
+    "RawText": "닦을때 물기가 조금 떨어져서 불편합니다 그래도 여러번 닦으니 깨끗해서 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "4",
+    "Syllable": "42",
+    "Word": "10",
+    "RDate": "20200924",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "닦을때 물기가 조금 떨어져서 불편합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "여러번 닦으니 깨끗해서 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "515116",
+    "RawText": "배송은 빨라 좋습니다 제품 디자인도 좋고 아파트 베란다 창문에 실사용해보니 먼지는 잘 닦이는데 물때는 안되네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "3",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20200921",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "제품 디자인도 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "먼지는 잘 닦이는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 물때는 안되네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "515117",
+    "RawText": "접착력이 대단합니다 중간패드가 없으면 양쪽면을 떨어뜨리는 것도 힘들 정도네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "9",
+    "RDate": "20200920",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "흡착/접착력",
+        "SentimentText": "접착력이 대단합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡착/접착력",
+        "SentimentText": "중간패드가 없으면 양쪽면을 떨어뜨리는 것도 힘들 정도네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "515122",
+    "RawText": "발코니 외부유리창이 자석으로는 안닦여서 직접 몸을 내밀고 닦았는데도 안되네요. 녹색 수세미로 닦았더니 찌든때는 닦이는데 유리에 흠집이 생겨 철 수세미로 문질렀더니 흠집없이 잘 닦였네요. 철수세미를 봉에 매달아서 닦을수 있도록 연구해 봐야될것 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "3",
+    "Syllable": "138",
+    "Word": "31",
+    "RDate": "20200915",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "자석으로는 안닦여서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "직접 몸을 내밀고 닦았는데도 안되네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "515123",
+    "RawText": "정말 자석힘이 좋으니 조심해야하네요. 뿌연게 없어지는 정도이나 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "41",
+    "Word": "8",
+    "RDate": "20200915",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "정말 자석힘이 좋으니 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "뿌연게 없어지는 정도이나 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "조심해야하네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "515127",
+    "RawText": "이런 가격에 이렇게 가성비 좋은 상품 매우 만족해요. 빠른 배송에 물건도 잘받았네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "4",
+    "Syllable": "46",
+    "Word": "12",
+    "RDate": "20200910",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이런 가격에 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이렇게 가성비 좋은 상품 매우 만족해요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "515129",
+    "RawText": "이걸로 유리창 닦으면 근육을 키울 수 있어요. 엄청 빡빡해서 잘 안 움직이고 유리가 두꺼운 경우에는 수시로 낙하도 하구요. 안전끈은 꼭 잡고 작업해야 하네요. 제 경험으로는 창문에 세정제 뿌리고 닦고자 하는 면 도구 아래에 얇은 종이나 헝겊을 대고 하면 그나마 쉽게 움직이네요. 안쪽에도 뭔가를 대 주어야 부드럽게 움직이구요. 이 경우 낙하가 수시로 발생한다는 점 주의하세요. 일 년에 많아야 한 두번 사용하기에 다행이네요. 제품 자체만으로 고층 아파트 외창 닦으려다가는 병 나겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "2",
+    "Syllable": "271",
+    "Word": "69",
+    "RDate": "20200908",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "엄청 빡빡해서 잘 안 움직이고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "유리가 두꺼운 경우에는 수시로 낙하도 하구요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 낙하가 수시로 발생한다는 점 주의하세요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "일 년에 많아야 한 두번 사용하기에 다행이네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 자체만으로 고층 아파트 외창 닦으려다가는 병 나겠어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "얇은 종이나 헝겊을 대고 하면 그나마 쉽게 움직이네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "안쪽에도 뭔가를 대 주어야 부드럽게 움직이구요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "515152",
+    "RawText": "자력이 생각보다 너무 강력해서 깜짝 놀랐네요 청소가 잘 되리라 여겨집니다 사용하는 도중에 탈락의 염려는 없을 듯 하네요 작은 바람이라면 자력의 강도를 조절할 수 있었으면 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "25",
+    "RDate": "20200825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자력이 생각보다 너무 강력해서 깜짝 놀랐네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "청소가 잘 되리라 여겨집니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "사용하는 도중에 탈락의 염려는 없을 듯 하네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "자력의 강도를 조절할 수 있었으면 하네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "515154",
+    "RawText": "강력한 자력으로 유리창을 깨끗하게 닦을 수 있어 좋습니다. 추천해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "38",
+    "Word": "9",
+    "RDate": "20200822",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "강력한 자력으로",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "유리창을 깨끗하게 닦을 수 있어 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "515157",
+    "RawText": "베란다 창문이 너무 더러워 샀어요. 잘닦이길 바래봅니다 자석이 정말 잘 달라붙어서 성능이 좋을거같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20200818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "잘닦이길 바래봅니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자석이 정말 잘 달라붙어서 성능이 좋을거같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "515158",
+    "RawText": "처음분리시 손가락 끼임 주의하셔야 됩니다 자력이 엄청강해서 가운데 스펀지 제거하면서 손가락 끼였는데 피멍들었네요 분리시 조심조심하셔야됩니다 성능은 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "17",
+    "RDate": "20200818",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "처음분리시 손가락 끼임 주의하셔야 됩니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자력이 엄청강해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가운데 스펀지 제거하면서 손가락 끼였는데 피멍들었네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "분리시 조심조심하셔야됩니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능은 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "515160",
+    "RawText": "자력은 강한데 방향 전환할때 자꾸 추락해서 위험하고 사용하기 힘듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "4",
+    "Syllable": "38",
+    "Word": "9",
+    "RDate": "20200817",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자력은 강한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "방향 전환할때 자꾸 추락해서 위험하고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 사용하기 힘듭니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "515167",
+    "RawText": "대체적으로 잘 닦이기는 합니다 양쪽 끝 부분은 깨끗하게 닦이지 않네요. 자석 세기가 강해서 손가락이 꼈을때 너무 아프네요. 애들이 만지면 아주 위험해 조심해서 관리해야 할것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "25",
+    "RDate": "20200811",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "대체적으로 잘 닦이기는 합니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "양쪽 끝 부분은 깨끗하게 닦이지 않네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자석 세기가 강해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "애들이 만지면 아주 위험해",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 조심해서 관리해야 할것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "손가락이 꼈을때 너무 아프네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "515169",
+    "RawText": "다들 손 다친다는 말이 많아 너무 긴장했네요 ㅇㅇㅇ에 관련 영상 참고하면서 사용하니 간단하네요 깔끔하게 잘 닦여 속이 더 시원합니다. 유리창이 서로 붙일때 약간 비틀면서 붙이면 잘 붙네요. 방향을 틀때 남는 부분은 마지막 끝을 따라서 쭉 올리거나 내리면 검은 물이 후루루룩 하고 내려오니 속이 시원합니다 그래도 항상 안전에 조심하세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "186",
+    "Word": "48",
+    "RDate": "20200810",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "관련 영상 참고하면서 사용하니 간단하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "깔끔하게 잘 닦여 속이 더 시원합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "약간 비틀면서 붙이면 잘 붙네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "검은 물이 후루루룩 하고 내려오니 속이 시원합니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 항상 안전에 조심하세요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "515179",
+    "RawText": "사용하기 좀 어려워요. 그렇지만 힘들어도 닦고 나면 깨끗합니다. 잘쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "41",
+    "Word": "9",
+    "RDate": "20200803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 좀 어려워요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "힘들어도 닦고 나면 깨끗합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "515185",
+    "RawText": "묵은 때는 한방은 아니고 2~3번하면 지워지긴 하네요 근데 잘 지워져요 자석은 쌔니까 진짜 조심하셔야 됩니다 주의사항 꼭 읽고 하지말라는거 안하시는게 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "4",
+    "Syllable": "88",
+    "Word": "21",
+    "RDate": "20200801",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "묵은 때는 한방은 아니고 2~3번하면 지워지긴 하네요 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "잘 지워져요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자석은 쌔니까 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "진짜 조심하셔야 됩니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "515190",
+    "RawText": "사이에 스펀지 빼고 붙였다가 안떨어져서 고생했어요. 유리창에 붙이니 잘 떨어지네요. 힘들지만 닦이긴 닦여요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "3",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20200729",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "사이에 스펀지 빼고 붙였다가 안떨어져서 고생했어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "유리창에 붙이니 잘 떨어지네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "힘들지만 닦이긴 닦여요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "515193",
+    "RawText": "이정도 가격에 사용성과 품질이면 만족이네요 사용중 떨어짐에 대비 하세요 줄 잘 묶어서 사용하시고, 떨어지거나, 창문에 붙더라도 놀라지마세요 사용 시 바깥쪽 닦이에 안쪽 닦이를 그대로 마주보게 붙이면 유리가 파손될 우려가 있으니 두개의 닦이를 창문에 떨어뜨려 붙인 상태로 옆으로 가까이 끌어오며 붙이면 되겠습니다,",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "174",
+    "Word": "41",
+    "RDate": "20200728",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이정도 가격에 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용성과 품질이면 만족이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이면 만족이네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "사용중 떨어짐에 대비 하세요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "줄 잘 묶어서 사용하시고,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "마주보게 붙이면 유리가 파손될 우려가 있으니",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "515200",
+    "RawText": "무기가 따로 없어요. 걸레도 엄청 작고 잘 딱이지도 않고 최악의 상품입니다. 자석 사이에 손가락 끼어서 손가락 부러질뻔하고, 애기 아빠 손 퉁퉁 붓고,무서워서 창문도 못딱겠어요. 정말 반품하고 싶은데 개봉해서 돈만 날렸어요. 보기만해도 무서운 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "1",
+    "Syllable": "142",
+    "Word": "33",
+    "RDate": "20200726",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "걸레도 엄청 작고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "잘 딱이지도 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "자석 사이에 손가락 끼어서 손가락 부러질뻔하고, ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "무서워서 창문도 못딱겠어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "정말 반품하고 싶은데 개봉해서 돈만 날렸어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "애기 아빠 손 퉁퉁 붓고,",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "보기만해도 무서운 제품입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "515201",
+    "RawText": "장점은 자력이 쌔서 떨어지지 않고 잘 닦여요. 단점은 물을 충분히 뿌리고 세제를 넣어서 딱아야 하는데 베란다 외벽 창문은 딱을 수가 없어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "3",
+    "Syllable": "78",
+    "Word": "21",
+    "RDate": "20200725",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자력이 쌔서 떨어지지 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "잘 닦여요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "물을 충분히 뿌리고 세제를 넣어서 딱아야 하는데",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "베란다 외벽 창문은 딱을 수가 없어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "515206",
+    "RawText": "자력이 강해서 좋네요 처음엔 사용법이 어려웠지만 요령생기니 잘 닦입니다. 비오는날 유리창 닦으니 속이 시원해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20200723",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자력이 강해서 좋네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "처음엔 사용법이 어려웠지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "요령생기니 잘 닦입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "515209",
+    "RawText": "거실창 하나 닦았는데 팔이 너무 아파요. 그만큼 힘이 좋아서 잘 닦이긴 하구요 .중간에 두개가 붙어버렸는데 안 떨어져서 떼기가 힘들었어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20200722",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "거실창 하나 닦았는데 팔이 너무 아파요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "그만큼 힘이 좋아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "잘 닦이긴 하구요 .",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "중간에 두개가 붙어버렸는데 안 떨어져서 떼기가 힘들었어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "515214",
+    "RawText": "빠른 배송 좋네요 다만 자력이 강해 정말 손을 조심하셔야 됩니다 청소는 잘 되는 것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "15",
+    "RDate": "20200719",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자력이 강해",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손을 조심하셔야 됩니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "청소는 잘 되는 것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "515224",
+    "RawText": "깨끗하게 청소가 되네요  자석도 힘이 쎄고 흡착력 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "31",
+    "Word": "8",
+    "RDate": "20200716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "깨끗하게 청소가 되네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자석도 힘이 쎄고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡착/접착력",
+        "SentimentText": "흡착력 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "515230",
+    "RawText": "자석 강도가 너무 강해서 뻑뻑하니 사용이 힘듭니다. 자석강도 조절되는 제품도 있던데 그걸로 살걸 그랬나봐요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "4",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20200714",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자석 강도가 너무 강해서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "뻑뻑하니 사용이 힘듭니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "515236",
+    "RawText": "양면 자석 유리닦이로 외창 청소 했는데, 생각보다 깔끔하게 청소가 되진 않네요.하다가 자석끼리 붙어서 손도 다치고 그래도 안한거 보단 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "3",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20200710",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "생각보다 깔끔하게 청소가 되진 않네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "자석끼리 붙어서 손도 다치고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "515240",
+    "RawText": "자석이 강력하지만 유리창을 깨끗히 닦으려면 여러번 닦아야 해서 힘듭니다 한번쓰고 안쓰게되네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "4",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20200707",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자석이 강력하지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "유리창을 깨끗히 닦으려면 여러번 닦아야 해서 힘듭니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "한번쓰고 안쓰게되네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "515244",
+    "RawText": "잘 닦여서 정말 좋습니다 주의 할 점도 있네요 자력이 너무 강해요 손 한번 끼었다 죽는줄 알았네요 남자 성인이 힘으로 붙어버린 청소기를 땔수가 없어요 꼭 조심해서 사용해야합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "4",
+    "Syllable": "98",
+    "Word": "26",
+    "RDate": "20200705",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "잘 닦여서 정말 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자력이 너무 강해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "손 한번 끼었다 죽는줄 알았네요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "남자 성인이 힘으로 붙어버린 청소기를 땔수가 없어요 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "꼭 조심해서 사용해야합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "515246",
+    "RawText": "배송 빠르네요 신랑이 사용하기 괜찮다고 해요 조금 빡빡해서 팔 힘 없는 사람이 하기엔 힘들겠다고 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "15",
+    "RDate": "20200704",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "신랑이 사용하기 괜찮다고 해요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "조금 빡빡해서 팔 힘 없는 사람이 하기엔 힘들겠다고 합니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "515252",
+    "RawText": "평에 너무 힘들다고 하던데 우리집은 유리가 두꺼워서 그런지 여자인 내가 해도 그렇게 힘들지 않았어요 각도 바꿀때 좀 떨어지긴 했지만 유리창 청소는 정말 잘됩니다 세제 듬뿍 묻히고 하면 잘 되네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "108",
+    "Word": "29",
+    "RDate": "20200625",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 여자인 내가 해도 그렇게 힘들지 않았어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "각도 바꿀때 좀 떨어지긴 했지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "유리창 청소는 정말 잘됩니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "세제 듬뿍 묻히고 하면 잘 되네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "515256",
+    "RawText": "잘됩니다 자력이 너무세서 손가락 잘리뻔했네요 사이에 손안들어가게 잘 쓰셔야 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "45",
+    "Word": "10",
+    "RDate": "20200623",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자력이 너무세서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "손가락 잘리뻔했네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사이에 손안들어가게 잘 쓰셔야 합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "515259",
+    "RawText": "실수로 붙었을때 손가락을 다쳐서 살짝 놀랬네요 강력한 자력에 마음에 들어요 외부에 있는게 빠르게 하거나 가장자리 할때 떨어져서 안전끈 잡고 하지 않으면 사고 날수 있겠구요 단점이라면 유리에 기스가 난다는 거네요 최악입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "2",
+    "Syllable": "123",
+    "Word": "30",
+    "RDate": "20200620",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "실수로 붙었을때 손가락을 다쳐서 살짝 놀랬네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "강력한 자력에 마음에 들어요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "안전끈 잡고 하지 않으면 사고 날수 있겠구요 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "단점이라면 유리에 기스가 난다는 거네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "515262",
+    "RawText": "설명서대로 유리창에 물 흘러내릴만큼 충분히 뿌리고 청소하니 한방에 깨끗해졌네요 뒷쪽에 와이퍼가 있어서 물기 깨끗이 닦이고 문지르는데 그렇게 큰힘이드는것도 아니구요 떨어질 염려도 별로 안했어요 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "111",
+    "Word": "24",
+    "RDate": "20200619",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "유리창에 물 흘러내릴만큼 충분히 뿌리고 청소하니 한방에 깨끗해졌네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "물기 깨끗이 닦이고 문지르는데 그렇게 큰힘이드는것도 아니구요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "떨어질 염려도 별로 안했어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "515264",
+    "RawText": "입주하고 처음 밖창문을 닦는데 이정도면 훌륭하네요 단 반드시 방충망을 한다음 해야 안전합니다 방충망없는 창문은 둘을 너무 믿지말고 포기하거나 조심해야해요 본의아니게 5번정도 떨어졌네요 그래도 이가격에 이정도면 훌륭합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "4",
+    "Syllable": "122",
+    "Word": "26",
+    "RDate": "20200618",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "반드시 방충망을 한다음 해야 안전합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "방충망없는 창문은 둘을 너무 믿지말고 포기하거나 조심해야해요 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "본의아니게 5번정도 떨어졌네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이가격에 이정도면 훌륭합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 처음 밖창문을 닦는데 이정도면 훌륭하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "515267",
+    "RawText": "동영상에서는 쉽게 잘 닦이던데 제가 하려니 뻑뻑하네요 잘못 움직이니 바로 떨어셔서 방충망을 찢었습니다. 차라리 더 싼 제품으로 살 껄 그랬네요. 비싸게 줬는데 아무 짝에도 쓸모가 없게 됐습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "1",
+    "Syllable": "107",
+    "Word": "27",
+    "RDate": "20200615",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "제가 하려니 뻑뻑하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "잘못 움직이니 바로 떨어셔서 방충망을 찢었습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "더 싼 제품으로 살 껄 그랬네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸게 줬는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 아무 짝에도 쓸모가 없게 됐습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "515268",
+    "RawText": "큰 기대없어서 그런지 생각 보다는 잘 사용했네요 내장된 걸레를 충분히 적셔주고 그위에 주방세제를 3군데 정도 묻혀주면 사용시에 미끌림이 좋습니다 창문 끝 부분에서 방향을 바꾸기위해 회전을 할때 창문틀에 조금이라도 걸려서 회전하게되면 떨어지네요 그러니 회전을 할때는 창틀과 떨어져서 하시구요 찌든먼지 부분은 진짜 여러번 해야합니다 찌든먼지가 없는 창문은 정말 깨끗하게 닦여요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "4",
+    "Syllable": "208",
+    "Word": "48",
+    "RDate": "20200615",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "주방세제를 3군데 정도 묻혀주면 사용시에 미끌림이 좋습니다 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "회전을 할때 창문틀에 조금이라도 걸려서 회전하게되면 떨어지네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "찌든먼지 부분은 진짜 여러번 해야합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "찌든먼지가 없는 창문은 정말 깨끗하게 닦여요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "회전을 할때는 창틀과 떨어져서 하시구요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "515272",
+    "RawText": "아파트창문이 너무더러워 구입했어요. 창문 깨질까바 걱정을 하면서 청소를 시작, 조심조심사용하니간 할만하네요. 한번해서는 안 깨끗해져서 3번정도 했어요. 더러운곳은 밀리지지도않네요. 3번째 닦을때는 힘안들이고 잘닦이네요. 그런데 팔이 너무아파요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 양면자석 유리창닦이",
+    "ReviewScore": "5",
+    "Syllable": "136",
+    "Word": "25",
+    "RDate": "20200613",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "조심조심사용하니간 할만하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "한번해서는 안 깨끗해져서 3번정도 했어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "더러운곳은 밀리지지도않네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "3번째 닦을때는 힘안들이고 잘닦이네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "팔이 너무아파요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  }
+]

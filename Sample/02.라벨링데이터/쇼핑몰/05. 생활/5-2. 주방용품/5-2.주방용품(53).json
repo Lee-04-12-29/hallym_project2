@@ -1,0 +1,3296 @@
+[
+  {
+    "Index": "443175",
+    "RawText": "티비에서 사과 깎는 기계나와서 구매했네요. 아들이 사과 좋아하는데 솔직히 깎는게 귀찮아서 다른 과일만 사주다가 기계 사고 깎기 편해져서 사과 많이 사먹어요. 맨날 쓸 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다** 과일깍는기계",
+    "ReviewScore": "4",
+    "Syllable": "99",
+    "Word": "25",
+    "RDate": "20210212",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "기계 사고 깎기 편해져서 사과 많이 사먹어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 맨날 쓸 것 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443181",
+    "RawText": "못생긴 사과를 깎아 봤습니다. 신기하게 잘 깎이네요. 사용하기도 엄청 편해요. 정말 추천해 주고 싶은 상품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다** 과일깍는기계",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20210204",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "신기하게 잘 깎이네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 사용하기도 엄청 편해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443185",
+    "RawText": "시골에 감나무가 있어서 곶감 만들려고 구입했네요. 아주 작은 과일은 잘 안 깎이고 사과 배는 잘 깎입니다. 감은 잘 깎이는지 해봐야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다** 과일깍는기계",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "20",
+    "RDate": "20210114",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "아주 작은 과일은 잘 안 깎이고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "사과 배는 잘 깎입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443188",
+    "RawText": "배송 받자마자 써봤는데 껍질도 얇게 깎이고 빠르고 좋습니다. 사용하기 무난합니다. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다** 과일깍는기계",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20201210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": " 껍질도 얇게 깎이고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 빠르고 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 무난합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "443194",
+    "RawText": "감을 깍아봤어요. 누가 만들었는지 품질이 한심하기 짝이 없습니다. 감 두개를 깍는데 손으로 깍는것보다 엄청 느리네요. 뻑뻑해서 힘들고 제가 여자인데 여자힘으로는 잘 안되요. 썼으니 반품도 못하고 울며 겨자먹기로 그냥 보관할 수 밖에 없네요. 좋은제품만 만들어 파셨으면 합니다. 아이들 장난감으로 쓸만한 품질이지만 위험하니 그럴수도 없고 대실망이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다** 과일깍는기계",
+    "ReviewScore": "1",
+    "Syllable": "195",
+    "Word": "44",
+    "RDate": "20201023",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "누가 만들었는지 품질이 한심하기 짝이 없습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "감 두개를 깍는데 손으로 깍는것보다 엄청 느리네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "뻑뻑해서 힘들고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "제가 여자인데 여자힘으로는 잘 안되요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "아이들 장난감으로 쓸만한 품질이지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "위험하니 그럴수도 없고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "443195",
+    "RawText": "과일을 좋아하는데 깎는 걸 잘 못하는 딸을 위해 샀네요. 잘 될까 했는데 진짜 잘 깎입니다. 아이들이 재밌다고 신나서 깎는 바람에 과일 엄청 먹고 있어요. 사용하면서 과일이 튀어나온다 이런 이야기가 있던데 전혀 그렇지 않습니다. 다 깎고 뽑을 때 힘이 조금 들 정도로 고정력이 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다** 과일깍는기계",
+    "ReviewScore": "5",
+    "Syllable": "159",
+    "Word": "43",
+    "RDate": "20200417",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "잘 될까 했는데 진짜 잘 깎입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하면서 과일이 튀어나온다 이런 이야기가 있던데 전혀 그렇지 않습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "다 깎고 뽑을 때 힘이 조금 들 정도로 고정력이 좋네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443214",
+    "RawText": "상품 품질이 좋아 맘에 듭니다. 똑같은 가위 5년동안 잘 쓰다가 이제 좀 안듣는 것 같아 새로 구입했어요. 정말 잘 들고 잘 잘리고 그립감도 좋아서 너무 마음에 드네요. 가격도 저렴해서 두 개를 구매했는데 잘 한 것 같아요. 가격대비 훌륭하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "137",
+    "Word": "38",
+    "RDate": "20181003",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋아 맘에 듭니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": " 정말 잘 들고 잘 잘리고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "그립감도 좋아서 너무 마음에 드네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 훌륭하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443219",
+    "RawText": "가격대비 좋네요. 집에 있는 가위가 수명이 다 해서 고민하다가 샀는데 잘 산 것 같습니다. 가격도 디자인도 모두 모두 무난한 제품이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "20",
+    "RDate": "20160520",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 좋네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 디자인도 모두 모두 무난한 제품이네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 모두 모두 무난한 제품이네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "443221",
+    "RawText": "식가위가 하나 더 필요해서 검색해서 구매했습니다. OO 가위도 종류가 엄청 많더라고요. 가격은 저렴이 제품보다 조금 더 줬지만 절삭력은 O칼 세트에 있는 가위 못지 않네요. 정말 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "105",
+    "Word": "26",
+    "RDate": "20160803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴이 제품보다 조금 더 줬지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력은 O칼 세트에 있는 가위 못지 않네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443222",
+    "RawText": "튼튼하고 잘 잘려요. 상세 설명 보고 동일한데 여기가 너무 저렴해서 걱정하면서 샀는데 똑같네요. 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20160902",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": " 잘 잘려요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 너무 저렴해서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443226",
+    "RawText": "주방 가위 가격이 만원이면 상당히 비싸다는 일반적인 생각을 접어두고 OO상표을 믿고 구매를 했어요. OO니까요. 목부분이 두꺼워서 자를 때 미끌리지 않고 잘 잘리겠어요. 잘 잘려요. 추천요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "25",
+    "RDate": "20161017",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "상당히 비싸다는",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "목부분이 두꺼워서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "자를 때 미끌리지 않고 잘 잘리겠어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "잘 잘려요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443228",
+    "RawText": "주방 가위가 계속 너무 안 들어서 고민하다가 샀습니다. 가격 저렴하고 진짜 잘 듭니다. 그립감도 좋습니다. 왜 이제 샀을까 후회 될 정도입니다. 진작 살걸 그랬습니다. 배송도 빠르고 여기가 제일 가격이 저렴했습니다. 많이 파세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "128",
+    "Word": "32",
+    "RDate": "20161114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "진짜 잘 듭니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "그립감도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 제일 가격이 저렴했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443229",
+    "RawText": "역시 좋습니다. 그립감 좋아 손에 무리도 안 가고 무겁지도 않아요. 요고 쓰다 다른 거 못 써요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "16",
+    "RDate": "20170314",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "그립감",
+        "SentimentText": "그립감 좋아 손에 무리도 안 가고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁지도 않아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443231",
+    "RawText": "저는 칼보다는 가위를 주로 사용하는데 가위날이 시원하게 잘 잘려서 좋습니다. 아쉬운 점은 제 손에 비해 가위가 조금 크다는 느낌이 들지만 큰 가위 좋아하시는 분들은 만족하실 거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "103",
+    "Word": "27",
+    "RDate": "20170728",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "가위날이 시원하게 잘 잘려서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "아쉬운 점은 제 손에 비해 가위가 조금 크다는 느낌이 들지만",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "큰 가위 좋아하시는 분들은 만족하실 거 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443233",
+    "RawText": "배송 감사드려요. 너무너무 잘 잘립니다. 담에 또 주문하고 싶어요. 강추합니다.  저렴한 가격에 주셔서 감사해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20170906",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "너무너무 잘 잘립니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 주셔서 감사해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443236",
+    "RawText": "손잡이가 실리콘이라  나중에 곰팡이 낄 것 같네요. 그래도 가격대비 절삭력 무난합니다. 오프너 기능도 있어서 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20171220",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "손잡이가 실리콘이라  나중에 곰팡이 낄 것 같네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "가격대비 절삭력 무난합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 오프너 기능도 있어서 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443246",
+    "RawText": "하나는 제가 쓰고 또 한 개는 선물하려고 2개 구입했네요. 색도 이쁘고 튼튼한 것 같아 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "15",
+    "RDate": "20190514",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": " 색도 이쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼한 것 같아 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443254",
+    "RawText": "제품은 좋은데 선택시 110s와 110a를 선택하게 돼있어요. 색상을 말하는 줄 알고 110a를 선택했는데 색상 차이가 아니라 손잡이 모양 차이였더라고요. 전 주황색 양손잡이용을 원했는데 색상도 손잡이 모양도 맘에 안 드네요. 교환비 아까워서 그냥 씁니다. 절삭력은 그냥 무난하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "158",
+    "Word": "36",
+    "RDate": "20200922",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 손잡이 모양도 맘에 안 드네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "손잡이 모양도 맘에 안 드네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력은 그냥 무난하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "443255",
+    "RawText": "제품을 실제로 사용하면서 정말 잘 잘리니 기분 좋네요. 가위날 끝이 뭉툭해서 위험하지 않아 보입니다. 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20201027",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "정말 잘 잘리니 기분 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "가위날 끝이 뭉툭해서 위험하지 않아 보입니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443261",
+    "RawText": "OOO 식도 사용하고 좋아서 가위도 장만했습니다. 튼튼하고 색상도 이쁘네요. 아주 잘 잘라져서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20200506",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 이쁘네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "아주 잘 잘라져서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443266",
+    "RawText": "우선 가볍습니다. 몸체 자체도 가볍지만 가위 질 할 때 힘이 적게 듭니다. 새 거라 그런지는 잘 모르겠지만 절삭력 정말 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "20",
+    "RDate": "20200806",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "우선 가볍습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "몸체 자체도 가볍지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "가위 질 할 때 힘이 적게 듭니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "새 거라 그런지는 잘 모르겠지만 절삭력 정말 좋습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443278",
+    "RawText": "정말 마음에 들어요. 색상과 디자인 너무 예쁘고 손잡이와 가위날의 비율과 크기가 적당하네요. 실제 주방에서 사용하기에 만족스럽습니다. 손잡이가 아주 편안해서 좋고 가볍고 크기도 크고 OOO 브랜드라 믿고 구입했지만 색상과 디자인이 정말 마음에 들었어요. 다른 칼도 모두 OOO로 사용중입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "163",
+    "Word": "37",
+    "RDate": "20200310",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상과 디자인 너무 예쁘고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 너무 예쁘고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "손잡이와 가위날의 비율과 크기가 적당하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "실제 주방에서 사용하기에 만족스럽습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손잡이가 아주 편안해서 좋고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 크고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상과 디자인이 정말 마음에 들었어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 정말 마음에 들었어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443283",
+    "RawText": "절삭력은 좋습니다. 그런데 가위 질 할 때 마다 소름 끼치는 소리가 나서 정말 거슬리네요. 참고하셔서 구매하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "4",
+    "Syllable": "63",
+    "Word": "16",
+    "RDate": "20191207",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력은 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가위 질 할 때 마다 소름 끼치는 소리가 나서 정말 거슬리네요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "443285",
+    "RawText": "가위 길이가 짧고 절삭력도 별로입니다. 품질에 비해 가격이 비싸고 브랜드 값을 못합니다. 정말 비추입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "3",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20220407",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "가위 길이가 짧고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력도 별로입니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "품질에 비해 가격이 비싸고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "443290",
+    "RawText": "기존에 사용하던 거라 같은 걸로 구매했습니다. 좋은 가격에 잘 구매했어요. 고기 자를 때 오징어 자를 때 등등 너무 잘 잘려서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "21",
+    "RDate": "20210709",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 잘 구매했어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "고기 자를 때 오징어 자를 때 등등 너무 잘 잘려서 좋습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443306",
+    "RawText": "집에 가위는 많은데 주방용 가위를 급한 김에 여기저기 막 사용하다 보니 이게 주방가위인지 먼지 알수가 없게 돼버려서 주방가위 하나 구매하네요. 크기도 딱 좋고 품질도 맘에 딱 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "27",
+    "RDate": "20160514",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 딱 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 맘에 딱 드네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443307",
+    "RawText": "가위 색상이 화사하니 참 예쁘네요. 가볍고 잘 들것 같고 좋습니다. 디자인도 맘에 듭니다. 감사해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20160514",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "가위 색상이 화사하니 참 예쁘네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "잘 들것 같고 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 맘에 듭니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443310",
+    "RawText": "역시 우리나라를 대표하는 상표네요. 칼 하면 OOO. 색상도 너무 이쁘고 칼도 잘 드네요. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20160527",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 너무 이쁘고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "칼도 잘 드네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443312",
+    "RawText": "여러 군데 상품평과 함께 많이 따져보고 난 뒤 결정한 뒤라 성능이 매우 만족할 만한 제품이네요. 좀 묵직한 편이나 사용하다 보니 점차 손에 익숙해지는 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "25",
+    "RDate": "20170430",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능이 매우 만족할 만한 제품이네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "좀 묵직한 편이나 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하다 보니 점차 손에 익숙해지는 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443313",
+    "RawText": "기존에 저렴한거 사용했는데 금방 부러져서 구매했어요. 사용하기 부드러워 편하고 절삭력도 좋아요. 가격은 오프라인과 차이가 없어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "15",
+    "RDate": "20181228",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 부드러워 편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 오프라인과 차이가 없어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "443316",
+    "RawText": "빠른 배송 잘 받았습니다. 다른 것 몇 개를 써봐도 이게 제일 잘 잘리고 그립감이 너무 좋아요. 고맙습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "17",
+    "RDate": "20200113",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "이게 제일 잘 잘리고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "그립감이 너무 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443318",
+    "RawText": "기존에 같은거 구입해서 몇 년 되어도 잘 쓰다가 동네에서 칼갈이 잘못받고 속상했거든요. 묵직하면 더 좋은데 좀 아쉽고 그립감 절삭력 모두 나쁘지 않은 가위입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "23",
+    "RDate": "20200217",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직하면 더 좋은데 좀 아쉽고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "그립감 절삭력 모두 나쁘지 않은 가위입니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력 모두 나쁘지 않은 가위입니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "443330",
+    "RawText": "두개 샀습니다. 할인 쿠폰해서 조금 저렴하게 구입했어요. 일반 가위는 사도 잘 안들어서 OOO는 믿고 구입했어요. 칼날 알아주는 거라 써보려고 합니다. 모양도 잘 빠져서 뭉둑하지 않고 잘 들 거 같습니다. 손잡이 부분도 예쁘고 인테리어 효과도 납니다. 튼튼해 보여요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "149",
+    "Word": "37",
+    "RDate": "20171027",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인 쿠폰해서 조금 저렴하게 구입했어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "모양도 잘 빠져서 뭉둑하지 않고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "잘 들 거 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "손잡이 부분도 예쁘고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인테리어 효과도 납니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해 보여요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443332",
+    "RawText": "집에서 사용하던 가위가 부러져서 OO 가위를 구매했어요. OO가 국산 브랜드이고 믿을만한 품질에 적당한 가격이라 구매해서 사용중인데 거의 칼 수준으로 절삭력이 좋아서 조심조심 사용합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "104",
+    "Word": "23",
+    "RDate": "20180731",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "믿을만한 품질에 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "적당한 가격이라 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "거의 칼 수준으로 절삭력이 좋아서 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443333",
+    "RawText": "상품평이 좋아서 구매했습니다. 가격 대비 품질이 괜찮은 것 같네요. 가위 무게도 가볍고 날도 잘 들어서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "4",
+    "Syllable": "63",
+    "Word": "16",
+    "RDate": "20190415",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격 대비 품질이 괜찮은 것 같네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가위 무게도 가볍고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "날도 잘 들어서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443335",
+    "RawText": "좀 쓰다 보면 잘 안 들어서 이번엔 좀 가격대가 있는 걸로 사봤네요. 디자인도 너무 깔끔하고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "16",
+    "RDate": "20200416",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대가 있는 걸로 사봤네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 너무 깔끔하고 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443347",
+    "RawText": "OOO라 믿고 구매했어요. 가위 날 길이가 생각보다 짧네요. 잘 잘리기는 해요. 손잡이 그립감도 좋구요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20170809",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "가위 날 길이가 생각보다 짧네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": " 잘 잘리기는 해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "손잡이 그립감도 좋구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443363",
+    "RawText": "좀 비싸긴 하지만 손잡이 부분의 디자인이 마음에 듭니다. 그리고 날 부분이 길어서 가위질 하기가 수월하네요. 배송도 빨라서 좋았어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20160324",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 좀 비싸긴 하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "손잡이 부분의 디자인이 마음에 듭니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": " 날 부분이 길어서 가위질 하기가 수월하네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443367",
+    "RawText": "색상도 예쁘고  모양, 크기 모두 마음에 드네요. 가위도 진짜 잘 드는 것 같아요. 배송도 빨라 아주 만족하며 사용하고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "19",
+    "RDate": "20160619",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 모양, 크기 모두 마음에 드네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기 모두 마음에 드네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": " 가위도 진짜 잘 드는 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443374",
+    "RawText": "가위 날만 있는 것이 세척이 편한 듯 합니다. 칼날이 아주 위험해서 조심히 다뤄야 할 듯 하네요. 배송은 빨라 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "19",
+    "RDate": "20160316",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "가위 날만 있는 것이 세척이 편한 듯 합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "칼날이 아주 위험해서 조심히 다뤄야 할 듯 하네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "443376",
+    "RawText": "가위가 생각보다 잘 안 들어 실망입니다.  그린 손잡이의 색상도 촌스러워 맘에 들지 않습니다. 비추입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "4",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20160530",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "가위가 생각보다 잘 안 들어 실망입니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "그린 손잡이의 색상도 촌스러워 맘에 들지 않습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "443378",
+    "RawText": "상표가 OOO써 있는줄 알았는데 아니라서 아쉽지만 같은 OOO 계열이라 생각하고 있습니다. 디자인이 깔끔하니 이쁘네요. 절삭력도 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "16",
+    "RDate": "20160623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 깔끔하니 이쁘네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443379",
+    "RawText": "잘 잘라지고 이쁘기 까지 하네요. OOO 믿고 쓰는 제품입니다. 다만 날이 너무 위험해서 다치지 않도록 조심히 다뤄야 할 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "20",
+    "RDate": "20160721",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": " 잘 잘라지고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 이쁘기 까지 하네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "날이 너무 위험해서 다치지 않도록 조심히 다뤄야 할 것 같아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "443383",
+    "RawText": "배송은 빨라서 만족합니다. 저번 제품보다 녹이 잘 생겨요. 품질이 그닥 좋은거 같지 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "13",
+    "RDate": "20160805",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "저번 제품보다 녹이 잘 생겨요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 그닥 좋은거 같지 않아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "443386",
+    "RawText": "고기 자를 때나 김치를 자를 때나 정말 단단한 것도 잘 잘립니다. 예뻐서 선물용으로 몇 개째 주문을 하고 있는지 모르겠네요. 배송도 빨라 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "22",
+    "RDate": "20170106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "고기 자를 때나 김치를 자를 때나 정말 단단한 것도 잘 잘립니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "예뻐서 선물용으로 몇 개째 주문을 하고 있는지 모르겠네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443391",
+    "RawText": "잘 잘려집니다.  딱딱한 것을 자를 때는 손이 좀 아픕니다.  그립감은 그닥 좋지는 않네요. 배송은 빨랐어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20180102",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "잘 잘려집니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "딱딱한 것을 자를 때는 손이 좀 아픕니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "그립감은 그닥 좋지는 않네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "443392",
+    "RawText": "가위 잘 듭니다. 생각보다 무게가 좀 있는편이지만 절삭력 좋습니다. 가위가 잘 들어서 좋습니다. 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20180516",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "가위 잘 듭니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각보다 무게가 좀 있는편이지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "가위가 잘 들어서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443397",
+    "RawText": "가위가 무겁지 않고 무엇보다 잘 잘립니다. 디자인도 깔끔하니 이쁘구요. 저렴한 가격으로 잘 구입했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20160516",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": " 가위가 무겁지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "무엇보다 잘 잘립니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인도 깔끔하니 이쁘구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격으로 잘 구입했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443398",
+    "RawText": "손잡이 부분이 손에 안정감있게 설계되어 있어 그립감이 좋아요. 생각보다 무겁지 않으면서 아주 잘 잘립니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20160516",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "그립감",
+        "SentimentText": " 손잡이 부분이 손에 안정감있게 설계되어 있어 그립감이 좋아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각보다 무겁지 않으면서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "아주 잘 잘립니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443399",
+    "RawText": "주방에서 쓰기 딱 좋은 디자인의 가위입니다. 고기 자를때 싹뚝 잘려나가는 절삭력이 최고입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20170318",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "주방에서 쓰기 딱 좋은 디자인의 가위입니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "고기 자를때 싹뚝 잘려나가는 절삭력이 최고입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443409",
+    "RawText": "OOO 가위 쓰다가 금방 녹슬어서 브랜드 가위 구매했어요. 역시나 품질이 차원이 다릅니다. 잘 잘리고 튼튼하네요. 잘 사용할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20200511",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "역시나 품질이 차원이 다릅니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "잘 잘리고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하네요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443412",
+    "RawText": "쓰던 거랑 날이 좀 다른 거 같네요. 예전거는 무게감 있게 잘 잘렸는데요. 이건 날이 좀 가벼운 느낌이 들고, 잘 잘리지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "21",
+    "RDate": "20200715",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": " 이건 날이 좀 가벼운 느낌이 들고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": " 잘 잘리지 않습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "443419",
+    "RawText": "18일 주문해서 21일 오전에 받았습니다. 절삭력도 좋고 저렴하게 잘 산 것 같습니다. 기존에 잘 사용하다가 또 재구매한 제품입니다.  무난하게 쓸만합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "20",
+    "RDate": "20210722",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 산 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443448",
+    "RawText": "싼편은 아니지만 가위질할때 손이 편안하고 뻑뻑하지 않습니다. 가위날 크기도 적당하고 여러용도로 사용하기 참 좋습니다. 단점은 배송이 너무 느려요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "18",
+    "RDate": "20190509",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼편은 아니지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "가위질할때 손이 편안하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "뻑뻑하지 않습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "가위날 크기도 적당하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여러용도로 사용하기 참 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443456",
+    "RawText": "신속 정확한 배송 좋습니다. 가격대비 품질 좋아요. O가위나 OOO주방가위와 비교해도 절삭력 나쁘지 않습니다. 가위날 내구성도 좋은 편입니다. 다만 딱 한 가지 아쉬운 것은 국산이 아닌 베트남산이더군요. 하지만 ODM방식이 아닌 제조자가 OO 베트남인 것으로 볼때 OO가 베트남에서 공장을 직접 돌리는 것 같습니다. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "4",
+    "Syllable": "185",
+    "Word": "43",
+    "RDate": "20191116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 품질 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력 나쁘지 않습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "가위날 내구성도 좋은 편입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443487",
+    "RawText": "집에 있던 게 잘 안 들어서 OOO로 구매했습니다. 지금 사용 하는 것 보다 가위가 잘 안 듭니다. 돈만 비싸고 잘못 산 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "2",
+    "Syllable": "73",
+    "Word": "22",
+    "RDate": "20200927",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "지금 사용 하는 것 보다 가위가 잘 안 듭니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "돈만 비싸고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "443490",
+    "RawText": "집에 있는 가위 손잡이가 부러져서 구입하려고 여기저기 찾아보다 OOO 제품이 맘에 들었어요. 여기가 제일 저렴해서 구입했습니다. 날도 양쪽 다 있고 손잡이도 튼튼하고 잘 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "24",
+    "RDate": "20200718",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 제일 저렴해서 구입했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "날도 양쪽 다 있고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "손잡이도 튼튼하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "잘 드네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443493",
+    "RawText": "가위는 아주 잘 드는데 칼날 등이 너무 날카롭습니다. 마무리가 많이 아쉽습니다. 마감 처리 부분만 신경 좀 썼더라면 명품이 될 수 있었는데요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "4",
+    "Syllable": "79",
+    "Word": "21",
+    "RDate": "20200105",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "가위는 아주 잘 드는데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "칼날 등이 너무 날카롭습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "마무리가 많이 아쉽습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감 처리 부분만 신경 좀 썼더라면 명품이 될 수 있었는데요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "443497",
+    "RawText": "정말 잘 잘려서 속이 시원하네요. 녹 안슬고 오래 잘 쓸수 있으면 좋겠습니다. 마음에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "14",
+    "RDate": "20210906",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "정말 잘 잘려서 속이 시원하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "녹 안슬고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오래 잘 쓸수 있으면 좋겠습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "443502",
+    "RawText": "정말 부드럽게 힘 안들고 잘 잘립니다. OOO 행사 할 때 구입해서 사용해 보니 사용감이 너무 좋아서 재구매 했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "18",
+    "RDate": "20210511",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "정말 부드럽게 힘 안들고 잘 잘립니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 사용감이 너무 좋아서 재구매 했어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443511",
+    "RawText": "최애 가위예요. 절삭력도 좋고 모양도 무난하고 양손으로 다 가능해 편리하게 사용 중입니다. 고장없이 튼튼하게 오래오래 쓸 수 있으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "19",
+    "RDate": "20211024",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "모양도 무난하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 양손으로 다 가능해 편리하게 사용 중입니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "고장없이 튼튼하게 오래오래 쓸 수 있으면 좋겠습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "443516",
+    "RawText": "OO 가위 너무 마음에 들어요. 가볍고, 디자인 무난하고, 절삭력 나쁘지 않고, 가격도 부담없어서 좋네요. 좋은 물건 잘 구매한 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "20",
+    "RDate": "20210916",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 무난하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력 나쁘지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격도 부담없어서 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443529",
+    "RawText": "OOO 말이 필요 없습니다. 절삭력이 좋고 디자인도 좋습니다. 가위를 잡았을 때 그립감도 너무 좋아요. 번창하시고 많이 파세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20211102",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": " 절삭력이 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "가위를 잡았을 때 그립감도 너무 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443531",
+    "RawText": "국산 주방 가위와 칼의 명문 OOO제품이네요. 가위날 사이즈도 적당하고 . 너무 만족스럽고 다른 사람들에게도 추천하고 싶어요.다 잘 잘리네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "18",
+    "RDate": "20170322",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "가위날 사이즈도 적당하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "다 잘 잘리네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443532",
+    "RawText": "절삭력이나 디자인은 나쁘지 않은데 녹이 좀 잘 생기네요. 근데 달리 고를 제품이 없어서 샀는데 잘못 산 듯하네요. 물에 담궈놓지 마시고 바로바로 세척하셔야 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "23",
+    "RDate": "20170614",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력이나 디자인은 나쁘지 않은데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 나쁘지 않은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 녹이 좀 잘 생기네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "443537",
+    "RawText": "왼손잡이지만 사용하는데 불편함이 없네요.  디자인도 이뻐서 만족하고 있어요. 3개 째 사용중이며 재구매 의사 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "14",
+    "RDate": "20181220",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "왼손잡이지만 사용하는데 불편함이 없네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 이뻐서 만족하고 있어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443539",
+    "RawText": "디자인면에서도 예쁩니다. 그립감도 너무 좋습니다. 맨날 시커먼 칼만 쓰다가 주방 분위기가 완전 바꿨습니다. 가위랑 다른 식도도 더 사고 싶어졌습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "19",
+    "RDate": "20160128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인면에서도 예쁩니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "그립감도 너무 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443540",
+    "RawText": "날 길이가 길어서 음식 자를때 좋아요. 손잡이 그립감도 아주 좋구요. 두개날 연결부위도 튼튼해보이고 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "3",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20160228",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "날 길이가 길어서 음식 자를때 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "손잡이 그립감도 아주 좋구요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "두개날 연결부위도 튼튼해보이고 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443550",
+    "RawText": "4번 째 구입합니다. 다른 브랜드에 비해 저렴하고 잘 들어 좋습니다. 잘 구입한 것 같네요. 배송도 완전 빨라 너무 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "19",
+    "RDate": "20171209",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "잘 들어 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443556",
+    "RawText": "쓰던 가위가 못 쓰게 되어서 인터넷 검색하다가 OOO 레몬 그레스 가위가 잘 든다고 해서 구입하게 됐습니다.  색깔이 연두색 계열이라 밝은 느낌이 듭니다. 가위도 써보니 잘 잘려서 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "28",
+    "RDate": "20180515",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔이 연두색 계열이라 밝은 느낌이 듭니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "가위도 써보니 잘 잘려서 마음에 듭니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443559",
+    "RawText": "OOO라는 이름 믿고 구매했습니다. 처음이라 잘 잘리는데, 오래도록 잘 쓸수 있는 제품이길 기대해봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "4",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20180930",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "잘 잘리는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오래도록 잘 쓸수 있는 제품이길 기대해봅니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "443563",
+    "RawText": "좋은 품질의 상품, 좋은 가격 모두 만족이예요. 몇 년전 OOO가위를 아직도 짱짱하게 사용중이라서 품질에 대해서는 믿음이 있습니다. 하나는 부족해서 1년전 OO에서 싸게 산 가위는 버려야 겠습니다. 이번에 구매한 예쁜 가위도 오래 사용할 수 있을 듯 합니다. 숟가락 삶을때 같이 넣으면 손잡이가 녹으니 조심하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "175",
+    "Word": "43",
+    "RDate": "20181105",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "좋은 품질의 상품,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격 모두 만족이예요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질에 대해서는 믿음이 있습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이번에 구매한 예쁜 가위도",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 오래 사용할 수 있을 듯 합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443567",
+    "RawText": "OOO라는 명성에 걸맞는 제품이에요. 절삭력이 좋아서 주방 일이 편해졌습니다. 가격 대비 유명 수입 제품의 품질과도 견줄 만 합니다.  색상도 산뜻해 보기만 해도 기분이 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "100",
+    "Word": "24",
+    "RDate": "20190726",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력이 좋아서 주방 일이 편해졌습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격 대비 유명 수입 제품의 품질과도 견줄 만 합니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 산뜻해 보기만 해도 기분이 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443568",
+    "RawText": "가위 끝이 너무 뾰족해서 조심해야 할 것 같습니다. 가위가 크고 잘 잘려서 좋습니다. 튼튼해서 오래 사용할 수 있을 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "3",
+    "Syllable": "70",
+    "Word": "19",
+    "RDate": "20190807",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "가위 끝이 너무 뾰족해서 조심해야 할 것 같습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "가위가 크고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "잘 잘려서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해서 오래 사용할 수 있을 듯합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443570",
+    "RawText": "포장 배송 만족하고 있습니다. 한쪽은 뾰족하고 한쪽은 둥근날이라 유용하네요. 품질도 나쁘지 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20190912",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "한쪽은 뾰족하고 한쪽은 둥근날이라 유용하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 나쁘지 않네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "443572",
+    "RawText": "저가로 산 기위는 자꾸 녹이 나서 이 제품은 믿고 구매해 봤습니다.  디자인도 끝 마무리도 괜찮은 것 같습니다.  좀 더 사용해 봐야지 알겠지만 현재까진 사용하기 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "25",
+    "RDate": "20190917",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 끝 마무리도 괜찮은 것 같습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "끝 마무리도 괜찮은 것 같습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "현재까진 사용하기 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443573",
+    "RawText": "아직 개봉 안 해서 잘 모르겠습니다. 외관은 튼튼해 보이고 예쁩니다. 그런데 가위 3개를 주문했는데 박스는 피죤 박스에 포장이 되어 왔네요. 박스가 너무 큰 것으로 ......",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "3",
+    "Syllable": "98",
+    "Word": "25",
+    "RDate": "20190917",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "외관은 튼튼해 보이고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "예쁩니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443578",
+    "RawText": "배송이 조금 늦었던것 빼고는 만족합니다. 확실히 국산이라 OO 중국제에 비하면 품질이 좋습니다. 중국 것은 움직이는데 뻑뻑한데 이 제품은 잘 잘리고 사용감이 부드러워 좋습니다. 번창하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "105",
+    "Word": "24",
+    "RDate": "20191003",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "국산이라 OO 중국제에 비하면 품질이 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "이 제품은 잘 잘리고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용감이 부드러워 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443581",
+    "RawText": "최근에 산 비싼 가위보단 절삭력이 약합니다. 하지만 비싼건 퍽퍽해서 절삭력은 좋은데 가볍게 쓸 수 있는 가위가 필요해서 구매했습니다. 전에도 OOO 서봐서 느낌 알아요. 다자인도 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "105",
+    "Word": "25",
+    "RDate": "20200503",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "최근에 산 비싼 가위보단 절삭력이 약합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "다자인도 만족합니다  ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443590",
+    "RawText": "일단 쿠폰으로 저렴하게 구매했습니다. 여기가 제일 가격이 착하네요. 가위는 가볍고 잘 잘립니다. 그런데 그게 장점이면서 단점인듯합니다. 가위날이 날카로워서 조심해서 사용해야 할거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "4",
+    "Syllable": "104",
+    "Word": "22",
+    "RDate": "20201007",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰으로 저렴하게 구매했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 제일 가격이 착하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가위는 가볍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "잘 잘립니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "가위날이 날카로워서 조심해서 사용해야 할거 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "443592",
+    "RawText": "가위 본연의 역활 잘 잘리네요. 그리고 만듦새도 아주 좋네요. 가격도 저렴해서 여러 개 구입하여 사용 중이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20201211",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "가위 본연의 역활 잘 잘리네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "만듦새도 아주 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서 여러 개 구입하여 사용 중이네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443603",
+    "RawText": "OOO에서 가위 구매했더니 녹 슬어서 일부러 여기서 산건데 절삭력도 좋고 튼튼해서 오래 쓸 수 있을 것 같아서 좋습니다. OOOO라 믿고 써요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "4",
+    "Syllable": "80",
+    "Word": "21",
+    "RDate": "20191009",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해서 오래 쓸 수 있을 것 같아서 좋습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443610",
+    "RawText": "몇 달 동안 쓰다가 리뷰 남겨봅니다. 무엇보다 절삭력이 마음에 듭니다. 또 가볍고 좋아서 아주 만족합니다. 배송도 빨랐던 듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "19",
+    "RDate": "20210520",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "무엇보다 절삭력이 마음에 듭니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 좋아서 아주 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443619",
+    "RawText": "배송은 총알 배송입니다. 가위는 아직 써보진 않았지만 튼튼해 보여서 오래 사용할 거 같고 라임 색상 예쁘네요. 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20211014",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해 보여서 오래 사용할 거 같고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "라임 색상 예쁘네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443626",
+    "RawText": "저렴한거 쓰다 보니 오래 안가서 많이들 추천하는 OOO 택했는데 아주 좋습니다. 날 두개 연결부위도 튼튼해 보이고 자를 때 부드럽게 잘리는 것도 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "22",
+    "RDate": "20220119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "날 두개 연결부위도 튼튼해 보이고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "자를 때 부드럽게 잘리는 것도 좋네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443630",
+    "RawText": "디자인 좋고 그립감이 좋습니다. 가위가 아주 부드럽게 잘 잘리네요. 가격대비 만족해요. 오래 사용할 수 있으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20210423",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "그립감이 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "가위가 아주 부드럽게 잘 잘리네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 만족해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오래 사용할 수 있으면 좋겠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "443631",
+    "RawText": "역시 OO입니다. 종이 가르는 소리 들으니 고기도 힘들지 않게 잘 자르겠네요. 두 개 신청했는데 하나는 부드럽고 사용하기 편해서 좋은데 다른 하나는 좀 뻑뻑하네요. 나사 조금 풀어서 써야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "108",
+    "Word": "27",
+    "RDate": "20210617",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": " 종이 가르는 소리 들으니 고기도 힘들지 않게 잘 자르겠네요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "하나는 부드럽고 사용하기 편해서 좋은데 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "다른 하나는 좀 뻑뻑하네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "나사 조금 풀어서 써야겠어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "443640",
+    "RawText": "집에 가위가 너무 안들어서 여기저기 둘러보다가 OOO 믿고 구매했어요. 그립감도 좋고 잘 잘려서 만족스럽습니다. 배송도 튼튼하게 잘 왔습니다. 잘 사용하고 있습니다 감사합니다!!",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "22",
+    "RDate": "20161226",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "그립감",
+        "SentimentText": "그립감도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "잘 잘려서 만족스럽습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443641",
+    "RawText": "가위 잘 아시는 분들은 가격 차이에 따라 품질이 다르다는 걸 잘 알 거예요. 가격대비 품질이 좋은 제품이네요. 조리용으로 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "19",
+    "RDate": "20170116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 품질이 좋은 제품이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "조리용으로 좋네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443642",
+    "RawText": "주방에 사용하던 가위가 수명을 다해서 새로운 가위를 찾던 중에 99.9% 항균에 끌려 구매했어요. 항균은 잘 모르겠고 디자인이나 가위 그립감은 나쁘지 않네요. 싸구려 가위랑은 품질 차이가 확 납니다. 가위날도 날카로워서 잘 잘려요. 전체적으로 만족입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "142",
+    "Word": "33",
+    "RDate": "20170117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "항균은 잘 모르겠고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인이나 가위 그립감은 나쁘지 않네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": " 가위 그립감은 나쁘지 않네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "싸구려 가위랑은 품질 차이가 확 납니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "가위날도 날카로워서 잘 잘려요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443646",
+    "RawText": "이렇게 가격이 싼데 품질까지 너무 좋은 가위라 마음에 듭니다. 라임 색상도 무지 이뻐요. 배송도 완전 총알 배송 너무 감사해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "19",
+    "RDate": "20170126",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이렇게 가격이 싼데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질까지 너무 좋은 가위라 마음에 듭니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "라임 색상도 무지 이뻐요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443652",
+    "RawText": "OOO 작은 가위 샀는데 너무 작아서 불편해서 다시 샀습니다. 작은 가위가 조금만 더 컸어도 사용 했을 겁니다.   레몬그라스 가위는 잡았을 때 아주 편하고 잘 잘려서 좋습니다. 검색 많이 했는데 그냥 이거 선택하셔도 괜찮습니다. 식기 세척기 넣어도 아주 멀쩡합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "149",
+    "Word": "38",
+    "RDate": "20170222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "그립감",
+        "SentimentText": "레몬그라스 가위는 잡았을 때 아주 편하고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "잘 잘려서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "식기 세척기 넣어도 아주 멀쩡합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443654",
+    "RawText": "OOO 가위 정말 추천해요. 정말 잘 잘립니다. 부엌가위로 잘 쓰고 있어요. 근데 가격이 착하지는 않아 조금 부담이 되는 가격이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "19",
+    "RDate": "20170224",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "정말 잘 잘립니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "부엌가위로 잘 쓰고 있어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 착하지는 않아 조금 부담이 되는 가격이네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "443655",
+    "RawText": "두 개를 샀는데 하나는 언니를 주었습니다. 이 가위 좋다고 하길래 써보니 정말 잘 들고 좋습니다. 색깔도 예쁩니다. 잘 사용하고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "4",
+    "Syllable": "77",
+    "Word": "20",
+    "RDate": "20170224",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "정말 잘 들고 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔도 예쁩니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "잘 사용하고 있습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443659",
+    "RawText": "절삭력이 너무 안 좋습니다. 아기 반찬 잘게 자를 용도로 산 건데 무겁고 절삭력 형편 없습니다. 전 수납장에 처박아 뒀습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "1",
+    "Syllable": "70",
+    "Word": "19",
+    "RDate": "20170308",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력이 너무 안 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력 형편 없습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "전 수납장에 처박아 뒀습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "443683",
+    "RawText": "마트에서 사서 사용해 보고 좋아서 온라인으로 재 구매해요. 싼 가위보다 확실히 품질이 괜찮은 거 같습니다.   배송비가 아까워 2개 사서 처가에 하나 드렸습니다. 저렴하게 잘 샀어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "25",
+    "RDate": "20170510",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "싼 가위보다 확실히 품질이 괜찮은 거 같습니다.  ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 샀어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443693",
+    "RawText": "무게도 적당하고 고기 구워서 자를 때 가위가 무뎌서 팔이 아팠는데 싹둑 잘 잘려서 너무 좋습니다. 진작 살 걸 엄마도 사드렸는데 좋아하셨어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "21",
+    "RDate": "20170527",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "싹둑 잘 잘려서 너무 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443700",
+    "RawText": "가위도 좋고 배송도 빠르고 좋습니다.  지금 쓰고 있는 주방가위와 품질이 너무 차이가 나네요.  종이를 잘라보니 기존의 주방가위와 겉보기에는 크게 달라보이지 않는데 일회용비닐을 잘라보니 OOOOO가위는 종이 잘리듯이 한번에 잘 잘리네요. 마트에서 판매하는 가격보다 여기는 배송비 들어도 더 저렴합니다. 2~3만원대 OO가위와 고민하다 같은 재질인걸 보고 OOOOO가위를 구매했는데 좋아요. 추천해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "222",
+    "Word": "47",
+    "RDate": "20170622",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "지금 쓰고 있는 주방가위와 품질이 너무 차이가 나네요.  ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "종이를 잘라보니 기존의 주방가위와 겉보기에는 크게 달라보이지 않는데 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "일회용비닐을 잘라보니 OOOOO가위는 종이 잘리듯이 한번에 잘 잘리네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 마트에서 판매하는 가격보다 여기는 배송비 들어도 더 저렴합니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/질감",
+        "SentimentText": " 2~3만원대 OO가위와 고민하다 같은 재질인걸 보고 OOOOO가위를 구매했는데 좋아요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443703",
+    "RawText": "저렴하게 정말 잘 샀습니다. 가위 시원시원하게 정말 잘 드네요. 가격을 생각하면 가성비 진짜 초절정으로 좋습니다. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20170705",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 정말 잘 샀습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": " 가위 시원시원하게 정말 잘 드네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격을 생각하면 가성비 진짜 초절정으로 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443706",
+    "RawText": "포장도 잘되어 왔고 배송도 빨랐습니다. 직접 보니 디자인도 더 이쁘고 OOO 꺼라 편하게 잘 잘려요. 저렴하게 잘 산거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 라임 1개",
+    "ReviewScore": "4",
+    "Syllable": "71",
+    "Word": "19",
+    "RDate": "20170714",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 더 이쁘고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "편하게 잘 잘려요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 산거 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

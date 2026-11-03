@@ -1,0 +1,3313 @@
+[
+  {
+    "Index": "816385",
+    "RawText": "거품으로 나오니까 세정력이 더 좋은거 같습니다 향도 은은하고 기분이 좋아 지네요 재구매할 의사 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20210909",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품으로 나오니까 세정력이 더 좋은거 같습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 은은하고 기분이 좋아 지네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "816388",
+    "RawText": "아이들 수시로 속닦아서 감당 안되는데 양도많고 레몬향도 좋습니다 다른곳 대용량 쓰다 요거 갈아탔네요 다쓰면 또 구매하겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20210908",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양도많고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "레몬향도 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "816396",
+    "RawText": "늘 비싼가격에 핸드워시를 구매했었는데 이번에 구매한건 가격도 저렴하고 향도 좋아서 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "11",
+    "RDate": "20210901",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋아서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "816411",
+    "RawText": "손 너무 많이 닦아서 주문했는데 양 진짜 많군요 진하진 않지만 은은한 자몽향 나서 좋습니다 집에 있는 통에 넣었는데 거품도 많이나고 생각보다 더 좋네요 식구들이 엄청 손 닦는데 다 쓰면 또 주문하겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "3",
+    "Syllable": "113",
+    "Word": "31",
+    "RDate": "20210813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양 진짜 많군요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "진하진 않지만 은은한 자몽향 나서 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품도 많이나고 생각보다 더 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "816417",
+    "RawText": "배송이 엄청 빠르네요 대용량이라 너무 좋습니다. 식당에서 쓰려고 주문했어요 향도 나쁘지않네요. 거품도 잘 나오는듯합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "14",
+    "RDate": "20210809",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "대용량이라 너무 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 나쁘지않네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품도 잘 나오는듯합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "816431",
+    "RawText": "양이 많아서 좋습니다 이전에도 이렇게 쓰니 덜어쓰는 번거로움있지만 환경도 생각하고 여러가지로 절약도 돼고 너무 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20210717",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양이 많아서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "이전에도 이렇게 쓰니 덜어쓰는 번거로움있지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "816479",
+    "RawText": "자몽향이 강한건아니에요 향은 은은하긴한데 금방 사라지네요 하지만 새정력은 좋습니다 담에도 시킬게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "54",
+    "Word": "11",
+    "RDate": "20210518",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "자몽향이 강한건아니에요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 은은하긴한데 금방 사라지네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "새정력은 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "816491",
+    "RawText": "생각보다 미끌거리는 느낌이 조금 있습니다. 대용량이라 한참 쓸 것 같아요. 향은 별로네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20210506",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "생각보다 미끌거리는 느낌이 조금 있습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "대용량이라 한참 쓸 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 별로네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "816511",
+    "RawText": "다른 제품이지만 저에껀 거품도 잘 안나오고 세제 느낌 없었는데 이 제품은 거품 풍부하고 제대로 손 씻는 느낌이 드네요 남편이 이게 제대로 된거라고 칭찬했어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "23",
+    "RDate": "20210426",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품 풍부하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "제대로 손 씻는 느낌이 드네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "816525",
+    "RawText": "아직 500미리만 써보고 리필해서 써보지는 않았지만 대용량에 저렴한 가격이라 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "10",
+    "RDate": "20210412",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "대용량에",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격이라 만족합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "816526",
+    "RawText": "색상이 예뻐서 투명용기에 담으니까 좋습니다  부드러운 느낌이 좋습니다 많이 파세요~ 잘쓸게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20210411",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 예뻐서 투명용기에 담으니까 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드러운 느낌이 좋습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "816530",
+    "RawText": "생각보다 넉넉한 양이라 여기저기 덜어 놓고 사용하려고 해요. 비누는 순한거 같아서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20210407",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "생각보다 넉넉한 양이라",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여기저기 덜어 놓고 사용하려고 해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "비누는 순한거 같아서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "816537",
+    "RawText": "향은 저에겐 별로네요 자몽향이라기보다는 그냥 공공화장실에서 나는 거품비누 냄새같아요 유통기한은 2024년도까지라 넉넉하고 양은 많아 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "80",
+    "Word": "15",
+    "RDate": "20210401",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 저에겐 별로네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "자몽향이라기보다는 그냥 공공화장실에서 나는 거품비누 냄새같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한은 2024년도까지라 넉넉하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양은 많아 만족합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "816540",
+    "RawText": "배송은 하루만에 도착 했네요 레몬향이 좋습니다 용량도 많고 실용적이여서 좋네요. 다른 용기에 담아야하는 불편함은 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20210325",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "레몬향이 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": " 용량도 많고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "실용적이여서 좋네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "다른 용기에 담아야하는 불편함은 있어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "816566",
+    "RawText": "동영상찍느라 살짝 눌려서 조금나온것 처럼보이네요 거품 빵빵하게 잘 나옵니다 향도 안 거슬리고 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20210306",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품 빵빵하게 잘 나옵니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 안 거슬리고 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "816569",
+    "RawText": "약간 묽어서 거품세정기에서 풍성하게 나오지는 않습니다 보라색이라 약간 바이올렛 향을 기대했는데 그건 아니어서 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20210303",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "약간 묽어서 거품세정기에서 풍성하게 나오지는 않습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "보라색이라 약간 바이올렛 향을 기대했는데 그건 아니어서 아쉽네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "816581",
+    "RawText": "배송은 생각보다 빨랐어요 하지만 품질이 조금 아쉬워요. 마트 판매 일반 제품보다 거품이 고급스럽지 않네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "3",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20210220",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 조금 아쉬워요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "일반 제품보다 거품이 고급스럽지 않네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "816590",
+    "RawText": "좋습니다 배송 빠르고 용량도 많아서 오래 쓸수 있을거 같네요 터지지않고 잘왔어요 향은 그냥 그렇네요 가성비 갑이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20210206",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "용량도 많아서 오래 쓸수 있을거 같네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 그냥 그렇네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 갑이네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "816592",
+    "RawText": "지금보니 물비누네요. 다른곳에서 거품비누라고 써있어서 젤 저렴한 이곳에서 구매했었는데 이곳엔 거품이라고 쓰여있지 않아요. 거품바로 나오는 비누 아니고 물비누네요. 묵직한 느낌인데 거품이 풍성하진 않습니다. 한번 짜내서 비비면 거품이 덜나서 몇번 더 짜게됩니다. 냄새는 진하고좋아요. ㅇㅇㅇ의 레몬하고는 달라요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "173",
+    "Word": "36",
+    "RDate": "20210205",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "지금보니 물비누네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "젤 저렴한 이곳에서 구매했었는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "거품바로 나오는 비누 아니고 물비누네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "묵직한 느낌인데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품이 풍성하진 않습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "한번 짜내서 비비면 거품이 덜나서 몇번 더 짜게됩니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새는 진하고좋아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "ㅇㅇㅇ의 레몬하고는 달라요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "816610",
+    "RawText": "전에 거품형쓰던 통에 리필해서 쓰는데 일단 거품형은 아니니까 좀 빡빡하다고 해야하나 거품이 나올때보다 좀 덜 편하긴한데 애들 쓰게에 독하지 않아서 괜찮습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "21",
+    "RDate": "20210127",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "거품형은 아니니까 좀 빡빡하다고 해야하나 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "거품이 나올때보다 좀 덜 편하긴한데 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": " 애들 쓰게에 독하지 않아서 괜찮습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "816636",
+    "RawText": "용량도 많고 효과도 좋습니다. 사용하기도 편리해서 좋네요. 가격대도 이정도면 괜찮은 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "12",
+    "RDate": "20210107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "용량도 많고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기도 편리해서 좋네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대도 이정도면 괜찮은 것 같아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "816639",
+    "RawText": "물비누를 통에 덜어쓰기가 불편합니다.  입구쪽을 덜어쓰기 편하게 만들어 주셨으면 더 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "52",
+    "Word": "11",
+    "RDate": "20210106",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "물비누를 통에 덜어쓰기가 불편합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "입구쪽을 덜어쓰기 편하게 만들어 주셨으면 더 좋겠어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "816644",
+    "RawText": "완전액체형태가 아니라서 그냥 펌프형에 담아야합니다 물이랑섞어서 거품용기에 담아써도 된다는 후기가 있는데 시간지나면 분리가되는지  구름거품 안나오네요 씻고나서 브랜드제품보다는 손이 건조한느낌은 많이 듭니다 향이 진하지않아 괜찮아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "3",
+    "Syllable": "127",
+    "Word": "24",
+    "RDate": "20210103",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "완전액체형태가 아니라서 그냥 펌프형에 담아야합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "수분감/보습력",
+        "SentimentText": "브랜드제품보다는 손이 건조한느낌은 많이 듭니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 진하지않아 괜찮아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "816652",
+    "RawText": "전에 쓰던 손상 손 세정제가 거의 다 써가서 리필용으로 다시 주문했어요 세정력도 좋고 용량도 많아서 그래서 이걸로 주문합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "18",
+    "RDate": "20201230",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세정력도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": " 용량도 많아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "816735",
+    "RawText": "ㅇㅇㅇ 통에 부어서 쓰려고 샀습니다. ㅇㅇㅇ 보단 향이나 거품이 덜하지만 가성비로 보면 아주 훌륭하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20201125",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "ㅇㅇㅇ 보단 향이나 거품이 덜하지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품이 덜하지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비로 보면 아주 훌륭하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "816745",
+    "RawText": "가격대비 넘 좋습니다 은은한 향기도 나구요 거품도 너무 잘나네요 재구매 의사 있습니다^^!",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20201115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 넘 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "은은한 향기도 나구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품도 너무 잘나네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "816749",
+    "RawText": "가격이 저렴해서 좋습니다 향기도 생각보다 좋네요. 보습력도 너무 좋아요 계속 애용하고 있는 제품입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20201113",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서 좋습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 생각보다 좋네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수분감/보습력",
+        "SentimentText": "보습력도 너무 좋아요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "816755",
+    "RawText": "싸게잘구입했네요 회사에서사용하는데 향도좋고 거품도 잘나와서 좋네요. 로션을 안 바르면 건조함이 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "56",
+    "Word": "11",
+    "RDate": "20201110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게잘구입했네요 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향도좋고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 거품도 잘나와서 좋네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수분감/보습력",
+        "SentimentText": "로션을 안 바르면 건조함이 있어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "816800",
+    "RawText": "거품이 안나고 퐁퐁처럼 걸쭉하게 나오는데 정상인가요? 디스펜서는 거품형 디스펜서가 맞네요. 향도 별로입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "12",
+    "RDate": "20200928",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품이 안나고 퐁퐁처럼 걸쭉하게 나오는데 정상인가요?",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 별로입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "816808",
+    "RawText": "색이 좀 누리끼리 하네요 향도 레몬향이라는데 상큼하지 않구요 양은 어마어마하게 많은데.. 통이 없어서 세제통 닦아서 담았네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20200919",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색이 좀 누리끼리 하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 레몬향이라는데 상큼하지 않구요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양은 어마어마하게 많은데..",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "816820",
+    "RawText": "요즘 비누사용이 많아져서 대용량 알아보던 중 샀습니다. 비누는 일반 대중 화장실에 있는 정도의 점성이네요. 향은 세지 않아서 오래 쓰기 적당합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "81",
+    "Word": "20",
+    "RDate": "20200912",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "비누사용이 많아져서 대용량 알아보던 중 샀습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "비누는 일반 대중 화장실에 있는 정도의 점성이네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 세지 않아서 오래 쓰기 적당합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "816837",
+    "RawText": "본품을 계속 사용하던 제품이라 리필이 있나 검색해 보니 저렴하게 나와 있네요 거품도 부드럽고 향기 진하지 않고 세정력 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "18",
+    "RDate": "20200902",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 나와 있네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품도 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기 진하지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세정력 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "816843",
+    "RawText": "계속 사용하던 제품으로 매장보다 저렴하게 구입했어요 거품이 부드럽고 좋네요. 욕실 싱크대에서 사용하기 편합니다. 3개나 주문했네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "15",
+    "RDate": "20200903",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "매장보다 저렴하게 구입했어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "거품이 부드럽고 좋네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "욕실 싱크대에서 사용하기 편합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "816855",
+    "RawText": "향도 좋고 비눗기도 잘 씻겨서 좋습니다. 색깔은 무슨 워셔액같은 색깔이라 느낌은 좀 별로네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20200821",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "비눗기도 잘 씻겨서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔은 무슨 워셔액같은 색깔이라 느낌은 좀 별로네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "816920",
+    "RawText": "요즘 손을 자주 닦다보니 비누를 많이 사용하는데 거품 비누를 쓰니 좋네요 향을 잘 선택해야할듯ㅜ 다음엔 향을 잘 확인하고 선택해야겠어요ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "76",
+    "Word": "19",
+    "RDate": "20200710",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향을 잘 선택해야할듯ㅜ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향을 잘 확인하고 선택해야겠어요ㅜ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "816941",
+    "RawText": "사무실 화장실에서 사용하려구 구입했습니다 넉넉한 용량에 향기도 너무 좋습니다 가격도 착해서 대만족이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "57",
+    "Word": "12",
+    "RDate": "20200703",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "넉넉한 용량에 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 너무 좋습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착해서 대만족이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "816948",
+    "RawText": "용기 입구가 사용하기 편하게 되어 있어요. 세제를 세제통에 부을때 흘림이 적어서 편하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20200701",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "용기 입구가 사용하기 편하게 되어 있어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "세제를 세제통에 부을때 흘림이 적어서 편하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "816950",
+    "RawText": "코로나 터지고 손세정 할 일이 많아서 구매했어요. 다른 회사 제품 보다 양도 적고 거품도 잘 나지는 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "17",
+    "RDate": "20200630",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "다른 회사 제품 보다 양도 적고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품도 잘 나지는 않네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "816961",
+    "RawText": "가성비가 좋다. ㅇㅇㅇㅇㅇ쓰다 이거 쓰면 세정력이 좀 약하다고 느껴집니다 그러나 이 가격에 만족할 수 밖에 없어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "63",
+    "Word": "16",
+    "RDate": "20200624",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좋다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세정력이 좀 약하다고 느껴집니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 가격에 만족할 수 밖에 없어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "816983",
+    "RawText": "매번 쓰던건데 이번에 받은건 냄새가 이상합니다 자몽향이 아니라 플라스틱 냄새 같은게 납니다 우리집 아들은 별말 없는데 딸은 냄새가 이상하다고 싫어하네요 화장실 청소 할때나 써야할거 같네요 ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "2",
+    "Syllable": "107",
+    "Word": "26",
+    "RDate": "20200611",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 이상합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "자몽향이 아니라 플라스틱 냄새 같은게 납니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "딸은 냄새가 이상하다고 싫어하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "화장실 청소 할때나 써야할거 같네요 ㅠㅠ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "817007",
+    "RawText": "펌핑을 두번정도 해야 거품이 나오네요. 거품이 조금 모자른 느낌입니다. 향도 그닥 별로이지만 가격이 저렴해서 나름 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20200603",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "펌핑을 두번정도 해야 거품이 나오네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품이 조금 모자른 느낌입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 그닥 별로이지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "817014",
+    "RawText": "빠른배송 좋아요 제품 거품이 만족스럽습니다 향이 별로여서 조금 아쉽군요 가볍게 사용하기엔 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20200530",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "제품 거품이 만족스럽습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 별로여서 조금 아쉽군요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "가볍게 사용하기엔 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "817033",
+    "RawText": "손세척 깔끔하게 잘됩니다 향이 너무 좋습니다 양이 많아서 오래 쓰겠네요. 보관하기에 조금 불편함이 있지만 괜찮아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20200523",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "손세척 깔끔하게 잘됩니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양이 많아서 오래 쓰겠네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "보관하기에 조금 불편함이 있지만 괜찮아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "817041",
+    "RawText": "같은 제품을 커피숍과 가정으로 따로 주문했는데요 배송사에서 인천에서 대전으로 다시가져가는 상황이었다가 다시 배송되는 상황이 생겨 하나는 늦게 받게 되었네요 판매자분께서는 전혀 관련이 없으신 관계로 별은 다섯개 향기는 스킨로션 냄새같은 화장품 냄새나네요 세정후 보습도 괜찮은것 같아요 잘닦이고 거품 잘나고 부드럽네요 잘쓸게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "180",
+    "Word": "40",
+    "RDate": "20200520",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기는 스킨로션 냄새같은 화장품 냄새나네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수분감/보습력",
+        "SentimentText": "세정후 보습도 괜찮은것 같아요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘닦이고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품 잘나고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드럽네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "817047",
+    "RawText": "핸드워시 보충용으로 구매했습니다. 비누보다 쓰기 편하고 간편하게 용기만 있으면 보충해서 쓸수있어서 물비누로 구매했다. 아직 기존 사용하는게 있지만 양도 많고 저렴해서 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "97",
+    "Word": "21",
+    "RDate": "20200516",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "비누보다 쓰기 편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "간편하게 용기만 있으면 보충해서 쓸수있어서 물비누로 구매했다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양도 많고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 만족해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "817051",
+    "RawText": "냄새도 자극적이지 않고 배송도 빠르고 양도 넉넉하네요. 가격도 적당해서 맘에 듭니다. 세정력은 써봐야 알것 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20200514",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 자극적이지 않고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": " 양도 넉넉하네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 적당해서 맘에 듭니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 세정력은 써봐야 알것 같네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "817052",
+    "RawText": "가성비가 좋아요 거품도 잘 나고 깨끗해지는 느낌이네요 향도 은은하니 아주 좋습니다 재구매 예정입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20200514",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품도 잘 나고 깨끗해지는 느낌이네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 은은하니 아주 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "817054",
+    "RawText": "거품 물비누 저렴하게 잘샀습니다 향도 강하지 않고 좋네요 세정력도 좋은것 같아서 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20200514",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘샀습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 강하지 않고 좋네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세정력도 좋은것 같아서 만족합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "817061",
+    "RawText": "항상 쓰고있는 거품 비누인데 세정력도 너무 좋구요 향기도 좋아서 계속 쓰고 있는 제품입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "13",
+    "RDate": "20200510",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세정력도 너무 좋구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "817067",
+    "RawText": "이런 대용량이 있는 줄도 모르고 비싼 상품을 여태 구입했었네요. 향도 좋고 색도 이쁩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "13",
+    "RDate": "20200507",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "이런 대용량이 있는 줄도 모르고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색도 이쁩니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "817078",
+    "RawText": "용량도 커서 좋고 가격도 제일 저렴합니다 다쓰면 또 구매하려고요. 배송도 주문하자마자 다음날 바로 오네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20200430",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "용량도 커서 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격도 제일 저렴합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "817081",
+    "RawText": "거품이 부드럽네요. 거품이 약간 연한 느낌이에요 기존 사용하던 ㅇㅇ용기에 리필해서 쓰는중인데 거품 잘나와요. 가성비 짱좋아요 앞으로 이 제품만 사용할것 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "20",
+    "RDate": "20200429",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "거품이 부드럽네요. 거품이 약간 연한 느낌이에요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품 잘나와요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 짱좋아요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "817090",
+    "RawText": "용량도 꽤많은것이 좋네요 우선 묽지도않고 손에 폭신하게 얹어지며 뽀드득하게 잘씻겨지네요 다른분들은 자몽향이나서 좋아하는데 향은 제취향이 아닌것같네요 살짝 문구냄새, 물감냄새같아서 좀 아닙니다 다행히 향이 엄청 세진않아서 크게 불편함은 없어요 가격괜찮고 잘씻기니 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "150",
+    "Word": "31",
+    "RDate": "20200425",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "용량도 꽤많은것이 좋네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "묽지도않고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": " 손에 폭신하게 얹어지며 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 뽀드득하게 잘씻겨지네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "다른분들은 자몽향이나서 좋아하는데 향은 제취향이 아닌것같네요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "살짝 문구냄새, 물감냄새같아서 좀 아닙니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 엄청 세진않아서 크게 불편함은 없어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격괜찮고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘씻기니 만족해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "817096",
+    "RawText": "가게에서 사용하려고 알아보다가 대용량이 있길래 구매했어요 가격도 저렴한데 양도 많아서 좋습니다 다쓰면 재구매할게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "13",
+    "RDate": "20200414",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "가게에서 사용하려고 알아보다가 대용량이 있길래 구매했어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴한데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양도 많아서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "817116",
+    "RawText": "가격은 싼편은 아니지만 양이 넉넉해서 맘편하게 쓰겠네요. 향도 아주 좋네요 만족합니다.  많이 파세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20200402",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 싼편은 아니지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양이 넉넉해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 아주 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "817124",
+    "RawText": "대용량이라 한동안 오래쓸수 있을것같습니다. 향도 좋네요 거품도 잘 나오는 거 같고 배송도 빠르고 포장상태 좋았어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20200329",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "대용량이라 한동안 오래쓸수 있을것같습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 거품도 잘 나오는 거 같고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "817154",
+    "RawText": "저는 거품이 많이 나는 줄 알고 물비누를 많이 샀는데, 거품이 안나서 실망했어요 싼 가격도 아닌데 잘 보고 살껄 그랬네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "3",
+    "Syllable": "68",
+    "Word": "19",
+    "RDate": "20200309",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품이 안나서 실망했어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼 가격도 아닌데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "817174",
+    "RawText": "배송비때문에 종류별로 시켰네요. 택배박스가 두꺼운 편은 아니라 여기저기 찍히고 제품 하나는 바닥이 푹 들어가서 왔지만 다행히 새거나 깨지지않은 것에 만족합니다 사용은 아직 못해봤는데 세정력이 좋았으면 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "115",
+    "Word": "26",
+    "RDate": "20200304",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "바닥이 푹 들어가서 왔지만 다행히 새거나 깨지지않은 것에 만족합니다 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 세정력이 좋았으면 하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "817176",
+    "RawText": "기존에 쓰던거 보다 거품이 쫀쫀한 느낌이에요 처음엔 냄새가 별로 안나는 거 같았는데 누가 주방세제 냄새라고 했는데 이해가 됩니다. 그닥 자몽향이라고 하기에는 향이 별로에요..그게 좀 아쉽습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "107",
+    "Word": "25",
+    "RDate": "20200304",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "기존에 쓰던거 보다 거품이 쫀쫀한 느낌이에요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "누가 주방세제 냄새라고 했는데 이해가 됩니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "그닥 자몽향이라고 하기에는 향이 별로에요..",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "817202",
+    "RawText": "향은 공공 화장실에서 많이 맡아보던 냄새에요 용량이 커서 한동안 걱정없이 잘 쓰겠네요 배송도 터짐없이 깔끔하게 잘 왔어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20200227",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 공공 화장실에서 많이 맡아보던 냄새에요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "용량이 커서 한동안 걱정없이 잘 쓰겠네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "817208",
+    "RawText": "색깔은 유리세정제처럼 파란데 향도 같네요 냄새는 별로에요 양많고 가격 좋고 손씻고나도 개운하니 좋아요~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 물비누 레몬향 4100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20200225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔은 유리세정제처럼 파란데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 같네요 냄새는 별로에요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양많고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "손씻고나도 개운하니 좋아요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "857706",
+    "RawText": "ㅇㅇㅇㅇ 좋네요. 늘 쓰던거라 구입했어요. 개운한데 아이들이 쓰기에는 조금 매운듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "4",
+    "Syllable": "50",
+    "Word": "11",
+    "RDate": "20221012",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운한데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "아이들이 쓰기에는 조금 매운듯 합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "857734",
+    "RawText": "배송 빨라서 좋네요. 치약이 없어서 구매했습니다. 대용량에 칫솔까지 주셔서 좋네요. 마트보다 저렴하게 사서 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20221005",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "대용량에",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "칫솔까지 주셔서 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트보다 저렴하게 사서 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "857769",
+    "RawText": "넉넉한 용량으로 한동안 치약 걱정없이 사용할것 같습니다. ㅇㅇㅇㅇ 남편이 자주 애용하는 치약이에요. 유통기한도 길어서 좋아요. 빠른 배송도 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "18",
+    "RDate": "20220923",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "넉넉한 용량으로 한동안 치약 걱정없이 사용할것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 길어서 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "857916",
+    "RawText": "ㅇㅇ어드벤스도 다 사라지고 160, 170g짜리 대용량 치약도 점점 사라지는 같아 쿠폰 나온 김에 사버렸네요 사용기한 2025년인데 치약이니 열개라도 일년안에 다쓰겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "94",
+    "Word": "20",
+    "RDate": "20220827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 나온 김에 사버렸네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "사용기한 2025년인데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "치약이니 열개라도 일년안에 다쓰겠네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "857963",
+    "RawText": "생각보다 배송이 빠르게 왔네요. 매번 사용하는 상품이에요. 입냄새도 안 나고 향도 좋습니다. 저렴한 가격으로 잘 구매한 것 같네요..",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20220812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "입냄새도 안 나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격으로 잘 구매한 것 같네요..",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "857990",
+    "RawText": "양치할때 입안도 개운하고 치석도 안생겨서 좋아 매번 구입해서 사용해요 쿠폰사용해서 저렴히 샀습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20220802",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치할때 입안도 개운하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "치석도 안생겨서 좋아 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰사용해서 저렴히 샀습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "858030",
+    "RawText": "스테디셀러 치약이며 자주 구매하는 치약이에요 개운하고 깔끔한 느낌이 좋습니다 가격도 좋아 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20220726",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "깔끔한 느낌이 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좋아 만족합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "858085",
+    "RawText": "타사 치약보다 사용감이 좋아서 ㅇㅇㅇ것만 쓰게 됩니다. 거품 잘 나고 개운해서 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "12",
+    "RDate": "20220711",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "타사 치약보다 사용감이 좋아서 ㅇㅇㅇ것만 쓰게 됩니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품 잘 나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운해서 좋네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "858098",
+    "RawText": "저렴한 가격에 잘 샀습니다. 주문하고 보니 일반 마트 행사로 샀던 크기보다 훨씬 커서 놀랬네요. 20개 짜리가 더 싸던데 너무 많아서 우선 10개짜리로 주문했어요. 배송도 빠르고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "4",
+    "Syllable": "105",
+    "Word": "26",
+    "RDate": "20220706",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 잘 샀습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "일반 마트 행사로 샀던 크기보다 훨씬 커서 놀랬네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "858150",
+    "RawText": "양도 엄청 많고 가성비가 높아서 오랫동안 사용할 수 있어요. 향은 그냥 보편적인 제품이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "3",
+    "Syllable": "51",
+    "Word": "13",
+    "RDate": "20220618",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양도 엄청 많고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 높아서 오랫동안 사용할 수 있어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 그냥 보편적인 제품이에요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "858156",
+    "RawText": "좋네요. 가격도 저렴하고 크기도 커서 좋네요. 아직 써 보진 않았지만 ㅇㅇ제품이라. 믿고 구입합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20220616",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기도 커서 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "858159",
+    "RawText": "약간 매콤하지만 양치질하고 나면 개운합니다. 10개라 많아서 몇달 쓰겠어요. 저렴하게 잘 샀습니다. 배송도 하루만에 도착했네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "15",
+    "RDate": "20220615",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "약간 매콤하지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치질하고 나면 개운합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "10개라 많아서 몇달 쓰겠어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 샀습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "858224",
+    "RawText": "용량이 커서 오래 쓸수 있어서 좋습니다. 세정력은 보통이예요. 써보고 좋으면 재구매 하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "12",
+    "RDate": "20220518",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "용량이 커서 오래 쓸수 있어서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세정력은 보통이예요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "858231",
+    "RawText": "한 번 써봤는데 향이 진하다거나 맵거나 그런거 없이 무난하게 사용하기 좋은 치약인 것 같아서 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "16",
+    "RDate": "20220513",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 진하다거나 맵거나 그런거 없이 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "맵거나 그런거 없이 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "무난하게 사용하기 좋은 치약인 것 같아서 맘에 듭니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "858243",
+    "RawText": "품질도 별로고, 가격도 비싸고, 배송도 엄청 느리고, 유통기한도 짧아서 별로네요. 잘못산 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20220506",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 별로고,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸고,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 짧아서 별로네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "858266",
+    "RawText": "저희 가족은 ㅇㅇㅇㅇ 치약만 사용하고 있습니다. 세정력도 좋고 거품도 잘 나고 향도 좋고 개운하고 텁텁함도 없고 상쾌해서 좋아합니다. 배송도 빠르고 가격도 저렴하니 구입 잘 했지요. 유통기한은 25년 4월4일까지라 넉넉합니다. 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "133",
+    "Word": "30",
+    "RDate": "20220419",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세정력도 좋고 거품도 잘 나고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운하고 텁텁함도 없고 상쾌해서 좋아합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하니 구입 잘 했지요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한은 25년 4월4일까지라 넉넉합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "858277",
+    "RawText": "배송 예정일보다 하루 빨리 도착했습니다. 세정력은 믿고 쓰는 제품이고 상쾌해서 좋습니다. 유통기한도 25년 4월까지라 넉넉합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "4",
+    "Syllable": "72",
+    "Word": "15",
+    "RDate": "20220415",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세정력은 믿고 쓰는 제품이고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "상쾌해서 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 25년 4월까지라 넉넉합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "858279",
+    "RawText": "용량이 170그램으로 많아서 가성비 좋습니다. 가격도 싼데다가 제품도 좋아서 잘 샀어요. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "12",
+    "RDate": "20220415",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "용량이 170그램으로 많아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 싼데다가 제품도 좋아서 잘 샀어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "858289",
+    "RawText": "4월 6일 주문해서 오늘 파손없이 안전하게 받았어요. 유통기한도 25년 01,10일까지 길어서 안심하고 사용할 수 있겠네요. 가격도 할인행사로 저렴하게 구매했습니다 양도 ㅇㅇㅇㅇ클래식치약 10개라서 든든합니다 제품 받아서 양치질 해보니 향은 상쾌한 민트향이 나서 좋고 거품도 잘 나고 케이스에 적혀있는 것처럼 치면세균막 제거와 불소 보호막의 충치 예방 효과도 있다 하니 믿고 쓸 수 있는 제품같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "222",
+    "Word": "52",
+    "RDate": "20220409",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 25년 01,10일까지 길어서 안심하고 사용할 수 있겠네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 할인행사로 저렴하게 구매했습니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양도 ㅇㅇㅇㅇ클래식치약 10개라서 든든합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 상쾌한 민트향이 나서 좋고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품도 잘 나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "치면세균막 제거와 불소 보호막의 충치 예방 효과도 있다 하니 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "858307",
+    "RawText": "자주 애용하는 제품인데 이를 잘 닦아주는 것 같고 개운한 느낌이 좋습니다. 가격도 너무 저렴해서 만족스러운 제품이에요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20220316",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "이를 잘 닦아주는 것 같고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 개운한 느낌이 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 너무 저렴해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "858333",
+    "RawText": "치약 파손 없이 안전하게 잘 도착했어요 치약10개라서 양도 많고, 칫솔 사은품도 한개 있어서 한동안 걱정 없겠네요 생일 쿠폰과 포인트로 사니 저렴하게 사서 기분이 더 좋네요 다음에도 재구매할게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "108",
+    "Word": "27",
+    "RDate": "20220211",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "치약10개라서 양도 많고,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "칫솔 사은품도 한개 있어서 한동안 걱정 없겠네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "생일 쿠폰과 포인트로 사니 저렴하게 사서 기분이 더 좋네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "858349",
+    "RawText": "자주 구입하는 제품입니다 작은 용량은 아니고 큰 용량이라 좋아요 서비스로 칫솔도 같이 왔어요 배송은 완전 빨랐습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20220122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "작은 용량은 아니고 큰 용량이라 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "서비스로 칫솔도 같이 왔어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "858359",
+    "RawText": "ㅇㅇㅇㅇ만 쓰는데 저렴하게 잘 샀네요. ㅇㅇㅇㅇ 칫솔도 하나 같이 보내주셨네요. 감사히 잘 쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20220105",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 샀네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "ㅇㅇㅇㅇ 칫솔도 하나 같이 보내주셨네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "858400",
+    "RawText": "배송은 엄청 오래 걸렸습니다 그래도 ㅇㅇ 치약 개운합니다 용량 커서 자주 안 갈아서 좋아요 이 판매자가 행사때만 잘 맞으면 가장 저렴해서 떨어질때마다 여기서 구매하고 있습니다 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "103",
+    "Word": "26",
+    "RDate": "20210922",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "ㅇㅇ 치약 개운합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "용량 커서 자주 안 갈아서 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가장 저렴해서 떨어질때마다 여기서 구매하고 있습니다 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "858406",
+    "RawText": "좋은 가격에 잘 구매했어요. 포인트가 있었고, 마침 치약도 필요해서 구입했습니다. 늘 사용하는 치약이라서 좋네요. 개운해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "16",
+    "RDate": "20210913",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 잘 구매했어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운해서 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "858417",
+    "RawText": "잘 닦이고 가장 기본적인 치약이네요. 세정력도 좋은거 같고요. 그러나 좀 매워서 애들이 쓰기에는 힘들어요. 가격이 싸지는 않아서 부담이 되긴 하구요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "20",
+    "RDate": "20210831",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦이고 가장 기본적인 치약이네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세정력도 좋은거 같고요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "좀 매워서 애들이 쓰기에는 힘들어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 싸지는 않아서 부담이 되긴 하구요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "858419",
+    "RawText": "싸게 잘 샀습니다 필요 없는 사은품 보다 효용 가치 있는 칫솔 주시니 더 좋은거 같네요 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "16",
+    "RDate": "20210827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 잘 샀습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "효용 가치 있는 칫솔 주시니 더 좋은거 같네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "858464",
+    "RawText": "세일해서 저렴하게 잘 샀습니다. ㅇㅇㅇㅇ치약 라인이 다양한데 가성비 좋은 클래식으로 구입해서 잘 쓰고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20210622",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일해서 저렴하게 잘 샀습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은 클래식으로 구입해서 잘 쓰고 있습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "858471",
+    "RawText": "쿠폰 이용해서 싸게 구매했어요 배송도 빨라서 마음에 들구요 요즘엔 연마제로 실리카를 사용하는 제품이 많이 없는데, 이 제품은 연마제가 실리카로 되어 있어 주문했어요 오래된 오리지날 제품인데도 실리카로 되어 있어 양치 후 상쾌한 느낌이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "132",
+    "Word": "32",
+    "RDate": "20210615",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 이용해서 싸게 구매했어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "이 제품은 연마제가 실리카로 되어 있어 주문했어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "실리카로 되어 있어",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치 후 상쾌한 느낌이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "858473",
+    "RawText": "처음 써 보는데 별로네요 재주문은 하지 않을거 같습니다 향도 별로인거 같고 거품도 잘 안나는거 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "15",
+    "RDate": "20210614",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 별로인거 같고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품도 잘 안나는거 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "858474",
+    "RawText": "싼 가격에 세일까지  많이 많이 싸게 샀습니다 평소에 많이 사용하던 제품이라 믿고 샀습니다 칫솔 하나까지 덤으로 왔어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "17",
+    "RDate": "20210612",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼 가격에 세일까지  많이 많이 싸게 샀습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "칫솔 하나까지 덤으로 왔어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "858478",
+    "RawText": "마트에서 구입을 했던 제품이에요 적립금이 있어서 샀는데 가격 저렴하고 갯수도 많아서 만족스럽네요 마트보다 싸게 잘 구매했습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20210605",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 저렴하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "갯수도 많아서 만족스럽네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트보다 싸게 잘 구매했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "858485",
+    "RawText": "용량이 커서 마음에 듭니다 향도 좋고 입안 개운하고 깔끔합니다 항상 사용하는 제품이에요 늘 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20210525",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "용량이 커서 마음에 듭니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "입안 개운하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "깔끔합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "858491",
+    "RawText": "가성비 별로네요 치약맛이 생각외로 매운거 같습니다 거품이 잘 안나서 양치후 개운해지는 느낌이 없네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20210521",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 별로네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "치약맛이 생각외로 매운거 같습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품이 잘 안나서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치후 개운해지는 느낌이 없네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "858495",
+    "RawText": "다른 ㅇㅇ치약을 사용하다가 이번에 가격도 저렴해서 이제품을 구매했습니다 사용해보니 괜찮은것 같네요 향도 나쁘지 않고 깔끔하게 닦아주고 사용후에 입안이 개운하고 좋아요 그리고 양도 많이 들어 있습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "110",
+    "Word": "25",
+    "RDate": "20210516",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 나쁘지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "깔끔하게 닦아주고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "사용후에 입안이 개운하고 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양도 많이 들어 있습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "858498",
+    "RawText": "양이 엄청많아 오래 쓸수 있어 완전 좋습니다 가성비 짱이에요 배송도 빠르고 좋았어요 다쓰면 또 사러 오겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "16",
+    "RDate": "20210514",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양이 엄청많아 오래 쓸수 있어 완전 좋습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 짱이에요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "858499",
+    "RawText": "ㅇㅇ 클래식 치약을 오래동안 사용해왔는데 싼값에 구입했다고 좋아했어요 그런데 내용물이 묽고 점성이 떨어지네요 그래서 하루에 3, 4번 사용하는데 이전보다 금방 줄어듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "94",
+    "Word": "21",
+    "RDate": "20210514",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼값에 구입했다고 좋아했어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "내용물이 묽고 점성이 떨어지네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "하루에 3, 4번 사용하는데 이전보다 금방 줄어듭니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "858501",
+    "RawText": "좋은 가격에 잘 구매했네요. 딸아이가 이전에 구입했던 ㅇㅇㅇㅇ이 입안이 찝찝하게 남는 느낌이든다 해서 ㅇㅇㅇ으로 다시 구매했는데 입에남아도는 느낌이 상쾌하다고 좋아합니다 양도 많아서 오래 쓸것 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "111",
+    "Word": "25",
+    "RDate": "20210512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "입에남아도는 느낌이 상쾌하다고 좋아합니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 잘 구매했네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양도 많아서 오래 쓸것 같네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "858523",
+    "RawText": "항상 ㅇㅇㅇ치약 사용 하는데 언제나 구매해도 상품 품질이 좋네요. 마음에 듭니다 배송도 무척 빠르고 덤으로 칫솔도 하나 추가해 주셨군요 포장도 튼튼하게 해서 보내주시고 치아관리 잘할게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 치약 170g 10개",
+    "ReviewScore": "5",
+    "Syllable": "103",
+    "Word": "25",
+    "RDate": "20210407",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "덤으로 칫솔도 하나 추가해 주셨군요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

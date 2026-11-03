@@ -1,0 +1,3266 @@
+[
+  {
+    "Index": "424190",
+    "RawText": "스텐제품으로 사용하기 편한 무게의 제품입니다. 프리미엄은 손잡이가 올스텐이지만 이 제품은 보급형이라 손잡이가 가볍네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "3",
+    "Syllable": "66",
+    "Word": "13",
+    "RDate": "20220811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "스텐제품으로 사용하기 편한 무게의 제품입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "이 제품은 보급형이라 손잡이가 가볍네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424191",
+    "RawText": "가격대가 부담 되지 않아서 좋고 품질도 괜찮습니다. 다만 냄비 장만하게 되면 연마제 제거 해야하는 불편함은 있지만 몇년은 두고두고 사용할수 있겠네요. 잘 산것 같아 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "4",
+    "Syllable": "98",
+    "Word": "24",
+    "RDate": "20220627",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대가 부담 되지 않아서 좋고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 괜찮습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제 제거 해야하는 불편함은 있지만 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "몇년은 두고두고 사용할수 있겠네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424194",
+    "RawText": "선물해 드린 거라 직접 상품을 보진 못했습니다.  아직 사용 전으로 조금 무겁다고 하십니다. OO이라 믿고 구매했는데 품질은 좋을 거라 생각합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "4",
+    "Syllable": "82",
+    "Word": "20",
+    "RDate": "20220522",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "조금 무겁다고 하십니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "OO이라 믿고 구매했는데 품질은 좋을 거라 생각합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424204",
+    "RawText": "뚜껑 퀄리티가 아쉽습니다. 안쪽으로 물이 고여서 나오질 않네요. 뚜껑의 이런 구조는 요리하면 음식물도 많이 낄텐데 위생도 걱정입니다. 연마제 엄청나게 나오구요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "4",
+    "Syllable": "89",
+    "Word": "20",
+    "RDate": "20220210",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "뚜껑 퀄리티가 아쉽습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "안쪽으로 물이 고여서 나오질 않네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "뚜껑의 이런 구조는 요리하면 음식물도 많이 낄텐데",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "위생도 걱정입니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제 엄청나게 나오구요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424205",
+    "RawText": "무게 적당하고 디자인이 깔끔해서 좋네요. 다만 연마제가 많이 묻어나오네요. 닦느라 고생했어요.  빠른 배송으로 명절 전에 받아볼 수 있었네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "18",
+    "RDate": "20220129",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 깔끔해서 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제가 많이 묻어나오네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "닦느라 고생했어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424211",
+    "RawText": "배송도 빠르고 좋습니다. 구성이 크기 별로 있어 좋고 사용하기도 편할 거 같습니다. 여자 분한테는 약간 무거우실 거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "18",
+    "RDate": "20220106",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 크기 별로 있어 좋고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기도 편할 거 같습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "여자 분한테는 약간 무거우실 거 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424214",
+    "RawText": "좋은 제품 싸게 잘 샀습니다. 그런데 끝에 손잡이가 조금 날카로워서 아쉽습니다. 그래도 잘 사용해보겠습니다. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20211209",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 제품 싸게 잘 샀습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "끝에 손잡이가 조금 날카로워서 아쉽습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424216",
+    "RawText": "인덕션으로 바꾸면서 구입하게 되었는데 무게감이 있어서 좋습니다.  열 전달이 빠르고 좋습니다. OO이라 믿고 구입했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "14",
+    "RDate": "20211206",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감이 있어서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "열 전달이 빠르고 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424217",
+    "RawText": "닦아도 닦아도 연마제가 계속 나옵니다. 연마제때문에 처음으로 3번이나 소독하고 사용했어요. 스크레치는 조금 있는 편이지만 아주 저렴하게 잘 구매했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "4",
+    "Syllable": "85",
+    "Word": "18",
+    "RDate": "20211205",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "닦아도 닦아도 연마제가 계속 나옵니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제때문에 처음으로 3번이나 소독하고 사용했어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "스크레치는 조금 있는 편이지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "아주 저렴하게 잘 구매했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424227",
+    "RawText": "이사하는 곳에 선물로 보냈습니다. 다양한 사이즈라 마음에 든다고 해서 다행입니다.  인덕션용이 가격이 나가는데 믿을 수 있는 OO 제품으로 저렴하게 구입해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "4",
+    "Syllable": "93",
+    "Word": "21",
+    "RDate": "20211031",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "다양한 사이즈라 마음에 든다고 해서 다행입니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "인덕션용이 가격이 나가는데 믿을 수 있는 OO 제품으로 저렴하게 구입해서 좋습니다. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424229",
+    "RawText": "인덕션 사용하면서 냄비를 재구매했습니다. 스텐이라서 무겁긴합니다. 식세기 이용도 용이할듯 하네요. 냄비 연마제 세척 잘 해서 곧 사용예정이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "4",
+    "Syllable": "80",
+    "Word": "17",
+    "RDate": "20211019",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "스텐이라서 무겁긴합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "식세기 이용도 용이할듯 하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "냄비 연마제 세척 잘 해서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션 사용하면서 냄비를 재구매했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424240",
+    "RawText": "배송느리나 시즌인지라 받아보고 만족했습니다. 씻고 기름칠해서 연마제 닦아내느라 좀 힘들었어요. 건강을 위해 모든 냄비 등 기구에 꼭 필요한 작업인것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "4",
+    "Syllable": "88",
+    "Word": "20",
+    "RDate": "20210915",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": " 씻고 기름칠해서 연마제 닦아내느라 좀 힘들었어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "건강을 위해 모든 냄비 등 기구에 꼭 필요한 작업인것 같습니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "424244",
+    "RawText": "받아보니 엄청 무겁습니다. 그런데 튼실하고 좋아 보이네요. 욕심 같아선 변색 안 되고 이 상태로 쓸 수 있으면 좋겠네요. 아직 사용전입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "20",
+    "RDate": "20210909",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "받아보니 엄청 무겁습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 튼실하고 좋아 보이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "변색 안 되고 이 상태로 쓸 수 있으면 좋겠네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "424247",
+    "RawText": "좀 무겁긴 하지만 좋은 냄비 같아 안심입니다. 구성이 참 맘에 드네요. 저렴하게 잘 샀습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "4",
+    "Syllable": "52",
+    "Word": "14",
+    "RDate": "20210906",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "좀 무겁긴 하지만 좋은 냄비 같아 안심입니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 참 맘에 드네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴하게 잘 샀습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424251",
+    "RawText": "냄비 구성 좋습니다. 디자인도 심플하고 튼튼합니다. 이사가서 쓸거라 아직 사용전이지만 요리가 잘 되면 좋겠습니다. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "15",
+    "RDate": "20210720",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "냄비 구성 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 심플하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼합니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "요리가 잘 되면 좋겠습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "424255",
+    "RawText": "인덕션으로 바꾸면서 기존냄비 다 버리고 구입했습니다. 무게감이 있어서 좋습니다. 통3중이라 음식 맛있을 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "4",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20210522",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감이 있어서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "통3중이라 음식 맛있을 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424257",
+    "RawText": "냄비 너무 맘에 듭니다.  그런데 끓일 때 뚜껑이 너무 덜컹덜컹거려서  조금 불편합니다. 제품들은 사용하기 무난한 것들이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20210521",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "끓일 때 뚜껑이 너무 덜컹덜컹거려서  조금 불편합니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "제품들은 사용하기 무난한 것들이네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "424258",
+    "RawText": "가격대는 괜찮은데 조금 무겁고 안쪽 부분이 날카로운 부분이 있어서 조심히 사용해야겠네요. 배송은 빠르게 왔습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "3",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20210520",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대는 괜찮은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "조금 무겁고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "안쪽 부분이 날카로운 부분이 있어서 조심히 사용해야겠네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424267",
+    "RawText": "스테인레스 냄비가 쓰고 싶어 구매했습니다. 그런데  무게가 좀 나가네요. 하지만 사용하기는 편하고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20210309",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게가 좀 나가네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기는 편하고 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424270",
+    "RawText": "코팅냄비 쓰다가 코팅이 벗겨지는 찝찝한 상황을 겪고 스테인레스 냄비 고민하다가 구매했는데 만족해요. 후기에 손잡이 뜨거워진데서 고민했는데 다행히 제건 그렇지 않네요.  유리뚜껑이라 내부 보이는 것도 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "116",
+    "Word": "25",
+    "RDate": "20210228",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "후기에 손잡이 뜨거워진데서 고민했는데 다행히 제건 그렇지 않네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "유리뚜껑이라 내부 보이는 것도 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "스테인레스 냄비 고민하다가 구매했는데 만족해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424302",
+    "RawText": "집들이 선물로 구입했습니다. 통3중이라 견고하고 OO이라 품질도 믿을 만합니다. 마음에 들어했으면 좋겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "12",
+    "RDate": "20201116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "통3중이라 견고하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "OO이라 품질도 믿을 만합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424306",
+    "RawText": "중국에서 제조한 거만 빼면 튼튼해 보이고 너무 좋습니다.  무게감도 있어 좋고 디자인도 예뻐서 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "4",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20201115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해 보이고 너무 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감도 있어 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예뻐서 맘에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424323",
+    "RawText": "제품 포장을 꼼꼼하게 해주셔서 기스없이 잘 받았습니다. 냄비도 묵직하고 마음에 들어요. 쿠폰써서 싸게 잘 샀습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20201111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "냄비도 묵직하고 마음에 들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰써서 싸게 잘 샀습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424335",
+    "RawText": "중간 사이즈 2개가 필요했는데 모든 열원에서 가능하다하여 그냥 셋트로 구매했어요. 튼튼해 보이네요. 아직 미사용이라 불편한 건 모르겠습니다. 모양은 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "20",
+    "RDate": "20201103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해 보이네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아직 미사용이라 불편한 건 모르겠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "모양은 마음에 듭니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "모든 열원에서 가능하다하여 그냥 셋트로 구매했어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424337",
+    "RawText": "정상적으로 상품 잘 받았네요. 앞으로도 질 좋고 착한 가격의 상품 부탁합니다. 늘 번창하시기 바랍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20201027",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "앞으로도 질 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한 가격의 상품 부탁합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424339",
+    "RawText": "내구성도 좋고 구성도 마음에 듭니다. 정말 저렴하게 잘 구입했습니다. 사용도 몇 번하고 있는데 그으름도 안생기고 설겆이도 잘되고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "18",
+    "RDate": "20201024",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "내구성도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 마음에 듭니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "정말 저렴하게 잘 구입했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "그으름도 안생기고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "설겆이도 잘되고 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424341",
+    "RawText": "무게가 묵직한 게 너무 좋습니다. 뚜껑도 있어서 좋습니다. 고급진 타사 제품이랑 비교해도 손색이 없을 만큼 너무 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20201017",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게가 묵직한 게 너무 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "뚜껑도 있어서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424346",
+    "RawText": "쓰기 편하고 좋습니다. 빠른 배송으로 받아서 추석 때 잘 사용 했습니다. 사이즈도 적당하고 다 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "16",
+    "RDate": "20201002",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "쓰기 편하고 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 사이즈도 적당하고 다 맘에 듭니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424355",
+    "RawText": "역시 OO 믿고 구매했어요. 행사쿠폰 받아서 저렴하게 구매했습니다.  튼튼해보여서 오래 두고 사용할 것 같아요. 배송 포장상태도 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "17",
+    "RDate": "20200924",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "행사쿠폰 받아서 저렴하게 구매했습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해보여서 오래 두고 사용할 것 같아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424359",
+    "RawText": "인덕션에서 잘 되고 좋습니다. 뚜껑이 유리인 줄 몰랐는데 음식 조리 할 때 잘 보여서 편합니다. 뚜껑 손잡이랑 편수 손잡이가 좀 뜨겁긴 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "4",
+    "Syllable": "80",
+    "Word": "22",
+    "RDate": "20200921",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션에서 잘 되고 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "뚜껑이 유리인 줄 몰랐는데 음식 조리 할 때 잘 보여서 편합니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "뚜껑 손잡이랑 편수 손잡이가 좀 뜨겁긴 합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424361",
+    "RawText": "딱 필요한 구성으로 되어 있어 좋고 통3중으로 된 좋은 제품을 잘 샀습니다. 손잡이가 좀 뜨거워서 아쉽지만 할인 쿠폰 써서 잘 사서 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "23",
+    "RDate": "20200918",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "딱 필요한 구성으로 되어 있어 좋고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "통3중으로 된 좋은 제품을 잘 샀습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "손잡이가 좀 뜨거워서 아쉽지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인 쿠폰 써서 잘 사서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424366",
+    "RawText": "역시 OO브랜드 값을 하는것 같아요. 좀 무거운감은 있지만 디자인이 예뻐 부엌에 포인트가 되네요. 요즘같은 때에 가격이 좀 부담되긴 하지만 제품은 대체적으로 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "4",
+    "Syllable": "94",
+    "Word": "22",
+    "RDate": "20200825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "좀 무거운감은 있지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 예뻐 부엌에 포인트가 되네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 부담되긴 하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424369",
+    "RawText": "배송은  2-3일정도 예상했는데 생각보다 늦었어요. 가격 저렴하고 품질과 디자인 너무 마음에 듭니다. 네 개 중 편수냄비 두개로 구성되어 있어서 대만족입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "20",
+    "RDate": "20200713",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질과 디자인 너무 마음에 듭니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 너무 마음에 듭니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "네 개 중 편수냄비 두개로 구성되어 있어서 대만족입니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424371",
+    "RawText": "어머니 사 드렸습니다. 좋아라 하시는데 조금 무겁다고 하십니다. 연마제 닦아내는데 좀 힘들었네요. 그래도 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20200622",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "조금 무겁다고 하십니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제 닦아내는데 좀 힘들었네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424372",
+    "RawText": "결혼생활 5년 만에 낡아버린 냄비를 교체하네요. 더 좋고 유명한 냄비들 많지만 적당한 가격에 쓰기 좋은 OO로 구입했습니다. 하자 없이 잘 도착했어요. 연마제를 닦는 청소가 힘들듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "104",
+    "Word": "25",
+    "RDate": "20200616",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적당한 가격에 쓰기 좋은 OO로 구입했습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제를 닦는 청소가 힘들듯합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424381",
+    "RawText": "디자인 깔끔하고 좋습니다. 근데 제일 작은 냄비가 생각보다 많이 무겁네요. 그리고 살짝 흠이 찍힌 채 왔지만 교체하기 귀찮아서 그냥 쓰려고해요. 전체적인 구성은 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "4",
+    "Syllable": "98",
+    "Word": "24",
+    "RDate": "20200507",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 깔끔하고 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "제일 작은 냄비가 생각보다 많이 무겁네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "살짝 흠이 찍힌 채 왔지만 교체하기 귀찮아서 그냥 쓰려고해요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "전체적인 구성은 마음에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424389",
+    "RawText": "스테인리스 냄비 첫 사용 세척은 생각보다 시간이 많이 걸리네요. 가격 대비 상품 묵직하니 좋습니다. 연마제가 제법 묻어 나오긴 하지만 잘 세척해서 썼네요. 가격 대비 좋은 구성 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "104",
+    "Word": "27",
+    "RDate": "20200417",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "스테인리스 냄비 첫 사용 세척은 생각보다 시간이 많이 걸리네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가격 대비 상품 묵직하니 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제가 제법 묻어 나오긴 하지만 잘 세척해서 썼네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "가격대비 좋은 구성 만족해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424395",
+    "RawText": "저렴한 가격에 4종 세트인게 마음에 들어 구매했어요. 연마제 닦아내느라 고생했지만 다 닦아내니 보람은 있어 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "4",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20200206",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "4종 세트인게 마음에 들어 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제 닦아내느라 고생했지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424398",
+    "RawText": "쓰던 냄비가 코팅이 벗겨져서 이번엔 스텐 냄비로 바꿔봤습니다. 쓰기 좋은 구성에 가격도 적당하고 냄비도 깔끔하니 주방이 살아나는듯 합니다. 다만 연마제 닦아내느라 고생 좀 했네요. 키친타올에 식용유 묻혀서 닦아내는데 몇 번이고 닦아내도 계속 시커멓게 묻어나서 팔 아파죽는줄 알았네요. 베이킹소다 넣고 물 끓이고 몇 번 그렇게하니 거의 안묻어 나왔습니다. 스텐냄비 사시는 분들 꼭 연마제 제거하고 써야할듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "229",
+    "Word": "54",
+    "RDate": "20200201",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "쓰기 좋은 구성에 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "냄비도 깔끔하니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제 닦아내느라 고생 좀 했네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": " 몇 번이고 닦아내도 계속 시커멓게 묻어나서 팔 아파죽는줄 알았네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "베이킹소다 넣고 물 끓이고 몇 번 그렇게하니 거의 안묻어 나왔습니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "424403",
+    "RawText": "두께감 있어서 좋고 묵직한 편이라서 오히려 더 좋습니다. 플라스틱은 전혀 없이 스테인리스만으로 되어 있어 안심이 되고 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20200122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께감 있어서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직한 편이라서 오히려 더 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "플라스틱은 전혀 없이 스테인리스만으로 되어 있어 안심이 되고 좋네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424406",
+    "RawText": "배송이 많이 늦네요. 냄비가 묵직해서 맘에 들어요. 오래 깨끗하게 사용했음 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "4",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20200120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "냄비가 묵직해서 맘에 들어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 오래 깨끗하게 사용했음 좋겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "424408",
+    "RawText": "품질은 아직 안써서 잘 모르겠습니다. 통삼중이라 좋고 필요한 사이즈로 구성이 되어 있어 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20200117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 아직 안써서 잘 모르겠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "통삼중이라 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "필요한 사이즈로 구성이 되어 있어 마음에 듭니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424409",
+    "RawText": "이것 저것 사야 해서 네개 세트 구성품 구매했습니다. 한달간 사용했습니다. 일단 제품이 상당히 무거워서 들기 힘드네요. 또한 제품의 손잡이가 열 전도율이 너무 높아서 조리후 생각 없이 손잡이 잡다가는 깜짝 놀랄 정도로 뜨겁네요. 잘못하면 화상을 입을 수 도 있고 손잡이의 뜨거움에 놀라서 용기의 음식물을 쏟을 뻔한 적이 한두번 아니예요. OO이지만 제조국은 중국입니다. 잘못 구매했다라는 생각이 들지만 사용해서 환불도 안되니 그냥 씁니다. 비추합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "2",
+    "Syllable": "252",
+    "Word": "61",
+    "RDate": "20200117",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "제품이 상당히 무거워서 들기 힘드네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "손잡이가 열 전도율이 너무 높아서 조리후 생각 없이 손잡이 잡다가는 깜짝 놀랄 정도로 뜨겁네요.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "손잡이의 뜨거움에 놀라서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "이것 저것 사야 해서 네개 세트 구성품 구매했습니다 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424413",
+    "RawText": "다른 스텐제품은 얼룩도 심하고 세척하기가 힘이 드는데 통3중 OO 제품은 세척이 다른 스텐제품에 비하여 쉬운편이고 뚜껑이 유리라서 가벼운편이라서 마음에 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "20",
+    "RDate": "20200115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "통3중 OO 제품은 세척이 다른 스텐제품에 비하여 쉬운편이고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "뚜껑이 유리라서 가벼운편이라서 마음에 드네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424415",
+    "RawText": "튼튼하고 고급지게 세련됐습니다. 조금 무거운 감은 있는데 실용적이고 편리하네요. 신혼집 살림에 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "12",
+    "RDate": "20200114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "고급지게 세련됐습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "조금 무거운 감은 있는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "실용적이고 편리하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424417",
+    "RawText": "조리시 집에 있는 다른 스텐냄비는 아무리 뜨거워서 손으로 잡을 수 있을정도인데 이건 너무 뜨거워 손을 델 뻔 했네요. 편하게 쓰기 힘들 것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "4",
+    "Syllable": "81",
+    "Word": "23",
+    "RDate": "20200114",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "다른 스텐냄비는 아무리 뜨거워서 손으로 잡을 수 있을정도인데 이건 너무 뜨거워 손을 델 뻔 했네요.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하게 쓰기 힘들 것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424422",
+    "RawText": "디자인 깔끔하게 예쁘고 인덕션에 사용할 수 있는 제품이라서 무게감은 있는데 좋습니다. 잘 사용하겠습니다. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20200103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 깔끔하게 예쁘고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션에 사용할 수 있는 제품이라서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감은 있는데 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424426",
+    "RawText": "연마제 제거가 번거로웠지만 잘 사용해보겠습니다. 그런데 설명서가 있으면 더 좋을 것 같은데 없어서 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20191220",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제 제거가 번거로웠지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "설명서가 있으면 더 좋을 것 같은데 없어서 아쉽네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424435",
+    "RawText": "인덕션 용으로 구매했습니다. 엄마 선물로 산 거라 사용은 아직 못 해봤어요. OO이라 믿고 구매했으니 품질에는 만족하시겠죠?",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20191104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션 용으로 구매했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "OO이라 믿고 구매했으니 품질에는 만족하시겠죠?",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "424437",
+    "RawText": "인덕션으로 바꿔서 주문했는데 하필 불량이 왔네요. 당장 냄비를 써야하는 상황이라 손해보고 씁니다. 보낼때 검수만 제대로 했더라도 이런일은 없을텐데 아쉽네요. 디자인은 괜찮은데 무게가 너무 무겁습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "4",
+    "Syllable": "111",
+    "Word": "24",
+    "RDate": "20191101",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 괜찮은데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게가 너무 무겁습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424446",
+    "RawText": "저렴하게 잘샀습니다. 원래는 20cm하나만 필요했는데 세트구성이 좋고 가격이 잘 나와서 구매했네요. 통3중이라 오래 잘 쓸거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "16",
+    "RDate": "20190905",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘샀습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "세트구성이 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 잘 나와서 구매했네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "통3중이라 오래 잘 쓸거 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424452",
+    "RawText": "연마제도 많이 묻어나지 않고 디자인도 예쁩니다. 유리 뚜껑이 투명해 내용물이 보여서 더 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20190806",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제도 많이 묻어나지 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예쁩니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "유리 뚜껑이 투명해 내용물이 보여서 더 좋네요 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424466",
+    "RawText": "아주 좋습니다.  묵직하니 좋고 아주 잘 쓰고 있어요. 연마제가 많이 나오니 힘들어도 잘 닦아서 사용하시길 바랍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20190710",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직하니 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제가 많이 나오니 힘들어도 잘 닦아서 사용하시길 바랍니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424472",
+    "RawText": "포장이 완벽하게 배송되었습니다. 식초물 넣고 끓여보니 골고루 잘 끓어서 좋네요. 음식도 맛좋게 요리 될거 같아 기대가 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20190702",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "식초물 넣고 끓여보니 골고루 잘 끓어서 좋네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "음식도 맛좋게 요리 될거 같아 기대가 됩니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "424473",
+    "RawText": "생각보다 무겁지 않네요. 사용하기도 편리하면 좋겠습니다. 개 당 2만원대이니 그 정도면 저렴하게 잘 산거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20190627",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각보다 무겁지 않네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기도 편리하면 좋겠습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "개 당 2만원대이니 그 정도면 저렴하게 잘 산거 같습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424477",
+    "RawText": "주문하고 하루만에 도착해서 좋아요. 무게가 생각보다 약간 무거워서 아쉽지만 단단해서 좋습니다. 구성도 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "13",
+    "RDate": "20190622",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게가 생각보다 약간 무거워서 아쉽지만 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "단단해서 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 만족합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424482",
+    "RawText": "인덕션에 사용할 냄비가 필요해서 OO거로 구입해봤습니다. 인덕션용이라 좋고 구성 알차서 좋네요. 지인하고 나눠서 잘 쓸거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "16",
+    "RDate": "20190619",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션용이라 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성 알차서 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424484",
+    "RawText": "가격대가 있어서 그런지 품질은 좋아보입니다. 일단 묵직해서 마음에 듭니다. 아쉬운 점은 뚜껑 부분도 스텐 재질이면 더 좋았을듯해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "4",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20190618",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대가 있어서 그런지 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 좋아보입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직해서 마음에 듭니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "뚜껑 부분도 스텐 재질이면 더 좋았을듯해요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424491",
+    "RawText": "아직 사용 전이지만 일단 외관은 마음에 듭니다. 포장도 꼼꼼하고 무엇보다 바닥면이 따로 철을 덧댄 거 없이 매끈해서 좋습니다. 잘 길들여서 써봐야겠습니다. 비닐을 벗기지 않은 채로 사진 찍었습니다. 라면 냄비만 꺼내 봤는데 안쪽에 눈금자도 있어서 사용할 때 편할 것 같습니다.  저렴하게 사서 더 만족해요. OO이니 믿음도 갑니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "185",
+    "Word": "46",
+    "RDate": "20190530",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "재질/질감",
+        "SentimentText": "바닥면이 따로 철을 덧댄 거 없이 매끈해서 좋습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "라면 냄비만 꺼내 봤는데 안쪽에 눈금자도 있어서 사용할 때 편할 것 같습니다. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 사서 더 만족해요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "일단 외관은 마음에 듭니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424498",
+    "RawText": "냄비 세트 생각보다 비싼거 같습니다. OO 세트 품질은 우수하다고 생각합니다. 배송은 너무 느리게 돼서 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "4",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20190509",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "냄비 세트 생각보다 비싼거 같습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "OO 세트 품질은 우수하다고 생각합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424500",
+    "RawText": "통 5중 냄비를 들어본 후 스텐 냄비를 포기했었어요. 너무 무거워서 요리는커녕 들 수가 없었는데요. 그러던 중 통3중을 알게 되고 뚜껑 포함해 저렴하게 구입했네요. 통3중도 무거운 제품이 많다고 들어서 걱정했지만 편수 냄비 제외하고는 가볍네요. 편수냄비는 묵직합니다. 걱정되는 부분은 손잡이가 안쪽이 채워져 있지 않아 이물질이 묻을 경우 솔을 넣어 닦아줘야 해서 불편합니다. 아직 오일링 안 해봐서 연마제가 얼마나 나올지는 모르겠네요. 일단 이쁩니다. 사이즈 참고하시라고 500ml 물병 샷 올려드려요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "281",
+    "Word": "66",
+    "RDate": "20190509",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "뚜껑 포함해",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입했네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "편수 냄비 제외하고는 가볍네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "편수냄비는 묵직합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "이물질이 묻을 경우 솔을 넣어 닦아줘야 해서 불편합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "오일링 안 해봐서 연마제가 얼마나 나올지는 모르겠네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이쁩니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "손잡이가 안쪽이 채워져 있지 않아 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424509",
+    "RawText": "세트 구성은 맘에 드는데 가스렌지 사용시에는 손잡이가 뜨거울 것 같네요. 위험하지 않게 신경써서 만들면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20190411",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "세트 구성은 맘에 드는데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "가스렌지 사용시에는 손잡이가 뜨거울 것 같네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "위험하지 않게 신경써서 만들면 좋겠네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424521",
+    "RawText": "집에 인덕션으로 바꾸면서 냄비셋트 몇개 구매했는데 독일제나 국내브랜드나 무슨 반품이나 하자품 파는건지 포장이 엉망이라서 맘에 안들었네요. 이 제품은 하나하나 비닐팩킹에 종이에 딱 싸여져서 진짜 새것임을 한눈에 알 수 있어 좋았고 잔기스 하나 없고 무게감이 적당해서 다른 얇은 스텐인리스 냄비랑은 다릅니다. 제품 구성도 너무 좋습니다. 잘 사용할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "195",
+    "Word": "46",
+    "RDate": "20190308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감이 적당해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "제품 구성도 너무 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424529",
+    "RawText": "사이즈 작을줄 알았는데 왠걸 딱 좋습니다. 잘 쓰겠네요. 그런데 연마제 닦는데 한시간이 넘게 걸려서 너무 힘들었습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20190110",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈 작을줄 알았는데 왠걸 딱 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제 닦는데 한시간이 넘게 걸려서 너무 힘들었습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424533",
+    "RawText": "마음에 꼭 듭니다. 스텐이라 약간 무겁지만 디자인도 이쁘고 구성품도 딱 필요한것만 있어서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20181231",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "스텐이라 약간 무겁지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 이쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성품도 딱 필요한것만 있어서 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424536",
+    "RawText": "포장도 잘 돼서 도착했어요. 사은품으로 온 냄비 받침대도 마음에 들어요. 잘 쓰겠습니다. 가격도 다른곳 보다 저렴해서 바로 구입했네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20181226",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품으로 온 냄비 받침대도 마음에 들어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 다른곳 보다 저렴해서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424542",
+    "RawText": "냄비 구성이 좋습니다. 냄비 윗부분 마감이 안좋아서 그것만 조심하면 되겠네요. 반품사유가 아니라 그냥 쓰려고요. 다른 부분은 괜찮습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "3",
+    "Syllable": "76",
+    "Word": "17",
+    "RDate": "20181108",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "냄비 구성이 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "냄비 윗부분 마감이 안좋아서 그것만 조심하면 되겠네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424545",
+    "RawText": "무게도 적당하고 예뻐서 좋습니다. OOO 냄비 사용하고 있었는데 코팅이 벗겨져서 스테인리스인 이 제품이 젤 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20181013",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "예뻐서 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "스테인리스인 이 제품이 젤 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424548",
+    "RawText": "오랫동안 사용했던 스텐냄비들을 바꾸려고 알아봤는데요.  OO제품인데 구성도 좋고 뚜껑까지 있으면서 가격도 합리적인 제품이라 구입했습니다. 비닐들과 완충재로 꼼꼼히 포장해서 배송받으니 더더욱 만족했넨요.. 다른 구성들로도 가격이 맞으면 구입하고 싶어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "140",
+    "Word": "27",
+    "RDate": "20180901",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 좋고 뚜껑까지 있으면서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 합리적인 제품이라 구입했습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424556",
+    "RawText": "오랜만에 대대적으로 주방에 변화가 생겼어요. 냄비 4개와 프라이팬 4개 새로 왔을 뿐인데 집에 싱크대가 분주하네요. 고급스런 느낌과 품질도 좋아보여서 좋습니다. 잘 사용할께요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "22",
+    "RDate": "20180518",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "고급스런 느낌과 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋아보여서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424560",
+    "RawText": "OO 인텐시움 프로 스텐 냄비를 인덕션용으로 구매했습니다. 배송은 3일 정도 걸린 듯 합니다. 디자인도 이쁘고 너무 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20180403",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "OO 인텐시움 프로 스텐 냄비를 인덕션용으로 구매했습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 이쁘고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424572",
+    "RawText": "OO 행사 기간에 쿠폰 적용하여 저렴하게 구입했습니다. 매직 핸드 처음 써 보는데 혁신적이네요. 고민이신 분들 사용해 보시기를 권합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매직핸즈 인덕션 티** 멀티세트 6P",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20220601",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "OO 행사 기간에 쿠폰 적용하여 저렴하게 구입했습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "매직 핸드 처음 써 보는데 혁신적이네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424576",
+    "RawText": "저렴한 가격으로 잘 구매했습니다. 이번 매직핸즈 제품은 고급스럽고 기존 제품보단 조금 묵직한 무게감도 있지만 사용하기 불편할 정도는 아니에요. 제품 구성 사이즈도 가장 많이 사용할수 있는 크기라 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매직핸즈 인덕션 티** 멀티세트 6P",
+    "ReviewScore": "5",
+    "Syllable": "114",
+    "Word": "27",
+    "RDate": "20220409",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격으로 잘 구매했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이번 매직핸즈 제품은 고급스럽고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "기존 제품보단 조금 묵직한 무게감도 있지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 사용하기 불편할 정도는 아니에요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "제품 구성 사이즈도 가장 많이 사용할수 있는 크기라 만족해요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424578",
+    "RawText": "이 제품은 손잡이가 분리되어 보관이 너무 편해요. 색상도 마음에 듭니다. 광고처럼 코팅만 오래가면 좋을 듯 하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매직핸즈 인덕션 티** 멀티세트 6P",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20220403",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "이 제품은 손잡이가 분리되어",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "보관이 너무 편해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 마음에 듭니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "광고처럼 코팅만 오래가면 좋을 듯 하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "424579",
+    "RawText": "같은 판매처인데 다른데서 주문했다가 취소 부탁드리고 OO에서 더 저렴하게 샀습니다. 다른 에디션을 너무 갖고싶었는데 그 제품은 풀세트라서 고민하다가 우연히 이 제품을 발견했습니다.  실리콘 뚜껑이라 넘 맘에 들고 색상도 세련되게 예쁘네요. 로고가 없어서 아쉽긴 하지만 볼수록 이쁘고 맘에 드네요. 코팅 단계중에서 젤 좋은거라서 좋습니다. 휴무일이 끼어 있었는데도 빠르게 배송해 주셔서 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매직핸즈 인덕션 티** 멀티세트 6P",
+    "ReviewScore": "5",
+    "Syllable": "221",
+    "Word": "50",
+    "RDate": "20220312",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "OO에서 더 저렴하게 샀습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "실리콘 뚜껑이라 넘 맘에 들고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 세련되게 예쁘네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "볼수록 이쁘고 맘에 드네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅 단계중에서 젤 좋은거라서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "로고가 없어서 아쉽긴 하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424580",
+    "RawText": "비싼 후라이팬도 써보고 했지만 적당한 팬사서 자주 바꾸는게 더 좋더라고요. OO 매직핸즈를 필요한 거만 사서 쓰는중입니다. 구성도 좋고 OOOOO에서 사는게 제일 가격도 착해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매직핸즈 인덕션 티** 멀티세트 6P",
+    "ReviewScore": "5",
+    "Syllable": "104",
+    "Word": "24",
+    "RDate": "20220227",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "OOOOO에서 사는게 제일 가격도 착해서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424582",
+    "RawText": "구성도 꼭 필요한 것들이고 매직핸즈라 사용하기 편하고 보관도 편합니다. 코팅도 나쁘지 않아 보이네요. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매직핸즈 인덕션 티** 멀티세트 6P",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20220213",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 꼭 필요한 것들이고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "매직핸즈라 사용하기 편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": " 보관도 편합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅도 나쁘지 않아 보이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "424584",
+    "RawText": "손잡이가 탈부착형이라 수납이 편리합니다. 버튼 누름 방식으로 세 종류의 용기에 맞게 쉽게 쓸수 있다는 장점이 커서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매직핸즈 인덕션 티** 멀티세트 6P",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20220128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "손잡이가 탈부착형이라 수납이 편리합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "버튼 누름 방식으로",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "세 종류의 용기에 맞게 쉽게 쓸수 있다는 장점이 커서 좋습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424590",
+    "RawText": "OO 제품 여러 라인 중에 제일 탄탄한 제품이에요. 구성도 알차고 다용도로 쓰기 딱 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매직핸즈 인덕션 티** 멀티세트 6P",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "14",
+    "RDate": "20211216",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "제일 탄탄한 제품이에요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 구성도 알차고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 다용도로 쓰기 딱 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424594",
+    "RawText": "스텐 후라이팬 길들이기에 늘 실패하여 코팅력이 좋은 OOO 코팅 후라이팬을 사용합니다. 볶음팬을 주문하려니 28cm 웍 제품이 많네요. 28cm는 사이즈가 커서 22나 24정도로 구매하려고 보니 매직핸즈 제품이 눈에 띄여 구입했습니다.개인적으로 후라이팬은 26이나 28cm를 볶음팬은 22나 24cm가 사용하기 편하다고 느끼는데 이제품이 딱 그 사이즈입니다. 매직핸즈라 편리합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매직핸즈 인덕션 티** 멀티세트 6P",
+    "ReviewScore": "5",
+    "Syllable": "213",
+    "Word": "44",
+    "RDate": "20211122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "후라이팬은 26이나 28cm를 볶음팬은 22나 24cm가 사용하기 편하다고 느끼는데 이제품이 딱 그 사이즈입니다",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "매직핸즈라 편리합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424609",
+    "RawText": "배송 빠르고 무게가 가벼워서 핸들링 하기 좋네요. 기존 OO제품에서 교체용으로 샀습니다. 아직 사용 전이라 코팅이 어떤지 모르겠지만 OO이니 좋을것 같고 믿을만합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매직핸즈 인덕션 티** 멀티세트 6P",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "21",
+    "RDate": "20210904",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게가 가벼워서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 핸들링 하기 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "아직 사용 전이라 코팅이 어떤지 모르겠지만 OO이니 좋을것 같고 믿을만합니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "424610",
+    "RawText": "손잡이가 분리되니 보관할 때 정말 공간 효율도 좋고 설거지도 편해서 좋고 건조도 너무 편하네요. 아주 만족하고 강력하게 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매직핸즈 인덕션 티** 멀티세트 6P",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20210903",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "손잡이가 분리되니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "보관할 때 정말 공간 효율도 좋고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "설거지도 편해서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "건조도 너무 편하네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424619",
+    "RawText": "인덕션에 사용이 가능한 제품이라도 인식이 안되는 경우가 있던데 모두 인덕션 인식 가능하고 열전도율이 엄청 좋은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매직핸즈 인덕션 티** 멀티세트 6P",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20210625",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "모두 인덕션 인식 가능하고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "열전도율이 엄청 좋은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424621",
+    "RawText": "사진상 고급스러워 보여 타제품보다 비싸도 구매했는데 사진보다 훨씬 고급스럽지가 않네요. 겉표면 붓칠된 색상이 전혀 다르고 퀄리티가 떨어집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매직핸즈 인덕션 티** 멀티세트 6P",
+    "ReviewScore": "4",
+    "Syllable": "79",
+    "Word": "17",
+    "RDate": "20210615",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "타제품보다 비싸도 구매했는데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "사진보다 훨씬 고급스럽지가 않네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "겉표면 붓칠된 색상이 전혀 다르고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "퀄리티가 떨어집니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424622",
+    "RawText": "아내가 너무 좋다고해서 추가 구매했습니다. 코팅력 나쁘지않고 매직핸즈라 보관하기도 편하고 좋네요. 내구성도 강해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매직핸즈 인덕션 티** 멀티세트 6P",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "13",
+    "RDate": "20210609",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅력 나쁘지않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "매직핸즈라 보관하기도 편하고 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 내구성도 강해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424624",
+    "RawText": "너무 좋습니다. 티타늄의 무게는 있지만 튼튼해 보입니다. 코팅도 정말 좋고 매직핸즈도 사용하기에 편리해요. 품질이 좋아서 돈이 아깝지 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매직핸즈 인덕션 티** 멀티세트 6P",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "18",
+    "RDate": "20210518",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "티타늄의 무게는 있지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해 보입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅도 정말 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "매직핸즈도 사용하기에 편리해요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 품질이 좋아서 돈이 아깝지 않네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424625",
+    "RawText": "수납하기 좋아서 샀는데 편하게 잘 쓸 것 같네요. 아쉬운 것은 프라이팬이 큰 사이즈가 포함되었으면 해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매직핸즈 인덕션 티** 멀티세트 6P",
+    "ReviewScore": "4",
+    "Syllable": "58",
+    "Word": "15",
+    "RDate": "20210513",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "수납하기 좋아서 샀는데 편하게 잘 쓸 것 같네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "프라이팬이 큰 사이즈가 포함되었으면 해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424627",
+    "RawText": "너무 마음에 듭니다. 추천해요. 티타늄이 고급라인으로 알고 있는데 역시 매우 좋아 보입니다. 식기세척기 속에서도 자리를 많이 차지 않아 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매직핸즈 인덕션 티** 멀티세트 6P",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "19",
+    "RDate": "20210410",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "티타늄이 고급라인으로 알고 있는데 역시 매우 좋아 보입니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "식기세척기 속에서도 자리를 많이 차지 않아 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424628",
+    "RawText": "OO 매직 핸즈는 제품이 좋아서 늘 만족입니다. 티타늄 코팅이라 좋아서 믿고 사용중이에요. 가볍고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매직핸즈 인덕션 티** 멀티세트 6P",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20210410",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "티타늄 코팅이라 좋아서 믿고 사용중이에요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424631",
+    "RawText": "매직핸즈 냄비를 자주 사용하는 편이라 사용한지 오래된 냄비는 버리고 손잡이 포함 3종 세트로 구입했어요. 매직핸즈용이라 편리해서 잘 사용하고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매직핸즈 티** 인덕션 3종세트 (냄비16,18+손잡이)",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "19",
+    "RDate": "20220408",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 손잡이 포함 3종 세트로 구입했어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "매직핸즈용이라 편리해서 잘 사용하고 있습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424632",
+    "RawText": "이전에 사용하던 OO 냄비보다 훨씬 고급스럽고 단단해서 사용하기에 안정감이 들고 좋습니다. 정말 만족스러워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매직핸즈 티** 인덕션 3종세트 (냄비16,18+손잡이)",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20220403",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이전에 사용하던 OO 냄비보다 훨씬 고급스럽고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "단단해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기에 안정감이 들고 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424641",
+    "RawText": "손잡이와 분리되어서 사용하는 것이 전혀 불편하지 않습니다.  하지만 뚜껑이 없다는 것이 좀 불편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매직핸즈 티** 인덕션 3종세트 (냄비16,18+손잡이)",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20181007",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손잡이와 분리되어서 사용하는 것이 전혀 불편하지 않습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "뚜껑이 없다는 것이 좀 불편합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424643",
+    "RawText": "몇 개월 써보니 겉면이 너무 잘 벗겨지네요. 부딪히고 긁힐때마다 벗겨지는 것 같네요. 까진다고 하는게 더 정확하겠네요. 더 오래는 못쓰겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매직핸즈 티** 인덕션 3종세트 (냄비16,18+손잡이)",
+    "ReviewScore": "1",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20180601",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "몇 개월 써보니 겉면이 너무 잘 벗겨지네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "부딪히고 긁힐때마다 벗겨지는 것 같네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "까진다고 하는게 더 정확하겠네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "더 오래는 못쓰겠네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424645",
+    "RawText": "매직핸즈 사용하기 편리하고 좋습니다. 16cm짜리는 작아서 라면도 부셔서 넣어야 할것 같네요. 생각보다 너무 작아서 아쉬워요. 주로 18cm 제품을 자주 쓸 듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매직핸즈 티** 인덕션 3종세트 (냄비16,18+손잡이)",
+    "ReviewScore": "5",
+    "Syllable": "94",
+    "Word": "22",
+    "RDate": "20180221",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "매직핸즈 사용하기 편리하고 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "16cm짜리는 작아서 라면도 부셔서 넣어야 할것 같네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "생각보다 너무 작아서 아쉬워요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "주로 18cm 제품을 자주 쓸 듯 합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424654",
+    "RawText": "아직 사용은 안 해봐서 잘 모르겠습니다만, 무게가 많이 나가서 설겆이 하기가 좀 힘들것 같습니다. 나머지는 좋은것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 트** 인덕션 냄비 (뚝배기18+찌개20+전골24)",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20210607",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게가 많이 나가서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "설겆이 하기가 좀 힘들것 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424655",
+    "RawText": "배송은 빠른편이 아니라 조금 기다리는 수고를 해야 했습니다. 제품을 보고 난 후 잘 샀다고 생각했습니다.  넘침 방지용 꼭지, 안전 손잡이, 수분을 고르게 퍼지게 하는 기능을 가진 뚜껑이 너무 좋고 좀 비싼 것 같았지만 이름값을 할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 트** 인덕션 냄비 (뚝배기18+찌개20+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "137",
+    "Word": "37",
+    "RDate": "20210522",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "넘침 방지용 꼭지, 안전 손잡이, 수분을 고르게 퍼지게 하는 기능을 가진 뚜껑이 너무 좋고",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좀 비싼 것 같았지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424661",
+    "RawText": "역시 OOO은 실망시키지 않습니다. 손잡이도 손에 착 붙습니다. 팬도 두꺼워 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 그** IH 프라이팬 2종세트 (팬24+궁중팬24)",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20220713",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "그립감",
+        "SentimentText": "손잡이도 손에 착 붙습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "팬도 두꺼워 만족해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424663",
+    "RawText": "사용하기전 세척만 했는데 물기가 금방 마르고 보기에도 고급스러워보여 좋습니다. 사용전이라 열전도를 알 수는 없지만 금방 부글부글 끓기를 기대해 봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 그** IH 프라이팬 2종세트 (팬24+궁중팬24)",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "19",
+    "RDate": "20220527",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "사용하기전 세척만 했는데 물기가 금방 마르고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "보기에도 고급스러워보여 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "열전도를 알 수는 없지만 금방 부글부글 끓기를 기대해 봅니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "424667",
+    "RawText": "기존 20cm 후라이팬 사용해보고 홀딱 반해서 주문하게 됐습니다. 크기, 내구성 모두 맘에 듭니다. 다만, 좀 묵직해서 팔에 근육 생길듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 그** IH 프라이팬 2종세트 (팬24+궁중팬24)",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "19",
+    "RDate": "20220413",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기, 내구성 모두 맘에 듭니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "내구성 모두 맘에 듭니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "좀 묵직해서 팔에 근육 생길듯합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424678",
+    "RawText": "사이즈를 잘 못 샀습니다.  이것보다 큰 걸 찾았는데 어쩐지 저렴하다 했습니다. 생각보다 사이즈가 작네요.  팬은 품질이 좋아서 강추합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 그** IH 프라이팬 2종세트 (팬24+궁중팬24)",
+    "ReviewScore": "4",
+    "Syllable": "78",
+    "Word": "18",
+    "RDate": "20220108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 어쩐지 저렴하다 했습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "생각보다 사이즈가 작네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "팬은 품질이 좋아서 강추합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

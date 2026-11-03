@@ -1,0 +1,3464 @@
+[
+  {
+    "Index": "420608",
+    "RawText": "평이 좋아서 구매했습니다. 저렴한 가격에 샀는데요. 물 따르는 쪽 마감은 원래 이런 건지 안 좋습니다. 그냥 쓰다 버리려고 하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 면 냄비 편수 18cm",
+    "ReviewScore": "2",
+    "Syllable": "73",
+    "Word": "19",
+    "RDate": "20210107",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 샀는데요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "물 따르는 쪽 마감은 원래 이런 건지 안 좋습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "420612",
+    "RawText": "배송이 빠르고 튼튼해서 좋은 것 같습니다.  라면 냄비로 사용하기에 빨리 끓어서 정말 좋습니다. 근데 사이즈가 라면 2개 이상은 힘들 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 면 냄비 편수 18cm",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "21",
+    "RDate": "20201216",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해서 좋은 것 같습니다.  ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "라면 냄비로 사용하기에 빨리 끓어서 정말 좋습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 라면 2개 이상은 힘들 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "420613",
+    "RawText": "보기보다 무게감이 있어요. 모양은 그냥 무난합니다. 다만 깊이(높이)가 살짝 아쉬워요. 깊이가 깊은 국수용으로 할 걸 그랬나 하는 아쉬움이 듭니다. 사이즈가 라면 2개 끓이기에는 좀 작아서 넘칠까 불안합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 면 냄비 편수 18cm",
+    "ReviewScore": "4",
+    "Syllable": "116",
+    "Word": "27",
+    "RDate": "20201204",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "보기보다 무게감이 있어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "모양은 그냥  무난합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "다만 깊이(높이)가 살짝 아쉬워요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "깊이가 깊은 국수용으로 할 걸 그랬나 하는 아쉬움이 듭니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 라면 2개 끓이기에는 좀 작아서 넘칠까 불안합니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "420616",
+    "RawText": "가격이 싸다보니 얇은 건 이해하겠는데 물이 담겼던 부분과 그렇지 않았던 부분이 너무나도 선명하게 차이가 납니다. 안도 그렇습니다. 그래도 라면 끓여 먹기에는 편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 면 냄비 편수 18cm",
+    "ReviewScore": "3",
+    "Syllable": "93",
+    "Word": "22",
+    "RDate": "20201112",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 싸다보니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇은 건 이해하겠는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "물이 담겼던 부분과 그렇지 않았던 부분이 너무나도 선명하게 차이가 납니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "안도 그렇습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "라면 끓여 먹기에는 편합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420620",
+    "RawText": "편리하고 좋습니다. 쫄쫄 따라내는 부분이 있어서 소스팬으로도 사용하기 좋네요. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 면 냄비 편수 18cm",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "10",
+    "RDate": "20200420",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편리하고 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "쫄쫄 따라내는 부분이 있어서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "소스팬으로도 사용하기 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420621",
+    "RawText": "제품 너무 가볍고 라면 2개 정도 끓여 먹을 사이즈로 딱입니다. 배송 완전 빠르고, 인덕션까지 가능하다니 정말 가성비 좋은 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 면 냄비 편수 18cm",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "19",
+    "RDate": "20200304",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "제품 너무 가볍고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "라면 2개 정도 끓여 먹을 사이즈로 딱입니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션까지 가능하다니 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 정말 가성비 좋은 제품입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420624",
+    "RawText": "빠른 배송 잘 받았습니다.  면 요리용으로 활용하기에 좋고 가성비 최고의 냄비인 듯 하네요. 살짝 물코가 있어서 면수 버리기가 너무 쉽고 수월합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 면 냄비 편수 18cm",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "21",
+    "RDate": "20200210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "면 요리용으로 활용하기에 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가성비 최고의 냄비인 듯 하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "살짝 물코가 있어서 면수 버리기가 너무 쉽고 수월합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420628",
+    "RawText": "배송은 빨리 왔어요. 사용하기는 너무 편하고 좋지만 제품 한번 사용했는데 벌써 얼룩이 생깁니다. 반품하려다 귀찮아서 그냥 말았는데 너무 속상하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 면 냄비 편수 18cm",
+    "ReviewScore": "3",
+    "Syllable": "82",
+    "Word": "19",
+    "RDate": "20200123",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기는 너무 편하고 좋지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 한번 사용했는데 벌써 얼룩이 생깁니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "420631",
+    "RawText": "네모난 라면도 잘 들어가는 사이즈라서 좋고 뚜껑에 물 버리는 구멍이 있어서 사용하기 편합니다. 오래 사용할 수 있어서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 면 냄비 편수 18cm",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20200106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "네모난 라면도 잘 들어가는 사이즈라서 좋고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "뚜껑에 물 버리는 구멍이 있어서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 편합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오래 사용할 수 있어서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420634",
+    "RawText": "두부 삶는데 사용해 보았는데 사용감 좋네요.  크기도 너무 작지 않고 적당해서 좋습니다. 인덕션에 빨리 끓으니 좋아요.  뚜껑 구멍으로 물을 따를 수 있어 편리해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 면 냄비 편수 18cm",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "24",
+    "RDate": "20191225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "두부 삶는데 사용해 보았는데 사용감 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 너무 작지 않고 적당해서 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "인덕션에 빨리 끓으니 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "뚜껑 구멍으로 물을 따를 수 있어 편리해서 좋습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420641",
+    "RawText": "가볍고 얇아서 물이 금방 끓으니 좋습니다. 알루미늄보다 안심하고 사용 할 수 있는 스테인리스이라 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 면 냄비 편수 18cm",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20191123",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "물이 금방 끓으니 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "알루미늄보다 안심하고 사용 할 수 있는 스테인리스이라 좋습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420645",
+    "RawText": "알루미늄 냄비 쓰다가 오래 못 쓰고 버리게 됐는데 역시 스테인리스가 좋군요. 편수라 편하기도 하네요. 라면이나 죽 같이 간단하게 끓여먹기 좋을 거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 면 냄비 편수 18cm",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "22",
+    "RDate": "20191109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "역시 스테인리스가 좋군요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편수라 편하기도 하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "라면이나 죽 같이 간단하게 끓여먹기 좋을 거 같습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420651",
+    "RawText": "기존에 쓰던 냄비가 바닥 표면에 뭐가 볼록하게 나와서 스테인리스 냄비로 바꿨습니다. 써 보니 역시 다른 소재에 비해 마음에 듭니다.  새 거라 광도 나지만 스텐이라서 젓가락이든 국자든 마음대로 젓고 부딪혀도 표면 코팅 긁힐 염려 안 해도 돼서 마음이 편하네요. 계속 잘 써야겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 면 냄비 편수 18cm",
+    "ReviewScore": "5",
+    "Syllable": "158",
+    "Word": "41",
+    "RDate": "20191011",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "써 보니 역시 다른 소재에 비해 마음에 듭니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/질감",
+        "SentimentText": "새 거라 광도 나지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "스텐이라서 젓가락이든 국자든 마음대로 젓고 부딪혀도 표면 코팅 긁힐 염려 안 해도 돼서 마음이 편하네요.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420652",
+    "RawText": "냄비가 얇아서 금방 끓고 빨리 온도가 내려가 라면이 덜 불게 하는 게 좋습니다. 라면 끊일 때 사용하기 딱 좋은 사이즈라서 자주 사용하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 면 냄비 편수 18cm",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "22",
+    "RDate": "20191009",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "냄비가 얇아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "금방 끓고 빨리 온도가 내려가 라면이 덜 불게 하는 게 좋습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "라면 끊일 때 사용하기 딱 좋은 사이즈라서 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "자주 사용하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420655",
+    "RawText": "만만하게 사용가능한 냄비를 찾다가 저렴한 가격에 만만하게 생긴게 딱 좋이 보이길래 구매를 했습니다.  기존 냄비는 뚜껑이 엄청 뜨거워 불편했는데 이건 뚜껑도 하나도 안 뜨겁고 완전 좋은 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 면 냄비 편수 18cm",
+    "ReviewScore": "5",
+    "Syllable": "110",
+    "Word": "28",
+    "RDate": "20190830",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "뚜껑도 하나도 안 뜨겁고 완전 좋은 것 같아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420665",
+    "RawText": "배송은 빠른 편입니다. 일반 스테인리스 냄비보단 얇네요. 등산용 코펠 두께 정도로 얇습니다. 그래도 짜파게티 끓일 때 유용하네요. 사이즈도 라면 두봉지 까지 그 이상은 안될 것 같네요. 가성비는 괜찮습니다. 다만 오래 불에 올려놓으면 변색이 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 면 냄비 편수 18cm",
+    "ReviewScore": "3",
+    "Syllable": "139",
+    "Word": "34",
+    "RDate": "20190624",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "일반 스테인리스 냄비보단 얇네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "등산용 코펠 두께 정도로 얇습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "짜파게티 끓일 때 유용하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 라면 두봉지 까지 그 이상은 안될 것 같네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비는 괜찮습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "오래 불에 올려놓으면 변색이 됩니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "420678",
+    "RawText": "통 5중이라고 해서 많이 무거울 줄 알았는데 생각보다 가벼워서 좋네요. 뚜껑 손잡이가 분리되는 타입이라 안쪽 나사 부분으로 설거지 할 때 물이 들어가서 불편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 통5중 편수웍냄비 20cm",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "23",
+    "RDate": "20220612",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "통 5중이라고 해서 많이 무거울 줄 알았는데 생각보다 가벼워서 좋네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "뚜껑 손잡이가 분리되는 타입이라",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "안쪽 나사 부분으로 설거지 할 때 물이 들어가서 불편합니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "420680",
+    "RawText": "저렴하게 잘 산 것 같습니다.  안쪽에 눈금있어 물조절 하기가 정말 좋습니다.   라면 2개 정도 끓여 먹기 딱 좋은 사이즈인 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 통5중 편수웍냄비 20cm",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "21",
+    "RDate": "20211215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 산 것 같습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "안쪽에 눈금있어 물조절 하기가 정말 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "라면 2개 정도 끓여 먹기 딱 좋은 사이즈인 것 같습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420682",
+    "RawText": "오일 묻혀서 닦으면 연마제 나오는데 세 번이나 닦아내도 계속 나오네요. 그런데 눈금 있고 크기 딱 좋고 쓰임새가 좋을 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 통5중 편수웍냄비 20cm",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "20",
+    "RDate": "20220507",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "오일 묻혀서 닦으면 연마제 나오는데 세 번이나 닦아내도 계속 나오네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "눈금 있고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기 딱 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "쓰임새가 좋을 것 같습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420683",
+    "RawText": "생각보다 늦게 발송 처리돼서 어제 받았네요. 가볍고 용량은 넉넉한 편이라 편할 것 같습니다. 연마제는 좀 묻어 나와서 닦아내고 써야 하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 통5중 편수웍냄비 20cm",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "20",
+    "RDate": "20220519",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "용량은 넉넉한 편이라 편할 것 같습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제는 좀 묻어 나와서 닦아내고 써야 하네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420685",
+    "RawText": "디자인도 멋지고 고급져요. 사용하기 좋은 20센티 사이즈입니다. 궁중팬 형태의 디자인이라서 요리할 때도 편리하겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 통5중 편수웍냄비 20cm",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "13",
+    "RDate": "20220609",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 멋지고 고급져요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사용하기 좋은 20센티 사이즈입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "궁중팬 형태의 디자인이라서 요리할 때도 편리하겠어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420693",
+    "RawText": "20센티 편수가 필요해서요. 아들이 라면 두개 끓이기 좋은 냄비 사 달래서 샀네요. 인덕션에 쓸 거라 바닥이 좀 더 넓었으면 하는 아쉬움이 있습니다. 몸체는 연마제가 별로 안 나오는데 뚜껑 테두리에서 많이 나오네요. 식용유 묻혀닦고 식초 넣고 끓여서 씻어놨네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 통5중 편수웍냄비 20cm",
+    "ReviewScore": "5",
+    "Syllable": "146",
+    "Word": "37",
+    "RDate": "20220129",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "바닥이 좀 더 넓었으면 하는 아쉬움이 있습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "몸체는 연마제가 별로 안 나오는데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "뚜껑 테두리에서 많이 나오네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "식용유 묻혀닦고 식초 넣고 끓여서 씻어놨네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "420694",
+    "RawText": "상품이 빨리 와서 사용해 봤습니다. 디자인도 예쁘고 기대 이상이네요. 가격이 착하지 않아서 살까 말까 고민했는데 왜 고민을 했는지 모를 정도입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 통5중 편수웍냄비 20cm",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "20",
+    "RDate": "20220129",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예쁘고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 착하지 않아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "420697",
+    "RawText": "스테인레스 냄비가 반짝반짝하니 고급스러운 테가 나요. 단단하고 무겁다는 후기가 많아 무거울 줄 알았는데, 이 정도 무게면 괜찮네요. 가격은 꽤 비쌌지만 상품 품질은 아주 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 통5중 편수웍냄비 20cm",
+    "ReviewScore": "4",
+    "Syllable": "100",
+    "Word": "24",
+    "RDate": "20220412",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "스테인레스 냄비가 반짝반짝하니 고급스러운 테가 나요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거울 줄 알았는데, 이 정도 무게면 괜찮네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 꽤 비쌌지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질은 아주 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420708",
+    "RawText": "배송이 엄청 빠르네요. 원하던 사이즈라 만족해요. 조금 무게감은 있습니다. 유리 뚜껑이라 음식이 잘보여 편해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 통5중 편수웍냄비 20cm",
+    "ReviewScore": "4",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20220210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "원하던 사이즈라 만족해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "조금 무게감은 있습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "유리 뚜껑이라 음식이 잘보여 편해요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420711",
+    "RawText": "통 5중은 괜찮은데요. 사고 나서보니 밑면이 둥글게 되어서 넓지 않아 인덕션 접지면이 좁아서 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 통5중 편수웍냄비 20cm",
+    "ReviewScore": "4",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20211115",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "통 5중은 괜찮은데요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "밑면이 둥글게 되어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "넓지 않아 인덕션 접지면이 좁아서 아쉽네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "420712",
+    "RawText": "잘 받았어요. 냄비 안쪽 눈끔도 있고 좋습니다. 아기 간식 만들려고 구입했습니다. 냄비에서 바로 따를 수 있는 홈이 있어서 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 통5중 편수웍냄비 20cm",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "20",
+    "RDate": "20220112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "냄비 안쪽 눈끔도 있고 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "냄비에서 바로 따를 수 있는 홈이 있어서 너무 좋습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420714",
+    "RawText": "생각보다 가볍고  크기도 적당하여 마음에 들었습니다. 또한 통5종이라 더 좋습니다. 배송도 빠르게 도착했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 통5중 편수웍냄비 20cm",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20220210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각보다 가볍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 크기도 적당하여 마음에 들었습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "통5종이라 더 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420715",
+    "RawText": "연마제가 많이 묻어 나옵니다. 사이즈는 냄비 안에 딱 손바닥 들어가는 사이즈네요. 통 5중인데 무겁지가 않습니다. 인덕션 열전도율은 괜찮은 것 같네요. 물 금방 끓습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 통5중 편수웍냄비 20cm",
+    "ReviewScore": "4",
+    "Syllable": "95",
+    "Word": "23",
+    "RDate": "20220213",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제가 많이 묻어 나옵니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈는 냄비 안에 딱 손바닥 들어가는 사이즈네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "통 5중인데 무겁지가 않습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": " 인덕션 열전도율은 괜찮은 것 같네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "물 금방 끓습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420716",
+    "RawText": "빠른 배송 잘 받았습니다. 무광이라 전체적으로 아주 고급스러운 느낌이 드네요. 물코와 눈금이 있어서 아주 좋아요. 연마제 제거 작업해 보니 냄비에서는 많이 나오지는 않았고 뚜껑 이음새 부분만 좀 꼼꼼히 세척해 주면 될 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 통5중 편수웍냄비 20cm",
+    "ReviewScore": "5",
+    "Syllable": "128",
+    "Word": "33",
+    "RDate": "20220216",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "재질/질감",
+        "SentimentText": "무광이라 전체적으로 아주 고급스러운 느낌이 드네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "물코와 눈금이 있어서 아주 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제 제거 작업해 보니 냄비에서는 많이 나오지는 않았고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "뚜껑 이음새 부분만 좀 꼼꼼히 세척해 주면 될 것 같네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "눈금이 있어서 아주 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420720",
+    "RawText": "사이즈 좋습니다. 조금 얇은 듯 하지만 상품은 정말 좋습니다. 연마제 작업을 하느라 힘은 들었지만 강력하게 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 럭** 인덕션 스텐 2단찜솥 30cm",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20220805",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "조금 얇은 듯 하지만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제 작업을 하느라 힘은 들었지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "420746",
+    "RawText": "착한 가격으로 저렴하게 구입했습니다. 빠른 배송 감사드려요. 적극 추천해요. 가볍기도 하고 디자인도 깔끔합니다. 이쁘네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 럭** 인덕션 스텐 2단찜솥 30cm",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "14",
+    "RDate": "20220216",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한 가격으로 저렴하게 구입했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍기도 하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이쁘네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420758",
+    "RawText": "가성비가 짱입니다.  이 가격에 직접 잡을 수 있는 손잡이까지 있기를 바라면 안되겠지만 가격을 조금 올리더라도 손잡이가 있으면 더 좋겠다는 생각이 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 럭** 인덕션 스텐 2단찜솥 30cm",
+    "ReviewScore": "4",
+    "Syllable": "86",
+    "Word": "21",
+    "RDate": "20220122",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 짱입니다.  ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 이 가격에 직접 잡을 수 있는 손잡이까지 있기를 바라면 안되겠지만",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "가격을 조금 올리더라도 손잡이가 있으면 더 좋겠다는 생각이 드네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "420773",
+    "RawText": "생각보다 사이즈가 커서 좋은데 너무 가벼워서 소재의 두께감이 없어 아쉽습니다. 배송은 꼼꼼하게 빠르고 좋았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 럭** 인덕션 스텐 2단찜솥 30cm",
+    "ReviewScore": "4",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20211115",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "생각보다 사이즈가 커서 좋은데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "너무 가벼워서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "소재의 두께감이 없어 아쉽습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "420778",
+    "RawText": "얇아도 너무 얇네요. 냄비가 너무 가벼우니까 물이 끊으면서 찜솥이 뒤집어지고 난리가 납니다. 배송 중에 구겨졌는지 찜솥이 한쪽이 구겨져서 왔는데 쓰는데 불편하진 않아서 그냥 사용합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 럭** 인덕션 스텐 2단찜솥 30cm",
+    "ReviewScore": "3",
+    "Syllable": "103",
+    "Word": "24",
+    "RDate": "20211023",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아도 너무 얇네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "냄비가 너무 가벼우니까",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "물이 끊으면서 찜솥이 뒤집어지고 난리가 납니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "420790",
+    "RawText": "생각보다 크기가 많이 커서 좋은 것 같아요.  2단까지 찜기가 가능해서 사용하기 좋습니다. 배송도 빨라 좋고 잘 사용하도록 할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 럭** 인덕션 스텐 2단찜솥 30cm",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20210908",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "생각보다 크기가 많이 커서 좋은 것 같아요.  ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "2단까지 찜기가 가능해서 사용하기 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420800",
+    "RawText": "역시 가격이 싸서 제품의 품질이 의심스럽기는 했습니다. 가벼워서 좋기는 하나 종이장처럼 너무 얇아서 오래는 못 쓸 것 같습니다. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 럭** 인덕션 스텐 2단찜솥 30cm",
+    "ReviewScore": "3",
+    "Syllable": "80",
+    "Word": "20",
+    "RDate": "20210425",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 싸서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품의 품질이 의심스럽기는 했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 가벼워서 좋기는 하나",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "종이장처럼 너무 얇아서 오래는 못 쓸 것 같습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "420803",
+    "RawText": "크고 가볍고 괜찮습니다. 근데 연마제가 닦아도 닦아도 계속 나오고 있어요. 팔이 떨어질 정도로 힘드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 럭** 인덕션 스텐 2단찜솥 30cm",
+    "ReviewScore": "3",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20210217",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 괜찮습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제가 닦아도 닦아도 계속 나오고 있어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "팔이 떨어질 정도로 힘드네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "420824",
+    "RawText": "다른 냄비에 비해 높이도 높고 큼직하니 너무 좋습니다. 딱 원하던 냄비입니다. 편하게 쓸 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 유** 클래식 3중바닥 스텐냄비 IH 곰솥 24cm",
+    "ReviewScore": "4",
+    "Syllable": "57",
+    "Word": "15",
+    "RDate": "20191019",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "다른 냄비에 비해 높이도 높고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "큼직하니 너무 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하게 쓸 것 같습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420827",
+    "RawText": "가격 대비 좋습니다. 배송도 아주 빠르게 잘 해주셨어요. 잘 포장되어 도착했네요. 아직 사용 전입니다. 디자인도 깔끔하니 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 유** 클래식 3중바닥 스텐냄비 IH 곰솥 24cm",
+    "ReviewScore": "4",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20190314",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 대비 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔하니 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420829",
+    "RawText": "크기도 마음에 들고 무겁지도 가볍지도 않고 딱 좋습니다. 모양도 이쁘네요. 세제 식초 물로 닦고 기름칠해서 다시 닦고 식초 넣고 팔팔 끓여서 엎어놨습니다. 정말 맘에 쏙 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 유** 클래식 3중바닥 스텐냄비 IH 곰솥 24cm",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "26",
+    "RDate": "20181107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 마음에 들고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁지도 가볍지도 않고 딱 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "모양도 이쁘네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420840",
+    "RawText": "가성비 최고입니다. 처음에 식초 좀 넣고 물 끓인 다음 세척해서 사용했더니 연마제가 없어졌네요. 빠른 배송도 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 유** 클래식 3중바닥 스텐냄비 IH 곰솥 24cm",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20180201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 최고입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "처음에 식초 좀 넣고 물 끓인 다음 세척해서 사용했더니 연마제가 없어졌네요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420842",
+    "RawText": "삼계탕용으로 두마리 넣어 사용하기 적당한 사이즈라서 너무 좋습니다.  가격 대비 좋습니다. 연마 작업은 힘들더라도 꼭 하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 유** 클래식 3중바닥 스텐냄비 IH 곰솥 24cm",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20180103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "삼계탕용으로 두마리 넣어 사용하기 적당한 사이즈라서 너무 좋습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 대비 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마 작업은 힘들더라도 꼭 하세요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "420844",
+    "RawText": "제가 원하는 사이즈이고 깊이라 잘 선택 한 것 같아요. 받자마자 소독 후 냉면 삶아 먹었는데 설거지도 잘 되고 넘 마음에 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "21",
+    "RDate": "20220802",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "제가 원하는 사이즈이고 깊이라 잘 선택 한 것 같아요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": " 깊이라 잘 선택 한 것 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "설거지도 잘 되고 넘 마음에 드네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420848",
+    "RawText": "굉장히 가볍네요. 통3겹이라고 하기엔 좀 얇은 것 같습니다.  눈금 있어서 물 계량해서 넣는 것은 편합니다. 뚜껑은 없지만 기존 20cm 냄비 뚜껑이 잘 맞아서 같이 사용하면 되니 괜찮네요.  물 코가 있어서 물 따라 버리는 것도 편합니다. 문제는 그렇게 두꺼운게 아니라서 오래 뭘 끓였다가는 탈 것 같다는 것입니다.  그냥 간단하게 라면이나 금방 끓여먹을 국 탕 먹기에 좋을 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "4",
+    "Syllable": "218",
+    "Word": "57",
+    "RDate": "20220610",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "굉장히 가볍네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "통3겹이라고 하기엔 좀 얇은 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "눈금 있어서 물 계량해서 넣는 것은 편합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "뚜껑은 없지만 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "기존 20cm 냄비 뚜껑이 잘 맞아서 같이 사용하면 되니 괜찮네요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "물 코가 있어서 물 따라 버리는 것도 편합니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "문제는 그렇게 두꺼운게 아니라서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그냥 간단하게 라면이나 금방 끓여먹을 국 탕 먹기에 좋을 것 같습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "오래 뭘 끓였다가는 탈 것 같다는 것입니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "420852",
+    "RawText": "OO 편수냄비 사용하다가 떨어뜨려 손잡이가 분리돼서 새로 이 제품 구입했네요. OO 제품은 항상 품질이 만족스럽습니다. 가격도 저렴히 잘 샀어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "19",
+    "RDate": "20220203",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "OO 제품은 항상 품질이 만족스럽습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴히 잘 샀어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420858",
+    "RawText": "OOO 사이즈가 사용하기 딱 좋은 크기입니다. 스테인레스라서 좋습니다. 배송도 빠르고 좋습니다. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "12",
+    "RDate": "20211020",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "OOO 사이즈가 사용하기 딱 좋은 크기입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "스테인레스라서 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420865",
+    "RawText": "배송은 보통이고, 냄비 이쁘네요.  마감도 깔끔하네요.  바닥면에 두께가 있는지 무게 중심도 좋네요.  국물 따를 때도 편리하고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "17",
+    "RDate": "20210819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 냄비 이쁘네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 마감도 깔끔하네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "바닥면에 두께가 있는지 무게 중심도 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "국물 따를 때도 편리하고 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420868",
+    "RawText": "가볍고 표면이 굴곡없이 매끈하고 좋은 것 같네요.  뚜껑은 집에 있는 다른 냄비 뚜껑으로 덮었더니 딱 맞아 사용이 편리할 듯 합니다..",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "20",
+    "RDate": "20210715",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/질감",
+        "SentimentText": "표면이 굴곡없이 매끈하고 좋은 것 같네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "뚜껑은 집에 있는 다른 냄비 뚜껑으로 덮었더니 딱 맞아 사용이 편리할 듯 합니다..",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420870",
+    "RawText": "가볍고 간단하게 라면 끓여 먹기에 딱 좋은 사이즈입니다. 뒷면에 3중 스텐레스 라는 표기는 있는데 304.18-10.27종 이런문구는 없어서 조금 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "4",
+    "Syllable": "88",
+    "Word": "19",
+    "RDate": "20210710",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "간단하게 라면 끓여 먹기에 딱 좋은 사이즈입니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420873",
+    "RawText": "통3중 스텐 써 보고 싶어서 구매했습니다. 사용하기 쉽고 좋습니다. 손잡이 부분이 벌어져서 한번 교환했는데 사용하면서 또 조금씩 벌어지는 것 같습니다. 조심해서 사용해야 할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "4",
+    "Syllable": "104",
+    "Word": "25",
+    "RDate": "20210519",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 쉽고 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "손잡이 부분이 벌어져서 한번 교환했는데 사용하면서 또 조금씩 벌어지는 것 같습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "420875",
+    "RawText": "밀크티를 좀 많이 끓이려고 알아보다가 물 코가 있어 마음에 들고 용량이 커서 구매했는데 좋습니다. 라면 두 개도 끓일 수 있을 것 같아 좋네요. 기름으로 연마제 제거를 위해 한 5분정도 닦느라 힘들었어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "5",
+    "Syllable": "114",
+    "Word": "31",
+    "RDate": "20210515",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "물 코가 있어 마음에 들고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "용량이 커서 구매했는데 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "라면 두 개도 끓일 수 있을 것 같아 좋네요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "기름으로 연마제 제거를 위해 한 5분정도 닦느라 힘들었어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "420881",
+    "RawText": "제품 품질이 맘에 들어서 재구매했습니다. 손잡이도 튼튼하고 라면 끓여먹기 딱 좋은 사이즈 입니다. 배송도 빠릅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20210416",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 품질이 맘에 들어서 재구매했습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "손잡이도 튼튼하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "라면 끓여먹기 딱 좋은 사이즈 입니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420883",
+    "RawText": "OO 멀티 냄비 너무 좋아요. 국수 삶거나 간편히 끓일 냄비가 늘 필요했는데 사이즈 너무 좋습니다. OO이라 믿을만하고 튼튼합니다. 잘 사용할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "20",
+    "RDate": "20210330",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈 너무 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼합니다. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420885",
+    "RawText": "같은 라인 20센티 스탠팬과 뚜껑까지 있는 모델 쓰고 있어요. 냄비가 하나 더 필요해서 최저가로 구매했습니다. 가성비 좋은 제품이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20210327",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "최저가로 구매했습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은 제품이에요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420887",
+    "RawText": "OO 믿고 주문했는데 연마 제거하는데 스텐이 누렇게 변해서 닦는 게 너무 힘듭니다. 싼 게 비지떡이라는 말이 하나도 안 틀려요. 오랫동안 쓰진 못할 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "3",
+    "Syllable": "89",
+    "Word": "24",
+    "RDate": "20210318",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마 제거하는데 스텐이 누렇게 변해서 닦는 게 너무 힘듭니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "싼 게 비지떡이라는 말이 하나도 안 틀려요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오랫동안 쓰진 못할 것 같네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "420888",
+    "RawText": "무겁지 않아서 좋습니다. 전체적으로 귀여운 느낌의 디자인 입니다. 뚜껑이 없는 것이 아쉽네요. 빠른 배송 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "4",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20210318",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁지 않아서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "전체적으로 귀여운 느낌의 디자인 입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "뚜껑이 없는 것이 아쉽네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "420891",
+    "RawText": "사용하던 제품이 무거워서 구매했는데 아주 많이 가벼운건 아니어도 기존 제품보다는 가벼워서 사용하기로 했습니다. 인덕션 사용 가능해 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "17",
+    "RDate": "20210310",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "아주 많이 가벼운건 아니어도 기존 제품보다는 가벼워서 사용하기로 했습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션 사용 가능해 좋아요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420897",
+    "RawText": "아주 만족해서 작은 사이즈도 사고 싶습니다. 가볍고 사이즈 적당하고 쓰기 편해서 좋습니다. 빠른 배송 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20210223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "쓰기 편해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420905",
+    "RawText": "가볍고 디자인 깔끔하고 사용하기 좋습니다. 후라이팬처럼은 사용 못하는게 아쉽지만 가벼움이 좋아서 계속 쓰게 되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20210215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 깔끔하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "후라이팬처럼은 사용 못하는게 아쉽지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼움이 좋아서 계속 쓰게 되네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420907",
+    "RawText": "배송이 오래 걸렸습니다. 스텐제품이라 좋긴한데 식용유로 닦아내니 새까맣게 묻어나옵니다. 다들 세척 꼭 잘하시고 사용하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "14",
+    "RDate": "20210206",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "스텐제품이라 좋긴한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "식용유로 닦아내니 새까맣게 묻어나옵니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "420911",
+    "RawText": "좀 세련되게 샤틴처리했으면 좋았을 텐데요. 촌스럽게 번쩍거리고 바디도 얇고 손잡이도 싸구려 티나고 나처럼 스텐마니아 아닌 사람은 만족할수도 있겠죠. 다만 집에 있는 20cm 유리뚜껑이 맞는 점 때문에 반품 안하고 당분간 쓰다 버릴 예정입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "1",
+    "Syllable": "135",
+    "Word": "32",
+    "RDate": "20210127",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "좀 세련되게 샤틴처리했으면 좋았을 텐데요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "촌스럽게 번쩍거리고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "바디도 얇고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "손잡이도 싸구려 티나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "420912",
+    "RawText": "집에 있는 통3중, 통5중 대비 엄청 얇고 싸구려 티가 팍팍 납니다.  손잡이까지 도톰한 스텐이면 좋을텐데 얇은 스텐에 나무라 아쉽습니다.  그림은 품질이 괜찮아보이지만 실물은 영 아니올시다네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "1",
+    "Syllable": "109",
+    "Word": "25",
+    "RDate": "20210127",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "엄청 얇고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "싸구려 티가 팍팍 납니다.  ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": " 손잡이까지 도톰한 스텐이면 좋을텐데 얇은 스텐에 나무라 아쉽습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "그림은 품질이 괜찮아보이지만 실물은 영 아니올시다네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "420919",
+    "RawText": "물을 부을때 흘리는 경우가 많았는데 이것은 편하고 좋습니다. 잘 산 것 같아요. 크기도 좋습니다.  20cm편수가 많지 않아서 오래 전 부터 생각하고 있었는데 이번 기회에 사게 되어 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "4",
+    "Syllable": "106",
+    "Word": "27",
+    "RDate": "20210116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "물을 부을때 흘리는 경우가 많았는데 이것은 편하고 좋습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420920",
+    "RawText": "옥수수차 끓여먹고 다양하게 사용하려고 구매했는데 정말 좋아요. 사이즈가 커서 너무 만족스럽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "11",
+    "RDate": "20210115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "옥수수차 끓여먹고 다양하게 사용하려고 구매했는데 정말 좋아요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 커서 너무 만족스럽네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420922",
+    "RawText": "다른 사이트보다 싸게 잘 샀습니다. 무게도 가볍고 사용감이 좋습니다. 언니에게도 한 개 사서 보낼까 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20210112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 사이트보다 싸게 잘 샀습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 가볍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용감이 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420927",
+    "RawText": "마음에 듭니다. 연마제를 닦아 내느라 힘들고  뚜껑이 없어 아쉽지만 당장 데워 먹을 때 좋은 것 같아요.  사이즈가 2인분 정도 끓이기에 딱 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "22",
+    "RDate": "20201223",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제를 닦아 내느라 힘들고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "뚜껑이 없어 아쉽지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "당장 데워 먹을 때 좋은 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 2인분 정도 끓이기에 딱 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420929",
+    "RawText": "다용도로 쓰기 좋습니다. 손잡이 부분이 나사가 꼭 조여 있어도 약간 벌어져 있어서 아쉽습니다. 스텐이라 안심하고 사용하기 좋긴하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "17",
+    "RDate": "20201218",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "다용도로 쓰기 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 손잡이 부분이 나사가 꼭 조여 있어도 약간 벌어져 있어서 아쉽습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": " 스텐이라 안심하고 사용하기 좋긴하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420932",
+    "RawText": "가볍고 너무 좋습니다. 아기 이유식 하려고 샀는데 20cm라 좀 큰 감이 없지 않아 있네요. 얼마 못 쓸 걸로 생각했는데 이후에도 아기 전용으로 여러가지 해 먹일 수 있을 것 같아 좋으네요. 냄비 내부에 약간 매끈하지 않은 부분이 있는데 꺼끌거리네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "5",
+    "Syllable": "140",
+    "Word": "38",
+    "RDate": "20201211",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 너무 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "아기 이유식 하려고 샀는데 20cm라 좀 큰 감이 없지 않아 있네요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 이후에도 아기 전용으로 여러가지 해 먹일 수 있을 것 같아 좋으네요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "냄비 내부에 약간 매끈하지 않은 부분이 있는데 꺼끌거리네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "420934",
+    "RawText": "통3중이래서 구매했습니다. 받아보고 생각보다 가벼워서 걱정했습니다. 하지만 음식이 안 타고 진짜 좋습니다. 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "13",
+    "RDate": "20201208",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "받아보고 생각보다 가벼워서 걱정했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "음식이 안 타고 진짜 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420936",
+    "RawText": "인덕션 사용이 가능하다고 해서 샀는데 좋습니다. 스텐 냄비가 딱 고만한게 없어 지름으로 가늠을 했는데 역시 아주 조금 부족하다 느껴지는 크기입니다. 라면 하나를 끓이기에는 널널하고 두 개는 빠듯한 것 같아서 약간 아쉽습니다. 모양이 이쁘고 스텐 두께 적당해서 싸구려 같지 않습니다. 팬 모양 잘 뽑았고 양쪽으로 국물을 따를 수 있게 해놓은 것도 좋네요. 다 그게 그거 아닐까 고민하다 산 건데 잘 산 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "5",
+    "Syllable": "231",
+    "Word": "62",
+    "RDate": "20201118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션 사용이 가능하다고 해서 샀는데 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "지름으로 가늠을 했는데 역시 아주 조금 부족하다 느껴지는 크기입니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 라면 하나를 끓이기에는 널널하고 두 개는 빠듯한 것 같아서 약간 아쉽습니다. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "모양이 이쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "스텐 두께 적당해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "싸구려 같지 않습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "팬 모양 잘 뽑았고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "양쪽으로 국물을 따를 수 있게 해놓은 것도 좋네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420938",
+    "RawText": "아주 만족스러워요. 국수 삶을때 조금씩 뭐 볶으때 두루두루 쓰려고 샀는데 괜찮은 듯 합니다. 스텐도 재질이 좋은 스텐인 것 같고 고급스럽고 단단해 보여 좋습니다. 조금 두꺼워 약간 무겁네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "27",
+    "RDate": "20201113",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "국수 삶을때 조금씩 뭐 볶으때 두루두루 쓰려고 샀는데 괜찮은 듯 합니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/질감",
+        "SentimentText": "스텐도 재질이 좋은 스텐인 것 같고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "고급스럽고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "단단해 보여 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "조금 두꺼워",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "약간 무겁네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "420941",
+    "RawText": "크기도 적당하고 튼튼하게 보여요. 뚜껑은 없지만 다른  냄비 뚜껑으로  덮어도 되고 생각한 바대로 두루두루 쓰임이 좋을 것 같네요. 잘 쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "4",
+    "Syllable": "81",
+    "Word": "20",
+    "RDate": "20201023",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하게 보여요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "생각한 바대로 두루두루 쓰임이 좋을 것 같네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420942",
+    "RawText": "손잡이가 나무라 사용할 때 좀 조심해야 할 듯 합니다.  근데 이쁘긴 하네요. 배송 포장이 너무 허술해서 냄비가 안 찌그러져 온 것이 신기할 정도네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "4",
+    "Syllable": "84",
+    "Word": "23",
+    "RDate": "20201023",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "손잡이가 나무라 사용할 때 좀 조심해야 할 듯 합니다.  ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이쁘긴 하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420943",
+    "RawText": "순댓국 혼자 끓여 먹을 때 사용하려고 구매했는데 크기가 괜찮네요. 넉넉하니 커서 좋습니다. 스텐이 탄탄하니 마음에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20201020",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "순댓국 혼자 끓여 먹을 때 사용하려고 구매했는데 크기가 괜찮네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "넉넉하니 커서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "스텐이 탄탄하니 마음에 들어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420944",
+    "RawText": "생각보다 가볍고 좋습니다. 비슷한 일본 제품보다 가격은 저렴하고 품질은 더 좋은 거 같습니다. 오래 사용 할 수 있을 듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "20",
+    "RDate": "20201010",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각보다 가볍고 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비슷한 일본 제품보다 가격은 저렴하고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 더 좋은 거 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오래 사용 할 수 있을 듯 합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420951",
+    "RawText": "제가 손목이 원래 약해서 무거운걸 잘 들지 못해서, 간단한 요리를 하려고 구입했습니다. 받은 날 바로 세척해서 써 보니 손잡이도 잡기가 편하고 가벼워서 지금은 이것만 쓰고 있습니다. 평소에 국수를 잘 먹는 편인데, 물을 따를수있게 홈도 있어서 정말 편하게 사용하고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "5",
+    "Syllable": "152",
+    "Word": "39",
+    "RDate": "20200326",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "그립감",
+        "SentimentText": " 손잡이도 잡기가 편하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 지금은 이것만 쓰고 있습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "물을 따를수있게 홈도 있어서 정말 편하게 사용하고 있어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420952",
+    "RawText": "가볍고 편하게 쓸 수 있어서 좋습니다. 둥근 손잡이가 더 편하던데 각진 사각형 모양이라 좀 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "15",
+    "RDate": "20200325",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하게 쓸 수 있어서 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 둥근 손잡이가 더 편하던데 각진 사각형 모양이라 좀 아쉽습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "420953",
+    "RawText": "전에 사용하던 제품보다 더 커서 좀 그랬는데, 얇아서 그런지 가벼워서 좋아요. 덕분에 물이 빨리 끓어서 좋습니다. 전체적으로 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 위**  IH 멀티팟 20cm",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "18",
+    "RDate": "20191012",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "전에 사용하던 제품보다 더 커서 좀 그랬는데,",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아서 그런지 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "물이 빨리 끓어서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420954",
+    "RawText": "30cm OO 곰솥 사용 후 조금 더 적은 것이 필요해 구매했는데 사이즈가 좋네요. 통5중이어도 통3중 무게랑 별차이 없는 거 같아 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "22",
+    "RDate": "20220506",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 조금 더 적은 것이 필요해 구매했는데 사이즈가 좋네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "통5중이어도 통3중 무게랑 별차이 없는 거 같아 맘에 듭니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420957",
+    "RawText": "통5중이라 무겁지만 그게 좋습니다. 깔끔하고 좋아서 엄마도 사드렸습니다. 너무 좋다고 만족하십니다. 흐뭇합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "12",
+    "RDate": "20211109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "통5중이라 무겁지만 그게 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔하고 좋아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420958",
+    "RawText": "세 가지 정도로 고민했고 이 제품이 제일 비쌌는데 전에 쓰던 것도 거의 이십년 쓰다보니 오래 쓸 것 같아 맘에 드는 걸로 골라 샀습니다. 바로 연마제 닦아내는데 모서리 같은 데에 많이 묻어 있어서  여러 번  닦았습니다. 약간 묵직하긴 한데 엄청 무겁지는 않아서 쓰기에 적당할 것 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "5",
+    "Syllable": "161",
+    "Word": "45",
+    "RDate": "20211108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 제품이 제일 비쌌는데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "바로 연마제 닦아내는데 모서리 같은 데에 많이 묻어 있어서  여러 번  닦았습니다. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "약간 묵직하긴 한데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "엄청 무겁지는 않아서 쓰기에 적당할 것 같습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420960",
+    "RawText": "OOOOO  냄비를 쓰고 있어서 좀 더 큰 28cm 솥을 구매해 봤습니다. 받아보니 밑바닥에 만져 질 정도로 기스가 나있는 거 빼고는 좋습니다. 하이라이트 쓰기 때문에 밑바닥 기스만 아니길 바랬는데 그래도 어머니께서 싸게 사서 좋아하시네요. 활용도도 좋을 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "3",
+    "Syllable": "148",
+    "Word": "36",
+    "RDate": "20211014",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "어머니께서 싸게 사서 좋아하시네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "활용도도 좋을 듯합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420961",
+    "RawText": "좋은 가격에 잘 구매했어요. 하지만 손잡이 부분에 녹 비슷한 것이 있습니다. 하자로 반품 된 제품을 판매한 것인지 영 찝찝하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "19",
+    "RDate": "20211006",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 잘 구매했어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "손잡이 부분에 녹 비슷한 것이 있습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "하자로 반품 된 제품을 판매한 것인지 영 찝찝하네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "420965",
+    "RawText": "연마제 닦는게 힘들긴 하지만 코팅 된 냄비보다 사용하기가 훨씬 좋은 것 같아요.  통5중이라 냄비 겉면이 잘 타지 않아 더 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "20",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제 닦는게 힘들긴 하지만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "코팅 된 냄비보다 사용하기가 훨씬 좋은 것 같아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "통5중이라 냄비 겉면이 잘 타지 않아 더 좋아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420968",
+    "RawText": "이번에 스텐 냄비로 싹 교체했습니다. OO이 가성비가 젤 좋아서 마음에 듭니다. 스텐이라서 안심하고 사용하기도 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20210518",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "OO이 가성비가 젤 좋아서 마음에 듭니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "스텐이라서 안심하고 사용하기도 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420972",
+    "RawText": "4인 가구에서 쓰기 좋은 사이즈이에요. 특히 통5중이라 더욱 좋습니다. 다양한 요리를 하기에  쓰임새가 많을 거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20210422",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "4인 가구에서 쓰기 좋은 사이즈이에요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "특히 통5중이라 더욱 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "다양한 요리를 하기에  쓰임새가 많을 거 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420975",
+    "RawText": "가성비는 역시 OO입니다. 압력솥도 좋아서 잘 썼는데 냄비도 고급스런 품위있는 비주얼이고 잘 사용해 보겠습니다. 강력추천 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "16",
+    "RDate": "20210401",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비는 역시 OO입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "냄비도 고급스런 품위있는 비주얼이고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420976",
+    "RawText": "전에 사용하던 물건이라 좋아서 지인 선물로 구입했습니다. 스텐이라 오래 사용할 수 있고 다양한 열원에서 사용할 수 있어서 상당히 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "4",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20210331",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "스텐이라 오래 사용할 수 있고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "다양한 열원에서 사용할 수 있어서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420977",
+    "RawText": "냄비 너무 이뿌네요. 저렴하게 잘 샀습니다. 냄비 뚜껑에서 연마제가 많이 나오고 냄비 안은 괜찮았습니다. 옆은 24센치인데 확실히 커서 좋으네요.  닭3마리는 넉넉히 들어갈 것 같아 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "25",
+    "RDate": "20210331",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "냄비 너무 이뿌네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴하게 잘 샀습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "냄비 뚜껑에서 연마제가 많이 나오고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "냄비 안은 괜찮았습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "옆은 24센치인데 확실히 커서 좋으네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "닭3마리는 넉넉히 들어갈 것 같아 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420980",
+    "RawText": "곰솥이 중간 크기라 보면 될 것 같아요. 4인가족 적당한 사이즈입니다. 크기랑 모양 모두 선택하기 어려웠는데 들통처럼 위로 길지 않아 키작녀인 저는 조리하기 편할 것 같네요. 모양도 심플하고, 크기도 적당해서 큰일 치룰 때 편하게 잘 사용할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "4",
+    "Syllable": "142",
+    "Word": "37",
+    "RDate": "20210312",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "곰솥이 중간 크기라 보면 될 것 같아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "4인가족 적당한 사이즈입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "들통처럼 위로 길지 않아 키작녀인 저는 조리하기 편할 것 같네요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "모양도 심플하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 적당해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "큰일 치룰 때 편하게 잘 사용할 것 같습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420982",
+    "RawText": "통5중이라 좋고 사이즈도 28cm라 맘에 듭니다. 단지 무거우면 어쩌나 살짝 걱정 됐는데 무게도 적당하고 좋아요. 근데, 사은품인 주걱을 못 받았네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "20",
+    "RDate": "20210308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "통5중이라 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 28cm라 맘에 듭니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거우면 어쩌나 살짝 걱정 됐는데 무게도 적당하고 좋아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품인 주걱을 못 받았네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "420983",
+    "RawText": "이번에도 OO 제품에 눈길이 가서 인덕션용으로 구매했습니다. 튼튼하고 깔끔하니 좋아요. 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "12",
+    "RDate": "20210305",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "이번에도 OO 제품에 눈길이 가서 인덕션용으로 구매했습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔하니 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420984",
+    "RawText": "인덕션에서 사용할 냄비를 찾다가 마침 이 제품이 인덕션용이라서 주문해봤습니다. 가성비 좋은 제품 잘 산 것 같아 마음에 드네요. 배송도 빨라서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "21",
+    "RDate": "20210227",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "이 제품이 인덕션용이라서 주문해봤습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은 제품 잘 산 것 같아 마음에 드네요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420985",
+    "RawText": "곰솥이 정말 예뻐요. 큰 맘 먹고 냄비 몽땅 통5중으로 바꾸려고 밤 세워 찾았어요. OO 걸로 다 교체했네요. 여기 곰솥만 따로 정말이뻐요. 같이 따라온 통스텐 주걱도 너무 깜찍하니 이쁩니다. 감사합니다.  근데 연마를 몽땅 할려니 제 팔이 무사할지 걱정이 되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "5",
+    "Syllable": "148",
+    "Word": "38",
+    "RDate": "20210226",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "곰솥이 정말 예뻐요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "같이 따라온 통스텐 주걱도 너무 깜찍하니 이쁩니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마를 몽땅 할려니 제 팔이 무사할지 걱정이 되네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "여기 곰솥만 따로 정말이뻐요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420986",
+    "RawText": "생각보다 더 무거운 듯 하지만 냄비는 품질은 너무 좋은 듯 합니다. 오자마자 씻어서 감자탕 끓이는 중인데 넉넉하니 넘치지도 않고 뚜껑도 들썩이지 않고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "23",
+    "RDate": "20210226",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각보다 더 무거운 듯 하지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "냄비는 품질은 너무 좋은 듯 합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 넉넉하니 넘치지도 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 뚜껑도 들썩이지 않고 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "420999",
+    "RawText": "친정 엄마 필요 하셔서 샀는데 괜찮아요. 통5중 치고는 무겁지 않고 전체적으로 만족스럽습니다. 가성비 좋은 국내산 제품입니다. 엄마도 좋다고 하셔요. 저도 이 시리즈로 다 살까 고민중이에요. 다만 4세트 구성에는 이 곰솥이 없어 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "5",
+    "Syllable": "133",
+    "Word": "32",
+    "RDate": "20200429",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "통5중 치고는 무겁지 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은 국내산 제품입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "4세트 구성에는 이 곰솥이 없어 아쉬워요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "421000",
+    "RawText": "모양이 심플하고, 묵직하기도 해서 좋습니다. 또 수세미로 마구 문질러 닦을 수도 있어서 더 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20200428",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "모양이 심플하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직하기도 해서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": " 수세미로 마구 문질러 닦을 수도 있어서 더 좋습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421001",
+    "RawText": "사진이랑 똑같이 깔끔하고 예쁘네요. 저렴한 가격으로 사서 마음에 들어요. 배송도 매우 빨리 도착했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20200402",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "사진이랑 똑같이 깔끔하고 예쁘네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격으로 사서 마음에 들어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421006",
+    "RawText": "아주 맘에 들어요. 예상보다 냄비가 훨씬 큽니다. 마스터9 18cm 쓰다가 닭한마리 넣으면 꽉 차서 28cm로 골랐더니 3,4마리는 넣을 수 있는 크기라 좋네요. 오늘 저녁은 맛있는 삼계탕 요리입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "5",
+    "Syllable": "112",
+    "Word": "27",
+    "RDate": "20200104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "예상보다 냄비가 훨씬 큽니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "28cm로 골랐더니 3,4마리는 넣을 수 있는 크기라 좋네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,3146 @@
+[
+  {
+    "Index": "432250",
+    "RawText": "짧은 시간에 밥도 잘 되고 상당히 만족스럽습니다. 사용법을 잘 몰라서 인터넷으로 밥하는 것을 보고 연습했습니다. 그랬더니 생각했던 것보다 밥도 잘되는 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 압력솥 콤비세트 (2.5L+4.5L)",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "22",
+    "RDate": "20220103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "짧은 시간에 밥도 잘 되고 상당히 만족스럽습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용법을 잘 몰라서 인터넷으로 밥하는 것을 보고 연습했습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "그랬더니 생각했던 것보다 밥도 잘되는 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432251",
+    "RawText": "조금 무겁지만 밥은 잘 됩니다. 처음에 뚜껑을 잘못 끼어서 증기가 다 새서 깜짝 놀랐습니다. 뚜껑이 제대로 장착되었는지 잘 보고 사용해야 할 것 같습니다.  오래 오래 잘 사용했으면 하는 바램이 있네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 압력솥 콤비세트 (2.5L+4.5L)",
+    "ReviewScore": "5",
+    "Syllable": "113",
+    "Word": "30",
+    "RDate": "20211209",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "조금 무겁지만 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥은 잘 됩니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "뚜껑이 제대로 장착되었는지 잘 보고 사용해야 할 것 같습니다.  ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오래 오래 잘 사용했으면 하는 바램이 있네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "432253",
+    "RawText": "저렴하게 잘 샀습니다. 밥도 찰지고 맛있게 잘되고 2.5리터는 6인용까지 쓰기에 사이즈가 딱 좋네요. 솥이 작아서 설겆이 하기도 넘 좋습니다. 밥물량을 안내책에는 1:1로 하라고 돼있지만 저 입맛은 넘 고슬거리는것 같아 씻은 쌀을 넣고 물 1센치정도 높이로 하니까 밥이 찰지고 넘 맛있습니다. 살찔것 같네요. OOO상담사도 친절해서 좋았습니다. 대만족이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 압력솥 콤비세트 (2.5L+4.5L)",
+    "ReviewScore": "5",
+    "Syllable": "200",
+    "Word": "46",
+    "RDate": "20211206",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 샀습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥도 찰지고 맛있게 잘되고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "2.5리터는 6인용까지 쓰기에 사이즈가 딱 좋네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "솥이 작아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "설겆이 하기도 넘 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 밥물량을 안내책에는 1:1로 하라고 돼있지만 저 입맛은 넘 고슬거리는것 같아 씻은 쌀을 넣고 물 1센치정도 높이로 하니까",
+        "SentimentWord": "17",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥이 찰지고 넘 맛있습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432255",
+    "RawText": "아직 안써봐서 성능은 잘 모르겠어요. 선물 한건데 물건을 직접 본게 아니라서 뚜껑에 made in china 스티커가 붙어있는 사진을 보고 짝퉁인 느낌이 들어 좀 미안했어요. 그래도 성능은 좋길 기대해봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 압력솥 콤비세트 (2.5L+4.5L)",
+    "ReviewScore": "3",
+    "Syllable": "116",
+    "Word": "28",
+    "RDate": "20211113",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능은 잘 모르겠어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능은 좋길 기대해봅니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "432256",
+    "RawText": "OOO 냄비 여기저기 알아보고 샀는데 OOOO몰이 제일 저렴하고 품질이 좋습니다. 배송은 좀 오래 걸렸네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 압력솥 콤비세트 (2.5L+4.5L)",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20211029",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " OOOO몰이 제일 저렴하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432258",
+    "RawText": "4.5L 짜리 기존에 쓰던건 20여년전에 독일에서 사온건데 저 솥에 저는 11인분 밥을 해먹고 있었습니다. 한번 밥 할때 많이 해서 냉동실에 보관해놓고 며칠동안 먹었어요. 이번에 인덕션을 바꾸면서 밥솥을 바꿔봤는데 우선 인덕션 사용 가능해서 좋고 중국산이 아닌 독일 생산 제품이라서 내구성이 좋을것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 압력솥 콤비세트 (2.5L+4.5L)",
+    "ReviewScore": "5",
+    "Syllable": "172",
+    "Word": "41",
+    "RDate": "20210728",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션 사용 가능해서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "독일 생산 제품이라서 내구성이 좋을것 같습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432266",
+    "RawText": "세제와 베이킹파우더로 끓이고 세척을 했는데도 계속해서 스텐인리스 녹물이 계속 나와서 고생을 좀 했습니다. 연마제 제거가 상당히 힘드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 압력솥 콤비세트 (2.5L+4.5L)",
+    "ReviewScore": "3",
+    "Syllable": "76",
+    "Word": "17",
+    "RDate": "20210217",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "세제와 베이킹파우더로 끓이고 세척을 했는데도 계속해서 스텐인리스 녹물이 계속 나와서 고생을 좀 했습니다. ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제 제거가 상당히 힘드네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "432268",
+    "RawText": "선물을 해드렸는데 역시 OOO인 것 같습니다. 품질이 정말 좋아 받아보시고 마음에 들어 하시더라구요. 저렴한 가격에 배송 역시 만족스러웠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 압력솥 콤비세트 (2.5L+4.5L)",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "18",
+    "RDate": "20200506",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 정말 좋아",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 배송 역시 만족스러웠습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432271",
+    "RawText": "무게감도 적당하고 외관도 깔끔하네요. 역시 OOO라는 값을 할 만큼 품질이 좋아요. 적극 추천해요. 번창하십시요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 압력솥 콤비세트 (2.5L+4.5L)",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20200408",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "외관도 깔끔하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "역시 OOO라는 값을 할 만큼 품질이 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432272",
+    "RawText": "밥이 너무 잘 됩니다. 처음에는 압력소리가 너무 커서 안되는건가 했는데 원래 그런가봅니다. 배송은 빨라서 잘 사용하고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 압력솥 콤비세트 (2.5L+4.5L)",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20200401",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥이 너무 잘 됩니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "압력소리가 너무 커서 안되는건가 했는데 원래 그런가봅니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "432278",
+    "RawText": "정품으로 왔네요. 다른 사이트보다 믿음이 가서 여기서 구매했습니다. 밥 잘되네요. 역시 OOO는 밥하기 편합니다.  엄마 집에는 40년 이상 OOO을 사용하고 있네요. 저희집은 다 압럭밥솥이에요. 빠르고 밥맛 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 압력솥 콤비세트 (2.5L+4.5L)",
+    "ReviewScore": "5",
+    "Syllable": "122",
+    "Word": "27",
+    "RDate": "20200129",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥 잘되네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "역시 OOO는 밥하기 편합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "빠르고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥맛 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432281",
+    "RawText": "가성비 좋습니다. 밥이 너무 찰지고 맛있어요. 처음 사용할 땐 방법을 잘 몰라서 태웠는데 누룽지도 맛있더라구요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 압력솥 콤비세트 (2.5L+4.5L)",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20200116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥이 너무 찰지고 맛있어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "처음 사용할 땐 방법을 잘 몰라서 태웠는데",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "누룽지도 맛있더라구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432284",
+    "RawText": "고민해서 주문했는데 너무 만족합니다.  전기밥솥에 한 밥보다 훨씬 맛있고 빨리 밥이 되네요.  낮은 것으로 4식구 밥으로 충분합니다.  높은 것은 손님이 오거나 수육,국 끓일 때 사용하기 적당해서 두 개 다 자주 잘 사용하고 있어서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 압력솥 콤비세트 (2.5L+4.5L)",
+    "ReviewScore": "5",
+    "Syllable": "136",
+    "Word": "34",
+    "RDate": "20191202",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": " 전기밥솥에 한 밥보다 훨씬 맛있고 빨리 밥이 되네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "낮은 것으로 4식구 밥으로 충분합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "높은 것은 손님이 오거나 수육,국 끓일 때 사용하기 적당해서 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "두 개 다 자주 잘 사용하고 있어서 만족합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432285",
+    "RawText": "OOO 제품 중에 가격이 싼 제품이지만 묵은쌀로 밥을 지었는데도 찰지고 넘 맛있습니다. 아직 다른 요리는 해보지 못했지만 여러모로 유용하게 사용할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 압력솥 콤비세트 (2.5L+4.5L)",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "22",
+    "RDate": "20191119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 싼 제품이지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "묵은쌀로 밥을 지었는데도 찰지고 넘 맛있습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여러모로 유용하게 사용할 것 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432286",
+    "RawText": "OOO몰에서 검색해보니 오프라인 매장보다 더 저렴하게 살 수 있어 등급 쿠폰까지 적용해서 12%나 싸게 샀어요. 거기다 청구할인까지 되서 정말 최고네요. 배송 빠르고 청구할인카드도 다양해서 OOO 아주 만족하고 이용하고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 압력솥 콤비세트 (2.5L+4.5L)",
+    "ReviewScore": "5",
+    "Syllable": "127",
+    "Word": "29",
+    "RDate": "20191106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 살 수 있어 등급 쿠폰까지 적용해서 12%나 싸게 샀어요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "청구할인까지 되서 정말 최고네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432287",
+    "RawText": "좋아 보입니다. 이전에 사용한 국내제품과 비교했을때 좀 더 무거워 좋으니 밥은 잘될거 같습니다. 여러 요리를 잘 할수 있기를 기대합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 압력솥 콤비세트 (2.5L+4.5L)",
+    "ReviewScore": "4",
+    "Syllable": "76",
+    "Word": "19",
+    "RDate": "20191016",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "좀 더 무거워 좋으니",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥은 잘될거 같습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "여러 요리를 잘 할수 있기를 기대합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "432290",
+    "RawText": "백화점 동일 제품 가격보다 저렴하게 구입했고 받아보니 훨씬 만족스러워요. 얍력뚜껑이 두개 솥에 다 맞아서 실용적입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 압력솥 콤비세트 (2.5L+4.5L)",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20190923",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "백화점 동일 제품 가격보다 저렴하게 구입했고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "얍력뚜껑이 두개 솥에 다 맞아서 실용적입니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432293",
+    "RawText": "그때 그때 해서 먹으니 밥맛은 좋은데 아직 제가 익숙하지가 않아서 인지 설거지는 솔직히 너무 힘이 듭니다. 매번 눌러 붙은 것을 물로 불려서 설거지 해야하는 것이 정말 귀찮게 느껴지네요. 그리고 첨에 식초로만 세척하지 마시고 기름으로 꼼꼼하게 한 번 싹 닦아주셔야 합니다. 식초로만 끓여서 세척하고 했다가 밥을 다시 해야하는 불상사가 생겼네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 압력솥 콤비세트 (2.5L+4.5L)",
+    "ReviewScore": "4",
+    "Syllable": "192",
+    "Word": "49",
+    "RDate": "20190829",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "그때 그때 해서 먹으니 밥맛은 좋은데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "설거지는 솔직히 너무 힘이 듭니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "매번 눌러 붙은 것을 물로 불려서 설거지 해야하는 것이 정말 귀찮게 느껴지네요. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "첨에 식초로만 세척하지 마시고 기름으로 꼼꼼하게 한 번 싹 닦아주셔야 합니다. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "식초로만 끓여서 세척하고 했다가 밥을 다시 해야하는 불상사가 생겼네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "432305",
+    "RawText": "상품 품질이 좋아 추천해요. 무겁지만 갈비찜해서 먹으니 잘 되서 너무 좋아요. 배송도 빨라 아주 만족스러웠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 압력솥 콤비세트 (2.5L+4.5L)",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20181027",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋아 추천해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁지만 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "갈비찜해서 먹으니 잘 되서 너무 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432308",
+    "RawText": "선물용인데 박스 포장도 있어서 너무 좋습니다. 엄마가 받으시면 진짜 좋아하실 것 같습니다. 착한 가격에 좋은 품질의 제품 구입해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 압력솥 콤비세트 (2.5L+4.5L)",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20180823",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한 가격에 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "좋은 품질의 제품 구입해서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432309",
+    "RawText": "밥 잘되고 아주 좋아요. 디자인도 깔끔하구요. 작은놈만 써보고 큰놈은 아직 써보진 못했지만 별문제 없으니라 믿어요. 30년전 어머니가 지어주시던 밥의 솥에 동그랑땡 무늬를 보고 컸어요. 좋은추억이 아련하여 저도 한번 써보기로 했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 압력솥 콤비세트 (2.5L+4.5L)",
+    "ReviewScore": "5",
+    "Syllable": "131",
+    "Word": "30",
+    "RDate": "20180821",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥 잘되고 아주 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔하구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432321",
+    "RawText": "유리뚜껑과 찜기 같이 있는 세트로 잘 산 것 같습니다. 손잡이도 쉽게 분리되어서 세척하기 쉬워서 좋습니다. 배송도 빠르네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 압력솥 콤비세트 (2.5L+4.5L)",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20180509",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "유리뚜껑과 찜기 같이 있는 세트로 잘 산 것 같습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "손잡이도 쉽게 분리되어서 세척하기 쉬워서 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432331",
+    "RawText": "콤비압력솥 잘 받았어요. 외관상 모양이 마음에 들어 흡족하네요아직 사용하지 않고 있는데 사용설명서 제품구성품 p19에 \"4.5L압력솥에 찜요리에 활용할 수 있는 찜기와 삼발이가 함께 제공됩니다\"라고 되어 있어요. 그런데 제품구성에 찜기와 삼발이가 없습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 압력솥 콤비세트 (2.5L+4.5L)",
+    "ReviewScore": "5",
+    "Syllable": "143",
+    "Word": "30",
+    "RDate": "20180117",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "외관상 모양이 마음에 들어 흡족하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "제품구성에 찜기와 삼발이가 없습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "432332",
+    "RawText": "완전 득템 새제품이 왔습니다.  기분이 정말 좋습니다.  뽁뽁이 넣구 또 안에 박스도 새것, 물건도 흠집이 하나 없어 너무 좋아요. 그런데  찜기가 들어 있지 않네요. 찜기는 따로 보내주시나요? 압력솥은 다양하게 잘 사용할 듯 합니다. 압력솥으로 한 밥이 더 맛나길 기대합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 압력솥 콤비세트 (2.5L+4.5L)",
+    "ReviewScore": "5",
+    "Syllable": "155",
+    "Word": "39",
+    "RDate": "20180116",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 압력솥은 다양하게 잘 사용할 듯 합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "압력솥으로 한 밥이 더 맛나길 기대합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "432342",
+    "RawText": "OOO에서 바로 배송되서 좋았습니다. 사용하기 편하고 인덕션에서도 되니 만족스럽네요.  밥도 맛있게 잘 되서 너무 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 베** IH 편수 압력솥 3.5L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20220808",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션에서도 되니 만족스럽네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": " 밥도 맛있게 잘 되서 너무 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432343",
+    "RawText": "손잡이가 있어 사용이 편리 할 것 같습니다. 가격이 여기가 제일 착합니다. 아직 사용전이라서 검색 결과만 믿고 구매했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 베** IH 편수 압력솥 3.5L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20220801",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "손잡이가 있어 사용이 편리 할 것 같습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 여기가 제일 착합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432346",
+    "RawText": "뭐가 문제인건지 모르겠네요. 사서 이제 사용해 봤는데 손잡이 사이로 밥물이 다 넘쳐서 추도 안돌아가고 화나네요. 지점에 전화했더니 밥솥들고 오라는데 할 말이 없습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 베** IH 편수 압력솥 3.5L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "22",
+    "RDate": "20220526",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "손잡이 사이로 밥물이 다 넘쳐서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "추도 안돌아가고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "432348",
+    "RawText": "사용은 안했지만 믿는 브랜드라 품질은 좋을 거라 기대하고 있어요. 외관이나 마감처리 잘 되어 있어 좋습니다. 배송도 빨라 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 베** IH 편수 압력솥 3.5L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20220413",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "믿는 브랜드라 품질은 좋을 거라 기대하고 있어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "외관이나 마감처리 잘 되어 있어 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432350",
+    "RawText": "바닥은 두껍고 뚜껑은 좀 얇은 느낌이라 좀 아쉽네요. 밥에 윤기가 나면서 살짝 눌어서 더 좋으네요. 김치찜을 해 봤는데 찜하기에 더 제격이다는 생각이 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 베** IH 편수 압력솥 3.5L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "23",
+    "RDate": "20220328",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "바닥은 두껍고 뚜껑은 좀 얇은 느낌이라 좀 아쉽네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥에 윤기가 나면서 살짝 눌어서 더 좋으네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "김치찜을 해 봤는데 찜하기에 더 제격이다는 생각이 드네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432351",
+    "RawText": "배송 받고 얼마간 사용을 못하다가 이제야 처음으로 사용했습니다. 밥 짓는 시간이 빠르고 밥맛도 찰지고 맛있네요. 성능이 정말 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 베** IH 편수 압력솥 3.5L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20220319",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": " 밥 짓는 시간이 빠르고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥맛도 찰지고 맛있네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능이 정말 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432358",
+    "RawText": "잘 쓰고 있어요.  가끔 뚜껑을 잘못 닫아서 당황하기는 하지만 생각보다 커서 6인 가구에서 사용하기에 딱 좋네요. 닭도 삶을 수 있을 것 같습니다. 또 세일하면 찜용으로 하나 더 사고 싶네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 베** IH 편수 압력솥 3.5L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "29",
+    "RDate": "20220201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "가끔 뚜껑을 잘못 닫아서 당황하기는 하지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "생각보다 커서 6인 가구에서 사용하기에 딱 좋네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "닭도 삶을 수 있을 것 같습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432364",
+    "RawText": "밥이 맛있게 잘되네요. 바닥이 엠보싱이라 누른 밥이라도 물에 조금 불려놓으니 세척이 잘 됩니다. 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 베** IH 편수 압력솥 3.5L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20211126",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥이 맛있게 잘되네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "누른 밥이라도 물에 조금 불려놓으니 세척이 잘 됩니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/질감",
+        "SentimentText": " 바닥이 엠보싱이라",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432370",
+    "RawText": "나름 비교해 보고 사서 만족해요. 바닥이 울퉁불퉁해서 밥이 잘 떨어져서 좋네요.  압력밥솥에 밥을 하면 더 맛있을 줄 알았는데 요즘 OO가 잘 나와서 그런지 밥맛에는 크게 차이는 없는 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 베** IH 편수 압력솥 3.5L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "29",
+    "RDate": "20211020",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 바닥이 울퉁불퉁해서 밥이 잘 떨어져서 좋네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "요즘 OO가 잘 나와서 그런지 밥맛에는 크게 차이는 없는 것 같아요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "432374",
+    "RawText": "10년 쓰던 제품 손잡이가 깨져 바꿨는데 깔끔하고 좋습니다. 바닥이 엠보네요. 한달 반 지나서 추가 안돌아가고 손잡이 부분에서 김이 새고 밥이 타서 as맡겼는데 거기서는 멀쩡하다고 손잡이 부분을 딸깍 소리 날때까지 잠궈야하는데 그렇지 않았던 것같다고 조치없이 받았습니다. 집에서 한번쓰고 또 말썽입니다. 손잡이도 수차례 확인했습니다. 본사as접수하러가요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 베** IH 편수 압력솥 3.5L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "198",
+    "Word": "43",
+    "RDate": "20210826",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔하고 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "바닥이 엠보네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "추가 안돌아가고 손잡이 부분에서 김이 새고 밥이 타서",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "432376",
+    "RawText": "정말 좋네요.  밥솥 안쪽 바닥도 앰보싱이고 바닥면은 OOO 바닥처럼 되어 있어 너무 좋습니다.  고가제품의 사양에나 적용할 듯한 것들을 적용시켜 만족스럽게 쓸 수 있는 제품이네요. 선물할 일 있음 밥솥 사서 선물할 겁니다.  좋은 제품 감사해요. 많이 파시고 대박나십시오.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 베** IH 편수 압력솥 3.5L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "153",
+    "Word": "37",
+    "RDate": "20210729",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 밥솥 안쪽 바닥도 앰보싱이고 바닥면은 OOO 바닥처럼 되어 있어 너무 좋습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "고가제품의 사양에나 적용할 듯한 것들을 적용시켜 만족스럽게 쓸 수 있는 제품이네요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432377",
+    "RawText": "첫 배송에서 파손이 되어서 바로 교환 신청을 했더니 다시 금방 왔습니다.  디자인도 이쁘고 밥도 잘 되서 정말 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 베** IH 편수 압력솥 3.5L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "18",
+    "RDate": "20210720",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인도 이쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥도 잘 되서 정말 좋네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432379",
+    "RawText": "좋은 가격에 구매하긴 했는데 안쪽에 긁힌 자국이 굵게 나있어 반품을 할까하다가 그냥 쓸려구요. 근데 판매자에게 문의사항이 있어 문의를 했는데 전화도 안 받고 답변도 늦게 줘서 아주 답답했습니다. 나중에라도 이런 경우는 빠른 답변을 해주셨으면 해요. 제품은 디자인이나 가격은 아주 마음에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 뉴** 삼중바닥 전사 스텐레스 압력솥 3.5L/5인용",
+    "ReviewScore": "3",
+    "Syllable": "164",
+    "Word": "40",
+    "RDate": "20210413",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 구매하긴 했는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "안쪽에 긁힌 자국이 굵게 나있어",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "제품은 디자인이나 가격은 아주 마음에 들어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 아주 마음에 들어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432391",
+    "RawText": "4인 밥솥이 필요했습니다. 늘 쌀 2~3컵씩만 하기에는 6인솥이 너무 커서요. 제일 저렴하게 팔아서 샀습니다. 김이 빠지면 빨간추가 밑으로 떨어져서 뜸이 다들었다는게 눈으로 확인돼서 너무 편합니다. 물 눈금도 있어 물맞추기도 편해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "5",
+    "Syllable": "130",
+    "Word": "30",
+    "RDate": "20220606",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "제일 저렴하게 팔아서 샀습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "김이 빠지면 빨간추가 밑으로 떨어져서 뜸이 다들었다는게 눈으로 확인돼서 너무 편합니다",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "물 눈금도 있어 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "물맞추기도 편해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432395",
+    "RawText": "인덕션 용으로 구매했는데 잘 됩니다. 일반 가스용을 사용했었는데 새로 입주한 곳에 인덕션만 있어서 같은 크기의 제품을 구매했는데 딱 좋으네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "4",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20220505",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션 용으로 구매했는데 잘 됩니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "같은 크기의 제품을 구매했는데 딱 좋으네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432405",
+    "RawText": "계속 사용했던 건데 디자인이 이뻐졌습니다. 밥은 역시 OO 압력솥에 해야 더 맛있습니다. 배송도 빨라 좋았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20211220",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 이뻐졌습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥은 역시 OO 압력솥에 해야 더 맛있습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432408",
+    "RawText": "밭솥 안에 둥근 볼트 자국이 있어 거슬립니다. 밥이 생각 같이 잘 안되네요. 계량 컵도 없네요. 비추천이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "4",
+    "Syllable": "61",
+    "Word": "16",
+    "RDate": "20211129",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "밭솥 안에 둥근 볼트 자국이 있어 거슬립니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥이 생각 같이 잘 안되네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "계량 컵도 없네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "432409",
+    "RawText": "4인용 생각보다 작아 보입니다. 아직 사용 안해서 실제로 작은지는 잘 모르겠습니다. 무게는 살짝 무겁네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "3",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20211120",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "4인용 생각보다 작아 보입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "아직 사용 안해서 실제로 작은지는 잘 모르겠습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게는 살짝 무겁네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "432414",
+    "RawText": "배송은 빨랐어요. 직접 사용해보니 밥맛은 좋았습니다. 다만, 4인용이라 생각보다 사이즈가 작은거 같아요. 그것에 유의하면 좋을듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "4",
+    "Syllable": "75",
+    "Word": "15",
+    "RDate": "20211018",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "직접 사용해보니 밥맛은 좋았습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "생각보다 사이즈가 작은거 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "432420",
+    "RawText": "10인용 쓰다가 4인용하니 너무 귀여워요. 인덕션도 사용가능해서 좋았는데 사정 생겨 교환했어요. 그래도 친절하게 빠른 처리해주셔서 감사해요. 배송도 빠르고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "19",
+    "RDate": "20210720",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "10인용 쓰다가 4인용하니 너무 귀여워요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션도 사용가능해서 좋았는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432426",
+    "RawText": "인덕션용 압력솥이 필요했는데 이 제품 라인으로는 2인용이 없어서 4인용으로 구입했어요. OO이라 밥맛은 역시 좋습니다. 사이즈가 아쉽긴 하지만 잘 사용해보겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "4",
+    "Syllable": "91",
+    "Word": "19",
+    "RDate": "20210609",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "OO이라 밥맛은 역시 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 아쉽긴 하지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "432429",
+    "RawText": "전에 쓰던거 보다 얇습니다. 너무 오래되서 새로 샀는데 전에 쓰던게 더 좋은거 같네요. 바닥이 얇아서 전에 쓰던거보다 밥을 잘 태웁니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "20",
+    "RDate": "20210512",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "전에 쓰던거 보다 얇습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "바닥이 얇아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 밥을 잘 태웁니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "432432",
+    "RawText": "생각보다 사이즈가 작고 밥은 잘 됩니다. 작아서 이쁘네요. 자리 차지 안해서 부담이 없습니다. 상품평이 좋아서 샀는데 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20210414",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "생각보다 사이즈가 작고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥은 잘 됩니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "작아서 이쁘네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "자리 차지 안해서 부담이 없습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432434",
+    "RawText": "기존에 사용했던 제품과 같은 것을 찾다가 구매하게 되었습니다.  인덕션 겸용 제품이라 더욱 좋은 것 같아요. 무거운 것이 흠이긴 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "19",
+    "RDate": "20200615",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 인덕션 겸용 제품이라 더욱 좋은 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거운 것이 흠이긴 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "432435",
+    "RawText": "아이들이 커서 지방으로 대학가고 해외로 어학 연수까지 다섯식구에서 이제는 세식구만 남아서 계속 쓰고 있던 압력솥이 너무 커서 구매가 필요하다고 생각하다가 우연히 검색하다가 적립금과 출석 적립금으로 저렴한 가격으로 득템했네요. 모르고 샀는데 인덕션에도 가능하다는 사용설명서가 있어 두 번 놀라고 반가웠습니다. 편하고 우리 세식구가 먹기에 양이 딱 맞고 맛있는 밥을 먹을수 있어 우리 가족의 행복한 저녁 시간이 되었습니다. 감사하게 잘 쓸께요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "5",
+    "Syllable": "246",
+    "Word": "58",
+    "RDate": "20191117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금과 출석 적립금으로 저렴한 가격으로 득템했네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션에도 가능하다는 사용설명서가 있어 두 번 놀라고 반가웠습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "우리 세식구가 먹기에 양이 딱 맞고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "맛있는 밥을 먹을 수 있어",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432436",
+    "RawText": "어제 압력밥솥이 ih가 아니라 일반 밥솥으로 오배송이 되어 고객센터 통화 후 하루만인 오늘 맞교환으로 배송되어 와서 확인해보니 이번엔 ih로 일반 가스렌지 만이 아닌 인덕션에도 밥솥을 할수 있게 잘 왔습니다. 더군다나 주방용 고온용 장갑까지 두개씩이나 보내줘서 너무 감사드립니다. 인터넷 가격 비교 사이트 대비 조금 비쌌으나 쿠폰 및 적립금 사용으로 엄청 저렴하게 구매했습니다. 아직 사용전이지만 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "5",
+    "Syllable": "230",
+    "Word": "55",
+    "RDate": "20181228",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "주방용 고온용 장갑까지 두개씩이나 보내줘서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "인터넷 가격 비교 사이트 대비 조금 비쌌으나",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 및 적립금 사용으로 엄청 저렴하게 구매했습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "일반 가스렌지 만이 아닌 인덕션에도 밥솥을 할수 있게 잘 왔습니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432445",
+    "RawText": "기존에 사용하던 밥솥도 OO인데 이번에도 OO으로 샀어요. 집에 OO밥솥만 세 개가 됐어요. 사이즈도 아담하고 밥 해먹기도 무난합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "17",
+    "RDate": "20201110",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 아담하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥 해먹기도 무난합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "432447",
+    "RawText": "배송 빨랐습니다. 부모님 두분 밥해드시는데 용량이 좋다고 하시네요. 무엇보다 무겁지 않아서 좋으시답니다. 강추해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "13",
+    "RDate": "20200805",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "부모님 두분 밥해드시는데 용량이 좋다고 하시네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무엇보다 무겁지 않아서 좋으시답니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432452",
+    "RawText": "그동안 큰거로만 쓰다가 바로바로 밥을 지어 보려고 작은 사이즈로 주문했어요. 그런데 너무 사이즈가 작아서 앙증맞은 포장박스만 보고는 잘못 배달이 되었는 줄 알고 박스를 확인했습니다.  밥맛도 좋고 가벼워서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "5",
+    "Syllable": "120",
+    "Word": "28",
+    "RDate": "20200607",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "너무 사이즈가 작아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥맛도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432454",
+    "RawText": "사이즈도 앙증맞아서 작을까 걱정했는데 4인 식구 충분하네요. 쌀컵으로 4컵이상 할수 있어서 만족합니다. 사용하기 편해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "15",
+    "RDate": "20200512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 앙증맞아서 작을까 걱정했는데 4인 식구 충분하네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "쌀컵으로 4컵이상 할수 있어서 만족합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 편해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432459",
+    "RawText": "밥도 해먹고 고구마도 쪄먹고 두루두루 사용하려고 구입했어요. 사용해보니 다양한 요리를  맛있게 해먹을 수 있어서 좋네요. 밥맛도 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "17",
+    "RDate": "20200304",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "다양한 요리를  맛있게 해먹을 수 있어서 좋네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥맛도 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432461",
+    "RawText": "압력밥솥 두개째 쓰고 있습니다. 사용이 편리해서 좋습니다. 압력이 잘 되어서인지 밥이 맛있게 잘 되어서 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20200302",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용이 편리해서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "압력이 잘 되어서인지",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥이 맛있게 잘 되어서 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432466",
+    "RawText": "한동안 전기밥솥 쓰다가 이번에 다시 구입했는데 디자인도 좋고 크기도 적당합니다. 밥도 빨리 고슬하게 잘되서 좋습니다. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "16",
+    "RDate": "20200215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 적당합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥도 빨리 고슬하게 잘되서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432467",
+    "RawText": "압력솥 가격도 만만찮은데 마침 할인할때 저렴하게 샀습니다. 구매해서 맛있는 밥 지어먹으니 좋네요. 잘 사용하겠습니다. 감사해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "15",
+    "RDate": "20200126",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "압력솥 가격도 만만찮은데 마침 할인할때 저렴하게 샀습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "구매해서 맛있는 밥 지어먹으니 좋네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432471",
+    "RawText": "어머니댁에서 쓰시는거 보고 저도 주문했습니다. 밥도 밥이지만 갈비찜같이 시간 오래 걸리는 요리 해먹을때도 좋네요. 냄비보다 더 맛있게 됩니다. 불량없이 빠르게 배송 받았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "22",
+    "RDate": "20191220",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "밥도 밥이지만 갈비찜같이 시간 오래 걸리는 요리 해먹을때도 좋네요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "냄비보다 더 맛있게 됩니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432478",
+    "RawText": "밥솥을 사고 일주일 정도 사용했어요. 5번정도 밥을 했는데 그중 2번은 손잡이쪽으로 증기가 새어나와서 생쌀밥을 먹었습니다. 이렇게 닫아봐도 안되고 저렇게 닫아봐도 안되더라고요. 연속 3일째 생쌀밥 상태라 기분이 정말 안좋네요. 오늘은 휴일이라 통화도 안되고 월요일에나 문의가 가능할거 같아요. 솥이 잘못된건지 어떤건지 모르겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "3",
+    "Syllable": "184",
+    "Word": "40",
+    "RDate": "20191019",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "5번정도 밥을 했는데 그중 2번은 손잡이쪽으로 증기가 새어나와서 생쌀밥을 먹었습니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이렇게 닫아봐도 안되고 저렇게 닫아봐도 안되더라고요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "연속 3일째 생쌀밥 상태라 기분이 정말 안좋네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "솥이 잘못된건지 어떤건지 모르겠네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "432480",
+    "RawText": "가격은 최저가 구매입니다. 배송 빨라서 좋았구요. 뚜껑 위 스티커가 초초강력이라 떼고 흔적 지우는데 피곤했습니다. 작고 이뻐서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "17",
+    "RDate": "20191009",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 최저가 구매입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "뚜껑 위 스티커가 초초강력이라 떼고 흔적 지우는데 피곤했습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "작고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 이뻐서 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432485",
+    "RawText": "밥솥 자체의 문제는 없어요. 다만 언니가 부탁해서 구입했는데 큰밥솥 쓰다가 혼자 살아서 작은것을 산건데 다 좋은데 콩이나 이런것을 넣고 하려니 크기가 너무 작으니까 그게 좀 많이 불편한가 봐요. 혼자 살아도 너무 작은것 보다는 6인용이 적당할 거 같아요. 이 제품은 6인용이 없었던거 같은데 용량이 작아서 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "3",
+    "Syllable": "176",
+    "Word": "45",
+    "RDate": "20190909",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "콩이나 이런것을 넣고 하려니 크기가 너무 작으니까 그게 좀 많이 불편한가 봐요. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "용량이 작아서 아쉽네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "432491",
+    "RawText": "처음에는 사용하기 조금 불편한듯 했으나 이내 적응했습니다. 빠르게 밥 준비할 수 있어 감사히 잘 쓸께요. 다음에 또 구매 할께요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "19",
+    "RDate": "20190820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "처음에는 사용하기 조금 불편한듯 했으나 이내 적응했습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "빠르게 밥 준비할 수 있어",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432505",
+    "RawText": "전에 쓰던게 커서 작은걸로 구입한건데 이 제품은 밥조리시간이 좀 오래 걸리네요. 전에거는 10분이면 뜸까지해서 끝났는데 이건 20분은 걸리는듯해요. 무슨 차이인지 모르겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "3",
+    "Syllable": "98",
+    "Word": "21",
+    "RDate": "20190416",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "이 제품은 밥조리시간이 좀 오래 걸리네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "전에거는 10분이면 뜸까지해서 끝났는데 이건 20분은 걸리는듯해요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "432509",
+    "RawText": "일단 인덕션에서 쓸수있어서 좋습니다. 아직 밥은 안해봤지만 상품평을 많이 보구 구입했어요. 저렴하게 산 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20190324",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션에서 쓸수있어서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 산 것 같습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432512",
+    "RawText": "빠른 배송이 마음에 드네요. 혼자 계시는 어머니께 사드렸는데 6인용을 살까 하다가 4인용으로 구매했어요. 어머니께서 크기도 아담하게 좋고 편하게 잘 쓰실거 같다고 좋아하셨습니다. 가격이 좀 비싸기는 한거 같은데 그래도 편하게 쓰시면 괜찮을거 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "4",
+    "Syllable": "139",
+    "Word": "32",
+    "RDate": "20190221",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "어머니께서 크기도 아담하게 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하게 잘 쓰실거 같다고 좋아하셨습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 비싸기는 한거 같은데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하게 쓰시면 괜찮을거 같네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "432517",
+    "RawText": "OO제품 블랙펄 메가IH 압력밥솥 4인용 구매했습니다. 기존에 인덕션 안되는 제품 오랫동안 사용하다가 IH되있는 제품 구입했는데마음에 들어요. 밥을 금방할수 있고 맛도 좋아서 강력 추천해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "23",
+    "RDate": "20181227",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥을 금방할수 있고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "맛도 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432519",
+    "RawText": "빠른 배송 잘 받았습니다. 4인용인데 생각보다는 작아서 조금 아쉽네요. 전에도 비슷한 모델 사용했는데, 추를 잃어버려서 재구매했거든요. 밥 맛이 좋아서 저희는 OO밥솥만 사용합니다. 잘 쓸께요. 손잡이 부분에 미세한 기스가 나있어서 이 부분도 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** IH 압력밥솥 2.3L/4인용",
+    "ReviewScore": "5",
+    "Syllable": "141",
+    "Word": "32",
+    "RDate": "20181112",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "4인용인데 생각보다는 작아서 조금 아쉽네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥 맛이 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432521",
+    "RawText": "인덕션 설치하면서 밥솥 새로 바꿨는데 다른곳보다 저렴한 편이라 가격은 만족해요. 아직 밥 안해먹어봐서 모르겠지만 밥맛이 좋았으면 하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 비** 압력솥 콤비세트 (2.5L+4.5L)",
+    "ReviewScore": "4",
+    "Syllable": "76",
+    "Word": "17",
+    "RDate": "20220826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른곳보다 저렴한 편이라 가격은 만족해요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥맛이 좋았으면 하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "432522",
+    "RawText": "주문했더니 바로 배송 시작되어 빨리 받아 좋았습니다. OOOO 것을 15년 훨씬 넘게 사용하다가 바꿀 때가 된 것 같아서 찾던 중 그냥 손에 익은 쓰던 제품과 비슷한 것으로 구매했네요. 근데 용량은 같은데 사이즈는 더 작은 것 같은 느낌적인 느낌이 들어 좀 그렇기는 한데 손잡이 한쪽이 길어서 잡고 씻기가 편합니다.  익숙하니깐요.  아직 사용 전이지만 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO F** 삼중바닥 스텐 압력솥 5.5L/9인용",
+    "ReviewScore": "4",
+    "Syllable": "208",
+    "Word": "54",
+    "RDate": "20220104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "용량은 같은데 사이즈는 더 작은 것 같은 느낌적인 느낌이 들어 좀 그렇기는 한데",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "손잡이 한쪽이 길어서 잡고 씻기가 편합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432523",
+    "RawText": "소량의 재료를 넣고 조리를 시작하자 신호추 아래로 스팀과 물이 분출되어 놀랐어요. AS센터를 방문해서 신호추 아래 밸브를 약간 조이고 나니 정상으로 작동이 잘 되네요. 왔다갔다 비용도 나간게 유감이지만 모양도 이쁘고 단지 실제 용량이 그리 크지 않으니 곰국같은것 끓일려면 한단계 큰사이즈가 필요할것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO F** 삼중바닥 스텐 압력솥 5.5L/9인용",
+    "ReviewScore": "4",
+    "Syllable": "172",
+    "Word": "41",
+    "RDate": "20210216",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "소량의 재료를 넣고 조리를 시작하자 신호추 아래로 스팀과 물이 분출되어 놀랐어요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "AS센터를 방문해서 신호추 아래 밸브를 약간 조이고 나니 정상으로 작동이 잘 되네요. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "모양도 이쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "단지 실제 용량이 그리 크지 않으니 곰국같은것 끓일려면 한단계 큰사이즈가 필요할것 같습니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "432525",
+    "RawText": "백화점에서 보고 주문했는데 거의 반값에 샀습니다. 어머니가 부담없이 쓰시기 좋다고 좋아하시네요. 저도 하나 사서 쓰려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO F** 삼중바닥 스텐 압력솥 5.5L/9인용",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "16",
+    "RDate": "20170222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "백화점에서 보고 주문했는데 거의 반값에 샀습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "어머니가 부담없이 쓰시기 좋다고 좋아하시네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432528",
+    "RawText": "언니가 미국에 가져간다고 주문했습니다. 밥 해먹었는데 너무 크지도 않고 너무 작지도 않고 딱이네요. 금방금방 따뜻한 밥이 잘 되서 더 만족해하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 뉴** 삼중바닥 스텐 압력솥 3L/4인용",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "20",
+    "RDate": "20220731",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "너무 크지도 않고 너무 작지도 않고 딱이네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "금방금방 따뜻한 밥이 잘 되서 더 만족해하네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432530",
+    "RawText": "작고 귀엽습니다. 압력밥솥 전기세가 너무 많이 나와서 바꿨는데 밥이 맛있게 되고 간편하고 좋습니다. 배송도 빠르게 해주셔서 감사해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 뉴** 삼중바닥 스텐 압력솥 3L/4인용",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "17",
+    "RDate": "20190917",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "작고 귀엽습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥이 맛있게 되고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "간편하고 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432540",
+    "RawText": "젓가락 길이였다면 더 좋았을텐데 집게 길이라 아쉽네요. 젓가락 길이로는 안만드시는지 궁금합니다. 길어서 손이 작은 제가 쓰기에는 약간 불편하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 글** 젓가락 집게",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "18",
+    "RDate": "20210430",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "젓가락 길이였다면 더 좋았을텐데 집게 길이라 아쉽네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길어서 손이 작은 제가 쓰기에는 약간 불편하네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "432545",
+    "RawText": "여러 용도 조리도구 구성이라 좋고, 여기저기 쓰임새가 많겠네요. 정리가 깔끔하게 되어서 더욱 마음에 듭니다. 잘 사용하겠습니다. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 멀티조리도구 칼라 7종세트",
+    "ReviewScore": "4",
+    "Syllable": "78",
+    "Word": "17",
+    "RDate": "20211109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "여러 용도 조리도구 구성이라 좋고,",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여기저기 쓰임새가 많겠네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "정리가 깔끔하게 되어서 더욱 마음에 듭니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432546",
+    "RawText": "열에 녹네요. 후라이도 못해 먹습니다. 이사 선물을 드렸는데 후라이 하는데 열에 녹아서 뒤집게를 버렸다고 하네요. 조리도구가 작은 열에도 녹으면 왜 사용을 해야하는지요?",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 멀티조리도구 칼라 7종세트",
+    "ReviewScore": "4",
+    "Syllable": "94",
+    "Word": "22",
+    "RDate": "20211009",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "열에 녹네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "후라이도 못해 먹습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "후라이 하는데 열에 녹아서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "조리도구가 작은 열에도 녹으면 왜 사용을 해야하는지요?",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "432550",
+    "RawText": "밥 알 안 붙어 위생적이고 가성비 참 좋은 주걱입니다. 비싼 거 다 소용없습니다. 역시 OO 정품이 최고입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 전기밥솥 전용 주걱",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "17",
+    "RDate": "20220506",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "밥 알 안 붙어 위생적이고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 참 좋은 주걱입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432559",
+    "RawText": "주걱 사기가 너무 힘들었네요.  나무주걱이랑 다 써봐도 이것이 사용하기 제일 좋은 것 같아요. 가격도 완전 좋아서 4개나 샀습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 전기밥솥 전용 주걱",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20211008",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "나무주걱이랑 다 써봐도 이것이 사용하기 제일 좋은 것 같아요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격도 완전 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432567",
+    "RawText": "상품 잘 쓰고 있어요. 우선 다양한 구성이라 좋고 기스가 안나서 너무 마음 편하게 쓰고 있어요. 추천하고 싶습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 굿** 스텐 키친툴 세트 5P",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "17",
+    "RDate": "20220303",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "다양한 구성이라 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "기스가 안나서 너무 마음 편하게 쓰고 있어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432576",
+    "RawText": "집에서 후라이팬에 고기 굽는데 큰 집게는 부담스럽고 젓가락은 불편했습니다. 그런데 이건 크기가 작아서 작은 고기조각 집는데도 편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 고기집게",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "17",
+    "RDate": "20220629",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기가 작아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "작은 고기조각 집는데도 편합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432582",
+    "RawText": "집기와 뒤집기 편하고 좋습니다. 내려놓을때도 바닥에 집게 앞부분이 닿지 않아 위생적이고 세척 할 때도 너무 편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 고기집게",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20211027",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "집기와 뒤집기 편하고 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "내려놓을때도 바닥에 집게 앞부분이 닿지 않아 위생적이고 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": " 세척 할 때도 너무 편합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432587",
+    "RawText": "잘 집히고 튼튼합니다. 길이도 좋고 저는 만족해요. 요즘에 유행하는 긴 핀셋 모양의 집게로 살까 하다가 이것으로 했는데 잘 했다는 생각이 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 고기집게",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "21",
+    "RDate": "20210816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잘 집히고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼합니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432590",
+    "RawText": "요즘 핀셋형 집게가 유행인데 그것보다 조금 작고 가벼운걸 원해서 비슷한 모양의 웨이브형 집게를 구매했습니다. 마감도 괜찮고 크기도 적당해서 편하게 쓰기 좋네요. 오래 쓰다보면 조금 힘은 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 고기집게",
+    "ReviewScore": "4",
+    "Syllable": "108",
+    "Word": "26",
+    "RDate": "20210711",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감도 괜찮고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 적당해서 편하게 쓰기 좋네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "오래 쓰다보면 조금 힘은 듭니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "432591",
+    "RawText": "스텐질이 매끄럽고 사이즈도 커서 맘에 들었습니다. 생각보다 묵직하고 견고해서 오래도록 잘 사용할 수 있겠네요. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 고기집게",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20210610",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "재질/질감",
+        "SentimentText": "스텐질이 매끄럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 커서 맘에 들었습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각보다 묵직하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "견고해서 오래도록 잘 사용할 수 있겠네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432593",
+    "RawText": "극찬을 하던데 잘 모르겠네요. 일반집게보다 힘이 덜 든다고 하는데 그건 잘모르겠고 쓰다가 내려놨을때 기름기 있는 부분이 바닥에 닿지 않아서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 고기집게",
+    "ReviewScore": "4",
+    "Syllable": "82",
+    "Word": "20",
+    "RDate": "20210523",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "일반집게보다 힘이 덜 든다고 하는데 그건 잘모르겠고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "내려놨을때 기름기 있는 부분이 바닥에 닿지 않아서 좋아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432601",
+    "RawText": "전에 사용했던거 누가 집어가서 다시 구입했습니다. 캠핑때 이만한 집게가 없는듯 해요. 저렴하기도 해서 한개는 제가 사용하고 선물하려고 두개 주문했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 고기집게",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "19",
+    "RDate": "20210331",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "캠핑때 이만한 집게가 없는듯 해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하기도 해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432602",
+    "RawText": "고기집게 일단 그립감 좋네요. 바닥에 닿지 않아서 더 좋아요. 자주 사용할 듯 하네요. 동생이 쓰는 거 보고 좋아보여서 샀는데 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 고기집게",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "21",
+    "RDate": "20210315",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "그립감",
+        "SentimentText": "고기집게 일단 그립감 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "바닥에 닿지 않아서 더 좋아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "자주 사용할 듯 하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432607",
+    "RawText": "일본 OOO 집게가 유명하다고 해서 검색 후 이곳이 저렴해서 구매했습니다. 바닥에 놓는 부분 닿지않게 설계된 세심한 디테일이 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 고기집게",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20210228",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이곳이 저렴해서 구매했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "바닥에 놓는 부분 닿지않게 설계된 세심한 디테일이 좋네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432614",
+    "RawText": "OOO이라 구매했어요. 필요한걸로 구성되있어서 좋네요. 실리콘이라 후라이팬에 스크래치가 나지 않아서 좋을듯 합니다. 배송은 조금 느렸네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 데** 올실리콘 키친툴 세트 6P",
+    "ReviewScore": "4",
+    "Syllable": "77",
+    "Word": "15",
+    "RDate": "20220709",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "필요한걸로 구성되있어서 좋네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "실리콘이라 후라이팬에 스크래치가 나지 않아서 좋을듯 합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432615",
+    "RawText": "크기 적당하고 무게감이 거의 없어서 좋습니다. 열에 얼마나 강한지는 사용해봐야 알 듯 합니다. 배송 빠르게 보내주셔서 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 데** 올실리콘 키친툴 세트 6P",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20220706",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감이 거의 없어서 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "열에 얼마나 강한지는 사용해봐야 알 듯 합니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "432622",
+    "RawText": "키친툴 이것저것 많이 사봤네요.스텐은 긁히고, 스텐막대는 연결부위에 곰팡이가 생겼어요. 플라스틱은 손잡이와 분리되고 뜨거우면 녹기도하는데 이건 실리콘이라 보완이 잘 되있네요. 올실리콘이라 안전합니다. 빨간 국이나 카레는 색베임 걱정되서 안쓰고 있어요. 낱개로 추가국자 사야겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 데** 올실리콘 키친툴 세트 6P",
+    "ReviewScore": "5",
+    "Syllable": "157",
+    "Word": "31",
+    "RDate": "20220526",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "실리콘이라 보완이 잘 되있네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "올실리콘이라 안전합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "빨간 국이나 카레는 색베임 걱정되서 안쓰고 있어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "432625",
+    "RawText": "필요한 세트로 구성이 되어있고 사용하기 편합니다. 올실리콘이라 더 좋습니다. 지인 추천으로 구매했는데 만족합니다. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 데** 올실리콘 키친툴 세트 6P",
+    "ReviewScore": "4",
+    "Syllable": "70",
+    "Word": "14",
+    "RDate": "20220519",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "필요한 세트로 구성이 되어있고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 편합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "올실리콘이라 더 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432627",
+    "RawText": "색깔 차분해서 좋고 실리콘이라 후라이팬에 흠집 안나고 좋습니다. 브랜드인데 가격이 착해서 좋고 걸이대가 있어서 보관 편해요. 집에 있던 오랜된 집기랑 플라스틱 집기 다 버렸네요. 구매 완전 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 데** 올실리콘 키친툴 세트 6P",
+    "ReviewScore": "5",
+    "Syllable": "111",
+    "Word": "27",
+    "RDate": "20220516",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔 차분해서 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "실리콘이라 후라이팬에 흠집 안나고 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "브랜드인데 가격이 착해서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "걸이대가 있어서 보관 편해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432631",
+    "RawText": "집게는 길이를 조금 줄여도 좋을듯합니다. 길어서 힘을 잘 못받네요. 고기 구울때 짧게 쥐고 구워야해서 뜨겁고 불편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 데** 올실리콘 키친툴 세트 6P",
+    "ReviewScore": "4",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20220501",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "집게는 길이를 조금 줄여도 좋을듯합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길어서 힘을 잘 못받네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "고기 구울때 짧게 쥐고 구워야해서 뜨겁고 불편합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "432637",
+    "RawText": "이 구성품 세트에는 한식에선 잘 안쓰는 거품기 주걱 포크가 없어서 참 좋습니다.  실리콘이라 후라이팬 긁히지 않으니 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 데** 올실리콘 키친툴 세트 6P",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20220414",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "이 구성품 세트에는 한식에선 잘 안쓰는 거품기 주걱 포크가 없어서 참 좋습니다  ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "실리콘이라 후라이팬 긁히지 않으니 좋네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432642",
+    "RawText": "선물하려고 구매했습니다. 밥주걱이 있었으면 금상첨화일텐데 구성이 조금 아쉽습니다. 가격은 다른 브랜드의 키친툴보다 저렴한 듯 해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 데** 올실리콘 키친툴 세트 6P",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "15",
+    "RDate": "20220405",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "밥주걱이 있었으면 금상첨화일텐데 구성이 조금 아쉽습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 다른 브랜드의 키친툴보다 저렴한 듯 해요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432647",
+    "RawText": "배송 빨리 왔고 공간은 최소한으로 차지합니다. 회색 계열이라 밝은 주방에서 잘 안튀어보여서 좋습니다. 만족합니다. 잘 사용할께요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 데** 올실리콘 키친툴 세트 6P",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "16",
+    "RDate": "20220316",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "공간은 최소한으로 차지합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "회색 계열이라 밝은 주방에서 잘 안튀어보여서 좋습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "432648",
+    "RawText": "주방에 딱 두고 싶었던 디자인이어서 얼른 구매했는데 좋아요. 마트보다 저렴해서 만족스럽게 샀습니다.  무난하게 사용하기 좋을 거 같습니다. 생각보다 튼튼해서 오래 사용할 수 있을 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 데** 올실리콘 키친툴 세트 6P",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "25",
+    "RDate": "20220314",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "주방에 딱 두고 싶었던 디자인이어서 얼른 구매했는데 좋아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트보다 저렴해서 만족스럽게 샀습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "생각보다 튼튼해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오래 사용할 수 있을 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "무난하게 사용하기 좋을 거 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "432651",
+    "RawText": "올실리콘 제품이라 안심이 되고 필요한 구성만으로 되어있어 매우 만족스럽습니다. 가격도 저렴하고 같이 온 물통도 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 데** 올실리콘 키친툴 세트 6P",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20220219",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "올실리콘 제품이라 안심이 되고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "필요한 구성만으로 되어있어 매우 만족스럽습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "같이 온 물통도 잘 쓰겠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

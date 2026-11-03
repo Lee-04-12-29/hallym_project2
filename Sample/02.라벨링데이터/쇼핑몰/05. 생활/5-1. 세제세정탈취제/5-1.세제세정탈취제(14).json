@@ -1,0 +1,2912 @@
+[
+  {
+    "Index": "329624",
+    "RawText": "사용중인 세제가 조금 남아있어서 주문했습니다. 쓰던거라 세척력 좋아서 주문했습니다. 향도 좋구요. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "4",
+    "Syllable": "63",
+    "Word": "13",
+    "RDate": "20220828",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "쓰던거라 세척력 좋아서 주문했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329627",
+    "RawText": "실내 건조라는 타이틀 때문에 두번째 구입인데 세척력은 그저 무난한 느낌입니다. 세탁기 몫이 아닐까 싶기도 하고요. 향의 지속력도 쏘쏘입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "18",
+    "RDate": "20220827",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세척력은 그저 무난한 느낌입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향의 지속력도 쏘쏘입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "329636",
+    "RawText": "다른 세제 쓰다 보니 집안에서 마르면 냄새가 났습니다. OO 실내 건조로 바꾸니 불쾌한 냄새가 없어졌어요. 향도 좋아 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20220824",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": " OO 실내 건조로 바꾸니 불쾌한 냄새가 없어졌어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋아 만족해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329638",
+    "RawText": "세정력 만족스럽고 향이 은은하니 좋습니다.  사용 후 뚜껑 닫히는 상태가 불안정합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20220823",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력 만족스럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 은은하니 좋습니다.  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "사용 후 뚜껑 닫히는 상태가 불안정합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "329639",
+    "RawText": "향이 진하지 않아 맘에 들어 계속 재구매하고 있습니다 사람마다 개인차가 있겠지만 OOO 제품이 향이 좋긴 한데 향이 강한 건 많이 강해서 저는 별로였어요. 이 제품이랑 섬유 유연제 프리지아 향 같이 쓰고 있어요 실내건조 효과도 괜찮은 것 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "137",
+    "Word": "37",
+    "RDate": "20220823",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 진하지 않아 맘에 들어",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "실내건조 효과도 괜찮은 것 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329643",
+    "RawText": "향도 은은하니 좋고 실내건조 시 나는 쿰쿰한 냄새도 없애줘서 만족합니다. 요즘같이 비가 자주 올 때 필수품이라 생각합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20220822",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 은은하니 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "실내건조 시 나는 쿰쿰한 냄새도 없애줘서 만족합니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "요즘같이 비가 자주 올 때 필수품이라 생각합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329645",
+    "RawText": "향도 좋고 실내 용이라 재구매했습니다. 금액 대가 좀 비싸서 별 하나 뺐습니다 다음엔 행사할 때 구매해야 할 것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "4",
+    "Syllable": "66",
+    "Word": "19",
+    "RDate": "20220821",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "금액 대가 좀 비싸서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "329646",
+    "RawText": "하도 빨래에서 냄새가나서 OO을 잔뜩 넣어봐도 안되고 제습기를 하루종일 틀어봐도 안되고해서 이걸로 바꿔봤습니다. 확실히 OOO라 그런지 OO넣기전에도 욕실에서 향이 많이 나네요. 세척력도 좋은거 같구요. 계속 요걸로 써야겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "4",
+    "Syllable": "128",
+    "Word": "27",
+    "RDate": "20220820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "확실히 OOO라 그런지 OO넣기전에도 욕실에서 향이 많이 나네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력도 좋은거 같구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329656",
+    "RawText": "향이 너무 센 느낌이긴한데 빨래 후 꿉꿉한 냄새가 안 나서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "38",
+    "Word": "11",
+    "RDate": "20220817",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 센 느낌이긴한데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "빨래 후 꿉꿉한 냄새가 안 나서 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329657",
+    "RawText": "향이 너무 좋고 무엇보다 배송이 빨라서 필요한 때에 받을 수 있었습니다. 사은품으로 주신 세제도 있어서 넉넉히 사용할 수 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "4",
+    "Syllable": "73",
+    "Word": "19",
+    "RDate": "20220817",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품으로 주신 세제도 있어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "넉넉히 사용할 수 있습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329668",
+    "RawText": "실내 건조라 요즘 같은 장마에 어울리는 것 같습니다. 아파트 같은 실내 공간에서 건조하기 편합니다. 가격도 가성비 있게 잘 샀어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "19",
+    "RDate": "20220813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "실내 건조라 요즘 같은 장마에 어울리는 것 같습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 아파트 같은 실내 공간에서 건조하기 편합니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 가성비 있게 잘 샀어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329670",
+    "RawText": "실내 건조용이라 구매한건데 실내에서 건조 후에 눅눅한 냄새가 남아 있고 향도 오래 가질 않아서 실망입니다. 비추입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20220812",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "실내에서 건조 후에 눅눅한 냄새가 남아 있고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향도 오래 가질 않아서 실망입니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "329671",
+    "RawText": "2.8L 두 개 묶음의 제품 구성이 맘에 듭니다.  뽁뽁이 대신 종이로 완충제를 사용하여 더 좋았어요. 깨진 곳 없이 안전하게 배송되었네요.  실내건조 세제와 섬유유연제를 다 쓰는 중인데 향이 은은한 편이라 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "121",
+    "Word": "30",
+    "RDate": "20220812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "2.8L 두 개 묶음의 제품 구성이 맘에 듭니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 은은한 편이라 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329674",
+    "RawText": "사용해보니 다른제품에 비해 세탁할때 때도 잘지워지고 향기도 오래가는것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "9",
+    "RDate": "20220812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁할때 때도 잘지워지고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향기도 오래가는것 같습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329679",
+    "RawText": "10리터는 뚜껑만큼 넣으래서 그렇게 쓰는데 향이 막 나지는 않고 밖에 흘러서 손에 꼭 묻어 불편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "15",
+    "RDate": "20220810",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향이 막 나지는 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "밖에 흘러서 손에 꼭 묻어 불편합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "329684",
+    "RawText": "빨래에서 냄새났었는데 지인 추천으로 구매해서 쓰고 있습니다. 빨래 쉰내도 안나고 세제만 써도 향이 은은하게 퍼져요. 너무 좋아 그뒤로 요것만 씁니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "20",
+    "RDate": "20220809",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "빨래 쉰내도 안나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "세제만 써도 향이 은은하게 퍼져요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329689",
+    "RawText": "완전 빨리 왔습니다. 그리고 세제가 꽤 커서 넉넉합니다. 사은품 섬유유연제는 너무 귀엽습니다. 완전 휴대용이라 편하게 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "17",
+    "RDate": "20220809",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 세제가 꽤 커서 넉넉합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품 섬유유연제는 너무 귀엽습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "완전 휴대용이라 편하게 잘 쓰겠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329690",
+    "RawText": "항상 이것만 씁니다. 배송도 진짜 빠르고 좋습니다. 향 좋고 세척력도 좋아요. 다 써서 또 주문했습니다. 사은품도 주시고 감사해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "4",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20220809",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 사은품도 주시고 감사해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329692",
+    "RawText": "주문 후 다음날 도착했습니다.  세제의 향이 순해서 아주 마음에 듭니다.  용기 뚜껑이 투명이라 더 좋구요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20220808",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "세제의 향이 순해서 아주 마음에 듭니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기 뚜껑이 투명이라 더 좋구요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329693",
+    "RawText": "늘 쓰는 제품인데 다른 곳보다 더 저렴해서 만족합니다. 실내 건조 세제로 살균도 되니 딱입니다. 포장도 꼼꼼하게 잘 도착했습니다. 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20220808",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 곳보다 더 저렴해서 만족합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "실내건조 세제로 살균도 되니 딱입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329699",
+    "RawText": "마트보다 많이 싸게 나와서 얼른 구입했습니다. 빨래하면 향도 나고 꿉꿉한 것도 없어서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20220807",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "많이 싸게 나와서 얼른 구입했습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "빨래하면 향도 나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "꿉꿉한 것도 없어서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329702",
+    "RawText": "확실히 여름철에 딱 쓰기 좋은 느낌이에요. 실내 건조 유연제와 함께 써야 훨씬 효과를 볼 수 있는 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "18",
+    "RDate": "20220806",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "확실히 여름철에 딱 쓰기 좋은 느낌이에요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "실내 건조 유연제와 함께 써야 훨씬 효과를 볼 수 있는 것 같습니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "329725",
+    "RawText": "배송은 아주 빠르게 왔는데 제품하나가 뚜껑이 덜 닫힌채로 와서 박스에 다 새고 말았네요. 조금 샌건데 그 와중에 향은 아주 좋네요하나만 교환도 가능한지 모르겠어요.  암튼 향기는 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "3",
+    "Syllable": "105",
+    "Word": "26",
+    "RDate": "20220803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "조금 샌건데 그 와중에 향은 아주 좋네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "암튼 향기는 만족해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329729",
+    "RawText": "아직 사용 전이긴 한데 다들 추천해주셔서 구매해봤어요. 냄새부터가 일단 너무 좋고 오래 지속됐으면 좋겠네요. 빨리 써보고 싶습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20220802",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새부터가 일단 너무 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "오래 지속됐으면 좋겠네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "329732",
+    "RawText": "실내건조용으로 섬유유연제만 사용하다가 세제도 구매해서 사용했봤어요.  때도 잘 빠지고 확실히 비오는 날에 눅눅하고 꿉꿉한 냄새가 나지 않아서 좋았습니다. OO에서 갈아타야겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "100",
+    "Word": "20",
+    "RDate": "20220802",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "때도 잘 빠지고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "비오는 날에 눅눅하고 꿉꿉한 냄새가 나지 않아서 좋았습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329736",
+    "RawText": "늘 사용하는 세제입니다. 이거 쓰다 다른 거 못 씁니다. 실내건조유연제도 함께 쓰니 효과가 더 좋습니다. 꿉꿉한 냄새 다 잡아줍니다. 사은품도 감사해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "21",
+    "RDate": "20220802",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "실내건조유연제도 함께 쓰니 효과가 더 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "꿉꿉한 냄새 다 잡아줍니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 감사해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329738",
+    "RawText": "좋아서 늘쓰는 제품입니다. 실내건조해도 냄새가 괜찮습니다. 섬유유연제도 보내주셨네요. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "9",
+    "RDate": "20220802",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "실내건조해도 냄새가 괜찮습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "섬유유연제도 보내주셨네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329740",
+    "RawText": "세탁력이 탁월해서 꾸준히 사용중인 세제입니다. 섬유 린스도 사용 중이네요.  그런데 향기가 좀더 진했으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20220801",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁력이 탁월해서 꾸준히 사용중인 세제입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향기가 좀더 진했으면 좋겠습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "329744",
+    "RawText": "양도 넉넉하고 가성비 갑입니다. 기회가 되면 또 구입해야겠습니다. 후회 없어요. 강추합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20220730",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 넉넉하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 갑입니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329745",
+    "RawText": "배송이 매우 느립니다. 결국 마트에서 추가 주문해서 세탁한 후 배송되었어요. 늦은 배송을 생각하면 가격면에서는 마트 주문이 더 저렴한 거 같습니다. 제품 품질은 괜찮습니다. 생각한 만큼 쿱쿱한 냄새를 완벽하게 개선시키는 건 아니지만 다른 제품보다는 세척력이  괜찮은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "3",
+    "Syllable": "156",
+    "Word": "37",
+    "RDate": "20220730",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 품질은 괜찮습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "생각한 만큼 쿱쿱한 냄새를 완벽하게 개선시키는 건 아니지만 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "다른 제품보다는  세척력이   괜찮은 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격면에서는 마트 주문이 더 저렴한 거 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "329749",
+    "RawText": "실내에서 빨래를 건조하다 보니 일반 세제로는 바짝 말린다는 기분이 들지 않아서 찝찝했습니다. 이 세제가 살균 효과는 있다는 생각이 듭니다. 얼룩 제거도 탁월하기를 기대해봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "4",
+    "Syllable": "98",
+    "Word": "23",
+    "RDate": "20220730",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "살균 효과는 있다는 생각이 듭니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "얼룩 제거도 탁월하기를 기대해봅니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "329764",
+    "RawText": "세제도 섬유제도 OOO만한게 없다고 생각합니다. 둘다 실내건조용으로 사용하니 향도 두배이고 퀴퀴한 냄새도 나지 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "14",
+    "RDate": "20220729",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "둘다 실내건조용으로 사용하니 향도 두배이고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "퀴퀴한 냄새도 나지 않아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329765",
+    "RawText": "OOO 세탁세제 사용해 본 후에 이 실내건조도 구입해 보았어요. 비싼 감이 있지만 향이 좋아서 한번 써보려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "4",
+    "Syllable": "65",
+    "Word": "17",
+    "RDate": "20220728",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싼 감이 있지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋아서 한번 써보려고 합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329766",
+    "RawText": "늘 사용하는 세제입니다. 중간에 다른걸로 바꿨다가 다시 돌아왔지요. 용량도 많고 향이 좋습니다. 포장 배송 꼼꼼하게 되서 왔고 빨랐어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20220728",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329771",
+    "RawText": "제품도 저렴하고 빨리 배송 되어서 좋았습니다. 실내건조에 탁월한 품질의 제품으로 이 세제를 추천해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "4",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20220727",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "제품도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "실내건조에 탁월한 품질의 제품으로 이 세제를 추천해요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329775",
+    "RawText": "진짜 다른거 다 써봤는데  OOO 실내건조세제 완전 좋습니다. 향도 너무 좋고 빨래도 깨끗하게 되는거 같아요. 이젠 이것만 쓰려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20220727",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 너무 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "빨래도 깨끗하게 되는거 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329778",
+    "RawText": "대용량이라 너무 좋아요 완충제랑 뚜껑에 비닐 캡까지 확실하게 파손 없이 배송됐습니다 향이 좋아서 만족스럽습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20220727",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 너무 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋아서 만족스럽습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329779",
+    "RawText": "요즘 같은 여름에 특히 사용하면 좋은 제품입니다. 저는 사계절 내내 잘 사용할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "14",
+    "RDate": "20220727",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "요즘 같은 여름에 특히 사용하면 좋은 제품입니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 저는 사계절 내내 잘 사용할 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329781",
+    "RawText": "드럼세탁기를 쓰는데 다른 곳에서 일반세제를 사버려서 여기서 다시 주문합니다.  양도 많아 좋고 저렴하면서 포장도 깔끔하게 와서 좋았어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "17",
+    "RDate": "20220726",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하면서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329784",
+    "RawText": "매번 사용하는 제품입니다 향도 좋고 용량도 많아서 좋습니다 배송도 빨라서 더욱 만족스럽습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "4",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20220726",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 많아서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329800",
+    "RawText": "OO 세제는 처음 사용해보는데 타 제품보다 향기롭고 OO 섬유유연제와 세트로 쓰니 효과가 더 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20220724",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 타 제품보다 향기롭고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "OO 섬유유연제와 세트로 쓰니 효과가 더 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329810",
+    "RawText": "세탁도 잘 되고 건조 후 굽굽한 냄새를 잘 느끼지는 못했어요. 일단 냄새는 안 나서 좋습니다. 세탁이 잘 돼서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "19",
+    "RDate": "20220723",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁도 잘 되고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "건조 후 굽굽한 냄새를 잘 느끼지는 못했어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "일단 냄새는 안 나서 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁이 잘 돼서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329819",
+    "RawText": "배송이 빨라요 베란다랑 실내에서 빨래 말리는데 냄새가 나는 것 같아 실내 건조로 주문해보았어요 비싸지만 효과가 좋으면 더 구매할 것 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "20",
+    "RDate": "20220722",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸지만",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과가 좋으면 더 구매할 것 같습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "329824",
+    "RawText": "실내에서 말리다보니 좀 냄새날 때가 있는데 이건 쿰쿰한 냄새가 덜 납니다. 여름철에 쓰기 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "14",
+    "RDate": "20220721",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "이건 쿰쿰한 냄새가 덜 납니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름철에 쓰기 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329825",
+    "RawText": "요즘 같은 날씨에 실내 건조 세제 사용하니 냄새 덜 나고 좋습니다 근데 향이 오래가지 않아서 아쉬워요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "16",
+    "RDate": "20220721",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "냄새 덜 나고 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향이 오래가지 않아서 아쉬워요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "329826",
+    "RawText": "여름엔 습도가 높아 이세제가 최고인것 같습니다. 벌서 두번째 구매인데 항상 향이 좋고 상쾌해요. 실내건조용이라 요즘같은 장마철엔 이 제품이 빨래의 꿉꿉함을 없애주는 해결사네요, 건조기도 사용해보고 에어콘도 털어 봐도 이 제품이 해결사입니다. 포장 또한 끔꼼하게 해서 잘 배송왔어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "157",
+    "Word": "36",
+    "RDate": "20220721",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "벌서 두번째 구매인데 항상 향이 좋고 상쾌해요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "실내건조용이라 요즘같은 장마철엔 이 제품이 빨래의 꿉꿉함을 없애주는 해결사네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름엔 습도가 높아 이세제가 최고인것 같습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329831",
+    "RawText": "항상 사용하는 제품 재구매해요. 쿠폰 사용해도 가격이 많이 올랐습니다. 가성비가 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20220720",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 사용해도 가격이 많이 올랐습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 아쉽습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "329832",
+    "RawText": "배송은 조금 느리네요 도착 5일정도 걸렸습니다. 포장 상태도 좋았습니다 뚜껑에 뽁뽁이 둘러져 있네요. 세제 냄새 은은하고 좋습니다 좋은 향이 얼마나 갈지 기대되네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "2",
+    "Syllable": "91",
+    "Word": "22",
+    "RDate": "20220720",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "세제 냄새 은은하고 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "좋은 향이 얼마나 갈지 기대되네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "329837",
+    "RawText": "은은한 향기도 좋고 무엇보다 세정력이 타 제품대비해서 우수한거 같습니다. 품질이 좋아 계속 이 제품만 쓰게 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20220719",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "은은한 향기도 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "무엇보다 세정력이 타 제품대비해서 우수한거 같습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋아 계속 이 제품만 쓰게 됩니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329839",
+    "RawText": "요즘 같은 습도가 높은 날씨에 딱입니다. 세탁해도 꿉꿉한 냄새가 나지는 않아 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "12",
+    "RDate": "20220719",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "요즘 같은 습도가 높은 날씨에 딱입니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "세탁해도 꿉꿉한 냄새가 나지는 않아 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329843",
+    "RawText": "좀 비싸지만 구매했습니다 아직 써보진 못했지만 요즘 같은 습한 날씨에 너무 좋을 것 같아요. 효과가 기대되네요 배송도 엄청 빠릅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "19",
+    "RDate": "20220719",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좀 비싸지만 구매했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과가 기대되네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 요즘 같은 습한 날씨에 너무 좋을 것 같아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "329852",
+    "RawText": "배송은 느립니다. OOO밖에 안 쓰게 되네요. 좀 비싸긴 하지만 빨래도 잘 빨리고 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "3",
+    "Syllable": "50",
+    "Word": "13",
+    "RDate": "20220716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좀 비싸긴 하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "빨래도 잘 빨리고 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329855",
+    "RawText": "리뷰 보고 주문했습니다. 일단 어느 정도는 만족합니다 향이 많이 나지는 않고요 은은하게 오래갑니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20220715",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 많이 나지는 않고요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "은은하게 오래갑니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329857",
+    "RawText": "유연제인줄 알고 샀습니다. 급해서 바로 사용했는데 실내건조라 그런지 꿉꿉한 냄새가 없습니다. 오히려 유연제 사용때보다 실내건조할때 꿉꿉한 냄새가 더 없는것 같습니다. 요즘은 유연제 사용하지않고 이 제품하고 OO만 사용해 세탁하고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "133",
+    "Word": "29",
+    "RDate": "20220715",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "실내건조라 그런지 꿉꿉한 냄새가 없습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "오히려 유연제 사용때보다 실내건조할때 꿉꿉한 냄새가 더 없는것 같습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "요즘은 유연제 사용하지않고 이 제품하고 OO만 사용해 세탁하고 있습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329859",
+    "RawText": "항상 쓰는 제품입니다. 습하고 더운 여름날 사용하기 좋은 제품입니다. 향도 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "4",
+    "Syllable": "46",
+    "Word": "11",
+    "RDate": "20220714",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "습하고 더운 여름날 사용하기 좋은 제품입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329864",
+    "RawText": "향이 좋아요 용량도 크고 택배 안전하게 왔습니다 쓰다가 세정력이 좋으면 재구매하려고요 OOO라서 믿고 구매해봤네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "4",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20220713",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 크고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "쓰다가 세정력이 좋으면 재구매하려고요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "329865",
+    "RawText": "마트에서 사다 썼는데 마트보다 용량도 크고 쌉니다. 하루만에 잘 받았습니다. 빠른 배송 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20220713",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "마트보다 용량도 크고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쌉니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329873",
+    "RawText": "빠른 배송 감사드립니다 다른 제품 사용하다 조금 더 비싼 OOO 프리미엄 세제 사용하니 향이 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "15",
+    "RDate": "20220713",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "조금 더 비싼",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329874",
+    "RawText": "요즘 장마철로 냄새가 나는 느낌이 들어 가격이 조금 나가는 OOO 믿고 구매해 봅니다. 사은품 챙겨 주셔서 너무 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "18",
+    "RDate": "20220713",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 조금 나가는 OOO 믿고 구매해 봅니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품 챙겨 주셔서 너무 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329875",
+    "RawText": "조금만 사용해도 굉장히 깨끗하게 세탁이됩니다 향이 오래오래 지속 되서 너무 좋네요 역한 냄새도 안나서 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20220712",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "조금만 사용해도 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향이 오래오래 지속 되서 너무 좋네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "역한 냄새도 안나서 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "굉장히 깨끗하게 세탁이됩니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329876",
+    "RawText": "장마철에는 냄새가 나서 실내 건조 세제를 구매했습니다 확실히 좋은 향기가 나네요 대용량이라 오래 쓸 것 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "4",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20220712",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "좋은 향기가 나네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 오래 쓸 것 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329881",
+    "RawText": "항상 실내 건조만 쓰다 실내 건조가 주문이 안되어 핑크로 해봤는데 향이 달달하고 지속력이 좋은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "16",
+    "RDate": "20220712",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 달달하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "지속력이 좋은 것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329895",
+    "RawText": "항상 실내 건조 하는데 냄새 없애려고 구매했습니다 확실히 냄새는 안 나는 듯 하네요 은은한 향도 나고 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "17",
+    "RDate": "20220708",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "확실히 냄새는 안 나는 듯 하네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "은은한 향도 나고 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329896",
+    "RawText": "배송 빠릅니다. OO 섬유유연제만 사용하다가 세제는 처음 써봅니다. 일단 포장 상태 완전 만족이에요. 꼼꼼한 뽁뽁이로 감싸주셔서 새지 않고 잘 왔습니다. 세제 향도 마음에 듭니다. 또 사은품으로 섬유유연제 두 개 보내주셨는데 이것 역시 향기 좋아요. 요즘 같은 장마철에 딱인 세제같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "4",
+    "Syllable": "161",
+    "Word": "39",
+    "RDate": "20220708",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "세제 향도 마음에 듭니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품으로 섬유유연제 두 개 보내주셨는데 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "요즘 같은 장마철에 딱인 세제같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "이것 역시 향기 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329897",
+    "RawText": "기대했던 것보다 세척력이 별로 좋지 않네요. 주신 증정품도 그닥 마음에 들지 않고요. 담에 다른 제품으로 사봐야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20220708",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "기대했던 것보다 세척력이 별로 좋지 않네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 주신 증정품도 그닥 마음에 들지 않고요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "329899",
+    "RawText": "실내 건조를 많이 하는 집에 사용하기 딱이네요. 건조기에 돌리고난 후에도 향이 좋아요 뚜껑이 사용하기 편해서 세제가 떡 지는게 없어 더욱 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "4",
+    "Syllable": "80",
+    "Word": "21",
+    "RDate": "20220708",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "건조기에 돌리고난 후에도 향이 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "뚜껑이 사용하기 편해서 세제가 떡 지는게 없어 더욱 좋네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "실내 건조를 많이 하는 집에 사용하기 딱이네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329901",
+    "RawText": "우선 용량이 커서 오래 사용 할 수 있을 것 같네요 한번 사용해 봤는데 향이 정말 좋아요 건조기 돌려도 향이 안 날아가고 남아있어 더 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "24",
+    "RDate": "20220708",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 정말 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "건조기 돌려도 향이 안 날아가고 남아있어 더 좋습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "우선 용량이 커서 오래 사용 할 수 있을 것 같네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329904",
+    "RawText": "빨래 후 냄새도 없고, 향기도 좋아서 섬유유연제를 사용할 필요가 없습니다. 추후에도 다시 구매할 의사가 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20220707",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "빨래 후 냄새도 없고, ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향기도 좋아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "섬유유연제를 사용할 필요가 없습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329905",
+    "RawText": "때가 잘 빠집니다. 향도 좋습니다. 배송 빠르고 포장도 깔끔하게 잘되어 있어서 정말 좋습니다. 사업 번창하시고 많이 파시길 바랍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20220706",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "때가 잘 빠집니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329908",
+    "RawText": "효과가 좋아서 항상 이것만 사용합니다 배송 진짜 빠르고 이번엔 저렴하게 구매했습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "4",
+    "Syllable": "46",
+    "Word": "11",
+    "RDate": "20220706",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과가 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매했습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329912",
+    "RawText": "품질 좋은 제품을 가장 저렴한 가격에 구매했습니다 배송이 빨라서 항상 이곳에서 주문하게 되네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20220705",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 좋은 제품을",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가장 저렴한 가격에 구매했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329913",
+    "RawText": "OOO 세탁 세제 실내건조 향이 좋습니다. 근데 브랜드 값인지 좀 비쌉니다. 그래도 유명하니까 잘 세탁되리라 기대해봅니다다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20220705",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "OOO 세탁세제 실내건조 향이 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "브랜드 값인지 좀 비쌉니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "잘 세탁되리라 기대해봅니다다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "329914",
+    "RawText": "향은 은은하구 좋습니다. 실내건조라해서 처음 사용하고 있습니다. 가격은 좀 비싼듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "10",
+    "RDate": "20220705",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 은은하구 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 좀 비싼듯합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "329922",
+    "RawText": "OOO 유연제에 사은품으로 받은거 사용해보고 구매했습니다 4통이나 있는 OO 제품보다 좋은 것 같습니다. 여름에 너무 좋은 거 같아요 세탁기에 잔여물이 덜하고 옷이 깨끗 보송합니다 잔향도 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "108",
+    "Word": "26",
+    "RDate": "20220703",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름에 너무 좋은 거 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "세탁기에 잔여물이 덜하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "옷이 깨끗 보송합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "잔향도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329929",
+    "RawText": "거품 잘 나고요 OOO 실내 건조 섬유유연제 향이 너무 좋네요  장마철되서 세제도 사용해보려고요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20220702",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "거품 잘 나고요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "OOO 실내 건조 섬유유연제 향이 너무 좋네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329931",
+    "RawText": "배송 빠르고 가격도 전보다 조금 더 비싸게 산 것 같아요 향이 좋아서 그냥 사용 중이예요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "15",
+    "RDate": "20220702",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "조금 더 비싸게 산 것 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋아서 그냥 사용 중이예요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329935",
+    "RawText": "OO 프리미엄 액체 세제 가격도 저렴하고 빠른 배송 아주 좋습니다. 넉넉하니 오래 잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "4",
+    "Syllable": "52",
+    "Word": "14",
+    "RDate": "20220702",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "넉넉하니 오래 잘 쓸게요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329948",
+    "RawText": "늘상 잘 사용하고 있는 세탁세제이에요. 향도 좋고 빨래할때 때도 말끔히 빠지는것 같아 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20220630",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 빨래할때 때도 말끔히 빠지는것 같아 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329953",
+    "RawText": "OO 세탁세제는 빨래의 꿉꿉함이 덜하고 향기가 너무 좋습니다. 적극 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20220629",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "빨래의 꿉꿉함이 덜하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기가 너무 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329954",
+    "RawText": "전에는 일반 세제를 사용 했었는데 실내 건조로 바꿨습니다. 용량도 많고 냄새도 좋아요. 계속 쓸 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "16",
+    "RDate": "20220629",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329964",
+    "RawText": "자주 사용하는 제품 품질이 좋아서 또 구매했어요.가격도 마트보다 싸서 아주 만족스럽습니다. 행사 많이 해주시길 부탁 드려요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20220626",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋아서 또 구매했어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 마트보다 싸서 아주 만족스럽습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329965",
+    "RawText": "옷에 세제 색깔로 이염 되지도 않고, 향도 좋아서 계속 쓰고 있습니다 양도 많고 싸게 살 수 있어서 매번 재구매합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "19",
+    "RDate": "20220626",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "옷에 세제 색깔로 이염 되지도 않고,",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋아서 계속 쓰고 있습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 살 수 있어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329969",
+    "RawText": "향이 넘 좋습니다.  세제가 좋아서 깨끗하게 세탁도 잘 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "35",
+    "Word": "9",
+    "RDate": "20220625",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 넘 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세제가 좋아서 깨끗하게 세탁도 잘 됩니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329976",
+    "RawText": "세척력도 만족스럽고 향기도 좋으네요.  세제 포장도 진심으로 보내시는 정성이 느껴져 좋았네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "11",
+    "RDate": "20220624",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력도 만족스럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 좋으네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329978",
+    "RawText": "세탁도 잘 되고 여름철 실내 건조에도 효과가 좋아 계속 재 구매하고 있습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "42",
+    "Word": "12",
+    "RDate": "20220624",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁도 잘 되고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "여름철 실내 건조에도 효과가 좋아",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329981",
+    "RawText": "향이 좋습니다. 아직 남은 게 있어서 쓰기 전인데 기존 거보다 품질이 더 좋은 듯합니다. OO 역시 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "17",
+    "RDate": "20220623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "기존 거보다 품질이 더 좋은 듯합니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329982",
+    "RawText": "실내 건조용 상품이라해서 마트서 구매해서도 보고, 인터넷에서도 주문했습니다. 향도 괜찮고 양도 넉넉하니 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "13",
+    "RDate": "20220623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 괜찮고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 넉넉하니 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329983",
+    "RawText": "가격이 제일 저렴해서 여기서 구매했어요. 세제가 새지 않고 잘 도착해서 좋습니다. 양 넉넉해서 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20220622",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 제일 저렴해서 여기서 구매했어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양 넉넉해서 만족스럽습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329987",
+    "RawText": "좋아하는 향기라 자주 애용해요. 여름철엔 이거 하나만 사용해도 됩니다. 꿉꿉한 냄새도 안 나고 향도 좋습니다. 말 그대로 실내 건조에 딱이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "20",
+    "RDate": "20220622",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "좋아하는 향기라 자주 애용해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름철엔 이거 하나만 사용해도 됩니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "꿉꿉한 냄새도 안 나고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "말 그대로 실내 건조에 딱이에요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329991",
+    "RawText": "가격은 비싸지만 품질이 좋아 만족합니다. 장마철이라 실내건조할때 사용하면 딱 좋을 거 같습니다. 효과가 좋았으면 좋겠습니다. 안 새고 잘 왔습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "19",
+    "RDate": "20220621",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과가 좋았으면 좋겠습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "장마철이라 실내건조할때 사용하면 딱 좋을 거 같습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋아 만족합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329996",
+    "RawText": "어제 저녁에 주문했는데 오늘 오전에 받았습니다 향도 좋고 흰 옷이랑 속옷 빨 때 사용하는데 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "15",
+    "RDate": "20220620",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "흰 옷이랑 속옷 빨 때 사용하는데 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "330001",
+    "RawText": "장마철이라 집에서 건조해야 해서 사용해 봤는데 만족해요. 좀 비싸긴 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "42",
+    "Word": "10",
+    "RDate": "20220619",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "장마철이라 집에서 건조해야 해서 사용해 봤는데 만족해요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좀 비싸긴 합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "330003",
+    "RawText": "배송도 빠르고 포장도 꼼꼼해요 늘 쓰는 건데 저렴하게 득템 했습니다 역시 품질도 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "13",
+    "RDate": "20220617",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 득템 했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "330013",
+    "RawText": "배송도 하루 늦었습니다. 향기 있는 세탁 세제 찾다가 쿠폰 사용해서 저렴하게 구매했습니다. 택배 받고 조금은 실망했습니다. 눕혀져 있던 세제 하나에서 내용물이 흘렀습니다. 뽁뽁이 에어캡이 바람이 빠진 게 있어 내용물이 흘러나온 듯합니다. 나머지 하나는 괜찮습니다. 그래도 향기가 좋으니 괜찮습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "166",
+    "Word": "38",
+    "RDate": "20220616",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 사용해서 저렴하게 구매했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기가 좋으니 괜찮습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "330026",
+    "RawText": "항상 사용하는 제품입니다 여름 철에 실내 건조 효과가 좋아요 향도 은은하고 OOO 세제도 만족스럽습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20220615",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "실내 건조 효과가 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 은은하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "330028",
+    "RawText": "실내건조용이라 냄새도 잡아주고 향도 좋습니다. 새지 않도록 안전하게 포장에 신경 써주셔서 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "12",
+    "RDate": "20220614",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "실내건조용이라 냄새도 잡아주고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "330030",
+    "RawText": "포장 신경써서 보내주셔서 감사해요. 싸게 잘 구매했습니다 좋은 향이 오래 갔으면 좋겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "12",
+    "RDate": "20220614",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 잘 구매했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "좋은 향이 오래 갔으면 좋겠네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "330031",
+    "RawText": "항상 주문하여 사용하고 있는 제품 저렴하게 구입할 수 있었습니다 역시 품질 좋네요 잘 사용하겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "14",
+    "RDate": "20220614",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입할 수 있었습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "역시 품질 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "330032",
+    "RawText": "실내건조 향 너무좋습니다 . 향도 오래가고 꿉꿉한 냄새도 많이잡아주니 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "10",
+    "RDate": "20220614",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "실내건조 향 너무좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향도 오래가고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "꿉꿉한 냄새도 많이잡아주니 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "330039",
+    "RawText": "실내건조 OO 이용 중에 함께 쓰면 더 좋을 것 같아 구입했습니다. 양도 넉넉하고 향도 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "15",
+    "RDate": "20220613",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 넉넉하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

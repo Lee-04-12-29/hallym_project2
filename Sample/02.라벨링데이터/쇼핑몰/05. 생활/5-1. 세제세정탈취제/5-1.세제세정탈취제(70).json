@@ -1,0 +1,3284 @@
+[
+  {
+    "Index": "366029",
+    "RawText": "OO 처음 대용량으로 주문 했는데 향도 좋고 거품도 잘나서 역시 주방 세제 하면 OO이네요. 만족하니 재구매 할거예요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "17",
+    "RDate": "20171003",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량으로 주문 했는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "거품도 잘나서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366035",
+    "RawText": "여러모로 좋습니다. 세정력이 좋아 그릇도 반짝반짝 닦이고 거품이 많이 나서 많은 양의 그릇이 간단히 잘 닦이네요. 배송도 빨라서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20160916",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력이 좋아 그릇도 반짝반짝 닦이고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "거품이 많이 나서 많은 양의 그릇이 간단히 잘 닦이네요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366037",
+    "RawText": "가격도 저렴하고 대용량이라 좋습니다. 작은거 사다 쓸 땐 금방 떨어져서 자주 사러 나가야 하는 불편함이 있었는데  배송도 해주니 너무 좋습니다. 덜어 쓰기엔 좀 불편하긴 해도 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "27",
+    "RDate": "20161102",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "덜어 쓰기엔 좀 불편하긴 해도",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "366040",
+    "RawText": "배송 기사분이 실수해서 예정보다 늦게 받았지만 상품 품질은 만족합니다. 용량이 엄청나서 1년은 주방 세제 걱정없이 지내겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "4",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20170330",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질은 만족합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 엄청나서 1년은 주방 세제 걱정없이 지내겠어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366041",
+    "RawText": "가격도 다른 싸이트 보다 저렴하고 배송도 빠르고 정확하게 해주셔서 감사합니다. 양이 많아서 오래 잘 쓰겠네요.  무엇보다  가격이 저렴해서 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "3",
+    "Syllable": "86",
+    "Word": "20",
+    "RDate": "20170331",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 다른 싸이트 보다 저렴하고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아서 오래 잘 쓰겠네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서 너무 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366043",
+    "RawText": "업소에서 사용하는 거라서  항상 대용량을 구매하게 됩니다. 가격 저렴하고 양이 많아서 늘 만족합니다. 다 쓰고 또 주문하겠습니다. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "18",
+    "RDate": "20170408",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량을 구매하게 됩니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 저렴하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아서 늘 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366046",
+    "RawText": "몇년 전부터 주방세제는 대용량을 사서 사용하기 시작했어요. 사용한것 중 OOO가 세척력도 좋도 보관도 편리해서 잘 사용하고 있어요. 소용량을 사용하면 재구매 일정이 금방 다시 돌아와 반복적인 구매를 해야하는데 이제품은 대용량이라 재구매 일정이 장시간 걸려 거의 구매를 잊어도 될 정도에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "161",
+    "Word": "38",
+    "RDate": "20170416",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력도 좋도",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "보관도 편리해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 이제품은 대용량이라",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366047",
+    "RawText": "저렴해서 너무 좋습니다. 다른 곳보다 훨씬 저렴하게 구매했네요. 가격대비 품질도 좋고 양도 넉넉하니 오래 쓸 수 있어 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20170417",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 너무 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 곳보다 훨씬 저렴하게 구매했네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 품질도 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 넉넉하니 오래 쓸 수 있어 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366048",
+    "RawText": "주방세제가 필요해서 양이 많은걸 구입했어요.식기세척기에 사용중인데 깨끗하세 잘 닦입니다. 기름기도 없이 깔끔하게 닦여요. 양이 많아서 그릇 닦기에도 OOO가 딱인거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "4",
+    "Syllable": "97",
+    "Word": "20",
+    "RDate": "20170423",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "주방세제가 필요해서 양이 많은걸 구입했어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "식기세척기에 사용중인데 깨끗하세 잘 닦입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "기름기도 없이 깔끔하게 닦여요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "그릇 닦기에도 OOO가 딱인거 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366049",
+    "RawText": "아직 써보진 않아서 품질은 알 수 없으나 엄청 커서 한동안 주방 세제 걱정은 없이 한해동안은  쓸 수 있을 것 같은 용량입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "4",
+    "Syllable": "71",
+    "Word": "21",
+    "RDate": "20170509",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "아직 써보진 않아서 품질은 알 수 없으나",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "엄청 커서 한동안 주방 세제 걱정은 없이 한해동안은  쓸 수 있을 것 같은 용량입니다. ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366050",
+    "RawText": "동일 제품을 꾸준히 주문해서 잘 사용하고 있어요. 가격대비 제품의 품질이 나쁘지 않고, 세척력도 무난합니다. 배송 역시 빨라서 좋습니다. 많이 파세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "4",
+    "Syllable": "84",
+    "Word": "20",
+    "RDate": "20170531",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 제품의 품질이 나쁘지 않고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력도 무난합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "366051",
+    "RawText": "대용량이라 오래 쓸 수 있으니 좋습니다. 가격도 저렴해서 만족하니 이 제품만 계속 사용하게 됩니다. 빠른 배송도 감사드립니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20170614",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 오래 쓸 수 있으니 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서 만족하니",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366053",
+    "RawText": "가게에서 세제를 많이 사용하다 보니 인터넷으로 대용량으로 구매해요. 세정력 좋고, 가격면에서 저렴해서 경제적이에요.  양이 많아서 가정용으로는 부적합하겠지만, 업소용으로는 추천해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "101",
+    "Word": "19",
+    "RDate": "20170720",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격면에서 저렴해서 경제적이에요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "가정용으로는 부적합하겠지만, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "업소용으로는 추천해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366057",
+    "RawText": "배송도 빠르고 가격도 저렴해서 만족합니다. 용량이 많아 세제걱정은 없겠네요. 다음에 또 구매할 예정입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20180515",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서 만족합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 많아 세제걱정은 없겠네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366074",
+    "RawText": "포장도 허술하고 조금씩 나누어져 있는걸 구매한 것 같은데 큰 통으로 왔어요. 무거워서 부어 쓰기가 힘듭니다. 반품할까 하다 기사님 힘드실까봐 그냥 씁니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "4",
+    "Syllable": "86",
+    "Word": "21",
+    "RDate": "20190921",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거워서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "부어 쓰기가 힘듭니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "큰 통으로 왔어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "366083",
+    "RawText": "용량도 많아 잊어버리고 쓸만큼 좋습니다.  그릇도 깨끗하게 씻기고 무엇보다 저렴합니다. 근데 통이 너무 크다보니 작은통에 덜어쓸때 새서 조심히 따라야해요. 그건 많이 불편해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "22",
+    "RDate": "20200509",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 많아 잊어버리고 쓸만큼 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "그릇도 깨끗하게 씻기고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "무엇보다 저렴합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "통이 너무 크다보니 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "작은통에 덜어쓸때 새서 조심히 따라야해요. 그건 많이 불편해요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "366088",
+    "RawText": "가격은 좀 있지만 대용량으로 구매해서 패트병에 나누어 사용하니 편리하고 좋네요. 빠른 배송 감사해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20210925",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 좀 있지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량으로 구매해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "패트병에 나누어 사용하니 편리하고 좋네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366100",
+    "RawText": "가게에서 쓰는데 양도 많아서 좋고 마트보다 저렴히 잘산거 같아서 마음에 들어요. 다만 덜어쓰기가 조금 번거롭긴 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20171129",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아서 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트보다 저렴히 잘산거 같아서 마음에 들어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "덜어쓰기가 조금 번거롭긴 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "366102",
+    "RawText": "예전에 주문했을 때는 포장없이 통만 배송되어 찌그러지고 그랬는데 이번에는 박스에 깔끔하게 배송돼서 좋네요. 양도 많고 저렴하게 구입해서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "18",
+    "RDate": "20171202",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입해서 만족합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366104",
+    "RawText": "OOO 14kg 말통 대용량 주방세제 OO 빠른 배송 감사드려요. 디자인도 성능도 모두 좋네요.잘 사용할께요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20171208",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "말통 대용량 주방세제",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 성능도 모두 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능도 모두 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366105",
+    "RawText": "엄마가 세제 많이 사용하셔서 구매해봤어요. 덜을때마다 들고 쓰기에는 너무 무겁긴 하지만 대용량이라 주방세제 걱정 없어 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20180105",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "들고 쓰기에는 너무 무겁긴 하지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 주방세제 걱정 없어 좋네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366108",
+    "RawText": "대용량이라 향후 몇년간 구입하지 않아도 돼서 좋네요. 배송도 빠르고 만족합니다. 아직 사용 전이지만 세정력도 기대해 봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20180129",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 향후 몇년간 구입하지 않아도 돼서 좋네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력도 기대해 봅니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "366112",
+    "RawText": "항상 쓰는거라 또 구매했습니다. 여기가 최저가인거 같네요. OOOO 결제도 되서 좋았어요. 저렴한 가격에 사서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20180317",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 최저가인거 같네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 사서 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366115",
+    "RawText": "양 많아서 좋고 저렴해서 주로 OO몰에서 구입합니다. 쿠폰 할인으로 더 저렴하게 잘 샀습니다. 배송도 빠르게 해주셔서 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20181018",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양 많아서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 할인으로 더 저렴하게 잘 샀습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366123",
+    "RawText": "설거지 세제를 많이 사용해서 말통으로 구매하니 오랜 시간 사용할 수 있어서 좋고 가격도 절약되니 좋네요. 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20190604",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "말통으로 구매하니 오랜 시간 사용할 수 있어서 좋고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 절약되니 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366128",
+    "RawText": "회사 현장에서 사용하려고 구매했습니다. 배송도 빨라서 좋았구요. 세척력 나쁘지 않고 가격도 착합니다. 재구매할께요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "13",
+    "RDate": "20190718",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력 나쁘지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366132",
+    "RawText": "너무 대용량 말통이라 덜어서 쓸일이 걱정은 됩니다. 그래도 저렴해서 아주 맘에 듭니다. 파손없이 안전하게 배송해 주셔서 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20190326",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "너무 대용량 말통이라",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "덜어서 쓸일이 걱정은 됩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 아주 맘에 듭니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366134",
+    "RawText": "작은 용량만 사다 쓰니 너무 빨리 쓰는 것 같아서 말통으로 주문했습니다. 가격도 싸고 좋습니다. 택배 기사님 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "4",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20190501",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "말통으로 주문했습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 싸고 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366135",
+    "RawText": "예전부터 항상 써오던 제품이라 조금 비싸도 구입하게 되네요. 세척력도 나쁘지 않고, 배송도 빨라서 좋습니다. 만족스럽게 잘 쓰고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "18",
+    "RDate": "20190502",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "조금 비싸도 구입하게 되네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력도 나쁘지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "366136",
+    "RawText": "저렴한 금액으로 구매했습니다. 식당에서 사용을 많이해서 저렴한 금액으로 구매했어요. 앞으로도 계속 주문하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "12",
+    "RDate": "20190502",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 금액으로 구매했습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "식당에서 사용을 많이해서 저렴한 금액으로 구매했어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366137",
+    "RawText": "다른거 써봐도 일단 품질이 너무 안좋은데요. OOO는 품질이 좋아서 OOO에서 벗어날 수는 없을것 같네요. 양도 엄청 많아서 든든합니다. 여지껏 말통 배송중에 가장 깔끔하게 배송해주셨어요. 판매자님 감사드려요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "117",
+    "Word": "26",
+    "RDate": "20190520",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "OOO는 품질이 좋아서 OOO에서 벗어날 수는 없을것 같네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 엄청 많아서 든든합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366145",
+    "RawText": "설거지에만 시용하는 게 아니라 손빨래할 때도 사용합니다. 때도 잘 빠지고 좋습니다. 빠르게 배송해 주셔서 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20200722",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "설거지에만 시용하는 게 아니라 손빨래할 때도 사용합니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "때도 잘 빠지고 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366154",
+    "RawText": "배송이 빠르고 안전하게 잘 도착했어요.거품이 잘나서 좋아요. 자주 사용하는 세제인데 쿠폰으로 저렴하게 구매했습니다. 다음에 다시 구입하러 올께요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "17",
+    "RDate": "20210506",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "거품이 잘나서 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰으로 저렴하게 구매했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366155",
+    "RawText": "양도 많고 가격도 저렴해서 좋아요. 뽀득뽀득 잘 딱여서 재구매했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "39",
+    "Word": "9",
+    "RDate": "20210507",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 뽀득뽀득 잘 딱여서 재구매했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366159",
+    "RawText": "주간보호센터에 사용할 주방세제 구매했습니다. 저렴한 가격에 대용량으로 구매해서 오래 쓸수 있을거 같아 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "13",
+    "RDate": "20220526",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량으로 구매해서 오래 쓸수 있을거 같아 좋습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366166",
+    "RawText": "봉사 센터에 보내려고 대용량 제품으로 구매했습니다. 가격이 저렴한데 품질도 좋으면 좋겠습니다. 깔끔한 포장과 빠른 배송 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "16",
+    "RDate": "20200130",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋으면 좋겠습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량 제품으로 구매했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366167",
+    "RawText": "OOO 온라인 구매 자주 하는데 가격도 저렴해서 부담 없고 품질도 좋아서 만족합니다.  대용량으로 구매하다보니 택배 기사님께 늘 감사한 마음입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "19",
+    "RDate": "20200217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서 부담 없고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋아서 만족합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량으로 구매하다보니 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366170",
+    "RawText": "이 제품을 처음 사용하는데 업소용이라 집에 쓰기에는 용량이 많은 듯 해서 걱정했지만 결혼한 동생들과 나눠 쓰기에 양이 딱 좋습니다. 1종 세정제라서 성분도 안심이네요. 대용량 구매라 가격도 많이 저렴해서 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "118",
+    "Word": "29",
+    "RDate": "20200314",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "업소용이라 집에 쓰기에는 용량이 많은 듯 해서 걱정했지만",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "결혼한 동생들과 나눠 쓰기에 양이 딱 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "1종 세정제라서 성분도 안심이네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량 구매라 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 많이 저렴해서 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366171",
+    "RawText": "우선 매우 빠른 배송에 감사드려요.  무거워서 사용하기는 좀 불편하긴 하지만 가격도 착해서 맘에 들고 품질도 좋으니 만족하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20200325",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거워서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기는 좀 불편하긴 하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착해서 맘에 들고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋으니 만족하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366179",
+    "RawText": "주방세제가 말통이라 양도 많고 저렴해서 좋습니다. 그런데 무게가 장난 아니게 무겁네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20200617",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 말통이라 양도 많고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게가 장난 아니게 무겁네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "366184",
+    "RawText": "가격이 무척 저렴하고 기름때도 완전 잘 지워지고 제가 피부가 예민한데도 성분이 순해서 트러블이 없습니다. 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20200804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 무척 저렴하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "기름때도 완전 잘 지워지고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "성분이 순해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부(손)보호",
+        "SentimentText": "트러블이 없습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366187",
+    "RawText": "OO세제중에는 세척력 단연 1등입니다. 품질이 OOO 따라올만한게 없네요 다양하게 써봤지만 품질면에서는 OOO가 최고입니다. 거품부터 짱짱하고 금새 뽀득뽀득 잘 닦이고 향도 좋을뿐더러 가격도 착해서 대용량으로 무조건쓰는데 만족도가 높네요.  훌륭한 우수한 세제입니다~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "149",
+    "Word": "30",
+    "RDate": "20200805",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "OO세제중에는 세척력 단연 1등입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 품질이 OOO 따라올만한게 없네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "다양하게 써봤지만 품질면에서는 OOO가 최고입니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 거품부터 짱짱하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 금새 뽀득뽀득 잘 닦이고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋을뿐더러 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량으로 무조건쓰는데 만족도가 높네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366190",
+    "RawText": "저렴한 가격에 구매해서 좋습니다. 품질도 좋아 만족해서 계속 이 제품을 사용합니다. 무거운데 빠르게 배송해 주셔서 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20200819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 구매해서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋아 만족해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거운데 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "366210",
+    "RawText": "식당에서 쓰려고 늘 구매하고 있는데 주방세제는 역시 OOO가 최고예요.  세정력도 좋고 양도 많아서 정말 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20210219",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아서 정말 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366215",
+    "RawText": "양이 많고 배송도 빨라서 좋습니다. 아직 사용은 안해봐서 세정력이 좋기를 기대하며 사용 후기는 다음에 올릴게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20210418",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력이 좋기를 기대하며",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "366219",
+    "RawText": "저렴하게 구매해서 좋습니다.  대용량이라 무거운데 빠르게 배송해 주신 택배 기사님께 죄송한 마음이네요. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "13",
+    "RDate": "20210623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거운데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "366220",
+    "RawText": "가격도 저렴하고 배송도 주문하고 다음날 바로 왔습니다. 항균세제라 믿고 사용합니다.  잘 쓰겠습니다. 대박나시길.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "13",
+    "RDate": "20210719",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "항균세제라 믿고 사용합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366225",
+    "RawText": "착한 가격에 만족하고 대용량이라 오래 사용할 수 있어 좋고 빠른 배송까지 다 만족스러워서 적극 추천하고 다음에도 재구매하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20210901",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한 가격에 만족하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 오래 사용할 수 있어 좋고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366226",
+    "RawText": "생각보다 더 큰 통이 와서 깜짝 놀랐네요. 아주 대용량이라 오래 쓸 수 있을 것 같아서 좋네요. 빠른 배송 감사해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "19",
+    "RDate": "20210903",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "생각보다 더 큰 통이 와서 깜짝 놀랐네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "아주 대용량이라 오래 쓸 수 있을 것 같아서 좋네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366233",
+    "RawText": "펌프랑 같이 사용하니까 좋습니다. 양이 많아서 오래 쓸수 있겠네요. 다른곳보다 많이 저렴하게 샀습니다. 배송도 깨끗하게 해주셨네요. 근데 맨손으로 설겆이를 하고 나면 손이 너무 건조해져요. 성분이 순한거 같진 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "121",
+    "Word": "28",
+    "RDate": "20211105",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "펌프랑 같이 사용하니까 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아서 오래 쓸수 있겠네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른곳보다 많이 저렴하게 샀습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부(손)보호",
+        "SentimentText": " 맨손으로 설겆이를 하고 나면 손이 너무 건조해져요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "성분이 순한거 같진 않아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "366240",
+    "RawText": "다른 곳으로 배송되고 연락도 없고 전화도 받질 않아서 황당했습니다. 배송 빼고는 꼼꼼하게 포장 돼 있고 가격도 저렴하게 구입해 가성비도 좋아서 만족이네요. 예전 용기가 슬림하고 좋았는데 바뀐 용기는 자리를 많이 차지하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "4",
+    "Syllable": "124",
+    "Word": "30",
+    "RDate": "20201217",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게 구입해 가성비도 좋아서 만족이네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "예전 용기가 슬림하고 좋았는데 바뀐 용기는 자리를 많이 차지하네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "366251",
+    "RawText": "향이 레몬향이라는데 에프킬라 냄새가 납니다. 기름기 많은 그릇은 2~3번 닦아서 헹구고 다시 닦고 헹구기를 반복해야 지워져서 짜증이 납니다. 거품이 너무 많이 생겨서 헹굼을 여러 번 해야 하니 힘이 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "3",
+    "Syllable": "115",
+    "Word": "29",
+    "RDate": "20190906",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 레몬향이라는데 에프킬라 냄새가 납니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "거품이 너무 많이 생겨서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "기름기 많은 그릇은 2~3번 닦아서 헹구고 다시 닦고 헹구기를 반복해야 지워져서 짜증이 납니다.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "헹굼을 여러 번 해야 하니 힘이 드네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "366256",
+    "RawText": "늘 써던거라 주문햇습니다. 다른때보단 비싸게 샀지만 그래도 만족합니다. 양이 엄청나게 많아서 두고두고 쓸수 있겠네요. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "15",
+    "RDate": "20191007",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른때보단 비싸게 샀지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 엄청나게 많아서 두고두고 쓸수 있겠네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366260",
+    "RawText": "배송이 빠르고 착한 가격이라 더 좋아요.  용량도 대용량이라 많아서 오래 쓸 수 있을 것 같아 좋은데 무거워서 덜어서 사용해야 편할 듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "22",
+    "RDate": "20210520",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한 가격이라 더 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 대용량이라 많아서 오래 쓸 수 있을 것 같아 좋은데",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거워서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "덜어서 사용해야 편할 듯 합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "366270",
+    "RawText": "박스안에 넣어서 안전하게 배송 해주셨어요. 양이 많아 오래는 쓰겠지만 무거워서 덜어쓰는것도 번거롭네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "12",
+    "RDate": "20190315",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아 오래는 쓰겠지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거워서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "덜어쓰는것도 번거롭네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "366279",
+    "RawText": "저렴한 가격에 대용량으로 잘 구매한 것 같습니다. 배송도 당일배송으로 하루만에 도착해서 정말 마음에 듭니다. 다음에 또 이렇게 완전 저렴하게 구매할 수 있는 이벤트가 있으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "103",
+    "Word": "25",
+    "RDate": "20190321",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량으로 잘 구매한 것 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "다음에 또 이렇게 완전 저렴하게 구매할 수 있는",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366287",
+    "RawText": "다른 곳보다 저렴하고 배송도 빨라 좋습니다.  포장도 꼼꼼하고 배송기사님도 무거운데도 친절하게 잘 배송해 주셔서 너무 감사드립니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "16",
+    "RDate": "20190325",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 곳보다 저렴하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거운데도",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "366301",
+    "RawText": "쿠폰까지 써서 시중보다 더 저렴하게 사게되어 만족합니다. 대용량이라 양이 많아서 가게에서 쓰기에 부담없어 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20190329",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰까지 써서 시중보다 더 저렴하게 사게되어 만족합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 양이 많아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "가게에서 쓰기에 부담없어 너무 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366307",
+    "RawText": "가족이 많아서 OOO가 금방 사라져서 대용량 구매해 봤는데 양이 진짜 많아 좋네요. 근데 무거워서 조금씩 덜어서 사용해야 할 듯요. 무엇보다 저렴하게 구입해서 만족스러워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "23",
+    "RDate": "20190330",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량 구매해 봤는데 양이 진짜 많아 좋네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거워서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입해서 만족스러워요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "조금씩 덜어서 사용해야 할 듯요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "366308",
+    "RawText": "파손없이 빠르게 잘 왔네요. OO 제품이라 세척력 좋을거라 기대하고 있어요. 양도 많아서 오래 쓸 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "4",
+    "Syllable": "61",
+    "Word": "16",
+    "RDate": "20190331",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세척력 좋을거라 기대하고 있어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아서 오래 쓸 것 같아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366309",
+    "RawText": "싸고 좋은 것 같습니다. 쿠폰 사용으로 더욱 저렴하게 구매를 했어요. 배송도 빨라 좋고 모바일로 구매하기가 참 쉽고 편리하네요. 다른 쇼핑몰보다 구매하기 쉽고 좋은 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "25",
+    "RDate": "20190401",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸고 좋은 것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 쿠폰 사용으로 더욱 저렴하게 구매를 했어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366314",
+    "RawText": "그냥 큰 정도인 줄 알았는데 너무 커서 보고는 깜짝 놀랬습니다. 양이 많아 한동안 걱정없이 쓸 수 있을 것 같아 좋습니다. 가격 행사해서 싸게 잘 산 것 같아 더 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "29",
+    "RDate": "20190401",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "너무 커서 보고는 깜짝 놀랬습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 양이 많아 한동안 걱정없이 쓸 수 있을 것 같아 좋습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 행사해서 싸게 잘 산 것 같아 더 좋습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366321",
+    "RawText": "매장에서 사용할 거라서 주문했습니다.  저렴하고 양도 많아서 한동안 걱정없이 잘 쓸 수 있을 듯 합니다. 손도 많이 상하지 않기를 기대해 봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "21",
+    "RDate": "20190402",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아서 한동안 걱정없이 잘 쓸 수 있을 듯 합니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부(손)보호",
+        "SentimentText": "손도 많이 상하지 않기를 기대해 봅니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "366327",
+    "RawText": "기존 세제가 거품이 안 나서 구입했습니다. 통닭 집 기름 통 크기입니다. 양도 많고 저렴합니다.  과일에도 사용 가능한 성분의 세제이니 두루 두루 사용할 예정입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "4",
+    "Syllable": "92",
+    "Word": "23",
+    "RDate": "20190408",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "통닭 집 기름 통 크기입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴합니다. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "과일에도 사용 가능한 성분의 세제이니 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366333",
+    "RawText": "양이 아주 많이 넉넉해서 두고두고 잘 쓸 것 같습니다. 대형 마트보다 많이 저렴하게 잘 산 것 같아요. 손이 까칠해지지 않기를 기대해봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "21",
+    "RDate": "20190409",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 아주 많이 넉넉해서 두고두고 잘 쓸 것 같습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "대형 마트보다 많이 저렴하게 잘 산 것 같아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부(손)보호",
+        "SentimentText": "손이 까칠해지지 않기를 기대해봅니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "366338",
+    "RawText": "상품은 만족스럽습니다. 배송도 빨라서 좋았어요. 대용량이라 오래 잘 쓸것 같네요. 사은품도 잊지않고 챙겨주셔서 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "14",
+    "RDate": "20190409",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 오래 잘 쓸것 같네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 잊지않고 챙겨주셔서 감사합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366345",
+    "RawText": "너무 좋습니다. 가정집에서 사용하는거라 이렇게 양 많은건 처음 샀는데 완전 좋습니다. 세정력도 좋기를 기대해 봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20190410",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양 많은건 처음 샀는데 완전 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력도 좋기를 기대해 봅니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "366348",
+    "RawText": "쿠폰 적용해서 저렴하게 구입했습니다. 기존 사용하는 제품이  아직 있는데 가격이 저렴해서 구입했습니다. 배송도 빠르고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "15",
+    "RDate": "20190410",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 적용해서 저렴하게 구입했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "기존 사용하는 제품이  아직 있는데 가격이 저렴해서 구입했습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366349",
+    "RawText": "가격도 착한데 엄청난 대용량에 깜짝 놀라지 않을수 없네요.  앞으로 1년은 족히 주방세제 걱정없이 사용할 수 있을 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20190410",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "엄청난 대용량에 깜짝 놀라지 않을수 없네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "앞으로 1년은 족히 주방세제 걱정없이 사용할 수 있을 것 같습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366372",
+    "RawText": "저렴한 가격에 좋은 품질의 제품 받아서 좋습니다. 엄청나게 양이 많고 배송도 빨라 만족스럽습니다. 피부를 보호하는 성분도 들어있기를 기대해 봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "19",
+    "RDate": "20190412",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "좋은 품질의 제품 받아서 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "엄청나게 양이 많고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부(손)보호",
+        "SentimentText": "피부를 보호하는 성분도 들어있기를 기대해 봅니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "366393",
+    "RawText": "대용량 OOO을 정말 저렴하게 구매했습니다. 양이 많아서 일 년 내내 주방 세제 걱정 없겠습니다. 그릇도 뽀득뽀득하게 잘 닦이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "4",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20190416",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량 OOO을",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "정말 저렴하게 구매했습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아서 일 년 내내 주방 세제 걱정 없겠습니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "그릇도 뽀득뽀득하게 잘 닦이네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366406",
+    "RawText": "큰 용량인데도 잘 포장되어서 안전하게 와서 좋네요. 그리고 용량이 커서 오래도록 사용할 수 있을 것 같아요. 제품 배송 모두 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "20",
+    "RDate": "20190419",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "큰 용량인데도 잘 포장되어서 안전하게 와서 좋네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 커서 오래도록 사용할 수 있을 것 같아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366407",
+    "RawText": "1년 반만에 재구매하는 듯 합니다.  좋은 제품을 오래동안 사용한거 같아 뿌듯하기까지 합니다. 거품도 풍부하고 세척 후 뽀드득한 느낌도 좋아요.  포장 배송상태도 빠르고 깔끔해서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "24",
+    "RDate": "20190419",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "거품도 풍부하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척 후 뽀드득한 느낌도 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366411",
+    "RawText": "잘 받았네요. 번창하세요. 이걸로 설거지도 하고 화장실 청소도 하고 베란다 청소도 하고 옥상 청소도 하고 세차도 하고 다할겁니다. 양이 많아서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "21",
+    "RDate": "20190420",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "설거지도 하고 화장실 청소도 하고 베란다 청소도 하고 옥상 청소도 하고 세차도 하고 ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366412",
+    "RawText": "대용량은 물론 용량이 많아서 좋지만 가격이 너무나도 저렴해서 저 큰 통을 공짜로 받은 느낌입니다. 무언가를 기분 좋게 얻은 느낌입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "19",
+    "RDate": "20190420",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량은 물론 용량이 많아서 좋지만 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 너무나도 저렴해서 저 큰 통을 공짜로 받은 느낌입니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366421",
+    "RawText": "진짜 엄청나게 큽니다. 가성비 좋아서 자주 애용하게 될 것 같습니다.  양이 많아 적어도 일년은 넘게 걱정없이 잘 쓸 거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "20",
+    "RDate": "20190422",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "진짜 엄청나게 큽니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가성비 좋아서 자주 애용하게 될 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 적어도 일년은 넘게 걱정없이 잘 쓸 거 같습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366422",
+    "RawText": "대용량을 보면서 이걸 언제 다 쓰지 싶으면서도 좋아서 웃음이 나오네요. 처음으로 주방 세제 대용량을 사보았습니다. 언제까지 쓸지 기대가 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "19",
+    "RDate": "20190422",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량을 보면서 이걸 언제 다 쓰지 싶으면서도 좋아서 웃음이 나오네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "처음으로 주방 세제 대용량을 사보았습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366436",
+    "RawText": "어떻게 부어서 사용해야 될지 걱정이 될 정도로 엄청나게 크고 무겁습니다.  배송박스에 신발자국에 흙까지 묻어있어 박스 뜯는데 정말 불쾌했습니다. 아마도 택배기사님께서 너무 무거워서 짜증이 나셨나봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "1",
+    "Syllable": "112",
+    "Word": "24",
+    "RDate": "20190425",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "어떻게 부어서 사용해야 될지 걱정이 될 정도로 엄청나게 크고",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁습니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "너무 무거워서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "366447",
+    "RawText": "OOO 대용량이라 오랫동안 사용할수 있고 가격도 싸게 구입했네요. 근데 다른 세제보다 거품이 많이 안나서 사용감이 헤프네요.  다음엔 다른 브랜드의 세제를 구입해보려고요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "21",
+    "RDate": "20190429",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "OOO 대용량이라 오랫동안 사용할수 있고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 싸게 구입했네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "다른 세제보다 거품이 많이 안나서 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용감이 헤프네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "366449",
+    "RawText": "기름진 그릇 닦을 때 좋아서 대용량 주문해서 쓰고 있어요. 통이 너무 커서 따라 쓰기 어려워요. 오랫동안  써온 세제인데 세정력 이만한 게 없어요.  오래도록 쓸 수 있어 좋으네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "4",
+    "Syllable": "100",
+    "Word": "27",
+    "RDate": "20190430",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "기름진 그릇 닦을 때 좋아서 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 대용량 주문해서 쓰고 있어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "통이 너무 커서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 따라 쓰기 어려워요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력 이만한 게 없어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "오래도록 쓸 수 있어 좋으네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366458",
+    "RawText": "이렇게 큰 OOO는 처음 구매해 보았습니다. OO이니까 품질은 인정합니다. 무거운 제품이라서 택배 아저씨께 무척 죄송스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "15",
+    "RDate": "20190504",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "이렇게 큰 OOO는 처음 구매해 보았습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "OO이니까 품질은 인정합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거운 제품이라서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "366461",
+    "RawText": "주방에서 뿐만 아니라, 세탁할때도 쓰기 때문에 대용량으로 샀습니다. 양이 많아서 한참 쓰겠어요. 근데 좀 묽어서 많이 묻혀야 거품이 나서 사용감이 헤퍼요. 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "22",
+    "RDate": "20190505",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량으로 샀습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 양이 많아서 한참 쓰겠어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": " 좀 묽어서 많이 묻혀야 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용감이 헤퍼요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "거품이 나서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "366462",
+    "RawText": "거품도 약간 있으면서 그릇을 씻고 난 후 물로 헹구면 그릇이 빛이 납니다. 가격까지 저렴해서 좋지만 제품은 무겁습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "4",
+    "Syllable": "66",
+    "Word": "17",
+    "RDate": "20190505",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "거품도 약간 있으면서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "그릇을 씻고 난 후 물로 헹구면 그릇이 빛이 납니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격까지 저렴해서 좋지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "제품은 무겁습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "366468",
+    "RawText": "식당 바닥이 너무 미끌거려서 물청소하려고 샀는데 너무 좋습니다. 너무 대용량이라 엄청 무겁긴하지만 양이 많은데 싸기까지해서 너무너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "17",
+    "RDate": "20190508",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "너무 대용량이라",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "엄청 무겁긴하지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸기까지해서 너무너무 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "식당 바닥이 너무 미끌거려서 물청소하려고 샀는데 너무 좋습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366476",
+    "RawText": "배송 무지 빠르게 잘 받았어요. 늘 OOO만 사용하네요.  값싼 제품 사용하면 손이 많이 트고 안 좋은데 OOO는 장갑 안 끼고 맨손으로 세척을 해도 아무렇지 않고 괜찮습니다.  하지만 무겁습니다. 그냥 사용하시기에는 다소 불편한 점이 있지만 저는 만족하고 아주 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "152",
+    "Word": "38",
+    "RDate": "20190522",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "피부(손)보호",
+        "SentimentText": "OOO는 장갑 안 끼고 맨손으로 세척을 해도 아무렇지 않고 괜찮습니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁습니다. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그냥 사용하시기에는 다소 불편한 점이 있지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "366481",
+    "RawText": "작은 용량은 매번 구매하기 귀찮아서 큰거 한 통 사놓은 다음 덜어쓰려고 주문했어요. 양이 엄청 많네요. 설거지에 은근 세제 많이 쓰는데 이 용량이면 앞으로 1년 반은 문제 없을듯 싶어요.  근데 너무 무거워서 소분할때 힘들어요. 흘리는것도 많고요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "4",
+    "Syllable": "138",
+    "Word": "35",
+    "RDate": "20190522",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "큰거 한 통 사놓은 다음 덜어쓰려고 주문했어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 엄청 많네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "이 용량이면 앞으로 1년 반은 문제 없을듯 싶어요.  ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "너무 무거워서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "소분할때 힘들어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "366483",
+    "RawText": "대용량이라 무거워서 그냥 사용하기는 힘들어 한번에 여러 개로 작은 통에 소분해서 두고 쓰니 사용이 편합니다.  거품 잘 나고 저렴해서 만족스러워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "20",
+    "RDate": "20190523",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거워서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 한번에 여러 개로 작은 통에 소분해서 두고 쓰니 사용이 편합니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "거품 잘 나고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 만족스러워요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그냥 사용하기는 힘들어",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "366502",
+    "RawText": "가격도 다른 곳보다 저렴해서 좋습니다. 세정력이 좋아서 늘 만족합니다. 배송 기사님도 친절하게 배송해 주시고 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20190527",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 다른 곳보다 저렴해서 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력이 좋아서 늘 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366506",
+    "RawText": "주방 세제를 많이 사용하는 편입니다. 자주 구매 하는 게 번거로워서 대용량 샀는데 오래 사용할거 같습니다. OOO야 알아주는 세제이지만 진짜 오랜만에 구매해 보는 거 같습니다. 아직 사용전이라 세정력은 아직 잘 모르겠습니다. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "134",
+    "Word": "32",
+    "RDate": "20190528",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량 샀는데 오래 사용할거 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "아직 사용전이라 세정력은 아직 잘 모르겠습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "366508",
+    "RawText": "용량이 작은 것은 너무 금방 다 써 버려서 대용량으로 구매했는데 양이 정말 많아 좋네요. 근데 무거워서 그냥 사용은 힘들고 기존 용기에 덜어서 사용하니 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 주방세제 13.6L 1개",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "24",
+    "RDate": "20190528",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량으로 구매했는데 양이 정말 많아 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거워서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "기존 용기에 덜어서 사용하니 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그냥 사용은 힘들고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "366528",
+    "RawText": "6인용이라 잘라쓰는 불편함이 있습니다. 하지만 세척력은 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 올** 식기세척기 전용세제 30개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "36",
+    "Word": "7",
+    "RDate": "20220819",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "6인용이라 잘라쓰는 불편함이 있습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세척력은 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366533",
+    "RawText": "다른 제품을 다양하게 써봤지만 품질이 OOO 만한게 없는 것 같습니다.  세정에서 건조까지 깔끔하게 잘 되는 것 같아요.  12인용식기세척기에 한 개씩 사용하기에 딱 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 올** 식기세척기 전용세제 30개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "23",
+    "RDate": "20220816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 OOO 만한게 없는 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정에서 건조까지 깔끔하게 잘 되는 것 같아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "건조까지 깔끔하게 잘 되는 것 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "12인용식기세척기에 한 개씩 사용하기에 딱 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366542",
+    "RawText": "물냄새 잘 잡힙니다. 세정력도 중상정도는 되는거같아서 좋습니다. 데일리용으로 사용합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 올** 식기세척기 전용세제 30개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "9",
+    "RDate": "20220809",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "물냄새 잘 잡힙니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력도 중상정도는 되는거같아서 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "데일리용으로 사용합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366561",
+    "RawText": "물 비린내도 안 나고 좋습니다. 린스를 따로 넣을 필요 없으니 더 좋습니다. 향은 거의 없는 듯 무난해서 냄새에 민감하신 분들에게 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 올** 식기세척기 전용세제 30개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "21",
+    "RDate": "20220720",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "물 비린내도 안 나고 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "린스를 따로 넣을 필요 없으니 더 좋습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 거의 없는 듯 무난해서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "366573",
+    "RawText": "개별 비닐봉지를 통째 넣어서 쓰는거라 매우 편리하네요. 세제가 가위로도 잘 잘려서 사용하기 편하고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 올** 식기세척기 전용세제 30개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20220702",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "개별 비닐봉지를 통째 넣어서 쓰는거라 매우 편리하네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "세제가 가위로도 잘 잘려서 사용하기 편하고 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366575",
+    "RawText": "잘 닦여서 좋고 세척 후 냄새도 안 나니까 좋습니다. 식기 세척기 세제를 다른 것도 써봤는데 이 제품이 맘에 들어서 계속 사용 중입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 올** 식기세척기 전용세제 30개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "22",
+    "RDate": "20220701",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "잘 닦여서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "세척 후 냄새도 안 나니까 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366581",
+    "RawText": "가격이 비싸네요. 다만 세제크기가 커서 세척력이 좋은거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 올** 식기세척기 전용세제 30개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "36",
+    "Word": "8",
+    "RDate": "20220627",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싸네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "세제크기가 커서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력이 좋은거 같습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366590",
+    "RawText": "미국에서 쓰던 제품인데 추천해요. 이 제품 사용하면 린스 필요 없이 물자국이 남지 않아 좋습니다. 향도 자극적이지 않고 잘 닦여서 좋습니다. 포장과 배송도 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 올** 식기세척기 전용세제 30개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "23",
+    "RDate": "20220612",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "린스 필요 없이 물자국이 남지 않아 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 자극적이지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "잘 닦여서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366599",
+    "RawText": "타사 제품은 반으로 자를 때 자르면 많이 부서져서 그냥 통으로 사용했거든요. 그런데 이 제품은 칼집만 넣어도 반으로 잘 쪼개져서 편하네요. 세척도 잘 돼요.  감사합니다 재구매할 예정입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 올** 식기세척기 전용세제 30개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "26",
+    "RDate": "20220602",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "이 제품은 칼집만 넣어도 반으로 잘 쪼개져서 편하네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척도 잘 돼요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "366611",
+    "RawText": "향은 그냥 그러네요. 세척력도 좋은지는 모르겠으나 무난하게 쓰고있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 올** 식기세척기 전용세제 30개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "40",
+    "Word": "8",
+    "RDate": "20220523",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 그냥 그러네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력도 좋은지는 모르겠으나 무난하게 쓰고있습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  }
+]

@@ -1,0 +1,3326 @@
+[
+  {
+    "Index": "882688",
+    "RawText": "우연히 써봤는데 좋아서 구매했습니다 칫솔모가 좀 약한데 전 사이사이 잘 닦이는거 같아 좋네요 칫솔모가 힘이 있는걸 좋아하는 분은 별로일듯합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20170623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "칫솔모가 좀 약한데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "사이사이 잘 닦이는거 같아 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "칫솔모가 힘이 있는걸 좋아하는 분은 별로일듯합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "882689",
+    "RawText": "아내의 잇몸을 위해서 기존에 사용하고 있는 치솔을 ㅇㅇㅇ의 치솔로 바꾸게 되었습니다 주말부터 사용하고 있는데 부담없어 비교적 좋다고 합니다 가격도 나쁘지 않아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "4",
+    "Syllable": "89",
+    "Word": "21",
+    "RDate": "20170708",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "주말부터 사용하고 있는데 부담없어 비교적 좋다고 합니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 나쁘지 않아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "882693",
+    "RawText": "오프라인으로 구매해서 쓰던 제품이구요. 다 떨어져서 급하게 인터넷으로 주문했습니다. 가격도 저렴하고 미세모라 잇몸에 부담없어서 저는 개인적으로 좋아서 사용하고 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "3",
+    "Syllable": "92",
+    "Word": "19",
+    "RDate": "20170908",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "미세모라 잇몸에 부담없어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "882701",
+    "RawText": "전부터 쓰던거라 좋네요 미세모여서 자극도없고 칫솔크기도 성인이 쓰기에도 좋습니다 친구한테도 선물했네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "11",
+    "RDate": "20171211",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "미세모여서 자극도없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "칫솔크기도 성인이 쓰기에도 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "882718",
+    "RawText": "5박스 구매했는데 박스 하나가 포장이 뜯어져 있었어요 제품에 이상은 없으니 그냥 사용할께요. ㅇㅇㅇ칫솔은 칫솔모가 부드러워 잇몸 약한 사람에게 좋고, 칫솔머리가 작아 어금니 구석구석 닦기가 좋아요 국내 제조상품이며 제조일자는 2017.07.15이라 꽤 오래됐네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "146",
+    "Word": "31",
+    "RDate": "20180307",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "칫솔모가 부드러워 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "잇몸 약한 사람에게 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "칫솔머리가 작아",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "어금니 구석구석 닦기가 좋아요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "제조일자는 2017.07.15이라 꽤 오래됐네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "882727",
+    "RawText": "ㅇㅇㅇ 향균칫솔 늘 쓰던거라 나는 좋네요 저렴한 가격에 구매함 배송도 빨라요 여기가 가장 저렴해요. 어른, 초딩들도 사용하기 괜찮습니다 싸이즈가 조금 작은 게 흠임",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "23",
+    "RDate": "20180319",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 구매함",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 가장 저렴해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "어른, 초딩들도 사용하기 괜찮습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "싸이즈가 조금 작은 게 흠임",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "882747",
+    "RawText": "정말 최신 상품입니다. 제조일자가 더 최신인 4월이네요. 가격대비 좋아서 구매했어요. 그리고 몸통도 투명해서 제 취향입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20180508",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "제조일자가 더 최신인 4월이네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격대비 좋아서 구매했어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "몸통도 투명해서 제 취향입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "882750",
+    "RawText": "ㅇㅇㅇ치솔 구입했습니다 가격은 비싸지만 타사 치솔비교 품질이 좋아서 우리 가족모두가 사용하기에 적당합니다 배송빠르고 정확하여 도착일정 사전에 확인되어 좋은 것 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "20",
+    "RDate": "20180516",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격은 비싸지만 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "타사 치솔비교 품질이 좋아서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "우리 가족모두가 사용하기에 적당합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "882760",
+    "RawText": "칫솔 사이즈가 좀 작은게 흠이네요 그래도 구석구석 잘닦이긴 해요. 그리고 칫솔모가 정말 부드럽네요. 저희는 ㅇㅇㅇ 칫솔 사용하다가 다른 칫솔 사용하려니 안되겠네요. 그래서 ㅇㅇㅇ 칫솔 재구매합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "25",
+    "RDate": "20180531",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "칫솔 사이즈가 좀 작은게 흠이네요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "구석구석 잘닦이긴 해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "칫솔모가 정말 부드럽네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "882763",
+    "RawText": "잇몸이 약한편인데 쓰기 부드럽고 아주 좋네요. 여러가지 칫솔 써봤는데 ㅇㅇㅇ께 제일 잘 맞는거 같습니다. 가격도 쿠폰 받아서 저렴하게 구입했네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "19",
+    "RDate": "20180608",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드럽고 아주 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 쿠폰 받아서 저렴하게 구입했네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "882772",
+    "RawText": "칫솔이 조그만해서 아이들이 사용하기에 딱입니다. 자주 바꿔줘야할 할 정도로 약하기는 하지만 애들이 사용하기 편해서 매번 구매하게 됩니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "4",
+    "Syllable": "75",
+    "Word": "17",
+    "RDate": "20160919",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "칫솔이 조그만해서 아이들이 사용하기에 딱입니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "자주 바꿔줘야할 할 정도로 약하기는 하지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 애들이 사용하기 편해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "882777",
+    "RawText": "어린이용이 칫솔헤드가 작아서 안쪽까지 잘 닦을수있어서 좋습니다 성인용은 입안쪽이 아팠거든요 맘에 듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "12",
+    "RDate": "20170614",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "어린이용이 칫솔헤드가 작아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "안쪽까지 잘 닦을수있어서 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "882783",
+    "RawText": "매번 사용하다가 똑떨어져서 마트에서 구입해서 썼는데 이거 쓰다가는 다른거 못쓰겠어요 부드러우면서 개운하네요 번창하세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "13",
+    "RDate": "20170616",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드러우면서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운하네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "882823",
+    "RawText": "성인이지만 치아구조가 좁은편이라 섬세하게 닦으려고 콤팩트 사용하고 있어요. 부드럽고 모가 탄력있습니다 오랫동안 괜찮게 사용하고 있네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "4",
+    "Syllable": "74",
+    "Word": "15",
+    "RDate": "20180906",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드럽고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "모가 탄력있습니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "882855",
+    "RawText": "지인에게 추천받고 구입했는데 역시 좋습니다  극세모치솔 이것저것 사용했지만 슬림모인데 단단한 느낌이 좋고 특히 좋은것은 세균방지가 있어 더 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "18",
+    "RDate": "20190428",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "슬림모인데 단단한 느낌이 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "세균방지가 있어 더 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "882869",
+    "RawText": "어제 주문해서 다음날 바로 받았습니다 가성비도 좋고 몇년째 ㅇㅇㅇ 칫솔만 쓰고 있는데 쓸 때마다 잘 유용하게 잘 사용하고 있네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "19",
+    "RDate": "20200304",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "쓸 때마다 잘 유용하게 잘 사용하고 있네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "882891",
+    "RawText": "부드러운 가느다란 모로 구성된 칫솔이라 좋네요. 예전에 지인에게 얻어서 써보았는데 생각보다 만족했던 기억이 있어서 이번에 주문했다. 배송도 빠르고 제품 질에 대한 만족도도 굉장히 높아서 또 구매할 예정이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "115",
+    "Word": "27",
+    "RDate": "20181030",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드러운 가느다란 모로 구성된 칫솔이라 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 질에 대한 만족도도 굉장히 높아서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": " 가느다란 모로 구성된 칫솔이라 좋네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "882898",
+    "RawText": "요즘 예쁜 칫솔이 많아서 사줬는데 아이들 처음엔 좋아하더니 예전에 쓰던 칫솔이 더 좋다고 바꿔달라고 하길래 주문햇습니다 칫솔모가 브드럽고 사용하기 편하다고 하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "21",
+    "RDate": "20190410",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "칫솔모가 브드럽고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 편하다고 하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "882923",
+    "RawText": "ㅇㅇㅇ칫솔모가 7세도 어른여성까지 사용하기 편합니다. 칫솔모가 크지 않아 좋습니다. 박스도 찢어지지 않고 안전하게잘 받았습니다. ㅇㅇ택배는 경비실에 두고가서 찾으러 가야되니 정말 힘드네요. ㅇ택배가 잘 배송 해 주고가는데 말이에요. 사진과 다르게 색깔이 여러가지라 만족해요. 할인 행사로 싸게 구입했어요. 다음에도 할인 행사 했으면 좋겠네요. 2일정도 배송 걸렸습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "206",
+    "Word": "44",
+    "RDate": "20180203",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "ㅇㅇㅇ칫솔모가 7세도 어른여성까지 사용하기 편합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "칫솔모가 크지 않아 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "사진과 다르게 색깔이 여러가지라 만족해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인 행사로 싸게 구입했어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "882926",
+    "RawText": "배송 시키고 난 다음날에 배송왔네요 박스찢어 지지 않고 안전하게 배송 되어서 잘 받았습니다. 칫솔이 어린이도 사용 할 수있어서 좋고 칫솔모가 크지 않아서 정말 좋네요. 어른도 여자 성인까지도 부드럽네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "112",
+    "Word": "28",
+    "RDate": "20180208",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "칫솔이 어린이도 사용 할 수있어서 좋고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "칫솔모가 크지 않아서 정말 좋네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "어른도 여자 성인까지도 부드럽네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "882947",
+    "RawText": "칫솔이 부드럽지않고 이 사이사이 잘 안닦여서 너무 맘에 안듭니다 아무생각없이 문질거렸더니 잇몸이 상한듯 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20200309",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "칫솔이 부드럽지않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "이 사이사이 잘 안닦여서 너무 맘에 안듭니다 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "아무생각없이 문질거렸더니 잇몸이 상한듯 합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "882970",
+    "RawText": "ㅇㅇ 칫솔을 선물받아 한번 써보았는데, 가볍고 잘 닦이더군요 가격도 여기가 젤 싸고 좋습니다 딴거써봐도 자꾸 이 칫솔 찾게되네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20200521",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦이더군요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 여기가 젤 싸고 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "882996",
+    "RawText": "지인이 줘서 몇번 써봤는데는데 부드럽고 칫솔 솔이 좋아 잘닦이고 개운함이 있습니다 미세솔이라 잇몸에 무리가 안가 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "4",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20200604",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드럽고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "칫솔 솔이 좋아 잘닦이고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운함이 있습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "미세솔이라 잇몸에 무리가 안가 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883008",
+    "RawText": "양치하면 피가 항상 나서 더부드럽고 잘닦이는 칫솔 찾다가 만족하는중이네요 칫솔이 너무 부드럽게 구석구석 잘닦이고 좋습니다. 가격도 저렴하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "17",
+    "RDate": "20200614",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "칫솔이 너무 부드럽게 구석구석 잘닦이고 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883033",
+    "RawText": "후기가 좋아 구매했습니다 저는 ㅇㅇㅇㅇ를 사용중이고 아들이랑 엄마가 넘 작은모가 싫다고해서 구매했어요 부드럽고 앞쪽이 둥글고 가늘어서 가성비 좋은 칫솔입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "19",
+    "RDate": "20200806",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": " 부드럽고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "앞쪽이 둥글고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "가늘어서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은 칫솔입니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883080",
+    "RawText": "칫솔이 부드러워 양치해도 잇몸에 무리가 덜가니 안아픕니다 폭풍양치하는 버릇이 있어서 다른 칫솔은 잇몸이 아프던데 이건 참 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20180306",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "칫솔이 부드러워",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "양치해도 잇몸에 무리가 덜가니 안아픕니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "다른 칫솔은 잇몸이 아프던데 이건 참 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883183",
+    "RawText": "다른 제품 한번 바꿔 써봤는데 다시 돌아왔어요. 부드러운 극세모인데 탄력도 괜찮아서 치아와 잇몸에 상처 없이 잘 닦입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20200328",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드러운 극세모인데 탄력도 괜찮아서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "치아와 잇몸에 상처 없이",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883232",
+    "RawText": "잇몸 약한 엄마가 좋으시대서 계속 재구매합니다 구석구석 잘 닦여서 저도 계속 사용하고 있어요. 적당히 부드러워서 잇몸이나 치아손상이 없습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "18",
+    "RDate": "20200711",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "구석구석 잘 닦여서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "적당히 부드러워서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "잇몸이나 치아손상이 없습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883252",
+    "RawText": "가족에게 얻어서 써 봤는데 너무 좋은 것 같았는데 여기서도 팔아서 구매했어요 가격도 착하고 ㅇㅇㅇ 칫솔 부드럽고 좋습니다 두개사니 배송비도 없네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "20",
+    "RDate": "20200919",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "ㅇㅇㅇ 칫솔 부드럽고 좋습니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883313",
+    "RawText": "항상 쓰는 ㅇㅇㅇ칫솔이네요. 금분 처리된 칫솔이라하니 더 좋아요 사이즈도 성인이 쓸 정도의 사이즈라 딱 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20210303",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "금분 처리된 칫솔이라하니 더 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈도 성인이 쓸 정도의 사이즈라 딱 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883391",
+    "RawText": "손잡이도 그립감이 안 좋네요 칫솔모도 부드럽지도 않고 마음에 안드네요 양치 후 입안도 개운하지 않아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20211102",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "그립감",
+        "SentimentText": "손잡이도 그립감이 안 좋네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "칫솔모도부드럽지도 않고 마음에 안드네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치 후 입안도 개운하지 않아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "883412",
+    "RawText": "몇번 쓰면 주저앉아버리는 칫솔모가 실망스러워 알아봤더니 이게 가성비 좋다고 하더라구요 무게감도 있고 잘 닦이길 바래봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20220214",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감도 있고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦이길 바래봅니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "883549",
+    "RawText": "구강이 작은편이라 ㅇㅇㅇㅇ, ㅇㅇ 쓰면서 나름 만족했었는데, 뭔가 더 작은게 쓰고싶어서 알아보다가 구매했어요. 가족3명이서 쓰는거라 칫솔이 색으로 구분되어 있는것도 괜찮고 모가 작고 부드러워서 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "112",
+    "Word": "24",
+    "RDate": "20190103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "가족3명이서 쓰는거라 칫솔이 색으로 구분되어 있는것도 괜찮고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": " 모가 작고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드러워서 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883565",
+    "RawText": "무사히 잘 받았어요. 디자인이 화려하진 않네요. 칫솔모가 작은 거 좋아하시는 분께 추천해요 전 좀 큰 거 쓰다보니 ㅇㅇㅇ꺼는 작게 느껴집니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "20",
+    "RDate": "20190109",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 화려하진 않네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": " 칫솔모가 작은 거 좋아하시는 분께 추천해요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "좀 큰 거 쓰다보니 ㅇㅇㅇ꺼는 작게 느껴집니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "883574",
+    "RawText": "치약 사용하고 칫솔두 사용해봤더니 칫솔모가 아주 부드럽네요 잇몸이 약한분들한텐 부드럽게 잘닦여서 좋은거 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "13",
+    "RDate": "20190111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "칫솔모가 아주 부드럽네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "잇몸이 약한분들한텐 부드럽게 잘닦여서 좋은거 같습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883576",
+    "RawText": "칫솔이 너무 별로네요. 탄력도 너무 없고 치아도 구석구석 잘 닦이질 않아 실망입니다. 가격은 왜이리 비싼건지 참..",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 칫솔 8개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20190112",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "탄력도 너무 없고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "치아도 구석구석 잘 닦이질 않아 실망입니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 왜이리 비싼건지 참..",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "883591",
+    "RawText": "초극세모라 굉장히 부드러워 잇몸이 약한 부모님이 좋아하시네요 양치후 개운하다고 하시고 다 쓰면 또 구매해 드려야 겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "4",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20170124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "초극세모라 굉장히 부드러워 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치후 개운하다고 하시고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "잇몸이 약한 부모님이 좋아하시네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883612",
+    "RawText": "잇몸이 약해져서 타브랜드 사용하는데 가격 합리적인거 찾다가 구입했습니다 나름 품질은 괜잖네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20170409",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 합리적인거 찾다가 구입했습니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "나름 품질은 괜잖네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883629",
+    "RawText": "고탄력 초미세모라 그런지 잇몸이 안아파서 요것만 쓰네요.그런데 칫솔모 마모는 빠른 편입니다 가성비로는 별로네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20210216",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "잇몸이 안아파서 요것만 쓰네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "칫솔모 마모는 빠른 편입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비로는 별로네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "고탄력 초미세모라 그런지",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883679",
+    "RawText": "잇몸 관리를 위해 초미세모 칫솔로 구입해봤습니다. 저렴한 가격에 좋은 제품 구입한것 같네요 치솔모가 확실히 부드럽습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20220727",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "치솔모가 확실히 부드럽습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883681",
+    "RawText": "ㅇㅇㅇ 칫솔은 모가 아주 부드러운데 이거는 왜 안부드러울까요? 자극도 너무 심하고 ㅇㅇㅇ 칫솔이 아닌것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20220802",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "ㅇㅇㅇ 칫솔은 모가 아주 부드러운데 이거는 왜 안부드러울까요? ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": " 자극도 너무 심하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "883706",
+    "RawText": "초미세모라서 깨끗하게 양치가 잘 되는 느낌이네요. 좋습니다. 헤드가 작은 편이긴하지만 구석구석 양치는 잘되네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "4",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20170123",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "초미세모라서 깨끗하게 양치가 잘 되는 느낌이네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "헤드가 작은 편이긴하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "구석구석 양치는 잘되네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883710",
+    "RawText": "ㅇㅇㅇ 칫솔 초미세모라서 부드럽고, 입안 구석구석까지 깨끗하게 닦여지는 기분입니다. 무료배송에 12개 구성이라 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "13",
+    "RDate": "20170227",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "ㅇㅇㅇ 칫솔 초미세모라서 부드럽고,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "입안 구석구석까지 깨끗하게 닦여지는 기분입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "12개 구성이라 만족해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883755",
+    "RawText": "잘 받았어요. 상품 품질 좋고, 포장 및 배송 모두 만족해요. 가성비 좋고 신뢰가는 브랜드라서 늘 재구매하는 제품입니다. 저렴한 가격에 구입해서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "21",
+    "RDate": "20200220",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질 좋고,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 구입해서 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883756",
+    "RawText": "칫솔모가 아주 부드럽네요.잇몸때문에 부드러운 모만 찾아서 쓰게 되는데 이제품도 그렇게 고른 제품인데 사용해보니 부드럽고 잘닦입니다.ㅇㅇㅇ제품은 다 좋더라구요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "17",
+    "RDate": "20200501",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "칫솔모가 아주 부드럽네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "사용해보니 부드럽고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘닦입니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883760",
+    "RawText": "늘 쓰던 ㅇㅇㅇ 미세모 칫솔은 잇몸케어 전문 칫솔이라 매우 부드러습니다 구석구석 치석도 잘 제거되는 것 같아 좋아요 마트와 가격은 비슷한 것 같은데 그냥 쟁여두고 씁니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "94",
+    "Word": "25",
+    "RDate": "20190829",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "잇몸케어 전문 칫솔이라 매우 부드러습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "구석구석 치석도 잘 제거되는 것 같아 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트와 가격은 비슷한 것 같은데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "883767",
+    "RawText": "칫솔 구매할때가 되서 포인트로 저렴하게 구매해서 너무 좋습니다. 12개나 되니 한동안 걱정없이 유용하게 잘 사용할꺼 같습니다. 아직 사용전이지만 상품평도 좋고 ㅇㅇㅇ 브랜드 믿고 후기 남깁니다. 사용후 좋으면 재구매할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "124",
+    "Word": "28",
+    "RDate": "20191005",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "포인트로 저렴하게 구매해서 너무 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "12개나 되니 한동안 걱정없이 유용하게 잘 사용할꺼 같습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883773",
+    "RawText": "칫솔모가 부드럽고, 치아면에 닿는 부분이 부드러워서 칫솔질을 하는데 편안합니다. 그리고 세트상품 구성이 좋네요. 마트보다 가격이 저렴하고 경제적입니다. 결따라 칫솔모가 촘촘하고 사용감이 아주 좋습니다. 기본적으로 추천할 만하네요. 몇세트 더 주문할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "141",
+    "Word": "29",
+    "RDate": "20191112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "칫솔모가 부드럽고,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "치아면에 닿는 부분이 부드러워서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "칫솔질을 하는데 편안합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "세트상품 구성이 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트보다 가격이 저렴하고 경제적입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "결따라 칫솔모가 촘촘하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용감이 아주 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883782",
+    "RawText": "ㅇㅇㅇ칫솔은 믿고 쓰는 브랜드입니다. ㅇ포인트로 저렴하게 구매해서 좋고, 양이 많아서 한참 쓸 것 같아요. 초미세모 편해서 늘 쓰고 있었는데 득템했어요. 색상이 다양하게 나왔으면 하는 아쉬움이 있지만, 네임팬으로 이니셜 써서 사용하면 되니 괜찮아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "139",
+    "Word": "32",
+    "RDate": "20191211",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "ㅇ포인트로 저렴하게 구매해서 좋고, ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양이 많아서 한참 쓸 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "초미세모 편해서 늘 쓰고 있었는데 득템했어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 다양하게 나왔으면 하는 아쉬움이 있지만,",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "네임팬으로 이니셜 써서 사용하면 되니 괜찮아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "883789",
+    "RawText": "칫솔모가 진짜 부드러워요 전에 쓰던거에 비해 너무 부드러워서 깨끗하게 닦인거 같은 느낌이 안드는데 생각보다 잘 닦였겠죠? 근대 잇몸에는 좋을것 같습니다 앞으로 이 칫솔을 사용하다보면 다른 칫솔은 못쓸것같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "115",
+    "Word": "27",
+    "RDate": "20191228",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "칫솔모가 진짜 부드러워요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "전에 쓰던거에 비해 너무 부드러워서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "깨끗하게 닦인거 같은 느낌이 안드는데 생각보다 잘 닦였겠죠?",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "잇몸에는 좋을것 같습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883790",
+    "RawText": "상품 품질이 좋네요. 마음에 듭니다. 약간 저렴한 가격으로 구매했습니다. 치솔모를 부드러운걸 항상 사용하는데 다른 제품보다 부드럽고 친환경적이고 입안이 깔끔하게 닦이니까 상쾌하고 좋아요. 원플러스원 으로 싸게 사서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "125",
+    "Word": "27",
+    "RDate": "20200106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "약간 저렴한 가격으로 구매했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "다른 제품보다 부드럽고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "친환경적이고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "입안이 깔끔하게 닦이니까 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "원플러스원 으로 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "상쾌하고 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 사서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883799",
+    "RawText": "상품 품질이 좋아요. 마음에 듭니다. 초미세모 그린티치솔 12개든거 5세트 구매하니 60개나 되네요. 이 치솔 부드럽고 좋아서 계속 구매해서 사용했었는데 근래에 마트에 갔는데 이 치솔이 진열이 안되어 있어서 ㅇㅇㅇ 다른 치솔을 구매해왔으나 이 치솔을 홈쇼핑에서 보고 바로 구매했습니다. 초미세모 그린티치솔 추천해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "176",
+    "Word": "40",
+    "RDate": "20200227",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "초미세모 그린티치솔 12개든거 5세트 구매하니 60개나 되네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "이 치솔 부드럽고 좋아서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883827",
+    "RawText": "너무 마음에 듭니다 추천해요. 칫솔은 역시 ㅇㅇㅇ지요. 저렴한 가격에 온 가족이 모두 사용할 수 있어 너무 좋네요. 초미세모라서 깔끔하게 닦이는 것같아 너무 좋아요. 색깔도 다양해서 가족끼리 겹치지 않아 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "118",
+    "Word": "29",
+    "RDate": "20200511",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "온 가족이 모두 사용할 수 있어 너무 좋네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "초미세모라서 깔끔하게 닦이는 것같아 너무 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔도 다양해서 가족끼리 겹치지 않아 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883849",
+    "RawText": "ㅇㅇㅇ 초미세모 잇몸전문케어 그린티 칫솔 12개 일반적이 칫솔보다는 몇천원 비싼것 같네요 소모품이고 자주 갈아 치우다 보다 가격이 만만찮아요 잇몸케어 전문이란 문구에 혹해서 사용해 보니 부드러운지도 잘 모르겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "118",
+    "Word": "27",
+    "RDate": "20200910",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "일반적이 칫솔보다는 몇천원 비싼것 같네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 만만찮아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": " 사용해 보니 부드러운지도 잘 모르겠어요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "883856",
+    "RawText": "전동칫솔을 한참동안 썼는데 오히려 잇몸에는 안 좋은 듯 싶어서 치과에 다녀온 뒤 이 제품으로 바꿔봤어요 그런데 칫솔모가 부드럽지가 않네요 양치질하기가 무척 불편해요 가격도 싸지도 않는데 다른거 또 검색해봐야 겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "119",
+    "Word": "29",
+    "RDate": "20201125",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "칫솔모가 부드럽지가 않네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "양치질하기가 무척 불편해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 싸지도 않는데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "883860",
+    "RawText": "상품 품질이 좋은지 모르겠습니다 마음에 안드네요 다 써보았는데 이제품이 자극이 좀 심하네요 품질도 안좋고 맘에 안들어요 가격은 쌉니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20210219",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋은지 모르겠습니다 마음에 안드네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극이 좀 심하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 안좋고 맘에 안들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 쌉니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883866",
+    "RawText": "칫솔이 기본형으로 깔끔해서 좋습니다 미세모라서 거칠지않고 사용하기 편하고 좋네요 잘 닦이는지는 더 써봐야 알겠어요. 저렴하게 구입했어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "16",
+    "RDate": "20210313",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "칫솔이 기본형으로 깔끔해서 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "미세모라서 거칠지않고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 사용하기 편하고 좋네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦이는지는 더 써봐야 알겠어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입했어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883871",
+    "RawText": "늘 사던 제품이라 쟁여뒀네요 잇몸이 약한편인데 미세모라 자극없어서 이것만 쓰게 됩니다 헤드 크기도 성인이 쓰기에 적당한 것 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20210328",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "미세모라 자극없어서 이것만 쓰게 됩니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "헤드 크기도 성인이 쓰기에 적당한 것 같습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883872",
+    "RawText": "잇몸이 약한 남편은 미세 칫솔을 이것만 쓰네요 ㅇㅇㅇ쇼핑이 싼 것 같습니다 저렴한 가격에 배송도 빨라서 너무 좋았네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "17",
+    "RDate": "20210330",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "ㅇㅇㅇ쇼핑이 싼 것 같습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "잇몸이 약한 남편은 미세 칫솔을 이것만 쓰네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883873",
+    "RawText": "떨어지기 전에 쟁여 두는 상품인데 저번에 주문했을때 보다 가격이 올라서 아쉽네요. 치솔 다양한 디자인에 많은 종류를 써봤지만 이렇게 잘닦이는건 없는 듯 합니다 부드럽고 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "24",
+    "RDate": "20210402",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저번에 주문했을때 보다 가격이 올라서 아쉽네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "이렇게 잘닦이는건 없는 듯 합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": " 부드럽고 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883874",
+    "RawText": "양치할때 잇몸이 아플때가 있어서 잇몸케어해 줄수 있는 칫솔을 찾다가 구매했네요 아직 사용전인데 잘 닦이길 기대해 봅니다 가격은 좀 비싼편이에요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20210414",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦이길 기대해 봅니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 좀 비싼편이에요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "883886",
+    "RawText": "상품 품질이 좋아요. 마음에 드네요 ㅇㅇㅇ 미세모 치솔 넉넉하게 구매해놓고 자주 교체해요. 치아 건강 관리 잘 해야 되요. 치아관리ㆍ잇몸관리가 최우선입니다 수량도 많아서 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "23",
+    "RDate": "20210930",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "수량도 많아서 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883888",
+    "RawText": "부드러운 솔로 잇몸에 전혀 부담되지 않아요. 잇몸치약하고 같이 사용하고 있습니다 잇몸에는 딱인데 치아 표면은 몇번의 솔질에는 매끈해 지지않아 다른(살짝 탄성있는) 칫솔과 같이 사용해요 아침 - 덜 부드러운 칫솔 점심, 자기전- 부드러운 ㅇㅇ 초미세모 이렇게요 만족하면서 잘 쓰고 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "159",
+    "Word": "38",
+    "RDate": "20211212",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드러운 솔로",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "잇몸에 전혀 부담되지 않아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "잇몸에는 딱인데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "치아 표면은 몇번의 솔질에는 매끈해 지지않아 다른(살짝 탄성있는) 칫솔과 같이 사용해요 ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "883898",
+    "RawText": "처음 사 봅니다. 포장이 덩그러니 그냥 대충 비닐로 둘둘말려서 왔네요. 잇몸에 좋으려고 샀습니다. 특가여서 싸게는 샀어요. 써보기전이라 효과가 좋기를 기대해봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "20",
+    "RDate": "20201206",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "특가여서 싸게는 샀어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "써보기전이라 효과가 좋기를 기대해봅니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "883908",
+    "RawText": "치솔 모가 생각보다 부드럽지가 않습니다 잇몸이 약해서 그런지 자극이 좀 오네요 양치후 입안이 개운한지도 잘 모르겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20210103",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "치솔 모가 생각보다 부드럽지가 않습니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "잇몸이 약해서 그런지 자극이 좀 오네요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치후 입안이 개운한지도 잘 모르겠어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "883913",
+    "RawText": "모든 사이트다 비교해도 할인쿠폰 적용한 ㅇㅇ쇼핑이 제일저렴합니다. 물건은 확실히 좋습니다. 이 제품은 혓바닥 칫솔로 바로 사용해도 될 정도로 부드러운 칫솔모가 장점이고 잘 닦입니다. 추천해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "4",
+    "Syllable": "107",
+    "Word": "24",
+    "RDate": "20160722",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인쿠폰 적용한 ㅇㅇ쇼핑이 제일저렴합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "혓바닥 칫솔로 바로 사용해도 될 정도로 부드러운 칫솔모가 장점이고",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883915",
+    "RawText": "그린티 치솔 좋아요. 미세모라 부드럽고 가격도 저렴하여 이번에도 또 구입했습니다. ㅇㅇㅇ치솔은 예전부터 써봤지만 품질이 좋아요. 중국산이라 조금은 망설였지만 주문잘한듯 하네요 가격대비 굿임.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "22",
+    "RDate": "20160427",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "미세모라 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하여 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 굿임.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883919",
+    "RawText": "ㅇㅇ 그린티 한번 써보고는 이 칫솔만 사용하네요 일단 부드러워서 잇몸에 부담스럽지 않아서 좋아요 블랙티는 그린티보다는 칫솔모가 조금더 힘이 있어요 저는 블랙티보다 그린티가 조금더 부드러운 느낌이 듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "112",
+    "Word": "26",
+    "RDate": "20170225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "일단 부드러워서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "잇몸에 부담스럽지 않아서 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "그린티가 조금더 부드러운 느낌이 듭니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883920",
+    "RawText": "집에서 이것만 사용하는지라 할인쿠폰 적용해서 저렴하게 구매했어요. 다른 곳보다 저렴하게 살 수 있어서 만족해요. 다음에 또 살게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20191117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인쿠폰 적용해서 저렴하게 구매했어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 곳보다 저렴하게 살 수 있어서 만족해요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883921",
+    "RawText": "ㅇㅇ ㅇㅇㅇ 치솔 좋아요 기존에 쓰던것 보다 좀더 부드러운 정도의 느낌이구요 그립감도 무난해요 미세모에 탄력도 있어요 단점은 중국산이라 그런가 치솔모 마무리가 일부 엉성한 부분이 있어요 참조하시구요 가격대비도 짱입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "2",
+    "Syllable": "121",
+    "Word": "28",
+    "RDate": "20160205",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "기존에 쓰던것 보다 좀더 부드러운 정도의 느낌이구요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": " 그립감도 무난해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "미세모에 탄력도 있어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 중국산이라 그런가 치솔모 마무리가 일부 엉성한 부분이 있어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비도 짱입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883927",
+    "RawText": "잇몸이 좋지않아 부드러운 칫솔을 찾다가 알게된 그린티 극세모 칫솔이네요 .마트에서 너무 비싸서 인터넷으로 알아봤는데, 역시나 착한가격에 살 수 있었어요 극세모라서 칫솔모가 너무 빨리 눕지않을까 걱정했는데 고탄력이라서 그런지 오래 사용할 수 있어서 더 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "4",
+    "Syllable": "144",
+    "Word": "33",
+    "RDate": "20160227",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한가격에 살 수 있었어요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "고탄력이라서 그런지 오래 사용할 수 있어서 더 좋습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883928",
+    "RawText": "칫솔모가 탄력있으면서 모가 가늘고 부드럽네요. 칫솔머리는 클줄알았는데 적당하네요 라운드 처리가 되어서 그런지 어금니끝까지 잘닦여요. 저렴하게 많이 사서 좋습니다. 다만 단점이라고 해야하나 칫솔 손잡이 색이 전부 연두색이라 칫솔걸이에 두면 누구 껀지 헷갈릴 수도 있어요. 이름이라도써둬야겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "4",
+    "Syllable": "163",
+    "Word": "34",
+    "RDate": "20160305",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "칫솔모가 탄력있으면서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "모가 가늘고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드럽네요. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "칫솔머리는 클줄알았는데 적당하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "라운드 처리가 되어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "어금니끝까지 잘닦여요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "많이 사서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "칫솔 손잡이 색이 전부 연두색이라 칫솔걸이에 두면 누구 껀지 헷갈릴 수도 있어요. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "883934",
+    "RawText": "첫 사용시 칫솔모 한두개빠짐 현상이 있지만 모도 탄탄하고 크기도 적당해서 사용감이 좋습니다 칫솔은 꽤 자주 빠꿔주니까 욕실엔 꼭 여유있게 사두는 편입니다 일단 마트보다 싸서 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "4",
+    "Syllable": "100",
+    "Word": "25",
+    "RDate": "20160316",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "첫 사용시 칫솔모 한두개빠짐 현상이 있지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "모도 탄탄하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기도 적당해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용감이 좋습니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트보다 싸서 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883936",
+    "RawText": "부드럽지도 않고 자극이 심합니다 칫솔 잘못쓰면 잇몸고생하는데 실망이네요 가격은 저렴한 편이지만 추천하고 싶지는 않습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "14",
+    "RDate": "20160317",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드럽지도 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극이 심합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴한 편이지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "칫솔 잘못쓰면 잇몸고생하는데 실망이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "883945",
+    "RawText": "정말 좋네요 배송도 빠르고 정말 좋습니다 사용해보니 그립감도 좋고 다 좋네요 재구매의사있구요 색상도 예뻐요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20160416",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "그립감",
+        "SentimentText": "그립감도 좋고 다 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 예뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883949",
+    "RawText": "ㅇㅇ 미세모 좋네요 잇몸 개선에 효과적인듯 하네요 단점은 치솔 헤드가 너무 커서 닦기 좀 불편하고 특히 어금니는 잘 안닦입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "4",
+    "Syllable": "70",
+    "Word": "19",
+    "RDate": "20160504",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸 개선에 효과적인듯 하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "치솔 헤드가 너무 커서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "닦기 좀 불편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 어금니는 잘 안닦입니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "883954",
+    "RawText": "극미세모인데도 탄력이 약한듯하네요 치간도 잘 닦이지 않는 것 같네요. 세정력은 좀 더 써봐야 알듯합니다. 가격은 싸요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20160506",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "극미세모인데도 탄력이 약한듯하네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 치간도 잘 닦이지 않는 것 같네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 싸요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세정력은 좀 더 써봐야 알듯합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "883957",
+    "RawText": "몇달전부터 이것만 쓰는데 모도 부드럽고 구석구석 잘 닦이는거 같습니다. 잇몸이 조금 안 좋은 저희 남편도 자극이 안되어서 이게 본인한테 젤 잘 맞다고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "23",
+    "RDate": "20160727",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "모도 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "구석구석 잘 닦이는거 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극이 안되어서 이게 본인한테 젤 잘 맞다고 합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883962",
+    "RawText": "늘 사용하던거라 구입했습니다. 조금 비싼 편이지만 좋은거라 구입 했다. 근데 역시 ㅇㅇㅇ는 너무 비싸요. 우리나에서만 이리 비싼 건지 궁금하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "4",
+    "Syllable": "80",
+    "Word": "19",
+    "RDate": "20161002",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "조금 비싼 편이지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "역시 ㅇㅇㅇ는 너무 비싸요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "우리나에서만 이리 비싼 건지 궁금하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "883964",
+    "RawText": "칫솔은 이전부터 썼던거라 재구매했습니다 배송이 빨라서 넘 좋아요 미세모라 이 사이사이가 아주 잘 닦입니다 칫솔모도 부드럽고해서 아주 만족하면서 사용중이에요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "19",
+    "RDate": "20161110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "미세모라 이 사이사이가 아주 잘 닦입니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "칫솔모도 부드럽고해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883969",
+    "RawText": "다른사이트보다 저렴하게 구매했어요 미세모라 잘 닦이는것 같고 좋습니다. 단 잇몸에 자극이 있는 건 어쩔수 없나보네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20160309",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른사이트보다 저렴하게 구매했어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "미세모라 잘 닦이는것 같고 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": " 잇몸에 자극이 있는 건 어쩔수 없나보네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "883974",
+    "RawText": "칫솔모가 크지않아 중학생 포함 온가족이 함께 쓰고 적당해요 가격도 저렴하고 배송도 빠릅니다 좋은 제품 잘 샀다는 생각이 듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "18",
+    "RDate": "20160324",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "칫솔모가 크지않아 중학생 포함 온가족이 함께 쓰고 적당해요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883977",
+    "RawText": "가격비교를 많이 해보고 샀는데 역시 여기서 사길 잘했어요. 저렴하게 잘 샀고 배송도 빠릅니다. 이정도면 가성비도 훌륭한 편이죠. 재구매 의사있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "19",
+    "RDate": "20160506",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격비교를 많이 해보고 샀는데 역시 여기서 사길 잘했어요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 샀고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 이정도면 가성비도 훌륭한 편이죠.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883980",
+    "RawText": "초미세모를 찾다가 구입한 ㅇㅇㅇ 고탄력 초미세모 칫솔 부드럽지도 않고 자극적이네요 가격도 마트보다 많이 비쌉니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "4",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20160831",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드럽지도 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극적이네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 마트보다 많이 비쌉니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "883983",
+    "RawText": "부드러운모를 원하는분이라면 딱일듯 합니다. 벌써 몇개째 요칫솔만 사용중이에요. 이주일에 한개싹 교환해서 사용하고 있어요. 부드럽게 잘 닦이고  좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "4",
+    "Syllable": "84",
+    "Word": "17",
+    "RDate": "20170626",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드러운모를 원하는분이라면 딱일듯 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "벌써 몇개째 요칫솔만 사용중이에요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "이주일에 한개싹 교환해서 사용하고 있어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "부드럽게 잘 닦이고  좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "883984",
+    "RawText": "칫솔은 ㅇㅇ만 쓰는데 진짜 좋습니다 치실쓴거 같이 깔끔한 느낌이 들어요 초미세모가 잇몸이 약하신 분들한테 좋아요 너무 딱딱한 칫솔쓰면 마모가 심하다네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "20",
+    "RDate": "20170629",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "치실쓴거 같이 깔끔한 느낌이 들어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "초미세모가 잇몸이 약하신 분들한테 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "884000",
+    "RawText": "ㅇㅇㅇ고탄력 초미세모 그린티칫솔은 잇몸에는 소프트해서 자극적이지 않고 좋아요 하지만 치아를 생각하면 약간 중간정도 세기의 모 와 번갈아 써야 할 듯 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "4",
+    "Syllable": "86",
+    "Word": "21",
+    "RDate": "20160301",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "잇몸 에는 소프트해서 자극적이지 않고 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "치아를 생각하면 약간 중간정도 세기의 모 와 번갈아 써야 할 듯 하네요 ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "884005",
+    "RawText": "극세사모 쓰시는 분들중에 모가 부족해서 아쉽다는 분들이 많은데 이건 칫솔모도 풍성하고 가늘지만 단단해서 좋습니다. 잇몸 약하거나 부드러운 양치 느낌 원하시는 분들에게 추천해 드리고 싶네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "4",
+    "Syllable": "104",
+    "Word": "24",
+    "RDate": "20160307",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "이건 칫솔모도 풍성하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "가늘지만",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "단단해서 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "잇몸 약하거나 부드러운 양치 느낌 원하시는 분들에게 추천해 드리고 싶네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드러운 양치 느낌 원하시는 분들에게 추천해 드리고 싶네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "884007",
+    "RawText": "86세 아버님이 잇몸이 약해 주문해드렸는데 잇몸이 아프시다고 하시네요ㅜ 모가 까칠하다고 하세요 가격도 좀 있는걸로 산건데 말입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "16",
+    "RDate": "20160310",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "잇몸이 아프시다고 하시네요ㅜ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "모가 까칠하다고 하세요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좀 있는걸로 산건데 말입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "884012",
+    "RawText": "피로가 누적 되어 있을때 칫솔모가 조금 강한건 잇몸에 상당히 크게 나쁜자극을 주곤 하는데 검색 후 이 녀석으로 바꿔서 칫솔질을 해보니 그간 스트레스 받던 자극성이 없어서 상당히 기분 좋네요 부드러우면서도 단단히 잡아주는 칫솔모가 마음에 쏙 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "137",
+    "Word": "35",
+    "RDate": "20160322",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "그간 스트레스 받던 자극성이 없어서 상당히 기분 좋네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드러우면서도 단단히 잡아주는 칫솔모가 마음에 쏙 들어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "884019",
+    "RawText": "미세모에 칫솔모도 부드럽고 좋습니다 단 가격이 비싸지만 추천하긴 해요 다른데서 살 필요 없이 여기서 계속 사야겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20160331",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "미세모에 칫솔모도 부드럽고 좋습니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싸지만 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "884024",
+    "RawText": "배송도 빠르네요. 그리고 칫솔모가 엄청 부드러워서 좋아요 가격도 저렴해서 좋습니다 단 색상이 3가지밖에 없어서 좀 아쉬워요 많이 파세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20160403",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": " 칫솔모가 엄청 부드러워서 좋아요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서 좋습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 3가지밖에 없어서 좀 아쉬워요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "884029",
+    "RawText": "요즘엔 미세모칫솔을 좋아하는데 매번 낱개로 구입하기 귀찮아서 세트로 구입했습니다. 내구성은 지나봐야 알겠어요. 잘 닦이길 바래봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "15",
+    "RDate": "20160404",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "내구성은 지나봐야 알겠어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦이길 바래봅니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "884034",
+    "RawText": "평소에 담배를 많이 피워서 요즘 치아관리에 비상이 걸렸어요 그래서 치과에 다녔는데 너무 아프고 시간도 안맞고 해서 좋은 치솔 하나 구입해서 효과를 보자고 마음먹었네요 치솔이 품질 마음에 들어요 이빨 닦을때 부드러운 느낌도 좋고 닥고나서 느낌도 개운하고 좋아요 여러모로 권장해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "154",
+    "Word": "38",
+    "RDate": "20160413",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "치솔이 품질 마음에 들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "이빨 닦을때 부드러운 느낌도 좋고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "닥고나서 느낌도 개운하고 좋아요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "884037",
+    "RawText": "잇몸건강을 위해 샀어요 앞으로 사용하면서 좋은 효과 있기를 기대해 볼게요 가격면에서는 좀 비싼편이긴 해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20160414",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "좋은 효과 있기를 기대해 볼게요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격면에서는 좀 비싼편이긴 해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "884045",
+    "RawText": "ㅇㅇ고탄력 초미세모 그린티 처음 써보는데 부드러운지 모르겠네요 쓰기도 불편합니다 잇몸에 좋을껏 같지도 않네요 재구매는 안할게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "4",
+    "Syllable": "70",
+    "Word": "15",
+    "RDate": "20160505",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드러운지 모르겠네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "쓰기도 불편합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸에 좋을껏 같지도 않네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "884046",
+    "RawText": "부드럽지도 않고 잘 딱이는 느낌도 안듭니다 상품평이 좋아 구매해 보았는데 다 좋지는 않은가봐요 가격도 안 착해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "4",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20160506",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드럽지도 않고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 딱이는 느낌도 안듭니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 안 착해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "884051",
+    "RawText": "타 사이트보다 가격이 비싸네요 배송은 빨랐어요 평소 잇몸이 약한데 이거 쓰고 피가 많이 나네요 저한테는 안맞는것 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20160525",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "타 사이트보다 가격이 비싸네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "이거 쓰고 피가 많이 나네요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "884053",
+    "RawText": "다른 칫솔들도 많이 있지만 늘 ㅇㅇ만 이용하고 있어요 상대적으로 잘 닦이는 느낌 때문입니다 전날 오후 주문하고, 하룻만에 배송 도착했네요 가격도 내려주면 더할나위 없겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "23",
+    "RDate": "20160530",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "상대적으로 잘 닦이는 느낌 때문입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 내려주면 더할나위 없겠네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "884054",
+    "RawText": "저는 당료환자입니다 그래서 치아 관리를 엄청해요 그래서 부드러운 치솔모를 씁니다 요번에 한번 사보았는데 아주 좋네요 색상도 그린색이라 보기 좋고 손잡이도 그립감도 아주 좋네요 적극 추천해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 그** 고탄력 초미세모 칫솔 12개",
+    "ReviewScore": "5",
+    "Syllable": "105",
+    "Word": "25",
+    "RDate": "20160603",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 그린색이라 보기 좋고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "손잡이도 그립감도 아주 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

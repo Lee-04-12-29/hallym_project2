@@ -1,0 +1,3362 @@
+[
+  {
+    "Index": "416186",
+    "RawText": "가격대비 상품 품질이 정말 좋은거 같아요. 마트보다 많이 저렴하게 잘 사서 기분이 좋네요. 가성비 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20200808",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 상품 품질이 정말 좋은거 같아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트보다 많이 저렴하게 잘 사서 기분이 좋네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416195",
+    "RawText": "인덕션이 생겨서 전용 후라이팬이 필요했던터라 이 제품이 인덕션용이라서 구입했는데 아주 잘 쓰고 있는 중이에요. 생각보다 가벼워서 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "17",
+    "RDate": "20200724",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션용이라서 구입했는데 아주 잘 쓰고 있는 중이에요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각보다 가벼워서 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416196",
+    "RawText": "새거라 그런지 들러붙지 않고 좋습니다. 다만 손잡이가 좀 길어서 불편하고 가운데가 볼록 올라와있는게 마음에 들지 않습니다. 그래도 인덕션 겸용이라 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 프라이팬 28cm",
+    "ReviewScore": "4",
+    "Syllable": "87",
+    "Word": "20",
+    "RDate": "20200724",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "들러붙지 않고 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "손잡이가 좀 길어서 불편하고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "가운데가 볼록 올라와있는게 마음에 들지 않습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션 겸용이라 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416198",
+    "RawText": "다 좋은데 깊이가 좀 더 깊으면 좋겠다는 생각이 듭니다. 타사제품과 비교하니 깊이에서 차이가 나서 아쉽네요. 조리할 때 음식이 튀어 불편하겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 프라이팬 28cm",
+    "ReviewScore": "4",
+    "Syllable": "81",
+    "Word": "20",
+    "RDate": "20200723",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "깊이가 좀 더 깊으면 좋겠다는 생각이 듭니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "타사제품과 비교하니 깊이에서 차이가 나서 아쉽네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "조리할 때 음식이 튀어 불편하겠어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "416207",
+    "RawText": "늘 쓰던 OOO프라이팬 묵직해서 좋고 사이즈도 적당한게 참 마음에 듭니다. 잘 눌러붙지도 않아서 만족스러워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20200715",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직해서 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 적당한게 참 마음에 듭니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잘 눌러붙지도 않아서 만족스러워요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416216",
+    "RawText": "손잡이가 너무 길고 무거워요. 가스렌지 위에서 손잡이쪽으로 약간 기우는듯 해서 불편하네요. 참고하고 구매하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "13",
+    "RDate": "20200707",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "손잡이가 너무 길고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거워요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "가스렌지 위에서 손잡이쪽으로 약간 기우는듯 해서 불편하네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "416227",
+    "RawText": "배송 빨라서 좋고 품질 좋고 크기 딱 좋습니다. 볶음밥으로 2인분까지 가능한 사이즈이고 맛있게 잘 되네요. 다만 좀 무거워서 그게 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 에** 인덕션 후라이팬 24cm",
+    "ReviewScore": "4",
+    "Syllable": "79",
+    "Word": "20",
+    "RDate": "20220816",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기 딱 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "볶음밥으로 2인분까지 가능한 사이즈이고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "맛있게 잘 되네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "다만 좀 무거워서 그게 아쉽습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "416236",
+    "RawText": "너무 마음에 들어서 추천하고 싶습니다. OO은 다 좋은거 같아요. 사이즈도 적당해서 요리하기 참 행복하네요. 이 모델이 품질이 좋아 여러개 구매합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 에** 인덕션 후라이팬 24cm",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "20",
+    "RDate": "20220704",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 적당해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이 모델이 품질이 좋아 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416242",
+    "RawText": "원래 쓰던 팬인데 OO 한개 사서 몇년인지도 모르게 썼어요. 늘 쓰고나서 바로 물로만 두세번 행구고 키친타월로 깨끗하게 몇번 닦아주니 코팅이 아직도 크게 손상되지 않았지만 이제는 바꿔줘야 되지 않을까 싶어 구입하게 되었습니다. 역시 코팅력 좋고, 세척도 편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 에** 인덕션 후라이팬 24cm",
+    "ReviewScore": "5",
+    "Syllable": "147",
+    "Word": "36",
+    "RDate": "20220518",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅력 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "세척도 편합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416245",
+    "RawText": "깊이가 좀 깊었으면 좋았을텐데 좀 납작합니다. 20cm랑 다른 스타일입니다. 제품은 튼튼해 보여서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 에** 인덕션 후라이팬 24cm",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20220510",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "깊이가 좀 깊었으면 좋았을텐데 좀 납작합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "20cm랑 다른 스타일입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "제품은 튼튼해 보여서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416246",
+    "RawText": "집에서 사용하고 있는 후라이팬이 낡고 코팅도 벗겨진 듯 해서 새로 구매했습니다. 다른 곳에 비해 싸고 좋습니다. 사이즈도 딱 원하던 크기입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 에** 인덕션 후라이팬 24cm",
+    "ReviewScore": "4",
+    "Syllable": "80",
+    "Word": "20",
+    "RDate": "20220508",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 곳에 비해 싸고 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 딱 원하던 크기입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416252",
+    "RawText": "30cm로 주문할걸 사이즈가 좀 작은 듯 해요. OO이라 그런가 품질은 괜찮은데, 가격이 크기에 비에 좀 비싼 듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 에** 인덕션 후라이팬 24cm",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "18",
+    "RDate": "20220316",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "30cm로 주문할걸 사이즈가 좀 작은 듯 해요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "OO이라 그런가 품질은 괜찮은데,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 크기에 비에 좀 비싼 듯 합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "416253",
+    "RawText": "지난달에 28cm 프라이팬과 궁중팬을 사용해서 쓰다가 너무 좋았습니다. 그래서 24cm OOOO도 추가 주문했습니다.  열전도율도 좋고 하이라이트와 인덕션을 같이 쓸수 있어 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 에** 인덕션 후라이팬 24cm",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "21",
+    "RDate": "20220309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "열전도율도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "하이라이트와 인덕션을 같이 쓸수 있어 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416256",
+    "RawText": "잘 사용하고 있습니다. 사이즈가 적당해서 마음에 들고 밑이 스텐이라 더 더욱 맘에 드는 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 에** 인덕션 후라이팬 24cm",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "14",
+    "RDate": "20220222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 적당해서 마음에 들고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "밑이 스텐이라 더 더욱 맘에 드는 제품입니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416257",
+    "RawText": "돌고돌아 결국 OO이네요. 몇 년 전에도 겉은 스텐 소재인 OO후라이팬을 사용했었는데 가격도 꽤 비싸고 무엇보다 무게가 무거워 조리시 힘들었거든요. 이젠 정말 가벼워졌어요. 원래 정가보다 훨씬 저렴히 구매하게 돼서 더 만족스럽네요. 후라이팬은 OO이 최곱니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 에** 인덕션 후라이팬 24cm",
+    "ReviewScore": "5",
+    "Syllable": "145",
+    "Word": "33",
+    "RDate": "20220219",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "이젠 정말 가벼워졌어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "원래 정가보다 훨씬 저렴히 구매하게 돼서 더 만족스럽네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416258",
+    "RawText": "항상 쓰는 OO 후라이팬 만족합니다, 디자인이 계속 바뀌어 좋습니다. 좋은 가격에 잘 사서 좋아요. 잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 에** 인덕션 후라이팬 24cm",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20220212",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 계속 바뀌어 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 잘 사서 좋아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416259",
+    "RawText": "집에서 쓰던 같은 제품의 프라이팬보다 크기가 훨씬 작아서 실망입니다. 같은 브랜드의 똑같은 24인치 사이즈인데 왜 더 작은 건지 모르겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 에** 인덕션 후라이팬 24cm",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20220128",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "같은 제품의 프라이팬보다 크기가 훨씬 작아서 실망입니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "같은 브랜드의 똑같은 24인치 사이즈인데 왜 더 작은 건지 모르겠네요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "416263",
+    "RawText": "고급스러움에 반했어요. 무쇠 쓰고 있는 저는 5중이라도 무겁단 생각은 안 듭니다.  받자마자 세척 깨끗이 해 제육볶음했는데 늘러 붙지 않고 아주 잘 됩니다. 26cm 스텐도 구입 의사 있습니다. 가격만 조금 저렴하면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "127",
+    "Word": "31",
+    "RDate": "20220316",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "고급스러움에 반했어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무쇠 쓰고 있는 저는 5중이라도 무겁단 생각은 안 듭니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "늘러 붙지 않고 아주 잘 됩니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격만 조금 저렴하면 좋겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "416266",
+    "RawText": "무거운 줄은 알고 샀지만 그래도 너무 무겁습니다. 그걸 감안하더라도 세척할 때 힘듭니다. 사용한지 두 달이 됐는데도 새까만게 계속 묻어 나오네요. 처음에 연마제 제거 3번이나 꼼꼼하게 했는데도 그렇습니다. 스텐팬 처음이라 당황스러워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "4",
+    "Syllable": "131",
+    "Word": "30",
+    "RDate": "20220221",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거운 줄은 알고 샀지만 그래도 너무 무겁습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "그걸 감안하더라도 세척할 때 힘듭니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "사용한지 두 달이 됐는데도 새까만게 계속 묻어 나오네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "처음에 연마제 제거 3번이나 꼼꼼하게 했는데도 그렇습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "416267",
+    "RawText": "스텐후라이펜 처음 쓰는데 너무 불편합니다. 너무 음식물이 눌어붙어서 엄청 쓰기가 불편하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20220220",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "스텐후라이펜 처음 쓰는데 너무 불편합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "너무 음식물이 눌어붙어서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "엄청 쓰기가 불편하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "416269",
+    "RawText": "무쇠후라이팬도 써봤는데 후라이팬이 이렇게 무거울수있나요. 1.7kg인데 체감은 몇배는 더 무겁게 느껴지네요. 보통 손잡이 끝 부분을 잡는데 끝 부분 잡으니 더 무겁게 느껴집니다. 잠깐 들었는데 손목에 무리가 가는 무게예요. 너무 무거워서 설거지하기 두려울 정도입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "3",
+    "Syllable": "149",
+    "Word": "33",
+    "RDate": "20220209",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "후라이팬이 이렇게 무거울수있나요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "1.7kg인데 체감은 몇배는 더 무겁게 느껴지네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "보통 손잡이 끝 부분을 잡는데 끝 부분 잡으니 더 무겁게 느껴집니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "잠깐 들었는데 손목에 무리가 가는 무게예요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "너무 무거워서 설거지하기 두려울 정도입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "416270",
+    "RawText": "뽀득뽀득 쉽게 씻을 수 있어 좋습니다. 통5중이라 바닥이 두꺼워 좋긴한데 인덕션 사용시는 세월아 네월아 느긋해야 쓸 수 있다는 겁니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "4",
+    "Syllable": "75",
+    "Word": "19",
+    "RDate": "20220129",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "뽀득뽀득 쉽게 씻을 수 있어 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "통5중이라 바닥이 두꺼워 좋긴한데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션 사용시는 세월아 네월아 느긋해야 쓸 수 있다는 겁니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "416274",
+    "RawText": "가격이 좀 나가서 그렇지만 잘 사용하고 있는 중이에요. 역시 스텐펜사용이 어렵긴 하지만 이정도면 나름 만족하는 수준입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20211108",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 나가서 그렇지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "스텐펜사용이 어렵긴 하지만 이정도면 나름 만족하는 수준입니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416280",
+    "RawText": "일단 무거워서 뭔 요리하려 하면 더 피곤하고 그을음이 잘 안 없어지네요. 근데 관리만 잘하면 오래쓸거같긴 합니다. 열전도율과 열보존성은 좋습니다.  통5중이라 가스불에 더 어울리는듯 인덕션은 바닥3중만 써도 될 거 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "124",
+    "Word": "29",
+    "RDate": "20210822",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "일단 무거워서 뭔 요리하려 하면 더 피곤하고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "그을음이 잘 안 없어지네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "관리만 잘하면 오래쓸거같긴 합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "열전도율과 열보존성은 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "열보존성은 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "통5중이라 가스불에 더 어울리는듯 인덕션은 바닥3중만 써도 될 거 같네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "416283",
+    "RawText": "무게가 좀 무겁지만 예열 잘하면 요리하기 좋습니다. 다른제품이랑 고민했었는데 좀 더 가벼운 제품으로 하나 더 사야겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20210718",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게가 좀 무겁지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "예열 잘하면 요리하기 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "좀 더 가벼운 제품으로 하나 더 사야겠네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "416286",
+    "RawText": "하루만에 배송되어서 좋네요. 28cm 를 구입했어요. 생각보다 무겁네요. 여자가 한손으로 들기에는 무리가 있는 무게입니다. 팬은 디자인도 깨끗하고 만족해요. 스테이크 해먹어 봐야겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "103",
+    "Word": "21",
+    "RDate": "20210706",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각보다 무겁네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "여자가 한손으로 들기에는 무리가 있는 무게입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "팬은 디자인도 깨끗하고 만족해요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416290",
+    "RawText": "무거운편이기는 한데 무쇠보단 확실히 덜 무거워서 그나마 낫네요. 아직 음식을 해먹어본건 아니지만 음식맛이 기대되네요. 세척한다고 좀 힘들었습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "17",
+    "RDate": "20210602",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거운편이기는 한데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무쇠보단 확실히 덜 무거워서 그나마 낫네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "음식맛이 기대되네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "세척한다고 좀 힘들었습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "416291",
+    "RawText": "흠집없는 제품으로 잘 받았어요. 역시 묵직해서 좋은 OO 통5중이라 더 좋구요. 열변화가 심하지 않아 아주 만족스러워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20210521",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직해서 좋은 OO",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "통5중이라 더 좋구요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "열변화가 심하지 않아 아주 만족스러워요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416293",
+    "RawText": "역시 브랜드라 그런가 처음 연마제 제거할때 검은거 안묻어나와서 좋았어요.. 아직 적응이 안되서 계속 늘러붙는중이라 난감합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "15",
+    "RDate": "20210518",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": " 처음 연마제 제거할때 검은거 안묻어나와서 좋았어요.. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "아직 적응이 안되서 계속 늘러붙는중이라 난감합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "416300",
+    "RawText": "생각보다 묵직하네요. 확실히 일반 코팅팬보다 열전도, 열보존이 월등히 좋아서 만족스럽습니다. 배송 빨라서 좋았네요. 잘 사용해볼께요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "15",
+    "RDate": "20210430",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각보다 묵직하네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "일반 코팅팬보다 열전도, 열보존이 월등히 좋아서 만족스럽습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416303",
+    "RawText": "꼼꼼하게 포장되었으나 팬에 살짝 잔기스가 있어요. 큰 문제는 아니지만 약간 아쉽네요. 무거운거 감안하고 구매해서 조금 무겁지만 괜찮고, 고기, 계란후라이할때 잘 쓰고 있어요. 사용법이랑 불조절이 아직 쉽진 않지만 요리할때마다 찾아보고 있네요. 그래도 타거나 달라붙었을때 따뜻한 물에 불려서 닦으면 잘 닦여서 만족하고 사용중이에요. 감사드려요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "191",
+    "Word": "42",
+    "RDate": "20210417",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거운거 감안하고 구매해서 조금 무겁지만 괜찮고, ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "고기, 계란후라이할때 잘 쓰고 있어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "타거나 달라붙었을때 따뜻한 물에 불려서 닦으면 잘 닦여서 만족하고 사용중이에요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용법이랑 불조절이 아직 쉽진 않지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "416304",
+    "RawText": "통5중이라 무게감이 있어서 인덕션용으로는 안성맞춤이에요. 팬이 가벼우면 인덕션에서는 음식할 때 움직여서 불편했는데 이건 묵직해서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "15",
+    "RDate": "20210330",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "통5중이라 무게감이 있어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션용으로는 안성맞춤이에요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "팬이 가벼우면 인덕션에서는 음식할 때 움직여서 불편했는데 이건 묵직해서 좋아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416305",
+    "RawText": "통5중이라 좋고 정말 묵직하네요. 손잡이 반대편에 보조손잡이가 있었으면 하는 아쉬움이 있네요. 거의 모든 후라이팬이 보조손잡이를 장착하지 않기 때문에 개인적인 아쉬움은 제외하고 정말 좋네요. 열 보존율, 전달율 등 그간 몇번 스텐펜을 써봤지만 가장 마음에 드는 팬이에요. 추가로, 스텐팬을 처음 사용할때 대부분 연마제를 닦아내는 수고로움이 있는데 이건 거의 묻어나질 않더라구요. 출고관리도 잘되는듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "226",
+    "Word": "50",
+    "RDate": "20210321",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "통5중이라 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "정말 묵직하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손잡이 반대편에 보조손잡이가 있었으면 하는 아쉬움이 있네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "스텐팬을 처음 사용할때 대부분 연마제를 닦아내는 수고로움이 있는데 이건 거의 묻어나질 않더라구요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "열 보존율, 전달율 등 그간 몇번 스텐펜을 써봤지만 가장 마음에 드는 팬이에요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416306",
+    "RawText": "물건은 좋은데 연로하신 어머님이 쓰시기엔 많이 무겁습니다. 무게때문에 통5중까지 안하고 통3중으로 하면 좋았을텐데 하는 생각이 듭니다.  제품은 고급지고 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "4",
+    "Syllable": "90",
+    "Word": "19",
+    "RDate": "20210317",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "연로하신 어머님이 쓰시기엔 많이 무겁습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게때문에 통5중까지 안하고 통3중으로 하면 좋았을텐데 하는 생각이 듭니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "제품은 고급지고 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416307",
+    "RawText": "28이 묵직하긴 합니다. 무쇠쓰는 집이라 그리 무겁단 생각은 못했지만 여자분들은 보조손잡이를 원할만한 무게에요. 제품 퀄리티도 좋고 두께도 두껍고 매우좋아요. 연마제도 조금이고 첫 후라이라 기름 두스푼에 후라이해봤는데 역시 잘 되네요. 스텐 초보시라면 꼭 이런 두꺼운팬을 쓰시는걸 추천해요. 팬이 잘 식지 않으니까 무쇠처럼 식재료가 민감해도 온도 확 떨어져서 붙는일 적고 예열이나 기름타는것도 불조절도 신경 덜써도 되구요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "236",
+    "Word": "54",
+    "RDate": "20210316",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "28이 묵직하긴 합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "여자분들은 보조손잡이를 원할만한 무게에요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 퀄리티도 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께도 두껍고 매우좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제도 조금이고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "첫 후라이라 기름 두스푼에 후라이해봤는데 역시 잘 되네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "팬이 잘 식지 않으니까 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "무쇠처럼 식재료가 민감해도 온도 확 떨어져서 붙는일 적고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "예열이나 기름타는것도 불조절도 신경 덜써도 되구요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "그리 무겁단 생각은 못했지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416308",
+    "RawText": "이제 코팅팬 벗어나려고 오랫동안 벼르다가 구입했네요. 묵직한 건 각오했지만 정말 무겁네요. 스텐 통 5중이라 소재는 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20210316",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직한 건 각오했지만 정말 무겁네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "스텐 통 5중이라 소재는 좋네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416310",
+    "RawText": "빠른 배송에 상품 품질이 좋아요. 가격도 착해서 마음에 듭니다. OOOO 만큼의 고가는 아니지만 품질이 절대 뒤쳐지지 않는거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20210312",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착해서 마음에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "OOOO 만큼의 고가는 아니지만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 절대 뒤쳐지지 않는거 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416318",
+    "RawText": "스탠팬 처음 사용해보는거지만 사용할땐 만족해요. 근데 사용 후 세척하는게 생각보다 간단하지는 않아요. 팬 위쪽에 묻은 음식 자국처리가 쉽지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "19",
+    "RDate": "20210209",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "사용 후 세척하는게 생각보다 간단하지는 않아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "팬 위쪽에 묻은 음식 자국처리가 쉽지 않습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "416326",
+    "RawText": "가격을 떠나서 품질이 좋은 스텐 프라이팬을 원했습니다. 건강에 도움 되는 제품인 것 같아서 구매했어요. 일단 써보고 만족하면 스텐 웍도 구매할예정이에요. 제품은 일단 보기에 깔끔해보이고 생각했던 것보다는 무게가 많이 무겁지 않은 것 같아 만족하지만 조금 더 사용해봐야 할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "4",
+    "Syllable": "159",
+    "Word": "39",
+    "RDate": "20210107",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "제품은 일단 보기에 깔끔해보이고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각했던 것보다는 무게가 많이 무겁지 않은 것 같아 만족하지만",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416331",
+    "RawText": "나름 큰 맘 먹고 가격이 비쌌는데도 구매했는데 배송 도착해서 확인해보니 잔기스가 너무 많아서 조금 실망입니다. 겉면의 기스는 배송중에 생길수있다고 생각하는데, 후라이팬 안쪽에 찍힌 상처들은 작아서 그냥 통과시켰다라는 느낌이 들어요. 안쪽에만 조그마한 기스가3~4개있고 잔기스가 좀 많은편입니다. 좀 심하다싶게 무겁기도 해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "2",
+    "Syllable": "181",
+    "Word": "39",
+    "RDate": "20201217",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비쌌는데도 구매했는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "좀 심하다싶게 무겁기도 해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "416332",
+    "RawText": "너무 무거워 손목 아플 정도입니다. 길들이기 어려우나 위생적이긴 하네요. 스텐은 처음인데 잘 사용해보겠습니다. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "3",
+    "Syllable": "68",
+    "Word": "14",
+    "RDate": "20201216",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "너무 무거워 손목 아플 정도입니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "길들이기 어려우나 위생적이긴 하네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416333",
+    "RawText": "스텐 프라이팬 쓰고 싶어서 먼저  작은거 사서 익숙해지려고 샀는데 할 때마다 복불복이었네요. 어느 때는 타지 않게 되고 어느 때는 처음부터 타고 그래서 가스불이 커서 그런가 싶어서 작은 화구에서도 했는데 좀 안되었어요. 그래도 스텐 프라이팬에 미련 못버리고 계속 검색만 하던 OOOO 28센치 구매했어요. 이전 거에 비해서 크다보니 예열은 더 센불에서 시간도 더 걸립니다. 처음 고기 구웠는데 비교적 잘 됐네요. 앞으로 더 익숙해지면 더 맛나게 요리해먹을 수 있을 것 같습니다. 다들 알고 있지만 한 손으로 들기 무겁습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "293",
+    "Word": "75",
+    "RDate": "20201129",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "이전 거에 비해서 크다보니 예열은 더 센불에서 시간도 더 걸립니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "처음 고기 구웠는데 비교적 잘 됐네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "앞으로 더 익숙해지면 더 맛나게 요리해먹을 수 있을 것 같습니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "한 손으로 들기 무겁습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "416338",
+    "RawText": "예열도 하고 기름도 두르고 전 부쳤는데 다 눌어 붙어서 설겆이 할 때 떼느라 너무 힘드네요. 저는 역시 코팅팬이 편하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "2",
+    "Syllable": "68",
+    "Word": "19",
+    "RDate": "20201010",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "예열도 하고 기름도 두르고 전 부쳤는데 다 눌어 붙어서",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "설겆이 할 때 떼느라 너무 힘드네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "416340",
+    "RawText": "사용법때문에 많이 고민했으나 아이들 건강 생각해서 구매했어요. 받고나서도 일주일을 묵혀두고 오늘에서야 연마제 제거작업했는데 세상에 묻어나오는게 진짜 전혀 없었네요. OOO 감사해요. OO의 눌러붙지 않게 하는 영상보고 그대로 따라해봤는데 정말 눌러붙는거 없이 첫번에 바로 성공했어요. 듣던대로 스텐에다 하니 맛도 더 좋습니다. 모두 건강한 음식 드시길 바라요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "201",
+    "Word": "44",
+    "RDate": "20201003",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제 제거작업했는데 세상에 묻어나오는게 진짜 전혀 없었네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "정말 눌러붙는거 없이 첫번에 바로 성공했어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "스텐에다 하니 맛도 더 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416341",
+    "RawText": "무거운거 빼곤 모두 만족스럽습니다. 통5중이니 당연 무겁지만 싸게 잘 샀습니다. 상품평 꼼꼼히 읽어보고 구매했는데 잘 사용해보겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "16",
+    "RDate": "20201002",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거운거 빼곤 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "통5중이니 당연 무겁지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 잘 샀습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416343",
+    "RawText": "OOO보고 주문한건데 무겁습니다. 스텐팬은 처음이라 잘 다루지 못하는거 겠지만 한번 요리하고 설거지하자마자 물때 자국이랄까 미네랄 자국이랄까 계속 남습니다. 식초로 닦아도 안 없어지네요. 관리가 어려운거 같습니다. 손잡이와 몸통부분에 이물질이 끼지 않는 스폿방식 용접이라 써 있는데 받고서 든 의아함은 틈이 생각보다 넓어서 이물질이 낄거 같습니다. 그리고 내부에 기스가 있어서 아쉽습니다. 포장은 너무 이쁘네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "3",
+    "Syllable": "230",
+    "Word": "51",
+    "RDate": "20200923",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁습니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "설거지하자마자 물때 자국이랄까 미네랄 자국이랄까 계속 남습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "식초로 닦아도 안 없어지네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "관리가 어려운거 같습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "틈이 생각보다 넓어서 이물질이 낄거 같습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "내부에 기스가 있어서 아쉽습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "416347",
+    "RawText": "맘에 들어요. 일단 닦아야 하는데 연마제가 많이 안나오면 좋겠습니다. 손잡이도 두툼해서 좋고 튼튼해 보입니다. 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "16",
+    "RDate": "20200916",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제가 많이 안나오면 좋겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "손잡이도 두툼해서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해 보입니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416350",
+    "RawText": "배송이 빠르고 좋습니다. 무거운 게 흠이지만 스텐이라 가족 건강을 위해 오래 쓸거라 맘에 듭니다. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "4",
+    "Syllable": "63",
+    "Word": "16",
+    "RDate": "20200913",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거운 게 흠이지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "스텐이라 가족 건강을 위해 오래 쓸거라 맘에 듭니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416357",
+    "RawText": "물건 집에 오자마자 세척했는데 세척하기가 힘들었습니다. 거기에 계란후라이 했는데 잘 되긴 했어요. 그런데 단점은 무겁네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20200809",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "물건 집에 오자마자 세척했는데 세척하기가 힘들었습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "거기에 계란후라이 했는데 잘 되긴 했어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁네요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "416359",
+    "RawText": "배송은 빨리 왔습니다. 그 다음날 바로 예열하고 머큐리 만들어 계란후라이 맛나게 바로 성공하고 김치볶음밥도 맛나게 만들어 먹었습니다.  그런데 한번 썼는데 바로 누래졌는데 무엇이 잘못 된 것인지... 크기는 4인 가족 쓰기에 만족합니다. 무게는 꽤 나가네요.  무거워서 여자인 저는 두 손으로 들어야 들어집니다. 한 손으로도 들 수 있지만 뜨거운 요리라서 조심스럽습니다. 아무튼 요리는 맛나게 먹었습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "226",
+    "Word": "53",
+    "RDate": "20200710",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "머큐리 만들어 계란후라이 맛나게 바로 성공하고 김치볶음밥도 맛나게 만들어 먹었습니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "한번 썼는데 바로 누래졌는데 무엇이 잘못 된 것인지... ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기는 4인 가족 쓰기에 만족합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게는 꽤 나가네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거워서 여자인 저는 두 손으로 들어야 들어집니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "아무튼 요리는 맛나게 먹었습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416364",
+    "RawText": "스테인레스 팬 처음 사용해보는데 완전 기대하고 있습니다. 무겁긴하지만 잘 사용하면 정말 정말 오래 사용할수 있을듯한 느낌이 팍팍 드네요. 많이 파시고 수고하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "21",
+    "RDate": "20200606",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁긴하지만",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "정말 정말 오래 사용할수 있을듯한 느낌이 팍팍 드네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416366",
+    "RawText": "스테인리스 특성상 길들여야 해서 쓰기 까다롭지만 만족합니다. 계란후라이빼곤 거의 편하게 요리하고 있어요. 건강하게 먹으려고 하시는분은 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "4",
+    "Syllable": "81",
+    "Word": "16",
+    "RDate": "20200528",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "스테인리스 특성상 길들여야 해서 쓰기 까다롭지만 만족합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "계란후라이빼곤 거의 편하게 요리하고 있어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "416367",
+    "RawText": "스텐팬 써보고 싶어서 고민하다가, 인덕션과 가스렌지 둘 다 사용할 수 있는 이 제품으로 구입했네요. 통5중이라 묵직해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20200527",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 인덕션과 가스렌지 둘 다 사용할 수 있는 이 제품으로 구입했네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "통5중이라 묵직해서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416368",
+    "RawText": "이제 코팅팬에서 벗어나려고 처음으로 스텐팬 구입했습니다. 고등어 구이 해봤는데 잘 됩니다. 스텐이라 안심되고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "4",
+    "Syllable": "66",
+    "Word": "14",
+    "RDate": "20200527",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "고등어 구이 해봤는데 잘 됩니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "스텐이라 안심되고 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416375",
+    "RawText": "설명이 필요없을거 같습니다. 스테인레스 품질도 아주 훌륭하며 손잡이 마감이 너무나 마음에 들어요. 스테인레스는 처음인데 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "16",
+    "RDate": "20200501",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "스테인레스 품질도 아주 훌륭하며",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "손잡이 마감이 너무나 마음에 들어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416383",
+    "RawText": "내내 OOO제품 스텐팬이나 코팅팬을 써오다 건강 생각해서 스탠팬으로 모두 바꾸려고 구입한 상품이에요. 기존 OOO 28cm와 같이 동량의 물을 넣고 끓였을 때 시간 차이는 없었고 OOO 스텐팬은 예열 잘 하고 사용하면 계란 후라이가 돌아다녔는데 이 팬은 아직 한번도 성공을 못했습니다. 그리고 팬 사용 후 누런 때가 잘 안지워지고 설거지가 더 힘이 듭니다. 이런 비교는 물론OOO 28cm와 비교한거구요. 아무래도 비싼 OOO와 3만원인 이 제품의 품질을 비교하면 안되지만 단점들이 많이 보이긴합니다. 후기가 너무들 좋아서 많이 기대했었나봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "1",
+    "Syllable": "305",
+    "Word": "73",
+    "RDate": "20200412",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " OOO 스텐팬은 예열 잘 하고 사용하면 계란 후라이가 돌아다녔는데 이 팬은 아직 한번도 성공을 못했습니다",
+        "SentimentWord": "15",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "팬 사용 후 누런 때가 잘 안지워지고 설거지가 더 힘이 듭니다",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "비싼 OOO와 3만원인 이 제품의 품질을 비교하면 안되지만 단점들이 많이 보이긴합니다",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "기존 OOO 28cm와 같이 동량의 물을 넣고 끓였을 때 시간 차이는 없었고 ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "416384",
+    "RawText": "316이라 많이 무거워요. 무게 때문에 손목에 무리가 갈가봐 걱정되지만 잘 활용해서 쓰려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20200411",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "316이라 많이 무거워요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게 때문에 손목에 무리가 갈가봐 걱정되지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "416386",
+    "RawText": "요즘 코로나 때문에 집순이 되서 사봤습니다. 근데 무겁긴한데 스텐이라 코팅 벗겨질 걱정없이 사용할 수 있으니 좋네요. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20200408",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁긴한데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "스텐이라 코팅 벗겨질 걱정없이 사용할 수 있으니 좋네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416388",
+    "RawText": "구매하면서 예상했던 무게보다는 묵직하네요. 확실히 무게가 통5중이라는 점이 느껴지는 부분이라고 생각해요.  무게만 생각해보면 팔이나 손목에 힘이 없는 여성분들은 다루기엔 다소 무리가 있을 것 같아요.  그 외 구리가 들어있는 통5중이라 좋은데 열 전달이나 보존이 잘 되는 것 같아서 만족스럽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "165",
+    "Word": "38",
+    "RDate": "20200403",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "구매하면서 예상했던 무게보다는 묵직하네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "확실히 무게가 통5중이라는 점이 느껴지는 부분이라고 생각해요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게만 생각해보면 팔이나 손목에 힘이 없는 여성분들은 다루기엔 다소 무리가 있을 것 같아요. ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "그 외 구리가 들어있는 통5중이라 좋은데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "열 전달이나 보존이 잘 되는 것 같아서 만족스럽네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416389",
+    "RawText": "기대이상으로 제품 품질도 너무 훌륭하고 하나도 안 눌어붙고 요리도 너무 잘 됩니다. 진즉에 코팅 후라이팬에서 스텐으로 바꿀걸 그랬네요. 정말 품질력이 최상의 제품인것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "23",
+    "RDate": "20200331",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "기대이상으로 제품 품질도 너무 훌륭하고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "하나도 안 눌어붙고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "요리도 너무 잘 됩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질력이 최상의 제품인것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416390",
+    "RawText": "무게가 생각보다 상당하네요. 부침개할때 후라이팬들고 뒤집는건 저한텐 힘들 것 같습니다. 그래도 평생 쓸생각으로 고민하고 산거라 얼마나 오래 쓸지기대가 됩니다. 정말 튼튼해 보여요. 오래오래 잘 써볼게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "113",
+    "Word": "25",
+    "RDate": "20200328",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게가 생각보다 상당하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 부침개할때 후라이팬들고 뒤집는건 저한텐 힘들 것 같습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "얼마나 오래 쓸지 기대가 됩니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "정말 튼튼해 보여요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416393",
+    "RawText": "통삼중으로 써오다가 이번에 바꾼 프라이팬에 만족을 하고 있습니다. 26에서 28로 커지고, 3중에서 5중 (OOOO)를 쓰니까  여러가지로 편리해졌습니다. 전이나, 계란 프라이 할 때 눌러 붙지 않고, 설거지를 할 때 편리하고 좋다는 생각이 절로 들었어요.  팬에 붙지 않고 잘 뒤집어 지니까 재미도 납니다. 무게는 조금 더 늘었지만, 장점에 비하면 느껴지지 않을 정도예요. 상품평을 잘 올리지 않는데 만족감에 이렇게 글을 남겨보네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "243",
+    "Word": "58",
+    "RDate": "20200318",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여러가지로 편리해졌습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "전이나, 계란 프라이 할 때 눌러 붙지 않고,",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "설거지를 할 때 편리하고 좋다는 생각이 절로 들었어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "팬에 붙지 않고 잘 뒤집어 지니까 재미도 납니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게는 조금 더 늘었지만, 장점에 비하면 느껴지지 않을 정도예요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "416394",
+    "RawText": "통5중이라 아주 마음에 듭니다. 품질은 역시나 좋습니다. 좋은 요리를 할 수 있다니 벌써 설레네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "14",
+    "RDate": "20200314",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "통5중이라 아주 마음에 듭니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 역시나 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416395",
+    "RawText": "디자인이 고급스럽고 좋습니다. 코팅후라이팬이 몸에 안좋다니 스테인레스라 안심하고 사용하기 좋을거 같아요. 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "13",
+    "RDate": "20200313",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 고급스럽고 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "스테인레스라 안심하고 사용하기 좋을거 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416402",
+    "RawText": "베이킹소다로 한 번 식초로 한 번 세척했어요. 닦을 때 연마제가 묻어나왔지만 많다고 느껴지지는 않았네요. 계란후라이는 확실히 코팅팬으로 만들 때보다 많이 귀찮지만 겉부분이 크리스피하게 구워져 맛은 더 좋은 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 28cm",
+    "ReviewScore": "4",
+    "Syllable": "121",
+    "Word": "29",
+    "RDate": "20200210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "베이킹소다로 한 번 식초로 한 번 세척했어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "닦을 때 연마제가 묻어나왔지만 많다고 느껴지지는 않았네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "계란후라이는 확실히 코팅팬으로 만들 때보다 많이 귀찮지만 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": " 겉부분이 크리스피하게 구워져 맛은 더 좋은 것 같아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416413",
+    "RawText": "OOO 후라이팬 사용해봤는데 견고하고 내구성이 좋은거 같아서 재구매 했어요. 조리할때 다른 냄비보다 궁중팬을 제일 많이 사용하게 되는거 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "18",
+    "RDate": "20220825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "견고하고 내구성이 좋은거 같아서 재구매 했어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "조리할때 다른 냄비보다 궁중팬을 제일 많이 사용하게 되는거 같네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416416",
+    "RawText": "OOO 궁중팬 사용해보고 요리하기 너무 편해서 지인들에게 추쳔하고 있습니다. 다이아몬드 코팅력이 너무 좋아서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "14",
+    "RDate": "20220824",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "OOO 궁중팬 사용해보고 요리하기 너무 편해서 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "다이아몬드 코팅력이 너무 좋아서 만족합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416433",
+    "RawText": "두껍고 튼튼해 보여 구매했어요. 실제로 프라이팬 바닥이 두꺼워서 음식이 타지 않네요. 또한 튼튼해서 오래 쓸 수 있을 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "19",
+    "RDate": "20220801",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "프라이팬 바닥이 두꺼워서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "음식이 타지 않네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 튼튼해서 오래 쓸 수 있을 것 같습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416441",
+    "RawText": "쓰던 팬이 자꾸 눌러 붙어서 바꿨는데 실수로 똑같은 팬을 사버렸어요. 이 프라이팬은 코팅이 두꺼워 벗겨지지 않아서 좋아요. 그런데 사용하다 보면 음식이 눌러 붙습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "4",
+    "Syllable": "93",
+    "Word": "23",
+    "RDate": "20220721",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅이 두꺼워 벗겨지지 않아서 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "사용하다 보면 음식이 눌러 붙습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "쓰던 팬이 자꾸 눌러 붙어서 바꿨는데 실수로 똑같은 팬을 사버렸어요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "416443",
+    "RawText": "저렴하게 좋은 제품 샀습니다. 배송도 빠르고 너무 좋습니다. OO 본사몰과 비교해서 샀는데 가격이 좋네요. 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20220718",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 좋은 제품 샀습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "OO 본사몰과 비교해서 샀는데 가격이 좋네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416450",
+    "RawText": "OOO 품질 믿고 사용합니다. 단점은 좀 무겁고 손잡이가 길어서 불편하네요. 그래도 코팅은 좋아 보입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "4",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20220704",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "OOO 품질 믿고 사용합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 단점은 좀 무겁고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": " 손잡이가 길어서 불편하네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅은 좋아 보입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416458",
+    "RawText": "사이즈가 넉넉해서 좋습니다. 좀 무겁긴 하지만 무게감이 있어야 가쪽이 타지 않고 코팅도 오래가는 것 같습니다. OOO  좀 더 고급라인도 있으나 막 쓰긴엔 이 정도가 딱인 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "27",
+    "RDate": "20220608",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 넉넉해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 좀 무겁긴 하지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "OOO  좀 더 고급라인도 있으나 막 쓰긴엔 이 정도가 딱인 것 같아요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416464",
+    "RawText": "팬이 두꺼워서 좋고 묵직해서 맘에 듭니다. 코팅력도 짱짱하고 스크레치에도 강합니다. 역시 OOO입니다. OO보다 코팅력이 더 좋은 것 같습니다. 어느 OOOO 추천으로 OOO과 OO가 가성비 좋다고 하던데 전 OOO이 더 가성비 좋은 거 같습니다. 손잡이 떼었다 붙였다 하는 기능 추가한 제품도 만들어 주시면 OOO로 다 갈아탈게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "186",
+    "Word": "45",
+    "RDate": "20220531",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "팬이 두꺼워서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직해서 맘에 듭니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅력도 짱짱하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "스크레치에도 강합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "OO보다 코팅력이 더 좋은 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "OOO이 더 가성비 좋은 거 같습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416470",
+    "RawText": "좋은 가격에 잘 구매했네요. 특히 국물 요리할 때 유용하게 쓰고 있습니다. 코팅도 잘 되어 있고 잘 안 벗겨 질 것 같아서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "22",
+    "RDate": "20220512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 잘 구매했네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "국물 요리할 때 유용하게 쓰고 있습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅도 잘 되어 있고 잘 안 벗겨 질 것 같아서 좋습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416474",
+    "RawText": "집에 있던 궁중팬이 수명을 다해서 새로 샀습니다. 불고기 볶음 등 볶음 음식 만들 때 정말 맛있는 요리가 됩니다. OOO은 품질 믿고 쓰는 제품입니다. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "25",
+    "RDate": "20220508",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "불고기 볶음 등 볶음 음식 만들 때 정말 맛있는 요리가 됩니다",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "OOO은 품질 믿고 쓰는 제품입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416480",
+    "RawText": "두번째 구매하는 궁중팬입니다. 다른 제품보다 사용도 편합니다. 새우 튀김 등 튀김 요리가 바삭하게 잘 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20220425",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "다른 제품보다 사용도 편합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "새우 튀김 등 튀김 요리가 바삭하게 잘 됩니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416481",
+    "RawText": "좀 무겁긴 해도 역시 코팅은 최고입니다. OOO 제품 중에서도 이 제품 코팅이 최고로 좋은 거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "16",
+    "RDate": "20220423",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "좀 무겁긴 해도",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": " 역시 코팅은 최고입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "OOO 제품 중에서도 이 제품 코팅이 최고로 좋은 거 같아요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416482",
+    "RawText": "디자인도 예쁘고 코팅도 잘 되어 있는 것 같아 좋습니다. 깊이감 있는 궁중팬이라 쓰기 편하네요. 재구매 의사 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "4",
+    "Syllable": "66",
+    "Word": "17",
+    "RDate": "20220422",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예쁘고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅도 잘 되어 있는 것 같아 좋습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "깊이감 있는 궁중팬이라 쓰기 편하네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416494",
+    "RawText": "인덕션용이라 구매했습니다. 그런데  열전도율이 너무 안 좋습니다.  요리 도중 결국 예전 걸로 교체할 정도로 음식이 안됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20220401",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션용이라 구매했습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": " 열전도율이 너무 안 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": " 요리 도중 결국 예전 걸로 교체할 정도로 음식이 안됩니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "416495",
+    "RawText": "이 모델의 일반 팬을 아주 잘 사용해 보고 맘에 들어 이 제품도 구매했어요. 아직 사용 전이긴 하지만 만족스럽게 잘 사용할 것 같습니다. 많이 고민했던 크기 부분도 제가 생각했던 크기라 아주 흡족해요. 코팅도 아주 우수해 보입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "129",
+    "Word": "35",
+    "RDate": "20220401",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 제가 생각했던 크기라 아주 흡족해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅도 아주 우수해 보입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416498",
+    "RawText": "상품 품질이 좋아서 마음에 듭니다. 선물로 대량 구매했는데 포장도 꼼꼼하고 품질도 좋아서 받는 분들도 좋아하셨네요. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "16",
+    "RDate": "20220330",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋아서 마음에 듭니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋아서 받는 분들도 좋아하셨네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416507",
+    "RawText": "좋은 가격에 잘 구매했어요. 고기도 잘 구워지고 코팅도 좋아서 세척이 잘 돼서 편해요. 계란도 잘 구워지는거 같아서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "18",
+    "RDate": "20220312",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 잘 구매했어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "고기도 잘 구워지고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": " 코팅도 좋아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "세척이 잘 돼서 편해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "계란도 잘 구워지는거 같아서 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416508",
+    "RawText": "재구매 중인 상품인데 묵직해서 좋습니다. 인덕션 사용 가능해서 맘에 듭니다. 바닥 면적이 넓어서 인덕션 위에서 미끄럽지 않고 바닥 밀착력이 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "20",
+    "RDate": "20220307",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직해서 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 인덕션 사용 가능해서 맘에 듭니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "바닥 면적이 넓어서 인덕션 위에서 미끄럽지 않고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "바닥 밀착력이 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416511",
+    "RawText": "조금 무게감은 있지만 좋은 가격에 잘 구매했어요. 인덕션 사용 가능해서 좋습니다. 다음에는 작은 사이즈로 구매해 볼까 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20220303",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "조금 무게감은 있지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 잘 구매했어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션 사용 가능해서 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416515",
+    "RawText": "프라이팬 품질이 너무 좋습니다. 코팅도 잘 되어 있습니다. 넘 크지 않아서 사용하는데 부담이 없습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20220228",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "프라이팬 품질이 너무 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅도 잘 되어 있습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "넘 크지 않아서 사용하는데 부담이 없습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416540",
+    "RawText": "두꺼워서 잘 타지 않고 묵직해서 좋습니다. 잘 구매 한 것 같습니다. 견고해서 오랫동안 잘 사용할 것 같습니다. 믿고 사용하는 브랜드입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "20",
+    "RDate": "20220126",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "두꺼워서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 잘 타지 않고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직해서 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 견고해서 오랫동안 잘 사용할 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416543",
+    "RawText": "생각보다 무겁네요. 아직 써보진 않았지만 인덕션용이라 구매했습니다. 내구성이 좋아 보여 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "12",
+    "RDate": "20220122",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각보다 무겁네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 인덕션용이라 구매했습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 내구성이 좋아 보여 마음에 듭니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416549",
+    "RawText": "사이즈도 적당하고 무엇보다도 묵직하니 좋습니다. 이미지보다 실제 받아보니 디자인이 더 만족스러워요. 다음에 다른 제품도 주문해봐야겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "15",
+    "RDate": "20220112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무엇보다도 묵직하니 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이미지보다 실제 받아보니 디자인이 더 만족스러워요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416559",
+    "RawText": "이전 OOO 궁중팬보다 살짝 무거워서 속상해요. 하지만 내구성은 더 좋아 보이고 사이즈도 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20211221",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "이전 OOO 궁중팬보다 살짝 무거워서 속상해요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 내구성은 더 좋아 보이고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 맘에 듭니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416560",
+    "RawText": "OOO만 사용했기에 OOO 인덕션용이라 주문했어요. 그런데 너무 무거워서 손목이 아플거 같아 실망스러워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "12",
+    "RDate": "20211219",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " OOO 인덕션용이라 주문했어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 너무 무거워서 손목이 아플거 같아 실망스러워요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "416573",
+    "RawText": "OO 궁중팬 다양한 요리에 사용하려고 구입했네요. 다이아몬드 코팅이 오래가는것 같아서 늘 같은 라인의 제품을 구매합니다. 이 제품도 다양한 요리에 잘 사용할 듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "94",
+    "Word": "23",
+    "RDate": "20211201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "다이아몬드 코팅이 오래가는것 같아서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "이 제품도 다양한 요리에 잘 사용할 듯 합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416575",
+    "RawText": "상품 품질이 좋네요. 디자인도 마음에 듭니다. 마트에서 같은 상품 작은 사이즈 구입해서 쓰다가 큰 사이즈 구입했는데 사이즈 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20211129",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 마음에 듭니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 사이즈 너무 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416579",
+    "RawText": "엄마가 이 팬이 좋다고 하셔서 주문해 드렸는데 전 조금 무겁게 느꼈네요. 할인 행사해서 싸게 잘 샀습니다. 엄마는 사용감 넘 좋다고 하십니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "21",
+    "RDate": "20211119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "전 조금 무겁게 느꼈네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 할인 행사해서 싸게 잘 샀습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용감 넘 좋다고 하십니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416582",
+    "RawText": "배송 빠르고 품질 만족하네요. 가능하면 한국 제품을 이용하려고 하는데 이 제품은 가격이 좀 있지만 한국산이라 더 믿음이 갑니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20211114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 만족하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 제품은 가격이 좀 있지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "416584",
+    "RawText": "좋은 가격에 잘 구매했어요. 가격이 저렴한 편이지만 상품의 품질이 괜찮네요. 깊이가 있고 사이즈도 큰편이라 여러 요리에 유용하네요. 잘 사용할께요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "19",
+    "RDate": "20211110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 잘 구매했어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴한 편이지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품의 품질이 괜찮네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "깊이가 있고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 큰편이라",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여러 요리에 유용하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416587",
+    "RawText": "교체 시기에 리뷰평도 좋고 인덕션용이라 선택했습니다. 묵직해서 안정감 있고 더불어 좋은 가격에 구입해 감사해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20211107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션용이라 선택했습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 묵직해서 안정감 있고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 구입해 감사해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416592",
+    "RawText": "좋은 가격에 잘 구매했어요. OOO 다이아몬드 궁중팬 품질 너무 좋습니다. 살짝 무게감 있는거 빼고는 맘에 듭니다. 구매 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20211104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 잘 구매했어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "OOO 다이아몬드 궁중팬 품질 너무 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "살짝 무게감 있는거 빼고는",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "416599",
+    "RawText": "손잡이의 그립감이 좋습니다. OOO 궁중팬 또 구입하건데 오래 쓰고 좋습니다. 외국브랜드보다 우리브랜드가 훨씬 나은거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "15",
+    "RDate": "20211031",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "그립감",
+        "SentimentText": "손잡이의 그립감이 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "OOO 궁중팬 또 구입하건데 오래 쓰고 좋습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416607",
+    "RawText": "튼튼하고 코팅도 잘 되어 있어서 다양한 요리에 유용하게 사용하고 있어요. 배송도 빠르게 해주셔서 감사합니다. 잘 사용할께요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20211021",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅도 잘 되어 있어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "다양한 요리에 유용하게 사용하고 있어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "416608",
+    "RawText": "확실히 좋아요. OOO만 계속 사용하는데 디자인 너무 예쁘고 재질 품질 뭐하나 나무랄것이 없습니다. 퇴근하고 깨끗하게 씻어서 두번 팔팔 끓여서 식혀놨어요. 워낙 궁중팬을 잘써서 조만간 30cm도 구매하러 오겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 IH 포** 궁중팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "120",
+    "Word": "27",
+    "RDate": "20211020",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "OOO만 계속 사용하는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 너무 예쁘고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/질감",
+        "SentimentText": "재질 품질 뭐하나 나무랄것이 없습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 뭐하나 나무랄것이 없습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

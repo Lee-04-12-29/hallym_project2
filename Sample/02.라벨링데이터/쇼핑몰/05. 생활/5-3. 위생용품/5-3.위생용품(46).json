@@ -1,0 +1,3289 @@
+[
+  {
+    "Index": "500020",
+    "RawText": "ㅇㅇㅇ여서 사이즈 확인 안 하고 그냥 주문했더니 배송온 후 보니깐 기존에 사용하던 것 보다 세로 사이즈가 작습니다. ㅇㅇㅇ에서 대형도 두 가지 사이즈로 나오나봐요.  방송 알람 신청해 놓구 상담원이 구매 도와준다고 연락해서 앱으로 바로 구매했는데...  확인 후 구매하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "60",
+    "Syllable": "153",
+    "Word": "37",
+    "RDate": "20190116",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "기존에 사용하던 것 보다 세로 사이즈가 작습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "ㅇㅇㅇ에서 대형도 두 가지 사이즈로 나오나봐요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500025",
+    "RawText": "미세먼지 너무 심해서 반반구성으로 구매하서 쓰고있어요 아이들이 숨쉬기도 전에꺼보다 편하다고하고 여러모로 구성도 알차고 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "69",
+    "Word": "14",
+    "RDate": "20190124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "반반구성으로 구매하서 쓰고있어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "아이들이 숨쉬기도 전에꺼보다 편하다고하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "여러모로 구성도 알차고 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500026",
+    "RawText": "배송도 생각보다 빠르고.. 미세먼지 날로 더 안 좋아지는데 저렴히 잘 샀어요. 우선 부모님 드리려고 구매한건데.. 우리 가족용으로 재 구매하려합니다. 앗 그데 좀 아쉬운점은 성인 남성들이 쓰기엔 좀 작은것 같아요. 그래도 없는것보단 훨 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "136",
+    "Word": "33",
+    "RDate": "20190119",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴히 잘 샀어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "성인 남성들이 쓰기엔 좀 작은것 같아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500030",
+    "RawText": "여자아이 5세인데,소형 하는데도 할때마다 양쪽을 한번씩 꼬아허 사용해야맞아요 소형이라도 크네요  사용할때마다 불편하네요 ㅜㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "69",
+    "Word": "13",
+    "RDate": "20190207",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "여자아이 5세인데,소형 하는데도 할때마다 양쪽을 한번씩 꼬아허 사용해야맞아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "소형이라도 크네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용할때마다 불편하네요 ㅜㅜ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500035",
+    "RawText": "최근 몇년들어 부쩍 심각해진 미세먼지 때문에 외출할때마다 걱정이 많았는데요 그때마다 마스크를 구입하기엔 금전적인 부분이 걸려서 이 참에 본가에 부모님과 제 자취방으로 각각 한박스씩 주문해서 잘 받았습니다 배송도 매우 빠르고 안전하게 왔고요 생각했던 것 만큼이나 얼굴에 착 밀착되어 착용감도 만족합니다 :)",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "170",
+    "Word": "40",
+    "RDate": "20190116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "생각했던 것 만큼이나 얼굴에 착 밀착되어 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감도 만족합니다 :)",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500037",
+    "RawText": "ㅇㅇ꺼 사용하다 ㅇㅇㅇ스꺼 추천하길래 구매했더니 헐~~~그나마 끈이 부드러워 크기는 맞지만 마스크부분이 많이 작은듯요 왠지 감싸준다는 느낌이 안들어요ㅠㅠ     ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "60",
+    "Syllable": "90",
+    "Word": "17",
+    "RDate": "20190116",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "끈이 부드러워 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기는 맞지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "마스크부분이 많이 작은듯요 왠지 감싸준다는 느낌이 안들어요ㅠㅠ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500038",
+    "RawText": "대형은 여자에게 잘 맞은데 남편에게는 좀 작은듯..얼굴도 큰편도 아닌데 좀 쬐인데요.. 소형은 이제 7살되는 아이에게 끈이 좀 길어요.. 길이 조절이 안되서 일일이 묶을려니 엄청 번거롭고 불편하네요..ㅜㅜ 그래도 일단 쟁겨놓고 있으니 맘이 좀 편하네요..",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "60",
+    "Syllable": "142",
+    "Word": "33",
+    "RDate": "20190117",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "대형은 여자에게 잘 맞은데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "남편에게는 좀 작은듯..얼굴도 큰편도 아닌데 좀 쬐인데요..",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "소형은 이제 7살되는 아이에게 끈이 좀 길어요.. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "길이 조절이 안되서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "일일이 묶을려니 엄청 번거롭고 불편하네요..ㅜㅜ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500040",
+    "RawText": "미세먼지 걱정되어서 구매했는데 얼굴에 딱 맞네요 :) 아무래도 KF94라서 숨쉬기 조금 답답한건 있는데 막 뛰거나 숨이 찰 정도로 움직이지만 않으면 평소에 하고 다니기에 문제 없어요 화장하시는 분들 착용하시면, 가장자리에 묻어날 수밖에 없어요 그래도 입쪽에 공간이 많아서 립스틱은 묻지 않네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "80",
+    "Syllable": "163",
+    "Word": "39",
+    "RDate": "20190120",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "얼굴에 딱 맞네요 :)",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "KF94라서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기 조금 답답한건 있는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨이 찰 정도로 움직이지만 않으면 평소에 하고 다니기에 문제 없어요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "화장하시는 분들 착용하시면, 가장자리에 묻어날 수밖에 없어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "입쪽에 공간이 많아서 립스틱은 묻지 않네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500043",
+    "RawText": "좋아용  받자마자 뜯어서  아기쒸워줫더니  착감기묜서  아기도 불편해안하고좋아하네요  이제미세먼지 걱정좀줄었어요  마스크값이  어마무시해서  걱정이였눈데  저렴한가격에 좋운품질  ♡",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "101",
+    "Word": "15",
+    "RDate": "20181207",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착감기묜서  아기도 불편해안하고좋아하네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한가격에",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "좋운품질  ♡",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500047",
+    "RawText": "겨울인데도 미세먼지를 써야되네요ㅠ 가족이 많아서 대량으로 구매했어요. 저렴하게 잘 샀습니다. 미세먼지 차단도 된다고 하니 믿어볼게요 배송도 빠르구요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "83",
+    "Word": "17",
+    "RDate": "20181202",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 샀습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "미세먼지 차단도 된다고 하니 믿어볼게요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "500051",
+    "RawText": "성인 마스크는 사용괜찮습니다. 그러나 아이들 마스크는 (소형) 사이즈 조절이 안되서 아쉽습니다. 끈이 길어 줄일수 있었음 더 편할거 같아요. ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "80",
+    "Syllable": "79",
+    "Word": "18",
+    "RDate": "20180512",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "아이들 마스크는 (소형) 사이즈 조절이 안되서 아쉽습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "끈이 길어",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500057",
+    "RawText": "4인가족이 사용중입니다. 가족들 차량에 몇 묶음씩 쟁여놓고 필요시마다 사용하고있으며 나가는 현관문에 두고 외출시마다 하나씩 꺼내갑니다. 5개 한묶음 밀폐포장으로 깔끔하게 잘 사용중입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "104",
+    "Word": "21",
+    "RDate": "20180508",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "가족들 차량에 몇 묶음씩 쟁여놓고 필요시마다 사용하고있으며",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "나가는 현관문에 두고 외출시마다 하나씩 꺼내갑니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "5개 한묶음 밀폐포장으로 깔끔하게 잘 사용중입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500069",
+    "RawText": "아이들과 같이 사용하려 주문 했는데 원단이 매끄럽고 착용같이 아주 좋아요. 1팩에 5개며 지퍼팩이라 보관하기도 용이하고 좋아요. 적극 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "81",
+    "Word": "18",
+    "RDate": "20181209",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "원단이 매끄럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용같이 아주 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "1팩에 5개며 지퍼팩이라 보관하기도 용이하고 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500072",
+    "RawText": "퀄리티가 기존에 개별판매되던(포장디자인도 다름)ㅇㅇ보다 훨씬 떨어짐. 본드냄새도 나고. ㅇㅇ를 저렴하게 산줄 알았더니 싼걸 싸게 산거였음. 내가 원하는 ㅇㅇ가 아님",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "60",
+    "Syllable": "91",
+    "Word": "19",
+    "RDate": "20181208",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "퀄리티가 기존에 개별판매되던(포장디자인도 다름)ㅇㅇ보다 훨씬 떨어짐. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "본드냄새도 나고. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 산줄 알았더니",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 싼걸 싸게 산거였음. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500079",
+    "RawText": "미세먼지 나 황사 때문에  걱정이 되는  요즘입니다  일회용으로 싸지는 않지만  대형,소형으로  나누어  있어서 편한 KF94  마스크를  100개를 아이들도 같이 사용 할수  있어 아주 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "110",
+    "Word": "24",
+    "RDate": "20180419",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "일회용으로 싸지는 않지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "대형,소형으로  나누어  있어서 편한",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " KF94  마스크를",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "100개를 아이들도 같이 사용 할수  있어 아주 만족합니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500087",
+    "RawText": "미세먼지 차단 효과 좋을 것 같아요 편하고 kf94라서 안전해요 빠른배송 감사해요 잘 쓰도록 하겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20180327",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "미세먼지 차단 효과 좋을 것 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "kf94라서 안전해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500092",
+    "RawText": "요새 황사 미세먼지가 넘 심해서 남편이랑 쓰려고 100개짜리 주문했어여. 쓰기 편하고 좋아요. KF94 라 약간 숨이 갑갑한 느낌도 가끔 있지만 마스크 쓰면 어쩔 수 없으니까요.  미세먼지 마실 수는 없으니...",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "118",
+    "Word": "29",
+    "RDate": "20180405",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "쓰기 편하고 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "KF94 라",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "약간 숨이 갑갑한 느낌도 가끔 있지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500093",
+    "RawText": "간편하게 착용해서 좋고 차단효과가 있다고해서 믿음이갑니다 온가족이 사용하기 좋아요 양도 넉넉해서 동생네도 나누어주었어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "13",
+    "RDate": "20180404",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "간편하게 착용해서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "차단효과가 있다고해서 믿음이갑니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양도 넉넉해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500095",
+    "RawText": "먼지 땜에 쟁여두려고 삿어요 ㅠㅠ 100개 삿는데 이것저것 할인 받아서 개당 550원 꼴 이더라구용 가격대비 제품 품질도 만족스럽구용  ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "80",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20180410",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "100개 삿는데 이것저것 할인 받아서 개당 550원 꼴 이더라구용",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 가격대비 제품 품질도 만족스럽구용 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500097",
+    "RawText": "대형.소형 반반 주문했는데  초3학년인데 소형이커서  양쪽으로 귀쪽 묶어서 사용합니다.  ㅡㅡ;;연결고리라도있음좋을텐데 아쉽더라고요. 저많은걸  쓸때마다 묶을생각하니ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "80",
+    "Syllable": "94",
+    "Word": "14",
+    "RDate": "20190308",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "초3학년인데 소형이커서  양쪽으로 귀쪽 묶어서 사용합니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "연결고리라도있음좋을텐데 아쉽더라고요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "저많은걸  쓸때마다 묶을생각하니ㅠㅠ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500100",
+    "RawText": "애가안경을 끼기때문에 서리끼는걸 싫어했는데 이것또한 서리가 껴서 불편하네요 호흡도 불편합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "10",
+    "RDate": "20190309",
+    "Aspects": [
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "서리가 껴서 불편하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "호흡도 불편합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500103",
+    "RawText": "써보니까 크기도 좋네요~밀착이 잘되서 좋은것 같습니다. 미세먼지가 심해서 마스크가 필수네요 잘쓰겠습니다. 참고로5매씩 들어있네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "72",
+    "Word": "13",
+    "RDate": "20190303",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기도 좋네요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "밀착이 잘되서 좋은것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500104",
+    "RawText": "대량으로는 처음 사봤어요,  5개씩 포장이라 보관에 용이할것 같네요 품질은 좋으리라 기대합니다. 배송은 빨라요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20190314",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 좋으리라 기대합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "5개씩 포장이라 보관에 용이할것 같네요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500109",
+    "RawText": "요즘 미세먼지 때문에 목이 아파서 신랑 추천으로 주문했어요~ 오늘 첫착용했는데 불편해요. 착용시 답답함이 있어요~ 미세먼지 잘 걸러졌으면 좋겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "81",
+    "Word": "18",
+    "RDate": "20181130",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "오늘 첫착용했는데 불편해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "착용시 답답함이 있어요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "미세먼지 잘 걸러졌으면 좋겠네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "500111",
+    "RawText": "미세먼지가 기승을부려 아이들마스크사러갔는데 허걱했어요. 마트에서 1개당 몇천원..하루에 한개씩써야하는데 아이둘에 우리네식구 1달마스크값만으로도..ㅠ 넘비싸서 고민하고있는데 인증받은 마스크가 100장에 이가격~~~당장구매해서 장에 쟁여놓으니  부자된느낌이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "143",
+    "Word": "20",
+    "RDate": "20181108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 인증받은 마스크가 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "100장에 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이가격~~~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500115",
+    "RawText": "두꺼워서 미세먼지 잡아주는거 같아요. 너무 촘촘해서 숨쉬기가 조금 답답하지만... 잘쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "10",
+    "RDate": "20181112",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "두꺼워서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "미세먼지 잡아주는거 같아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "너무 촘촘해서 숨쉬기가 조금 답답하지만...",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500122",
+    "RawText": "좋은 가격으로 잘 샀어요 배송도 빠르고 온가족 같이 쓸수 있는 구성이라 만족해요  아쉬운건 조절끈이 없다는거^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "80",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20180330",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격으로 잘 샀어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "온가족 같이 쓸수 있는 구성이라 만족해요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "아쉬운건 조절끈이 없다는거^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500124",
+    "RawText": "코 지지대를 잘 맞추어서 눌러주는걸 여러번해도 어쩔수가 없는건지 눈쪽으로 호흡할때의 더운 입김이 올라와서 장시간(1~3시간) 착용시에는 눈에 영향을 주어 상당히 불편해 집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "60",
+    "Syllable": "98",
+    "Word": "21",
+    "RDate": "20180508",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "눈쪽으로 호흡할때의 더운 입김이 올라와서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "장시간(1~3시간) 착용시에는 눈에 영향을 주어 상당히 불편해 집니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500125",
+    "RawText": "개별 포장아닌거 빼곤 착용감 좋습니다. 헌데. 끈없는 마스크 있어서  황당",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "41",
+    "Word": "10",
+    "RDate": "20180426",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 끈없는 마스크 있어서  황당",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500130",
+    "RawText": "미세먼지땜에 마스크구매했어여 여기가제일제렴하네여  제품 품질도 괜찬은거같아서 100매구입했어여",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "7",
+    "RDate": "20180423",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가제일제렴하네여 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 품질도 괜찬은거같아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500140",
+    "RawText": "미세먼지가 극심한 요즘 어지간한 곳은 매진되거나 구매해도 열흘이상 걸리기도 하고 그러는데 이 마스크는 바로 다음날 배송이 왔어요.   저는 안경을 쓰는데 김서림이 아예없지는 않지만 그래도 코부분 잘 밀착을시키면 좋아요. 다만 대형인데도 살짝 작네요. 전 여성인데. 밀착이 잘되면 좋기는 하지만 성인 남성이 쓰기에는 작다고 느끼실수 있겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "190",
+    "Word": "44",
+    "RDate": "20180416",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "김서림이 아예없지는 않지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "코부분 잘 밀착을시키면 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "대형인데도 살짝 작네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "성인 남성이 쓰기에는 작다고 느끼실수 있겠네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500152",
+    "RawText": "미세먼지 때문에 요즘 마스크는 필수품이 되었네요. KF94 가 이 가격이라니 넘 넘 좋아요. 착용감도 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20180404",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " KF94 가 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 가격이라니 넘 넘 좋아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감도 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500153",
+    "RawText": "요즘 미세먼지 너무 많은데 비싸서 하루쓰고 버리기 아까웠어요 저렴한가격에 양도 많아서 매일 하나씩 쓰고 학교가니 조으네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20180403",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한가격에",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양도 많아서 매일 하나씩 쓰고 학교가니 조으네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500154",
+    "RawText": "대형.너무크구요 소형도.커요ㅡ8살10살 딸아이요 저도 소형이맞고 딸들은.옆에 줄여줘야합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "7",
+    "RDate": "20180401",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "대형.너무크구요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "소형도.커요ㅡ8살10살 딸아이요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "저도 소형이맞고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "딸들은.옆에 줄여줘야합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500156",
+    "RawText": "요즘 미세먼지 때문에 초등학교에서 아이들 마스크를 보건마스크를 쓰여서 보내라고 하더라구요. 면마스크면 되겠지 생각했는데 KF94 KF80 이런 숫자가 뭘의미하는지 이제야 알았네요. 약국에서 하나씩 사서 쓰려니 너무 비쌌는데 100매를 저렴하게 잘 구매한거 같아요. 소형은 초등학생 저학년 한테 잘 맞는거 같아요. 어른이 쓰기엔 좀 작더라구요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "191",
+    "Word": "42",
+    "RDate": "20180409",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "100매를 저렴하게 잘 구매한거 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "소형은 초등학생 저학년 한테 잘 맞는거 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "어른이 쓰기엔 좀 작더라구요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500161",
+    "RawText": "저렴한 가격에 쟁여놓고 씁니다. 아이 가방에 한개씩 소형지퍼백에 넣어서 상비로 가지고 다니니 편합니다. ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20180708",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 쟁여놓고 씁니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "소형지퍼백에 넣어서 상비로 가지고 다니니 편합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500163",
+    "RawText": "대량으로 데려오니 아주 뿌듯 뿌듯 하네요. 미세먼지 두려워하지 않고 운동할 수 있을듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20180616",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "대량으로 데려오니 아주 뿌듯 뿌듯 하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "미세먼지 두려워하지 않고 운동할 수 있을듯합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500179",
+    "RawText": "가족도 많은데 저렴하고 안전한 제품이라  잘 쓸 것 같아요  약국에서 3천원 주고 살 때마다 망설여지고 정말 아까웠는데 이번기회에 대량구매하고나니 미세 먼지에대한 두려움이 사라지네요 !!",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "104",
+    "Word": "24",
+    "RDate": "20190118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "안전한 제품이라  잘 쓸 것 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "이번기회에 대량구매하고나니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500181",
+    "RawText": "소형 초등학교 3학년 여자에게 넉넉하게 잘 맞아요 미세먼지 많고, 추운날에 잘 사용하게 되네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20190123",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "소형 초등학교 3학년 여자에게 넉넉하게 잘 맞아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "미세먼지 많고, 추운날에 잘 사용하게 되네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500200",
+    "RawText": "양이 많아서 한동안 미세먼지 걱정은 안하고 지낼듯하네요. 지난번 구매한 이후 이번에도 가격이 맘에 들어 또다시 주문했습니다. 갑자기 맛.크 부자. 많이 파세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 황사 방역 마스크 대형 KF94 60매",
+    "ReviewScore": "100",
+    "Syllable": "88",
+    "Word": "21",
+    "RDate": "20190218",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 맘에 들어",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양이 많아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "한동안 미세먼지 걱정은 안하고 지낼듯하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500261",
+    "RawText": "사용하기 편하고 사이즈가 맞아서 좋아요. 미세먼지 많은 날 잘 사용할것 같네요. 간지러움도 없기를 바래봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 황사 방역 마스크 대형 KF94 60매",
+    "ReviewScore": "100",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20190327",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "사용하기 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈가 맞아서 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "미세먼지 많은 날 잘 사용할것 같네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "간지러움도 없기를 바래봅니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "500268",
+    "RawText": "워낙 종류가 많아 고르다 사게된 마스크예요~ 맘에 들어요~~배송도 싸고 좋아요~~ 끈조절 기능이 있어서 좋네요. 가격도 이정도면 괜찮아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 황사 방역 마스크 대형 KF94 60매",
+    "ReviewScore": "100",
+    "Syllable": "76",
+    "Word": "17",
+    "RDate": "20190308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "끈조절 기능이 있어서 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 이정도면 괜찮아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500275",
+    "RawText": "양이넉넉해서 맘이 편해젰어요. 그런데 끈 조절이 머리뒤에서 고리에거는거라  머리가 헝클어지고 불편해서 못걸게네요.,  싸이즈 조절이 안되니 틈새로 미세먼지바 들어오는것같아요 ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 황사 방역 마스크 대형 KF94 60매",
+    "ReviewScore": "80",
+    "Syllable": "97",
+    "Word": "18",
+    "RDate": "20190312",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양이넉넉해서 맘이 편해젰어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "끈 조절이 머리뒤에서 고리에거는거라  머리가 헝클어지고 불편해서 못걸게네요., ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "싸이즈 조절이 안되니",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "틈새로 미세먼지바 들어오는것같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500279",
+    "RawText": "아들이 쓰고 나갔는데 귀도 아프고 밀착도 안된다고해요 마스크 없는 세상이면 좋을테지만.. 여하튼 별루네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 황사 방역 마스크 대형 KF94 60매",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20190315",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀도 아프고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "밀착도 안된다고해요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500284",
+    "RawText": "미세먼지 때문에 고생했는데 딱맞는 마스크 찾은걱 같아요~ 끈조절기도 있어서 얼굴 작은 사람에게도 잘맞아오요! ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 황사 방역 마스크 대형 KF94 60매",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20190126",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "끈조절기도 있어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "얼굴 작은 사람에게도 잘맞아오요!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 미세먼지 때문에 고생했는데 딱맞는 마스크 찾은걱 같아요~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500286",
+    "RawText": "요즘 미세먼지가 너무 심해서 주문했는데 배송도 너무 느리지도 않고 kf94라 믿음이 가네요^^다만 식약처허가제품이란걸 좀 크게 보이게 써주시면 좋겠습니다. 표시가 약하다보니 이게 식약ㅊㅓ 허가 보건용이 맞는건지 조금 헷갈리네요ㅜㅜ 가격만 좀 내리면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 황사 방역 마스크 대형 KF94 60매",
+    "ReviewScore": "100",
+    "Syllable": "144",
+    "Word": "31",
+    "RDate": "20190311",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "kf94라 믿음이 가네요^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격만 좀 내리면 좋겠네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500287",
+    "RawText": "미세먼지 심해서 구매했는데 다시 나아졌네요. 두고두고 쓰면 되죠. 그런데 숨구멍을 뚫어줬으면 합니다. 숨쉬는게 힘들어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 황사 방역 마스크 대형 KF94 60매",
+    "ReviewScore": "80",
+    "Syllable": "66",
+    "Word": "14",
+    "RDate": "20190314",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "숨구멍을 뚫어줬으면 합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬는게 힘들어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500306",
+    "RawText": "타사제품도 사용해보았는데 아이가 뻣뻣해하더라고요. 이제품은 끈조절이 안되서 아쉽지만 부드러워요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 황사 방역 마스크 소형 KF94 60매",
+    "ReviewScore": "80",
+    "Syllable": "52",
+    "Word": "9",
+    "RDate": "20190319",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "이제품은 끈조절이 안되서 아쉽지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드러워요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500307",
+    "RawText": "7세아이에 사이즈가 딱 맞고 좋아요~~ 미세먼지. 차단효과도 굿인듯^^^^^ 좋아요~~아이가 편안해하고. 맘에들어요~~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 황사 방역 마스크 소형 KF94 60매",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "11",
+    "RDate": "20190317",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "7세아이에 사이즈가 딱 맞고 좋아요~~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "미세먼지. 차단효과도 굿인듯^^^^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "아이가 편안해하고. 맘에들어요~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500312",
+    "RawText": "9살인데 딱 맞네요~~~ 대형 사용하게 햇는데  소형 씌우니 줄일것도 없어서 편하네요~ ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 황사 방역 마스크 소형 KF94 60매",
+    "ReviewScore": "100",
+    "Syllable": "49",
+    "Word": "11",
+    "RDate": "20190328",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "9살인데 딱 맞네요~~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "소형 씌우니 줄일것도 없어서 편하네요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500321",
+    "RawText": "얼굴에 착 밀착되서 좋고 끈이 타사보다 더 튼튼해서 잘 안 끊어 질듯 합니다 그러나 일반 소형보다 밀착력 때문인지 약간 사이즈가 작은듯 보여요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 황사방역 마스크 화이트",
+    "ReviewScore": "80",
+    "Syllable": "79",
+    "Word": "22",
+    "RDate": "20190305",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "얼굴에 착 밀착되서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "끈이 타사보다 더 튼튼해서 잘 안 끊어 질듯 합니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "약간 사이즈가 작은듯 보여요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500324",
+    "RawText": "지난번에 100개 주문해서 사용해보니 모두들 좋다고해서 다 쓰고 없어서 또 다시 주문합니다. 이번엔 하얀색 까만색 두가지 다 주문했습니다. 제품 품질 좋고요. 배송도 만족합니다. 색상도 마음에 들어요 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 황사방역 마스크 화이트",
+    "ReviewScore": "100",
+    "Syllable": "118",
+    "Word": "27",
+    "RDate": "20190314",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 품질 좋고요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 마음에 들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500335",
+    "RawText": "다른 마스크하고 다르게 얼굴에 착하고 감기는게 없어요. 코 주변으로 많이 떠서 마스크 효과가 있을지 의문이에요..  ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 황사방역 마스크 블랙",
+    "ReviewScore": "80",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20190415",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "다른 마스크하고 다르게 얼굴에 착하고 감기는게 없어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "코 주변으로 많이 떠서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "마스크 효과가 있을지 의문이에요.. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500336",
+    "RawText": "생각과 기대가 커서 그런지  KF94를 사용했는데도 그렇게 좋은건 아닌듯 하네요.. 이제품 말고도 대부분이 다 그런듯 합니다. 아직 황사마스크 제품개발에 더 신경을 써야 할듯하네요..  숨을쉴때 마스크가 호흡기쪽으로 수축 팽창이 되고.. 코주변부를 막지만 틈이 생겨서 사실 여기로 공기 많이 들어오고 빠짐.. (타제품도 비슷)",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 황사방역 마스크 블랙",
+    "ReviewScore": "80",
+    "Syllable": "182",
+    "Word": "41",
+    "RDate": "20190419",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " KF94를 사용했는데도 그렇게 좋은건 아닌듯 하네요..",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨을쉴때 마스크가 호흡기쪽으로 수축 팽창이 되고..",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "코주변부를 막지만 틈이 생겨서 사실 여기로 공기 많이 들어오고 빠짐..",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500341",
+    "RawText": "마스크 좋으네요. 슴쉬기도 편하고 미세먼지도 차단 잘  될 것 같아요. 색상이 좀 더 다양했으면 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 황사방역 마스크 블랙",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "15",
+    "RDate": "20190309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "슴쉬기도 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "미세먼지도 차단 잘  될 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 좀 더 다양했으면 합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500342",
+    "RawText": "싸이즈도 적당하고  얼굴에 편하게 맞네요...한가지 아쉬운점은 약간 미세하지만 고무냄새같은게  나요...초미세먼지 거르기위한 공정일 수도 있겠지만 그래서 별하나 빼요^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 황사방역 마스크 블랙",
+    "ReviewScore": "80",
+    "Syllable": "94",
+    "Word": "17",
+    "RDate": "20190306",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "싸이즈도 적당하고  얼굴에 편하게 맞네요...",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "약간 미세하지만 고무냄새같은게  나요...",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500345",
+    "RawText": "마스크가 너무 커서 그런지 코랑 턱쪽으로 공기가 들어오네요 마스크끈도 끊어지고...",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 황사방역 마스크 블랙",
+    "ReviewScore": "40",
+    "Syllable": "46",
+    "Word": "10",
+    "RDate": "20190308",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "마스크가 너무 커서 그런지 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "코랑 턱쪽으로 공기가 들어오네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "마스크끈도 끊어지고...",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500348",
+    "RawText": "기존에 쓰던 4중 제품보다 3중이라 그런지 얊아요 10살 아들이 이거는 숨쉬기가 불편하다해서 제가 써보니 숨쉬는데 마스크가 같이 움직여요 어른이 써서 사이즈가 안 맞아서 그런건지... 얊아서 그런건지는 잘 모르겠지만요... 8살 아이한테는 커서 코가 들리고 6살은 뒤에 한번 묶어서 썼더니 괜찮았어요 많이 남았는데 기존제품 입고되었길래 다시샀어요^^;;",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 황사방역 마스크 블랙",
+    "ReviewScore": "40",
+    "Syllable": "197",
+    "Word": "44",
+    "RDate": "20190401",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": " 3중이라 그런지 얊아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "숨쉬기가 불편하다해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "숨쉬는데 마스크가 같이 움직여요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얊아서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "8살 아이한테는 커서 코가 들리고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "6살은 뒤에 한번 묶어서 썼더니 괜찮았어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "500350",
+    "RawText": "디자인도 좋고 블랙색상에 uv차단까지 뭐하나 빠지는게 없어요 강추입니다. 단 얼굴 큰사람은 마스크가 작습니다 참고하세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 황사방역 마스크 블랙",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "14",
+    "RDate": "20190310",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "블랙색상에 uv차단까지 뭐하나 빠지는게 없어요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " uv차단까지 뭐하나 빠지는게 없어요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "얼굴 큰사람은 마스크가 작습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500352",
+    "RawText": "저번에 구매후에 재구매요~~ 요즘은 다른 마스크가 좀 저렴해지긴했는데  품질대비 좋아서 재구매^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "11",
+    "RDate": "20190418",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "요즘은 다른 마스크가 좀 저렴해지긴했는데 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질대비 좋아서 재구매^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500353",
+    "RawText": "마스크는 착용해보니 생가보단 전체를 확 감싸주는 느낌은 아니었어요 그리고 너무 얇게 나온듯 가격싼 마스크 같았어요 좀 아쉬웟어요 ㅠㅡ       ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "81",
+    "Word": "18",
+    "RDate": "20190514",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "착용해보니 생가보단 전체를 확 감싸주는 느낌은 아니었어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "너무 얇게 나온듯",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격싼 마스크 같았어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500360",
+    "RawText": "마스크 잘 못 사면 냄새가 나는 경우도 있는데  냄새도 안나고 줄 줄이는것 없어도 사이즈 적당하고 디자인도 깔금해서 강추합니다ㆍ^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20190305",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 안나고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "줄 줄이는것 없어도 사이즈 적당하고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인도 깔금해서 강추합니다ㆍ^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500372",
+    "RawText": "요즘같은 시기에..착한가격으로 황사 마스크 구매 했네요 ^^ 대형이라 얼굴 넉넉하게 잘 감싸줘서 좋습니다.. 호흡하기에도 불편하지 않아서 좋네요~~♡",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "100",
+    "Syllable": "83",
+    "Word": "17",
+    "RDate": "20190316",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한가격으로",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "대형이라 얼굴 넉넉하게 잘 감싸줘서 좋습니다..",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "호흡하기에도 불편하지 않아서 좋네요~~♡",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500379",
+    "RawText": "저도  얼굴이  작은편에 드는데도 얼굴에 꽉차고 끈자국도 생길정도이며 사이즈에 여유가 전혀없어서 당황ㅡ.ㅡ;;   끈조절도 할수없고 100개나 되는데 기대만큼은 아니네요ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 황사방역마스크 KF94(100매)",
+    "ReviewScore": "40",
+    "Syllable": "95",
+    "Word": "18",
+    "RDate": "20190328",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "저도  얼굴이  작은편에 드는데도 얼굴에 꽉차고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "끈자국도 생길정도이며",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈에 여유가 전혀없어서 당황ㅡ.ㅡ;;   ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "끈조절도 할수없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500421",
+    "RawText": "적립금 이용해서 저렴하게 구매했습니다. 포장이 비닐에 종이박스 형태로 오는데 다 찌그러졌더군요. 그냥 싼맛에 씁니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 일회용마스크 250매 개별포장",
+    "ReviewScore": "70",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20191211",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금 이용해서 저렴하게 구매했습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼맛에 씁니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500423",
+    "RawText": "설치가 아주 편해서 잘 사용합니다. 면도기 살균도 가능해서 더욱 좋아요. 세번째가 한결 깨끗해졌어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 무선 칫솔살균기",
+    "ReviewScore": "100",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20191012",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "설치가 아주 편해서 잘 사용합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 면도기 살균도 가능해서 더욱 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세번째가 한결 깨끗해졌어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500435",
+    "RawText": "사이즈도 앙증맞고 살균력은 모르겠지만 LED램프도 은은한빛을 발산하니 치솔보관함으로도 멋지네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 무선 칫솔살균기",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "9",
+    "RDate": "20200831",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈도 앙증맞고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "LED램프도 은은한빛을 발산하니",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "치솔보관함으로도 멋지네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500437",
+    "RawText": "디자인이 심플하고 깔끔하니 넘 맘에들고  LED조명 이어서 더 고급져 보이네요 살균이 잘될거라 믿어봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 무선 칫솔살균기",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20200909",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 심플하고 깔끔하니 넘 맘에들고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " LED조명 이어서 더 고급져 보이네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 살균이 잘될거라 믿어봅니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "500447",
+    "RawText": "적립금 활용해서 저렴하게 잘 산것 같아요. 적립금 없었으면 좀 비싼 느낌였는데.. ㅎㅎ  제품 깔끔하고 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 무선 칫솔살균기",
+    "ReviewScore": "80",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20200102",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금 활용해서 저렴하게 잘 산것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금 없었으면 좀 비싼 느낌였는데.. ㅎㅎ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "제품 깔끔하고 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500454",
+    "RawText": "선이 없어 넘 깔끔하고 좋은데 뚜껑을 조금 많이 열어야 살균램프에 불이 들어오네요..배송받고 한번 완충하고는 아직까지 잘쓰고 있어요~오래가는듯~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 무선 칫솔살균기",
+    "ReviewScore": "100",
+    "Syllable": "80",
+    "Word": "17",
+    "RDate": "20200107",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "선이 없어 넘 깔끔하고 좋은데 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "뚜껑을 조금 많이 열어야 살균램프에 불이 들어오네요..",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "한번 완충하고는 아직까지 잘쓰고 있어요~오래가는듯~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500626",
+    "RawText": "가격은 좀있지만 다들  자동주문취소될때 배달 받은것만으로도 감사해요 품질은 아주 좋습니다~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 미세먼지 황사 마스크 10매",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "10",
+    "RDate": "20200206",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 좀있지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 아주 좋습니다~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500645",
+    "RawText": "너무  오래된 제품입니다  2018년도 생산이군요  이렇게 오래된 마스크를 판매하나요 반품 하려니 배송비 5000원이나 되네요 ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO KF94 미세먼지 황사 마스크 10매",
+    "ReviewScore": "100",
+    "Syllable": "71",
+    "Word": "14",
+    "RDate": "20200209",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "너무  오래된 제품입니다  2018년도 생산이군요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "이렇게 오래된 마스크를 판매하나요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500657",
+    "RawText": "마스크사기 힘들어서 구입은 했는데 품질은 맘에 드는데 가격이 넘 비싸네요. 귀라도 안아프길 바래봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 라** 패션 마스크",
+    "ReviewScore": "60",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20200306",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 맘에 드는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 넘 비싸네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "귀라도 안아프길 바래봅니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "500659",
+    "RawText": "마스크에서  독한 냄새가 나서 사용하기 힘듬.. 글구 마스크라 하기힘들고 천조각 구멍내서 오바로크 하나 해놨음 사용하기 곤란 할것같아 반품신청하니깐 반품비 15000이라네요~ㅠ 왠지 당한것같은 느낌 앞으로 ㅇㅇ쇼핑 이용하지 않을 꺼임 ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 쓰** 마스크 블랙",
+    "ReviewScore": "0",
+    "Syllable": "131",
+    "Word": "28",
+    "RDate": "20200312",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "마스크에서  독한 냄새가 나서 사용하기 힘듬..",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "마스크라 하기힘들고 천조각 구멍내서 오바로크 하나 해놨음",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 곤란 할것같아 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500665",
+    "RawText": "빨아 쓸 수 있으니 경제적이라 면마스크 주문했습니다 재질이 쿨한 면 이랄까... 착한가격 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 쓰** 마스크 블랙",
+    "ReviewScore": "80",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20200315",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "재질이 쿨한 면 이랄까...",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한가격 감사합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "빨아 쓸 수 있으니 경제적이라 면마스크 주문했습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500667",
+    "RawText": "마스크가 너무허접하고 ‥별루임 나이롱조각두개를 그냥덧댄것   사이드처리도하지않아빨경우 올이풀릴거같음 돈만버렸음",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 쓰** 마스크 블랙",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "8",
+    "RDate": "20200321",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "마스크가 너무허접하고 ‥별루임",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "나이롱조각두개를 그냥덧댄것  ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "사이드처리도하지않아",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "빨경우 올이풀릴거같음",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "돈만버렸음",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500670",
+    "RawText": "빨았는데 가루가 한 15번 넘게 행궈야 없어진다는... 그리고 앏아도 너무 앏다는....것 .이게 3D인가?싶을 정도로 조금 얇음.  걍 천으로 마스크 만든거네요. 그리고 빨다가 몇개는 마감처리가 잘 안되어서 그런지.. .쫌....실밥이 풀리고 뭐 그러네요.  싸게 산건 있지만 대체적 만족은 B급임. 참고하고 사세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 쓰** 마스크 블랙",
+    "ReviewScore": "60",
+    "Syllable": "178",
+    "Word": "39",
+    "RDate": "20200314",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "빨았는데 가루가 한 15번 넘게 행궈야 없어진다는...",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "앏아도 너무 앏다는....것 .",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "이게 3D인가?싶을 정도로 조금 얇음.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "걍 천으로 마스크 만든거네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "빨다가 몇개는 마감처리가 잘 안되어서 그런지.. .쫌....실밥이 풀리고 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 산건 있지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500671",
+    "RawText": "생각보다 마스크가 넘 얕아요. 그래도 약간은 도톰한줄 알았는데 조금 실망이네요. 품질도 너무 안 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 쓰** 마스크 블랙",
+    "ReviewScore": "50",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20200312",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "생각보다 마스크가 넘 얕아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "그래도 약간은 도톰한줄 알았는데 조금 실망이네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 품질도 너무 안 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500677",
+    "RawText": "미리봤음 절대 안샀어요 메이드인 차이나를 떠나서 화학약품 냄새 가득에 허접한 바느질..  알았으면 절대 안샀는데 2세트나 샀네요 비추합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 입** 마스크 10개 블랙",
+    "ReviewScore": "10",
+    "Syllable": "77",
+    "Word": "17",
+    "RDate": "20200312",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "메이드인 차이나를 떠나서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "화학약품 냄새 가득에 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "허접한 바느질.. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500684",
+    "RawText": "진짜 이거쓰고다니라고 만든건가요? 어른도 아니고 아이얼굴에 씌였는데 귀에 걸자마자 가운데 박음질이 뚝뜯어지고 면도 아닌 원단으로.. 마스크봉투안에 먼지가득 30개 전부요. 코로나때문이아니라 마스크때문에 아프겠네요.  진짜이런시기에 이런 품질의 물건 팔지마세요.  저처럼 어이없어하시지말고 사지마세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 입** 마스크 10개 블랙",
+    "ReviewScore": "10",
+    "Syllable": "167",
+    "Word": "30",
+    "RDate": "20200313",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "어른도 아니고 아이얼굴에 씌였는데 귀에 걸자마자 가운데 박음질이 뚝뜯어지고",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "면도 아닌 원단으로..",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "마스크봉투안에 먼지가득 30개 전부요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이런 품질의 물건 팔지마세요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500686",
+    "RawText": "싼게 비지떡이란말이 생각남 같은모양의 마스크 보다 얇아서 하나 마나입니다. 하늘에 비치면 햇빗 들어와요 절대 사지마세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 입** 마스크 10개 블랙",
+    "ReviewScore": "10",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20200313",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "싼게 비지떡이란말이 생각남",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "같은모양의 마스크 보다 얇아서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "하늘에 비치면 햇빗 들어와요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500687",
+    "RawText": "빠른배송에 마음에드네요  약간 마스크가 작은느낌이네요  귀쪽 밴드가 타이트합니다  사용하다보면늘어나겠죠?",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 입** 마스크 10개 블랙",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "9",
+    "RDate": "20200311",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "약간 마스크가 작은느낌이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "귀쪽 밴드가 타이트합니다  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사용하다보면늘어나겠죠?",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "500690",
+    "RawText": "분명마스크라 구매했는데   마스크용도가 못됩니다   너무얇고  얇은천에 봉제선만넣은  약간의 가리개용도     들뜨고   얇고  너무얇아요   생각잘하시고  구매하셔요   이거 절대사지마세요   냄새나서   빨았는데 시커먼물이  얼마나빠지는지  이건 입가리게용도 못됩니다  이런시기에  이걸 마스크라고 올려놓고파는 ㅇㅇ쇼핑 한심해요  절대사지마요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 입** 마스크 10개 (블랙)",
+    "ReviewScore": "10",
+    "Syllable": "193",
+    "Word": "30",
+    "RDate": "20200313",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "분명마스크라 구매했는데   마스크용도가 못됩니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "너무얇고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "얇은천에 봉제선만넣은  약간의 가리개용도",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "들뜨고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇고  너무얇아요   ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새나서   빨았는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "시커먼물이  얼마나빠지는지",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "이건 입가리게용도 못됩니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500693",
+    "RawText": "싸게 잘 샀는데 이음새부분이 똑바르게 이어지지 않고 한쪽위로해서 박음질이 됐네요. 그냥 써야지 싶어요 ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 입** 마스크 10개 (블랙)",
+    "ReviewScore": "70",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20200706",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 잘 샀는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이음새부분이 똑바르게 이어지지 않고 한쪽위로해서 박음질이 됐네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500716",
+    "RawText": "소재가 얇아서 호흡할때 마스크가 입과 코부분에 밀착이되어서 안전하다는 생각이 안들고 불편합니다. 그냥 더운날 잠깐 쓰고나가는건 괸찬겟지만 사람 많은곳은 비추에요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 입** 마스크 10개 (블랙)",
+    "ReviewScore": "50",
+    "Syllable": "89",
+    "Word": "19",
+    "RDate": "20200513",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "소재가 얇아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "호흡할때 마스크가 입과 코부분에 밀착이되어서 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "안전하다는 생각이 안들고 불편합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500732",
+    "RawText": "부드럽고 착용감이 좋으네요 오래쓰고 있어도 귀가 아프지안을것같아요 애들도 주려고 추가주문했어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 입** 마스크 10개 (블랙)",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "10",
+    "RDate": "20200319",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드럽고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 착용감이 좋으네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "오래쓰고 있어도 귀가 아프지안을것같아요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500735",
+    "RawText": "이건 아닌듯....   지금 이때에 팔고자 급하게 만든거 같아요. 천도 얇고 박음질도 엉성하고 냄새 많이 나고!",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 입** 마스크 10개 (블랙)",
+    "ReviewScore": "100",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20200316",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "천도 얇고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "박음질도 엉성하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새 많이 나고!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500739",
+    "RawText": "쓰기가 편해서 좋아요~~일회용처럼 불편하지 않고 다시 세탁해서 쓸수 있어서 넘 좋아요^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 입** 마스크 10개 (블랙)",
+    "ReviewScore": "100",
+    "Syllable": "49",
+    "Word": "11",
+    "RDate": "20200410",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "쓰기가 편해서 좋아요~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "일회용처럼 불편하지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "다시 세탁해서 쓸수 있어서 넘 좋아요^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500744",
+    "RawText": "너무 얇고 검은 가루도 많이 떨어지지만 사이즈가 너무 작네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 입** 마스크 10개 (블랙)",
+    "ReviewScore": "100",
+    "Syllable": "33",
+    "Word": "9",
+    "RDate": "20200316",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "너무 얇고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "검은 가루도 많이 떨어지지만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": " 사이즈가 너무 작네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500753",
+    "RawText": "저도 상품평보고살껄 후회되네요ㅜㅜ 다른분들 말씀처럼 입체 아니고 얇고 박음질 안맞고 급하게 만든것 같은 느낌입니다. 넘 성의없는 제품처럼 느껴져요. 검은 가루도 많고요. 반품비 아까워 걍 빨아 써보렵니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 입** 마스크 10개 (블랙)",
+    "ReviewScore": "10",
+    "Syllable": "114",
+    "Word": "26",
+    "RDate": "20200316",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "다른분들 말씀처럼 입체 아니고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "박음질 안맞고 급하게 만든것 같은 느낌입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "넘 성의없는 제품처럼 느껴져요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "검은 가루도 많고요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500758",
+    "RawText": "받아서 확인하는데 생각보다 얇아서 놀랐어요. 여러번 쓸수 있어서 좋기는하지만 안에 패드를 부착해야할 것 같아요ㅠ 저렴하게 샀습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 입** 마스크 10개 (블랙)",
+    "ReviewScore": "60",
+    "Syllable": "72",
+    "Word": "16",
+    "RDate": "20200316",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "생각보다 얇아서 놀랐어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여러번 쓸수 있어서 좋기는하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "안에 패드를 부착해야할 것 같아요ㅠ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 샀습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500762",
+    "RawText": "포장은 그렇다 쳐도 배송은 시기가 그런지라 평소보다 느린편였구요 패브릭소재는 그냥 신축성 좀 있는 정도인데 어쩔 수 없겠죠 냄새는 심하게 나는데 이틀 정도 햇볕에 통풍하고 좀 줄고 이어 세탁하고 나니 싹 빠지긴 하던데 절대 구입후 바로 사용하는건 안될듯 합니다 사실 이것만으론 안심 안되기에 일회용 필터마스크를 따로 구입했는데 하고보니 그냥 보건용 마스크 사용하는게 낫다 싶네요 ㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 입** 마스크 10개 (블랙)",
+    "ReviewScore": "50",
+    "Syllable": "213",
+    "Word": "54",
+    "RDate": "20200321",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "패브릭소재는 그냥 신축성 좀 있는 정도인데 어쩔 수 없겠죠",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새는 심하게 나는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "절대 구입후 바로 사용하는건 안될듯 합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 그냥 보건용 마스크 사용하는게 낫다 싶네요 ㅎ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500778",
+    "RawText": "마스크  착용하니  얼굴이  따끔거리고  냄새도 나서  마스크  빨으니  검정염료가  빠지는듯  여러번 빨아도  나옴  ㅠ ㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 입** 마스크 10개 (블랙)",
+    "ReviewScore": "100",
+    "Syllable": "70",
+    "Word": "15",
+    "RDate": "20200317",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "마스크  착용하니  얼굴이  따끔거리고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 나서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "마스크  빨으니  검정염료가  빠지는듯  여러번 빨아도  나옴  ㅠ ㅠ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500782",
+    "RawText": "사진이 올라가지도 않네요ㅠ검은가루가 가득한 패션에만 치중된 최악의 마스크네요 만원돈이라 왠만하면 반품도 안하는데 상품평도 첨 써보네요 마스크가 급해서 상품평도 안본 제 실수네요 많은분께 알리고자 글남겨보네요 이상품 판매업자에게 정말 써보라하고 싶으네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 입** 마스크 10개 (블랙)",
+    "ReviewScore": "10",
+    "Syllable": "140",
+    "Word": "29",
+    "RDate": "20200315",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "검은가루가 가득한 패션에만 치중된 최악의 마스크네요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 만원돈이라",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500792",
+    "RawText": "냄새도 별로 안나고 얼굴에 잘 밀착되네요 전 만족합니다. 추가주문해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 입** 마스크 10개 (블랙)",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "9",
+    "RDate": "20200314",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 별로 안나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착감/접착력",
+        "SentimentText": "얼굴에 잘 밀착되네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500794",
+    "RawText": "면마스크도아닌. 얇은천 두개를 박아놓은것입니다. 아무런기능없는.. 아무리 마스크가 귀해도 이건아닌것같습니다. 반품도 귀챦네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 입** 마스크 10개 (블랙)",
+    "ReviewScore": "20",
+    "Syllable": "69",
+    "Word": "11",
+    "RDate": "20200317",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "면마스크도아닌. 얇은천 두개를 박아놓은것입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "아무런기능없는.. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "아무리 마스크가 귀해도 이건아닌것같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500795",
+    "RawText": "냄새가   역하고장난 아닙니다. 너무 얆아요.. 이걸로 바이러스가 막아질런지 ... 의심스럽쓰럽네요.반품 궈찮아서..",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 입** 마스크 10개 (블랙)",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "11",
+    "RDate": "20200315",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가   역하고장난 아닙니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "너무 얆아요.. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "이걸로 바이러스가 막아질런지 ... 의심스럽쓰럽네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500798",
+    "RawText": "아무리 마스크가 귀하다지만 이건 인간의 양심을 저버린 업체의 쓰레기 마스크에요.  ㅇㅇ쇼핑도 신뢰가 안가네요. 이런 마스크를 사전에 검수도 안하고 판매를 하다니요. 냄새가 심해서 중성세제에 빨았는데 검은 물이 엄청 나오고 행궈도 행궈도 검은 가루가 계속 나와서 세탁을 포기하고 반품과 환불 및 손해배상까지 청구했어요. 이거 쓰면 병 걸릴 것 같아요. 상담사와 통화하며 이 사실을 얘기했더니 오히려 저에게 많이 팔린 마스크라고 얘길하니 기가 차더군요. 방송국에 고발할 예정이에요. 절대 사지 마세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 입** 마스크 10개 (블랙)",
+    "ReviewScore": "10",
+    "Syllable": "278",
+    "Word": "66",
+    "RDate": "20200318",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "쓰레기 마스크에요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 심해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "검은 물이 엄청 나오고 행궈도 행궈도 검은 가루가 계속 나와서",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "500811",
+    "RawText": "사긴 샀는데 품질은 그닥 좋진 않아요  마스크 쓰고 운동할때 숨이 안차서 좋을듯해요 그것 말고는 마스크 너무해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 입** 마스크 10개 (블랙)",
+    "ReviewScore": "40",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20200316",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 그닥 좋진 않아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "호흡성/통기성",
+        "SentimentText": "마스크 쓰고 운동할때 숨이 안차서 좋을듯해요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "500812",
+    "RawText": "실망스럽네요  상품설명하고 차이가나네요 얇은천으로 잘라서 가운데박음질만한 모양만 마스크...하고나가도 괜찬은건지...의문... 반품요청 약국에서 구입하는게 나을뜻.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 입** 마스크 10개 (블랙)",
+    "ReviewScore": "100",
+    "Syllable": "91",
+    "Word": "13",
+    "RDate": "20200320",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "얇은천으로 잘라서 가운데박음질만한 모양만 마스크...",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "하고나가도 괜찬은건지...의문...",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  }
+]

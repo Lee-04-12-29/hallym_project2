@@ -1,0 +1,3181 @@
+[
+  {
+    "Index": "873561",
+    "RawText": "여러개 구입한 것 중 방금 받아 써봤네요. 향이 호불호 갈리겠지만 저는 괜찮아요. 향 자체가 따뜻한 느낌이라 민트의 시원한 느낌이랑 안어울릴까 걱정했는데 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "22",
+    "RDate": "20201128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 호불호 갈리겠지만 저는 괜찮아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향 자체가 따뜻한 느낌이라 민트의 시원한 느낌이랑 안어울릴까 걱정했는데 좋네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "873571",
+    "RawText": "일반매장보다 싸게 구입했어요. 배송도 생각보다 빠르게 왔습니다. 닦을때는 민트향이 세게 오지 않았는데 헹굴때 확 옵니다. 입이 개운해 지는 향이라 세도 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "21",
+    "RDate": "20201204",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "일반매장보다 싸게 구입했어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "닦을때는 민트향이 세게 오지 않았는데 헹굴때 확 옵니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "입이 개운해 지는 향이라 세도 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "873613",
+    "RawText": "역하지 않은 향이 가장 좋아서 냄새에 민감하신분 사용하기에 좋습니다 사용후 개운한것도 물론 좋구요 어쩌다 급해서 제대로 헹구지 못할때가 있었는데 다른치약 사용했을때와 비교하면 찜찜한 기분이 들지 않는 치약인것 같습니다 갠적으로 시나몬향이 가장 무난하고 좀 시원함을 느끼고 싶을때 초록색 클래식스트롱민트가 좋은것 같아요 쟈스민은 별로에요 갠적으로 화장품을 입에 넣는 느낌의 향이랄까요? 아마란스는 아주아주 무난한 향입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "234",
+    "Word": "52",
+    "RDate": "20210120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "역하지 않은 향이 가장 좋아서 냄새에 민감하신분 사용하기에 좋습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "사용후 개운한것도 물론 좋구요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "다른치약 사용했을때와 비교하면 찜찜한 기분이 들지 않는 치약인것 같습니",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "갠적으로 시나몬향이 가장 무난하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "좀 시원함을 느끼고 싶을때 초록색 클래식스트롱민트가 좋은것 같아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "쟈스민은 별로에요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "갠적으로 화장품을 입에 넣는 느낌의 향이랄까요?",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "아마란스는 아주아주 무난한 향입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "873621",
+    "RawText": "오래쓰던 치약이라 ㅇㅇㅇㅇ보면 비싼데 여긴 가격 저렴해서 좋네요 하지만 다른 치약보다는 비싸긴 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "2",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20210122",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "ㅇㅇㅇㅇ보면 비싼데 여긴 가격 저렴해서 좋네요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 다른 치약보다는 비싸긴 합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "873694",
+    "RawText": "항상 ㅇㅇㅇ만 사용하다가 같은 판매자분께서 판매하시길래 주문해봤습니다. 우선 배송 받자마자 사용해봤는데 맵지 않고 민트향이 강하지 않아서좋고, 아이들도 사용해도 될 것 같네요. 향은 ㅇㅇㅇ ㅇㅇ랑 비슷한것 같네요. 상쾌함이 얼마나 자속될지는 첫사용이라 아직 모르겠지만 우선 개운함에 있어서는 좋은것 같습니다. 가격도 저렴하고 배송도 빠르고 치약 좋아하는 저로써는 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "208",
+    "Word": "45",
+    "RDate": "20210303",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "맵지 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "민트향이 강하지 않아서 좋고,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아이들도 사용해도 될 것 같네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 ㅇㅇㅇ ㅇㅇ랑 비슷한것 같네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "상쾌함이 얼마나 자속될지는 첫사용이라 아직 모르겠지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "우선 개운함에 있어서는 좋은것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "873710",
+    "RawText": "유명해서 샀는데 생각보다 사이즈가 작고 가격이 사악합니다 그나마 ㅇㅇ로 저렴하게 잘 산거같습니다. 잘 쓰도록 할게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20210311",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "생각보다 사이즈가 작고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 사악합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "ㅇㅇ로 저렴하게 잘 산거같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "873744",
+    "RawText": "좋은데 또 구매할껀데 제가 약간 거품이 나는 치약을 좋아했나봅니다 양치하는걸 좋아해서 하루에도 여섯일곱번하는데 거품이 없어서 아쉽지만 헹구고나서 상쾌한 느낌은 있습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "20",
+    "RDate": "20210403",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품이 없어서 아쉽지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "헹구고나서 상쾌한 느낌은 있습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "873796",
+    "RawText": "한 번 ㅇㅇㅇ쓰기 시작하니 다른 건 못 쓸것 같아요. 파란색 초록색이 은은한 향이라 편하게 쓰기 좋습니다. 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "17",
+    "RDate": "20210519",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "파란색 초록색이 은은한 향이라 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하게 쓰기 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "873797",
+    "RawText": "향도 좋고 개운한느낌도 좋습니다 단 거품이 생각보다 덜 나는게 아쉽지만 요걸루 이제 쭉 쓰려고 해요 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "16",
+    "RDate": "20210521",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운한느낌도 좋습니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품이 생각보다 덜 나는게 아쉽지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "873810",
+    "RawText": "외국여행으로 처음 ㅇㅇㅇ를 접하게 되면서 지금 까지 쟁여놓고 쓰는 치약이에요 거품이 많지 않아 입안이 꽉 차지않고 치아가 뽀독한 느낌입니다 좋은 가격으로 구매했네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "22",
+    "RDate": "20210618",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "거품이 많지 않아 입안이 꽉 차지않고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "치아가 뽀독한 느낌입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격으로 구매했네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "873916",
+    "RawText": "핑크색 ㅇㅇㅇ과 비슷한 향에 세정력이 너무 강해서 별로네요 장시간 양치시 치아와 잇몸, 입가에 자극을 주네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20220319",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "핑크색 ㅇㅇㅇ과 비슷한 향에",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세정력이 너무 강해서 별로네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "장시간 양치시 치아와 잇몸, 입가에 자극을 주네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "873919",
+    "RawText": "믿고쓰는 ㅇㅇㅇ치약입니다. 양치 후 입 안 가득 잇몸사이에 남는 찝찝한 치약찌꺼기가 제로됩니다 장시간 양치해도 시린 증상도 없어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20220319",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치 후 입 안 가득 잇몸사이에 남는 찝찝한 치약찌꺼기가 제로됩니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 장시간 양치해도 시린 증상도 없어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "873933",
+    "RawText": "매번 사용하고 있는 ㅇㅇㅇ 치약이에요. 평소에는 파란색과 초록색만 쓰다가 이번에는 다양한 색깔로 주문해 봤어요. 보라는 향이 좋고, 갈색은 개운함이 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "20",
+    "RDate": "20220327",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "보라는 향이 좋고,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "갈색은 개운함이 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "873977",
+    "RawText": "가격대비 가성비가 좋습니다 일단 치약 사용후 입안이 개운해요 그리고 무엇보다 ㅇㅇㅇ치약 디자인은 더 이뻐요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20220429",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 가성비가 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "치약 사용후 입안이 개운해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "ㅇㅇㅇ치약 디자인은 더 이뻐요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "873983",
+    "RawText": "개운하면서 잇몸에도 아주 좋은 것 같습니다 이가 시린것도 없어져서 더 좋은 것 같네요 추천합니다 잘 쓰도록 할게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "17",
+    "RDate": "20220505",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운하면서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸에도 아주 좋은 것 같습니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "이가 시린것도 없어져서 더 좋은 것 같네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "873991",
+    "RawText": "처음 보는 제품이라 얼른 주문해봤는데 완전 옛날 ㅇㅇㅇ 향이라 익숙합니다 패키지 컬러도 넘 이쁘고요 다 쓰면 또 주문할게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "18",
+    "RDate": "20220518",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "완전 옛날 ㅇㅇㅇ 향이라 익숙합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "패키지 컬러도 넘 이쁘고요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874009",
+    "RawText": "저렴하게 잘 산것 같습니다. 향은 호불호가 갈리는 향이지만 양치 후에는 개운함이 있네요. 쟁여놓고 사용하고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20220529",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 산것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 호불호가 갈리는 향이지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치 후에는 개운함이 있네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874012",
+    "RawText": "개봉전이라서 아직은 향과 개운함은 모르겠지만 좋을거라 믿어 의심치 않습니다 치약계의 명품이라더니 비싸긴 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20220604",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "개봉전이라서 아직은 향과 개운함은 모르겠지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운함은 모르겠지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸긴 합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "874013",
+    "RawText": "ㅇㅇㅇ 치약 아쿠아틱 선물 받아 사용해보니 약간의 민트향이 좋고 입안의 시원함이 있어 재구매했습니다. 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20220604",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "약간의 민트향이 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "입안의 시원함이 있어",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874028",
+    "RawText": "비싼 만큼 정말 좋습니다 치약 성분 때문에 문제가 되어서 저만 쓰려고 구입했어요 여기가 젤 저렴해요. 한국의 치약에서는 맛볼수없는 맛입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20161019",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싼 만큼",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "치약 성분 때문에 문제가 되어서 저만 쓰려고 구입했어요 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 젤 저렴해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": " 한국의 치약에서는 맛볼수없는 맛입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874036",
+    "RawText": "바다의 민트향 난대서 엄마선물로 드렸습니다 아직 사용하던게 있어서 사용전이긴 하지만 열어서 향 맡아보니 좋습니다 여름에 사용하면 좋을듯 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "18",
+    "RDate": "20160502",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "열어서 향 맡아보니 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름에 사용하면 좋을듯 하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874038",
+    "RawText": "계면활성제가 들어가 있지 않아 좋긴한데 거품이 좀 덜나고 색소가 없어서 하얀색으로 깔끔하니 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20160517",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "계면활성제가 들어가 있지 않아 좋긴한데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품이 좀 덜나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "색소가 없어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "하얀색으로 깔끔하니 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874045",
+    "RawText": "가격과 배송 모두 만족해요. 다른 판매자보다 저렴하게 판매하면서 배송도 깔끔하게 오고 좋습니다. 감사해요 번창하세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20160523",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격과 배송 모두 만족해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 판매자보다 저렴하게 판매하면서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874046",
+    "RawText": "치약 여러종류 써보는 중인데 이게 제일 개운합니다 미백 그린 아쿠아 샀는데 써보고 하나로 결정하려 합니다 휴대용도 있어서 가지고다니기도 좋을거 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "20",
+    "RDate": "20170306",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "치약 여러종류 써보는 중인데 이게 제일 개운합니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "휴대용도 있어서 가지고다니기도 좋을거 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874055",
+    "RawText": "일주일정도 걸렸습니다 주위에서 ㅇㅇㅇ가 좋다해서 구입을 했어요 입안은 개운한데 검은 줄이 화확성분이라고 해서 좀 아쉽네요 가격도 비싼데 아쉬워요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "18",
+    "RDate": "20160310",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "입안은 개운한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "검은 줄이 화확성분이라고 해서 좀 아쉽네요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싼데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "874060",
+    "RawText": "화한 느낌은 그렇게 없는데 입은 상쾌한거 같아요 계속 써뽀려고 합니다 배송도 생각보다 빠르고 좋았습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20160520",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "화한 느낌은 그렇게 없는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "입은 상쾌한거 같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874100",
+    "RawText": "ㅇㅇㅇ치약 너무 좋습니다. 깔끔하게 닦아지고 치아에 광택이 나요. 가격도 여기가 젤 저렴해서 많이 주문했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20210211",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "깔끔하게 닦아지고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "치아에 광택이 나요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 여기가 젤 저렴해서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874124",
+    "RawText": "사용후 상큼한 느낌이 좋습니다. 생각보다 향이 진하지 않아서 좋은것 같습니다. 가격은 비싸지만 다 쓰면 구매할거에요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20201106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "사용후 상큼한 느낌이 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "생각보다 향이 진하지 않아서 좋은것 같습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "874126",
+    "RawText": "늘 사용하던 제품이라 구입했습니다 양치 후 개운한 느낌도 좋고 교정중인데 치석에도 조금 도움이 되는 것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "16",
+    "RDate": "20211217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치 후 개운한 느낌도 좋고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "치석에도 조금 도움이 되는 것 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874130",
+    "RawText": "양치 후 개운합니다. 다른 향도 거의 다 써봤는데 요것도 톡 쏘는 맛도 있으면서 개운해서 좋은 것 같네요. 가격만 내리면 더 좋겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 진** 민트 치약 85ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "21",
+    "RDate": "20200926",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치 후 개운합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "톡 쏘는 맛도 있으면서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운해서 좋은 것 같네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격만 내리면 더 좋겠어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "874144",
+    "RawText": "끝맛이 상쾌하고 맵지 않아 자주 사용하는 치약이에요 해외 좋다는 치약 써봤지만 한국인에게는 한국치약이 젤 맞는듯 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 토** 치약 120g 6개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20220906",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "끝맛이 상쾌하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "맵지 않아 자주 사용하는 치약이에요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874146",
+    "RawText": "양치 하고 나면 상쾌하고 매우 시원해요 치약하나만 세워 둘수 있어서 보관도 매우 쉽네요 오랜만에 마음에 드는 치약 발견 했습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 토** 치약 120g 6개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "19",
+    "RDate": "20220813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치 하고 나면 상쾌하고 매우 시원해요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "치약하나만 세워 둘수 있어서 보관도 매우 쉽네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874163",
+    "RawText": "치주질환이 자주 생겨서 40대 초반부터 ㅇㅇㅇㅇ 썼습니다 쓰고부터는 치통이 없어져서 관리가 잘 되네요 4개씩 구매해요 사은품 ㅇㅇ칫솔도 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "18",
+    "RDate": "20220604",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "쓰고부터는 치통이 없어져서 관리가 잘 되네",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품 ㅇㅇ칫솔도 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874173",
+    "RawText": "치약이 너무 묽어서 오래 닦을수는 없습니다 듬뿍 짜서 닦아도 30초도 안되서 물이 되어서 3분 닦는건 힘들어요. 별로임",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "3",
+    "Syllable": "66",
+    "Word": "17",
+    "RDate": "20220303",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "치약이 너무 묽어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "오래 닦을수는 없습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "듬뿍 짜서 닦아도 30초도 안되서 물이 되어서",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 3분 닦는건 힘들어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "874177",
+    "RawText": "예전에 이가 시려서 고생했을때 ㅇㅇㅇㅇ 사용하고 효과를 봤어서 재구매 했습니다 남편의 아픈 잇몸이 며칠동안이라도 진정효과가 있길 바래 봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "18",
+    "RDate": "20211229",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "ㅇㅇㅇㅇ 사용하고 효과를 봤어서 재구매 했습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "남편의 아픈 잇몸이 며칠동안이라도 진정효과가 있길 바래 봅니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "874183",
+    "RawText": "유통기한 길고 배송 빠르고 가격 착해서 좋네요 사은품으로 주신 칫솔도 사용해 보니 부드럽고 좋아요. 잘 쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "16",
+    "RDate": "20210925",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한 길고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 착해서 좋네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": " 사은품으로 주신 칫솔도 사용해 보니 부드럽고 좋아요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874186",
+    "RawText": "한동안 치약 안시키다가 요번에 다시 시켜봤습니다 배송도 빠르고 좋은 가격에 구매했고 칫솔까지 줘서 넘 좋습니다 다쓰면 또시키겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20210818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 구매했고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "칫솔까지 줘서 넘 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874198",
+    "RawText": "개운함이랑 치석제거는 좋은거 같지만 3개 쓰는동안 잇몸에 피나는건 낫지 않았네요 너무 짜서 양치하는동안 구역질이 많이 납니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20210511",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운함이랑 치석제거는 좋은거 같지만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "치석제거는 좋은거 같지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 잇몸에 피나는건 낫지 않았네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "너무 짜서 양치하는동안 구역질이 많이 납니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "874215",
+    "RawText": "나이가 먹어서인지 점점잇몸이 좋아지지 않군요 염증도 잘생기고 잇몸도 잘 헐고 광고에서 치약광고도 많이나오고 써본사람들이 괜찮다고해서 구매했습니다 효과가 조금이라도 있음하네요 향은 쿨향보다 은은하니 상쾌한기분이 듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "4",
+    "Syllable": "120",
+    "Word": "24",
+    "RDate": "20210325",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과가 조금이라도 있음하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 쿨향보다 은은하니 상쾌한기분이 듭니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874219",
+    "RawText": "집사람이 잇몸이 안좋아서 구입 했습니다 효과 좋기를 기대해봅니다 배송 만족합니다 사은품 치솔도 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20210323",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 효과 좋기를 기대해봅니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 사은품 치솔도 감사합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874237",
+    "RawText": "약국에서 사보고 더 써보려고 샀습니다. 약간 짠 소금맛이 나는 치약이에요. 요즘들어 잇몸이 약한거 같은데 효과 있기를 바래요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20210207",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "약간 짠 소금맛이 나는 치약이에요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸이 약한거 같은데 효과 있기를 바래요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "874241",
+    "RawText": "소금으로 양치하는 것 처럼 짜요 거품은 좀 나는 편이네요 잇몸이좋지않아 주문했는데 더써봐야알것같습니다 일단 입이 개운하고 침이 마르지않아좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "4",
+    "Syllable": "80",
+    "Word": "17",
+    "RDate": "20210129",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "소금으로 양치하는 것 처럼 짜요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품은 좀 나는 편이네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸이좋지않아 주문했는데 더써봐야알것같습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 입이 개운하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "침이 마르지않아좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874285",
+    "RawText": "구성과 가격대가 너무 좋은것 같습니다. 다른곳에서 구성과 가격대를 비교해봤는데 따라오지 못할정도입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "11",
+    "RDate": "20201226",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성과 가격대가 너무 좋은것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대가 너무 좋은것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "다른곳에서 구성과 가격대를 비교해봤는데 따라오지 못할정도입니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대를 비교해봤는데 따라오지 못할정도입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874290",
+    "RawText": "배송 빠르게 오고 받자마자 양치를 했는데 입안이 개운하고 깔끔해진 느낌이네요 갈수록 입몸이 안좋아지는데 꾸준히 사용해서 좋아지길 기대해 봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "18",
+    "RDate": "20201212",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "입안이 개운하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 깔끔해진 느낌이네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "입몸이 안좋아지는데 꾸준히 사용해서 좋아지길 기대해 봅니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "874362",
+    "RawText": "처음 사용하는 제품이라 효과는 아직은 잘 모르겠지만 처음 느낌은 짜도 너무 짜네요ㅜ 양치후 느낌은 개운한것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "4",
+    "Syllable": "63",
+    "Word": "16",
+    "RDate": "20200904",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과는 아직은 잘 모르겠지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "처음 느낌은 짜도 너무 짜네요ㅜ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치후 느낌은 개운한것 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874372",
+    "RawText": "콩알만큼의 분량만 짜는데도 얼마나 짠맛이 강한지 힘드네요 이게 소금인지 치약인지 구분이 안됩니다 지속적으로 쓸수있으려나 하면서 일단 하루1회만 이걸로 쓰고 있습니다 두번은 순한치약 쓰고있어요 강한 짠맛이 흠이긴하지만 시린 증상완화에는 효과있는듯해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "4",
+    "Syllable": "138",
+    "Word": "29",
+    "RDate": "20200730",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "콩알만큼의 분량만 짜는데도 얼마나 짠맛이 강한지 힘드네요 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "이게 소금인지 치약인지 구분이 안됩니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "강한 짠맛이 흠이긴하지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "시린 증상완화에는 효과있는듯해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874375",
+    "RawText": "ㅇㅇㅇ 이용 해서 저렴하게 구매했습니다. 잇몸에는 많은 도움이 되는 것 같아요 한번 사용하고는 꾸준히 사용하고 있습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20200708",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "ㅇㅇㅇ 이용 해서 저렴하게 구매했습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸에는 많은 도움이 되는 것 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874380",
+    "RawText": "잇몸에 너무 좋습니다 하루에 한번씩만 이 치약만 사용해서 이를 딱아주면 칫과 갈일이 없네요 잇몸치료가 잘 되고 있네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "17",
+    "RDate": "20200630",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸에 너무 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "하루에 한번씩만 이 치약만 사용해서 이를 딱아주면 칫과 갈일이 없네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸치료가 잘 되고 있네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874442",
+    "RawText": "매운것먹고 양치해도 입냄새도 안나고 개운하네요. 하루에 한번 사용하는데 깔끔해집니다. 또 구매할거에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "11",
+    "RDate": "20200204",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "매운것먹고 양치해도 입냄새도 안나고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운하네요. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "하루에 한번 사용하는데 깔끔해집니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874458",
+    "RawText": "완전 좋아요 바로 치료 되는 느낌이 듭니다 거품이 적어 양치하다보면 물처럼 흐른다는거만 빼면 좋은 치약인 듯 하네요 기능성 치약중에 저렴해서 선택했습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "21",
+    "RDate": "20200103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "바로 치료 되는 느낌이 듭니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "거품이 적어 양치하다보면 물처럼 흐른다는거만 빼면",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "기능성 치약중에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 선택했습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874481",
+    "RawText": "남편이 사용할꺼라 구매해봤습니다 살짝 강한향기기나는데 일주일이상 써본후 신랑이 잇몸아팠던게 나아졌다고 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "4",
+    "Syllable": "60",
+    "Word": "11",
+    "RDate": "20191111",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 살짝 강한향기기나는데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "신랑이 잇몸아팠던게 나아졌다고 합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874484",
+    "RawText": "엄마께서 이 ㅇㅇㅇㅇ만 쓰고 계세요 잇몸에 좋다고 하시네요 가격도 저렴하게 잘 구매한것 같아 좋습니다. 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20191109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸에 좋다고 하시네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게 잘 구매한것 같아 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874542",
+    "RawText": "사용기간 2022년까지로 넉넉합니다 배송 나쁘지 않았구요 효과는 꾸준히 사용해봐야 알겠지요 물건 하자 없이 잘왔어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "4",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20190725",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "사용기간 2022년까지로 넉넉합니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과는 꾸준히 사용해봐야 알겠지요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "874558",
+    "RawText": "이치약 쓰고 염증과 시린이는 좋아졌습니다 일단 약국 보단 싸네요 근대 양치를 두번해야 입냄새가 안납니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20190611",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "이치약 쓰고 염증과 시린이는 좋아졌습니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "일단 약국 보단 싸네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "양치를 두번해야 입냄새가 안납니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "874585",
+    "RawText": "잇몸이 안좋아서 자주쓰는 치약이에요 확실히 일반 치약 보다 효과 좋습니다 쿠폰활용해서 싸게 잘 샀습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20181022",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "확실히 일반 치약 보다 효과 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰활용해서 싸게 잘 샀습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874601",
+    "RawText": "잇몸이 붓고 아파서 구매했어요 소금기가 강하고 거품은 많지 않네요 드라마틱한 효과는 잘 모르겠구요 기분탓인지 왠지 붓기가 가라앉는 느낌은 들었네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "19",
+    "RDate": "20180522",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "소금기가 강하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품은 많지 않네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "드라마틱한 효과는 잘 모르겠구요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "기분탓인지 왠지 붓기가 가라앉는 느낌은 들었네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874613",
+    "RawText": "효과는 꾸준하게 써봐야 알수 있을거 같습니다 근데 맛이 너무 이상해서 계속 써야할지 고민이 되는 제품이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20180425",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과는 꾸준하게 써봐야 알수 있을거 같습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "맛이 너무 이상해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "874625",
+    "RawText": "이전에 ㅇㅇㅇ에서 팔던 ㅇㅇㅇㅇ하고는 많이 달라졌군요 이건 그냥 성능이 일반 치약 수준이에요 배송은 빠르고 가격은 저렴한 편이나 성능은 모르겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "19",
+    "RDate": "20180326",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "이건 그냥 성능이 일반 치약 수준이에요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴한 편이나",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능은 모르겠네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "874630",
+    "RawText": "하루 한번 저녁에만 사용하고 있습니다 아직까지 효과는 잘 모르겠네요 무지 짜고 써서 계속 사용할지 고민이 됩니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20180224",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "아직까지 효과는 잘 모르겠네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "무지 짜고 써서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "874631",
+    "RawText": "이름은 너무 익숙하지만 써본적은 없었는데 요번 잇몸이 너무 들뜨고 아프고 잇몸땜에 치아까지 아프고 해서 사용해봤어요 진짜 이삼일 쓰니 잇몸이 감쪽같이 가라 앉고 구취도 없어지네요 양치만으로 이런 효과가 있다는게 신기할정도입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "5",
+    "Syllable": "126",
+    "Word": "29",
+    "RDate": "20180216",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "진짜 이삼일 쓰니 잇몸이 감쪽같이 가라 앉고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "구취도 없어지네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "양치만으로 이런 효과가 있다는게 신기할정도입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874656",
+    "RawText": "잇몸관리를 위해 구매했습니다 나이가드니 잇몸관리가 필요하다 느껴서 구매했다 예전엔 연고식여서 불편했는데 튜브형으로 바뀌어 편해서 좋네요 잇몸이 좋아지길 기대합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "4",
+    "Syllable": "90",
+    "Word": "18",
+    "RDate": "20170822",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "예전엔 연고식여서 불편했는데 튜브형으로 바뀌어 편해서 좋네요 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸이 좋아지길 기대합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "874669",
+    "RawText": "잇몸이 불편해서 사려고 마음먹고 있다가 ㅇㅇ쇼핑을 통해서 사게 되었습니다 가격 품질 다 맘에 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "14",
+    "RDate": "20170617",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 품질 다 맘에 들어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 다 맘에 들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874677",
+    "RawText": "가격은 배송비까지 계산하면 저렴한 편은 아니네요 단 한정 사은품 25g이 같이와서 구매했어요 치과에서 잇몸에 사용하라해서 구매하는데 처음 사용하는지라 효과 기대해보겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 150g 1개",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "20",
+    "RDate": "20170419",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 배송비까지 계산하면 저렴한 편은 아니네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "한정 사은품 25g이 같이와서 구매했어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 효과 기대해보겠습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "874702",
+    "RawText": "작아서 가지고다니기 편할줄 알고 구입했는데 생각보다 너무 작아서 별로네요 마지막 쓰고 버릴때 잘짜서 알뜰하게 써야할듯 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20221002",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "생각보다 너무 작아서 별로네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "마지막 쓰고 버릴때 잘짜서 알뜰하게 써야할듯 합니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "874707",
+    "RawText": "처음써보는데 짜긴 너무 짜서 저희집 가족 모두 놀랐어요 근데 사용후 엄청 상쾌해서 적응되면 계속쓸꺼같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20220930",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "처음써보는데 짜긴 너무 짜서 저희집 가족 모두 놀랐어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "사용후 엄청 상쾌해서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874716",
+    "RawText": "유통기한은 2025.07.08까지고 ㅇㅇㅇ 치약의 종류별로 다 써보려고 그동안 계속 사왔는데 마지막으로 이번에는 클래식 검케어에요 그래서 아직 사용전입니다만 ㅇㅇㅇ가 양치할 때는 너무 짠데 양치 후가 개운한 느낌이라 쓰고 있습니다 짜지 않았으면 좋겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "4",
+    "Syllable": "142",
+    "Word": "31",
+    "RDate": "20220926",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한은 2025.07.08까지고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "짜지 않았으면 좋겠습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "874717",
+    "RawText": "처음써는데 일반치약히고 맛이 완전 다릅니다. 죽염치약맛도 나서 별로네요 물같이 생겨서 걸쭉한 치약같아요 거품도 하나도 안나고 치약이아닌 소금으로 양치하는 느낌이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "19",
+    "RDate": "20220926",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "일반치약히고 맛이 완전 다릅니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "죽염치약맛도 나서 별로네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "물같이 생겨서 걸쭉한 치약같아요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품도 하나도 안나고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "치약이아닌 소금으로 양치하는 느낌이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "874756",
+    "RawText": "칫솔질후 입안이 개운하지않고 잘 안닦이네요 개당가격이 너무 비싼것 같아요. 매운 맛도 강해서 별로 ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20220903",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "칫솔질후 입안이 개운하지않고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 안닦이네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "개당가격이 너무 비싼것 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "매운 맛도 강해서 별로 ㅜ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "874757",
+    "RawText": "치주염 완쾌되고 치석도 안생깁니다 몇년째 사용하는 제품 최고에요 적극 추천합니다 가격도 매우 저렴하게 잘샀어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20220903",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "치주염 완쾌되고 치석도 안생깁니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 매우 저렴하게 잘샀어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874766",
+    "RawText": "남편 잇몸이 약해서 구입했습니다. ㅇㅇㅇ인데 세일 안할때랑 가격차이가 거의 없는것 같네요. 소금맛 나는 치약이라 저는 별로입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "16",
+    "RDate": "20220831",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "ㅇㅇㅇ인데 세일 안할때랑 가격차이가 거의 없는것 같네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "소금맛 나는 치약이라 저는 별로입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "874769",
+    "RawText": "유통기한 많이 남은 제품으로 받아서 좋네요 배송도 아주 빠르고 저렴하게 잘 구매한것 같습니다. 잘 쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20220830",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한 많이 남은 제품으로 받아서 좋네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 구매한것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874781",
+    "RawText": "잇몸 관리를 위해 꾸준히 사용하고 있어요 씹을 때 통증이 좀 있었는데 이거 쓰고 좋아졌어요 전 일반치약과 이걸 조금씩 섞어 쓰고 있는데 6개나 되니 오래 쓸 수 있어 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "28",
+    "RDate": "20220824",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "씹을 때 통증이 좀 있었는데 이거 쓰고 좋아졌어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "6개나 되니 오래 쓸 수 있어 좋습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874810",
+    "RawText": "양치후 깔끔하고 청량한 느낌이 듭니다  이 치약 칫솔이 빨리 상할정도로 매우 독하다는 느낌이 듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "14",
+    "RDate": "20220728",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치후 깔끔하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "청량한 느낌이 듭니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "이 치약 칫솔이 빨리 상할정도로 매우 독하다는 느낌이 듭니다 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "874818",
+    "RawText": "ㅇㅇㅇ 쓰는데 지인 추천으로 잇몸에 좋다고해서 구매했습니다 아침에 일어나면 냄새도 덜 나는것 같고 잇몸이 건강해지는 느낌입니다 만족하며 사용중이에요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "4",
+    "Syllable": "82",
+    "Word": "18",
+    "RDate": "20220720",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "아침에 일어나면 냄새도 덜 나는것 같고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸이 건강해지는 느낌입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874819",
+    "RawText": "예전에 사용한것은 ㅇㅇㅇ 플래쉬 였는데 좀 더 효과가 있을까 싶어 검케어를 주문했어요 일주일 넘게 사용한 결과 아주 만족해요 기분탓인가 플래쉬보다 더 효과가 좋은 것 같네요 가격도 일반매장보다 저렴하고 매우 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "119",
+    "Word": "30",
+    "RDate": "20220718",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "플래쉬보다 더 효과가 좋은 것 같네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 일반매장보다 저렴하고 매우 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874867",
+    "RawText": "오래전부터 쓴 상품인데 잇몸에 좋은 것 같아 계속 사용중입니다 ㅇㅇ쇼핑보다 싸서 매우 마음에 들어요 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20220625",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸에 좋은 것 같아 계속 사용중입니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "ㅇㅇ쇼핑보다 싸서 매우 마음에 들어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874886",
+    "RawText": "배송된 6개 세트 제품을 써 보니 물기가 너무 묽네요 조금 싸게 쌌다고 3개 치약을 6개로 물기를 많이 넣은게 아닌가 싶네요 빡빡한 진한 성질을 묽게 만들어서 갯수만 늘린거 같은 느낌입니다 조금 싼 것은 다 이유가 있네요 속았네요 아마 예전 제품 써보고 이 제품 써보면 무슨 뜻인지 알거에요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "3",
+    "Syllable": "162",
+    "Word": "46",
+    "RDate": "20220604",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "6개 세트 제품을",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "물기가 너무 묽네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "조금 싸게 쌌다고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "3개 치약을 6개로 물기를 많이 넣은게 아닌가 싶네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "빡빡한 진한 성질을 묽게 만들어서 갯수만 늘린거 같은 느낌입니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "조금 싼 것은 다 이유가 있네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "874892",
+    "RawText": "잇몸이 많이 좋지않아 쓰기시작 했는데 좋은거 같습니다 양치할때 자극이 덜해서 잇몸에서 피가 안나오니 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "4",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20220601",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸이 많이 좋지않아 쓰기시작 했는데 좋은거 같습니다 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "양치할때 자극이 덜해서 잇몸에서 피가 안나오니 좋네요 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874928",
+    "RawText": "잇몸이 손상이 있어 ㅇㅇㅇㅇ 처음 구매 해봐요 제형은 조금 묽은 편이네요 흰색이고 향은 별로 없어서 괜찮은데 약간의 짠맛이 느껴지네요 잇몸 건강에 도움이 되었으면 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "94",
+    "Word": "24",
+    "RDate": "20220506",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "제형은 조금 묽은 편이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 별로 없어서 괜찮은데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "약간의 짠맛이 느껴지네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸 건강에 도움이 되었으면 하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "874935",
+    "RawText": "ㅇㅇㅇㅇ만 쓰다 같은회사라 구매해봤습니다. 짭짜름하니 전 괜찮은것 같아요. ㅇㅇㅇㅇ보다 상쾌함은 이게 더 나은듯함. 거품은 안나요ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "15",
+    "RDate": "20220430",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "짭짜름하니 전 괜찮은것 같아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "ㅇㅇㅇㅇ보다 상쾌함은 이게 더 나은듯함. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품은 안나요ㅜ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "874944",
+    "RawText": "써보고 좋아서 부모님 거도 잔뜩 사드렸습니다 거품 많이 안나고 짭짤합니다 늘 쓰던 죽염에서 이걸로 완전히 바꿨습니다 불소도 들어 있고 넘 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "21",
+    "RDate": "20220424",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품 많이 안나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "짭짤합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "불소도 들어 있고 넘 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874975",
+    "RawText": "잇몸이 자꾸 얇아져서 써봤는데 치석제거에도 좋고, 맛은 없지만 치아에 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20220320",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "치석제거에도 좋고,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "맛은 없지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "치아에 너무 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874979",
+    "RawText": "잇몸건강에 좋다고해서 구매해서 사용했는데 괜찮은것 같습니다 개운함까지 있어 더 좋은 것 같네요. 잘쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20220317",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸건강에 좋다고해서 구매해서 사용했는데 괜찮은것 같습니다 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운함까지 있어 더 좋은 것 같네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "874990",
+    "RawText": "치약이 짜고 거품이 많이 안나서 잘못샀나 하는 후회가 좀 있어요 애들도 안 좋아하네요. 개운하지도 않아서 별로입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20220306",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "치약이 짜고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 거품이 많이 안나서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운하지도 않아서 별로입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "875001",
+    "RawText": "잇몸에 좋다고해서 기대를 많이하고 구매해서 사용 중이에요 처음에는 짠맛이 있고 거품은 많이 나지 않아 일반 치약과는 차이가 있는 듯 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "20",
+    "RDate": "20220222",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "처음에는 짠맛이 있고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품은 많이 나지 않아 일반 치약과는 차이가 있는 듯 하네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "875016",
+    "RawText": "살짝 짠맛이 나지만 양치하고 나면 개운해요. 양치하다 보면 묽어져서 흘러내리는 건 개선하면 좋겠어요. 치약은 좋은데 항상 양치질 강제 종료를 해야해서 아쉬워요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "21",
+    "RDate": "20220204",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "살짝 짠맛이 나지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 양치하고 나면 개운해요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "양치하다 보면 묽어져서 흘러내리는 건 개선하면 좋겠어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "항상 양치질 강제 종료를 해야해서 아쉬워요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "875027",
+    "RawText": "처음 써보는데 좀 짭니다 사이즈가 여행용처럼 너무 작네요 거품도 많이 나지 않아 이가 잘 닦이는지 모르겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "16",
+    "RDate": "20220121",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "처음 써보는데 좀 짭니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈가 여행용처럼 너무 작네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품도 많이 나지 않아 이가 잘 닦이는지 모르겠어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "875030",
+    "RawText": "잇몸건강에 좋대서 구입했습니다. 배송은 좀 걸렸네요. 후기대로 엄청 짭니다. 거품도 많이 나지 않아 별로네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20220120",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": " 엄청 짭니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품도 많이 나지 않아 별로네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "875040",
+    "RawText": "피곤하면 잇몸이 가끔 아파서 구매했습니다. 첫맛은 엄청 짠데 양치하다보면 입안이 시원해지면서 코가 뻥 뚫려서 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20220110",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": " 첫맛은 엄청 짠데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치하다보면 입안이 시원해지면서 코가 뻥 뚫려서 좋네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "875066",
+    "RawText": "시리거나 잇몸이 부우면 사용하는 치약인데 좋아요. 사용감도 개운하고 시린증상 개선에도 좋습니다. 잘 사용할게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20211223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "시리거나 잇몸이 부우면 사용하는 치약인데 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "사용감도 개운하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "시린증상 개선에도 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "875087",
+    "RawText": "150g 4개구성이 더 좋은데 100g 6개 구성이라 아쉬워요. 용량이 적어서 빨리빨리 다쓰게 되니 매번 주문하는게 번거롭네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20211201",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "150g 4개구성이 더 좋은데 100g 6개 구성이라 아쉬워요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": " 용량이 적어서 빨리빨리 다쓰게 되니",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "875095",
+    "RawText": "잇몸 염증에 좋다고 하여서 구매했는데 남편은 맘에 들어합니다 치약에 소금알갱이가 들어있는거 같습니다 짠맛도 나서 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "4",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20211115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸 염증에 좋다고 하여서 구매했는데 남편은 맘에 들어합니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "치약에 소금알갱이가 들어있는거 같습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "짠맛도 나서 만족해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "875099",
+    "RawText": "절대 만족해요. 약국에서 사서 쓰다가 대량 구매하니 좋아요. 사이즈도 적당하고 양도 많아서 오래도록 잘 쓸 수 있겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20211107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": " 사이즈도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "양도 많아서 오래도록 잘 쓸 수 있겠어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "875102",
+    "RawText": "가격과 배송 모두 만족하고 있어요 유통기한 긴 제품으로 보내주셔서 감사합니다 그럼 사업 번창하세요 잘 쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20211104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격과 배송 모두 만족하고 있어요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": " 유통기한 긴 제품으로 보내주셔서 감사합니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "875103",
+    "RawText": "처음엔 짜고 거품이 거의 없어 덜닦이는거 아니야했는데 헹구고 나면 개운하고 조금만 피곤해도 잇몸부터 떠서 아푼데 사용 후 바로 효과 보고 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "21",
+    "RDate": "20211102",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "처음엔 짜고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품이 거의 없어 덜닦이는거 아니야했는데 헹구고 나면 개운하고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "조금만 피곤해도 잇몸부터 떠서 아푼데 사용 후 바로 효과 보고 있어요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "875123",
+    "RawText": "소금물같기도 하고 소다같기도 하고 너무 짠맛이 강하네요ㅜ 거품은 잘 안나지만 양치 후 개운함은 좋은 것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "16",
+    "RDate": "20211006",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "소금물같기도 하고 소다같기도 하고 너무 짠맛이 강하네요ㅜ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 거품은 잘 안나지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 양치 후 개운함은 좋은 것 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "875140",
+    "RawText": "잇몸 관리를 위해서 구매했는데 뽀드득 잘 닦이지 않아요 소금이 들어있어서 짠맛이 나네요ㅜ 가격도 비싸요ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20210922",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "뽀드득 잘 닦이지 않아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "소금이 들어있어서 짠맛이 나네요ㅜ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸요ㅜ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "875154",
+    "RawText": "다른치약보다 훨씬 개운합니다 처음에는 맛과 향이 싫었네요 쓰다보니 ㅇㅇ만 쓰게 되는 것 같아요 배송 많이 빠르고 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "4",
+    "Syllable": "66",
+    "Word": "17",
+    "RDate": "20210830",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "다른치약보다 훨씬 개운합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "처음에는 맛과 향이 싫었네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 싫었네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "875164",
+    "RawText": "잇몸이 약해져서 좋은 치약을 찾다가 구매해봤습니다 처음 사용할땐 그동안 사용했던 치약과 다르게 짭조름하면서도 게운치 않고 칫솔질을 할 때마다 이 사이 뭔가 끼는 느낌이 있었어요 하지만 계속 사용하다 보니 양치후 게운함이 오래가고 상쾌하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "133",
+    "Word": "32",
+    "RDate": "20210808",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "처음 사용할땐 그동안 사용했던 치약과 다르게 짭조름하면서",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "게운치 않고 칫솔질을 할 때마다 이 사이 뭔가 끼는 느낌이 있었어요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "계속 사용하다 보니 양치후 게운함이 오래가고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "상쾌하네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "875182",
+    "RawText": "단가는 좀 사악합니다 잇몸이 쉽게 들뜨고 붓는 편인데 이거 쓰고 증상 한 번도 없습니다. 연2회 재구매중이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 검케어 치약 100g 6개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "16",
+    "RDate": "20210709",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "단가는 좀 사악합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸이 쉽게 들뜨고 붓는 편인데 이거 쓰고 증상 한 번도 없습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

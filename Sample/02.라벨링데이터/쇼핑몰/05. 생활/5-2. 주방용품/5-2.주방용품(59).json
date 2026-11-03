@@ -1,0 +1,3236 @@
+[
+  {
+    "Index": "447080",
+    "RawText": "가격대비 구성이 짱입니다. 가벼우면서도 실용적이네요 어차피 후라이팬은 코팅이 생명인데 1+1 이라 맘편히 쓸수있을꺼같아 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다** 후라이팬28cm+후라이팬28cm",
+    "ReviewScore": "100",
+    "Syllable": "72",
+    "Word": "14",
+    "RDate": "20190710",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "가격대비 구성이 짱입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼우면서도 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "실용적이네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "1+1 이라",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "맘편히 쓸수있을꺼같아 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447088",
+    "RawText": "상품평이 늦었네요 너무 잘 쓰고 있습니다 뚜껑이 있었으면 더 좋았겠지만 그래도 뭐.. 가격대비 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다** 후라이팬28cm+양수웍28cm",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20200730",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "너무 잘 쓰고 있습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "뚜껑이 있었으면 더 좋았겠지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 만족합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447093",
+    "RawText": "몆번쓰지도않았는데 벌써코팅이벗겨지면서 하얀가루같은게 묻어나오네요  어떻게이런 상품을 판매합니까?",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다** 궁중팬28cm+궁중팬28cm",
+    "ReviewScore": "100",
+    "Syllable": "53",
+    "Word": "7",
+    "RDate": "20200502",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "몆번쓰지도않았는데 벌써코팅이벗겨지면서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "하얀가루같은게 묻어나오네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "어떻게이런 상품을 판매합니까?",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "447096",
+    "RawText": "품질이 이런제품 판매하지마세요 몇번쓰지도 않았는데 코팅이울면서 다일어나네요 금방벗겨질듯하네요 최악이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다** 궁중팬28cm+궁중팬28cm",
+    "ReviewScore": "20",
+    "Syllable": "57",
+    "Word": "9",
+    "RDate": "20200421",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 이런제품 판매하지마세요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "몇번쓰지도 않았는데 코팅이울면서 다일어나네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "금방벗겨질듯하네요 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "447101",
+    "RawText": "싼가격에 잘 주문했는데 너무가볍고 국이나 찌개를 며칠 담고있으면 금방 코팅변색이 와서 좀 몇번못쓰고 버릴듯ᆢ 조리후에 바로 비워주고 닦아주면  그래도 좀 오래갈듯합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다** 궁중팬28cm+궁중팬28cm",
+    "ReviewScore": "70",
+    "Syllable": "93",
+    "Word": "21",
+    "RDate": "20191201",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼가격에 잘 주문했는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "너무 가볍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "금방 코팅변색이 와서 좀 몇번못쓰고 버릴듯ᆢ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "447102",
+    "RawText": "생각보다 저렴햔데 좋으네요ᆢ 상품평에는  안좋다는 말도 있고 해서 걱정했는데 적립금 사용  해서 정말 싸게 잘산것같아요ᆢ좋아요ㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다** 궁중팬28cm+양수웍28cm",
+    "ReviewScore": "100",
+    "Syllable": "71",
+    "Word": "15",
+    "RDate": "20191104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "생각보다 저렴햔데 좋으네요ᆢ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금 사용  해서 정말 싸게 잘산것같아요ᆢ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447103",
+    "RawText": "너무 얇아서 가스레인지에 올려놓으면 중심을 못잡고 넘어져 버려요 그리고 몇번 쓰지 않앗는데 코팅이 다 벗겨집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다** 궁중팬28cm+양수웍28cm",
+    "ReviewScore": "30",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20200629",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "너무 얇아서 가스레인지에 올려놓으면 중심을 못잡고 넘어져 버려요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "몇번 쓰지 않앗는데 코팅이 다 벗겨집니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "447106",
+    "RawText": "저는 웍이 필요하던참에 적립금 있는거에 쪼매 보태어 저렴하게 주문했어요. 그전에도 사용해봤는데 저렴한 가격에 무난하게 잘 사용해서 여기서 다시 주문했네요ㅎ 가성비 좋은 제품이에요. 잘 사용할게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다** 궁중팬28cm+양수웍28cm",
+    "ReviewScore": "0",
+    "Syllable": "108",
+    "Word": "24",
+    "RDate": "20191107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금 있는거에 쪼매 보태어 저렴하게 주문했어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은 제품이에요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447114",
+    "RawText": "너무 맘에 들어요. 재질 탄탄하고 코팅상태 좋고 여기저기 쓰기 너무 편해요 가성비 좋은 제품입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 세라믹냄비 편수18CM",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "14",
+    "RDate": "20200417",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "재질 탄탄하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅상태 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여기저기 쓰기 너무 편해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은 제품입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447139",
+    "RawText": "무게감있어서 좋은데 높이가 놈 낮아요 크기는 적당하구요 구입하고 싶었던냄비라 좋아요 요리도 맛있게 잘 되면 좋겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 코** 통5중 냄비 편수18cm",
+    "ReviewScore": "100",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20191126",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감있어서 좋은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "높이가 놈 낮아요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기는 적당하구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "요리도 맛있게 잘 되면 좋겠네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "447141",
+    "RawText": "사이즈가 커서 김치찌개도 넉넉히해서 덜어먹기도좋고. 4인이상 밥할때도 누룽지도 눌려먹고 쓰임새가 많네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 한** IH 인덕션가마솥 22CM",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "11",
+    "RDate": "20200425",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 커서 김치찌개도 넉넉히해서 덜어먹기도좋고.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "4인이상 밥할때도 누룽지도 눌려먹고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "쓰임새가 많네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447145",
+    "RawText": "생각보다 싸이즈가 커서 좋네요. 라면 3개는 끓이겠어요. 근데 배송중 부디쳐서 왔는지 뚜껑한귀퉁이가 찍혀서 왔어요. 배송도 엄청오래걸렸구요. 귀찮아서 교환안하고 그냥쓰는데 좀 아쉽네요~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** 냄비 20 편수",
+    "ReviewScore": "20",
+    "Syllable": "103",
+    "Word": "21",
+    "RDate": "20191206",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "생각보다 싸이즈가 커서 좋네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "라면 3개는 끓이겠어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447152",
+    "RawText": "가정에서 편하게 쓰기는 무게감이 있어요. 요리 좋아하는 분들은 좋아할듯 저는 팔이 아파서 사용하기 힘드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** 웍 32cm",
+    "ReviewScore": "60",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20191101",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가정에서 편하게 쓰기는 무게감이 있어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "저는 팔이 아파서 사용하기 힘드네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "447153",
+    "RawText": "가벼워서 깜짝 놀랐어요. 사이즈도 좋고 꼭 필요했늣데 적립금 사용해서 저렴히 잘 샀네요~^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** 웍 30cm",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20190615",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 깜짝 놀랐어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금 사용해서 저렴히 잘 샀네요~^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447161",
+    "RawText": "인덕션 냄비가 없어 저렴한가격이라구입했는데 뚜껑이딱 맞질않네요 기대가 컸던 만큼 실망도 크네요. 비추입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 경** 스텐냄비 3종세트(16편수+18양수+20양수)",
+    "ReviewScore": "70",
+    "Syllable": "60",
+    "Word": "12",
+    "RDate": "20210815",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한가격이라구입했는데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "뚜껑이딱 맞질않네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "447162",
+    "RawText": "경량이라 가벼워서 좋고 혼자사는 아들에겐 사이즈가 딱이네요.사이즈 마음에 들고 구성도 가격도 너무 마음에 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 경** 스텐냄비 3종세트(16편수+18양수+20양수)",
+    "ReviewScore": "80",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20210810",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "경량이라 가벼워서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "혼자사는 아들에겐 사이즈가 딱이네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈 마음에 들고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 가격도 너무 마음에 들어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 너무 마음에 들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447167",
+    "RawText": "냄비 바닥만 두껍고 옆은 안두꺼운것같아 아쉽네요 그래도 싼 가격에 사용하려고합니다. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 경** 스텐냄비 3종세트(16편수+18양수+20양수)",
+    "ReviewScore": "50",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20210607",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "냄비 바닥만 두껍고 옆은 안두꺼운것같아 아쉽네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "그래도 싼 가격에 사용하려고합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447173",
+    "RawText": "인덕션냄비가 필요해서 구입 했는데 가격이 저렴해서  좋은데 약간 윙 소리가나네요 너무 가벼워서 그럴까요 싼게 비지떡이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "[OO] 스** IH후라이팬 5종세트",
+    "ReviewScore": "80",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20190428",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서  좋은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "약간 윙 소리가나네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "너무 가벼워서 그럴까요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "싼게 비지떡이네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션냄비가 필요해서 구입 했는데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447174",
+    "RawText": "잘 산것같아요! 단지 후라이펜 사이즈가 조금 더 컸으면 좋겠고 웍에 맞는 뚜껑이었으면 하는 아쉬움이 있네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "[OO] 스** IH후라이팬 5종세트",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20190508",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "후라이펜 사이즈가 조금 더 컸으면 좋겠고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "웍에 맞는 뚜껑이었으면 하는 아쉬움이 있네요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "447176",
+    "RawText": "음 정말 많이 가벼워서 별로고 .. 26cm 는 생각보다 작아서 아쉽네요 ~궁중팬 보다는 후라이팬 인 거 같아요. 일반 웤 처럼 깊지는 않으네요 ~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "60",
+    "Syllable": "82",
+    "Word": "23",
+    "RDate": "20211216",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "음 정말 많이 가벼워서 별로고 .. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "26cm 는 생각보다 작아서 아쉽네요 ~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "궁중팬 보다는 후라이팬 인 거 같아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "일반 웤 처럼 깊지는 않으네요 ~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "447180",
+    "RawText": "가격대비 품질 좋아요 코팅이 벗겨지지 않고 가벼워요 다만 조리시 손잡이가 뜨거워요 빠른 배송으로 안전하게 받았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20220225",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 품질 좋아요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅이 벗겨지지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "다만 조리시 손잡이가 뜨거워요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "447183",
+    "RawText": "사용시  타는 냄새가 나요.  팬이 얇고, 손잡이 쪽이 무거워 한쪽으로 기울어져요. 다시는 안 삽니다. 절대 구매하지 마세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "40",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20211231",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "사용시  타는 냄새가 나요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "팬이 얇고,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "손잡이 쪽이 무거워 한쪽으로 기울어져요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "447184",
+    "RawText": "저는 이제야 알았어요. 제가 잘 못 산게 아니란걸요. 분명히 인덕션이 되는 그림을 보고 샀는데 전혀 사용이 안 되어서요. 불량인가 봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "40",
+    "Syllable": "77",
+    "Word": "20",
+    "RDate": "20211221",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션이 되는 그림을 보고 샀는데 전혀 사용이 안 되어서요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "불량인가 봅니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "447189",
+    "RawText": "막쓰기에는 좋아요. 너무 얊은게. 흠이네요.. 걍 가격만큼하는것같아요 안전 배송해주신 배달 기사님 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "80",
+    "Syllable": "61",
+    "Word": "12",
+    "RDate": "20220223",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "막쓰기에는 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "너무 얊은게. 흠이네요..",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "걍 가격만큼하는것같아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "447194",
+    "RawText": "1+1 구성에 이 가격이라는게 믿어지지 않네요 OOO라 품질은 믿고 사용합니다 앞으로도 계속 믿고 사용할테니 좋른 상품 많이 만들어 주세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20220221",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "1+1 구성에 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "OOO라 품질은 믿고 사용합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 가격이라는게 믿어지지 않네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447198",
+    "RawText": "잘쓰고 있는데~생각했던 것 보다 가벼운것 같아서 아쉬워요. 요리중 궁중팬이 움직이는 경우가 있어 살짝 불편했어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20220104",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "잘쓰고 있는데~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각했던 것 보다 가벼운것 같아서 아쉬워요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "요리중 궁중팬이 움직이는 경우가 있어 살짝 불편했어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "447200",
+    "RawText": "당시에 저렴하게 구입했어용!   역시 OOOO !! 좋습니당 큰사이즈 원하시는분들께 딱입니다 추천 !!",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "12",
+    "RDate": "20220113",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "당시에 저렴하게 구입했어용!  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "큰사이즈 원하시는분들께 딱입니다 추천 !!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447203",
+    "RawText": "가볍고 사용하기 편리해 볶고 삶고 ᆢ이 조리기구만 사용하게 됩니다 빠르고 안전하게 배송 받아서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20220213",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 편리해 볶고 삶고 ᆢ이 조리기구만 사용하게 됩니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447204",
+    "RawText": "좋아요~ 몇십마넌짜리팬보다ㅡ가벼워서 좋고.자주꺼냇쓸수있어서좋은거같아요 온라인상품들은.받았을때틀리니까...",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "4",
+    "RDate": "20220113",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 좋고.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "자주꺼냇쓸수있어서좋은거같아요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447207",
+    "RawText": "가볍고 좋은데  금빛 가루액(?)이 묻어서 이상해요. 식초 넣고 한참을 끓여서 버리기를 반복.. 뭐죠? 괜찮을 줄 알고 세척해버려서 반품도 못하고 속상합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "70",
+    "Syllable": "88",
+    "Word": "20",
+    "RDate": "20220307",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가볍고 좋은데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "금빛 가루액(?)이 묻어서 이상해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "447213",
+    "RawText": "항상 구매해서 쓰고있어요. 가격이 3천원정도 올랐네요. 휘뚜르마뚜르 부담없이 3~4개월정도 쓰고 교체합니다. 코팅이 빨리 벗겨지는게 흠인데 3개월정도까지는 괜찮아요. 또 구매하겠습니다 ^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "105",
+    "Word": "20",
+    "RDate": "20220223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 3천원정도 올랐네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "휘뚜르마뚜르 부담없이 3~4개월정도 쓰고 교체합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅이 빨리 벗겨지는게 흠인데  3개월정도까지는 괜찮아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "447248",
+    "RawText": "잘받았어요 상품평좋아구매했어요 한해쓰고 새상품 구매하는편이라 좋은가격에만족해욯 가성비 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "8",
+    "RDate": "20220204",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은가격에만족해욯 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447255",
+    "RawText": "적립금 소진하며 저렴하게 구매해봤는데 너무 좋아요~!! 안 들러붙고 일부러 큰거 샀더니 활용하기 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20220207",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금 소진하며 저렴하게 구매해봤는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "안 들러붙고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "일부러 큰거 샀더니 활용하기 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447260",
+    "RawText": "OOOO 후라이팬 가벼워서 좋고 내구성좋아요 1+1으로 저렴하게 구매했습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "8",
+    "RDate": "20211222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "내구성좋아요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "1+1으로 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매했습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447295",
+    "RawText": "2번을 선택한다고 한게 1번으로 했네요. 아쉽지만 그냥 사용해야 겠어요. 궁중팬 필요한데.. 저렴하게 잘 샀어요. 아직 사용전이라서 나중에 올릴게요. 코팅력이 좋았으면 좋겠네요^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "100",
+    "Word": "21",
+    "RDate": "20211117",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 샀어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅력이 좋았으면 좋겠네요^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "447297",
+    "RawText": "가벼우면서도 중심잘잡히는 후라이팬 입니다. 가격도 너무 저렴하게 나와서 지인도 주문해줬네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "10",
+    "RDate": "20211129",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼우면서도",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "중심잘잡히는 후라이팬 입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 너무 저렴하게 나와서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447300",
+    "RawText": "저렴하면서 실속있는제품을 찾다가 구매했어요 자주자주 바꿔가며 쓸려고 합니다 비싼것 살 필요없어요 싸게 잘 샀습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20211106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하면서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "자주자주 바꿔가며 쓸려고 합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 잘 샀습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447301",
+    "RawText": "지난번에도 써봤는데 코팅이금방 벗겨져서  조금사용하다  버렸는데  또 코팅 금방 벗겨지는 그후라이팬이라 좀실망 포인트 쓰려고 샀는데 싼게 비지떡이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "60",
+    "Syllable": "83",
+    "Word": "17",
+    "RDate": "20211105",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "또 코팅 금방 벗겨지는 그후라이팬이라 좀실망 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "싼게 비지떡이네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "447313",
+    "RawText": "저렴한 가격에 만족합니다 색상도 깔끔하고 너무 가볍지 않아 좋아요 웍 두개로 한동안 편하게 사용할 수 있어서 감사드려요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "17",
+    "RDate": "20211117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 만족합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 깔끔하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "너무 가볍지 않아 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "웍 두개로 한동안 편하게 사용할 수 있어서 감사드려요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447322",
+    "RawText": "쓰고 있던게 너무 무거웠는데 가벼워서 좋고 겉으로 보기엔 품질도 좋아보이네요 그러나 배송박스상태는 별로였어요 다 지그러지고 찢기고ㅡㅡ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "74",
+    "Word": "16",
+    "RDate": "20211103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "겉으로 보기엔 품질도 좋아보이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447327",
+    "RawText": "상당히  얇아요  손잡이는 프라스틱?  인건가요  아직  사용전.손잡이 안뜨거울까  모르겠어요   포인트써서 저렴하게 주문했네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "80",
+    "Syllable": "71",
+    "Word": "12",
+    "RDate": "20211124",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "상당히  얇아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "손잡이 안뜨거울까  모르겠어요  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "포인트써서 저렴하게 주문했네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "손잡이는 프라스틱?  인건가요  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "447335",
+    "RawText": "손목이 아파 가벼운거찻다가  저렴하게 잘구입해내요  잘쓸거같아요 가벼워서 안전하게 빠른 배송 해주셔서 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "12",
+    "RDate": "20211129",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘구입해내요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "잘쓸거같아요 가벼워서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447341",
+    "RawText": "가벼워서 좋아요. 눌러붙지 않고요. 하지만 궁중팬의 코팅리 벌써부터 벗겨지려해요...ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "49",
+    "Word": "9",
+    "RDate": "20211109",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "눌러붙지 않고요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": " 궁중팬의 코팅리 벌써부터 벗겨지려해요...ㅠㅠ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "447346",
+    "RawText": "좋아요~ 사이즈가 조금 작긴한데 그래서 오히려 2개를화구2군데 올려놓고 한번에 할수 있어서 좋네요~ 한꺼번에 2가지요리할때도 좋고 부침개할때2개로 하니까 빨리해서 돟고~ 코팅도 좋은것같아요~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "106",
+    "Word": "21",
+    "RDate": "20211105",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 사이즈가 조금 작긴한데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "오히려 2개를화구2군데 올려놓고 한번에 할수 있어서 좋네요~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "한꺼번에 2가지요리할때도 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "부침개할때2개로 하니까 빨리해서 돟고~ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅도 좋은것같아요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447347",
+    "RawText": "가볍고 무난합니다 일단 코팅 처리도 괜찮은거 같고 크기도 적당 합니다 포장과 배송도 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "14",
+    "RDate": "20211020",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 무난합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅 처리도 괜찮은거 같고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 적당 합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447359",
+    "RawText": "저렴하게 구매했어요 가볍긴한데 자주바꿔주는거좋다고해서 구매만족합니다 빠른 배송도 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "80",
+    "Syllable": "51",
+    "Word": "8",
+    "RDate": "20211102",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매했어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍긴한데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "447361",
+    "RawText": "ㅋ품질이 딱 가격만큼이네요. 뜨거운 물 부어 세척하느라 전기레인지에 올려놓고 물을 끓였더니 가운데가 살짝 볼록 해지며  과장하면 팽이처럼 흔들흔들 하네요 웬만하면 후라이팬 자주 바꾸는것을 선호하는데 요건 품질 너무 안 좋아서 짧게 쓰기도  민망! 두개값으로 좀 나은 하나를 살것을..",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "30",
+    "Syllable": "158",
+    "Word": "37",
+    "RDate": "20211022",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "ㅋ품질이 딱 가격만큼이네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "전기레인지에 올려놓고 물을 끓였더니 가운데가 살짝 볼록 해지며  과장하면 팽이처럼 흔들흔들 하네요 ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 품질 너무 안 좋아서 짧게 쓰기도  민망! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "두개값으로 좀 나은 하나를 살것을..",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "447362",
+    "RawText": "다용도팬이 필요했는데 1+1 구성의 이기회를 놓치면 안되죠. 좋은가격에 할인도 받고 넘 좋아요...",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20211007",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "1+1 구성의 이기회를 놓치면 안되죠. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은가격에 할인도 받고 넘 좋아요...",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447368",
+    "RawText": "디자인도 예쁘고 쓰기도 편해서 잘 쓰고 있어요 코팅이 잘 되어서 오래 사용해도 변함이 없어 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "15",
+    "RDate": "20210829",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 쓰기도 편해서 잘 쓰고 있어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅이 잘 되어서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오래 사용해도 변함이 없어 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447386",
+    "RawText": "코팅이 좋아 기름을 적게 넣고도 부침개가 잘 부쳐지네요.  그리고 가볍습니다 빠른 배송 감사드립니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20210828",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅이 좋아",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": " 기름을 적게 넣고도 부침개가 잘 부쳐지네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍습니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447405",
+    "RawText": "저렴해서 단기간 사용하기 좋아요. 프라이팬은 높이가 너무 낮아서 많이 튑니다. 그래서 궁중팬도 구입했어요. 궁중팬은 볶음밥이나 각종 볶음에 사용하면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "88",
+    "Word": "19",
+    "RDate": "20210915",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "단기간 사용하기 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "프라이팬은 높이가 너무 낮아서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "많이 튑니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "궁중팬은 볶음밥이나 각종 볶음에 사용하면 좋겠어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447409",
+    "RawText": "싸게사서 편하게 잘사용하고있습니다 비싼거사도 코팅이 오래쓰지 못했는데 가볍고 실용적이어서좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "9",
+    "RDate": "20211012",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게사서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하게 잘사용하고있습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "실용적이어서좋네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447427",
+    "RawText": "가벼워서쓰기좋구요~~코팅도.바닥두께도좋네요~~~ 쓰던게기름이골고루안퍼져서샀는데이건좋네요~~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "2",
+    "RDate": "20210831",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서쓰기좋구요~~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅도.바닥두께도좋네요~~~ ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "바닥두께도좋네요~~~ ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447443",
+    "RawText": "OOOO 후라이팬 부담없는 가격대에 성능도 좋아서 항상 사용하는 제품이예요 너무 무겁지 않아서 개인적으로는 더 좋습니다 가성비 굿입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "75",
+    "Word": "17",
+    "RDate": "20210925",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "너무 무겁지 않아서 개인적으로는 더 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 굿입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447454",
+    "RawText": "적립금써서 저렴하게 구입했어요. OOO 28cm 프라이팬으로 2개했는데 국내 제조제품이라 더욱 좋아요 무게도 가볍고 두루두루 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "73",
+    "Word": "15",
+    "RDate": "20211007",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금써서 저렴하게 구입했어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 무게도 가볍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447456",
+    "RawText": "배송도 빠르고 가격도 저렴하고 무엇보다 가벼워서 좋아요. 후라이팬 비싼거 사도 빨리 닳아버리는데 부담없이 쓰기 편해서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20210830",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무엇보다 가벼워서 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "부담없이 쓰기 편해서 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447457",
+    "RawText": "가벼워서 좋아요. 주부들한테 무거운 주방기기는 손목에 무리가 가기 쉬운데 정말 가벼워요. 잘 사용하고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20211013",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "정말 가벼워요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "잘 사용하고 있어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447458",
+    "RawText": "후라이팬과 궁중팬 바꿔야지 생각만 하다가 상품평이 많아  구매했네요. 가볍고 좋아요. 가격도 저렴해서 부담이 없어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20210903",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서 부담이 없어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447482",
+    "RawText": "상품평보고 구매를 잘한거 가터요 후라이팬하고 궁중팬이 너무가벼워서 잘 쓸거가터요~~저렴하게 구입했네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "56",
+    "Word": "10",
+    "RDate": "20210928",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "너무가벼워서 잘 쓸거가터요~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입했네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447483",
+    "RawText": "가볍고  와인색상 이쁘네요~~~  아직 사용전인데 오래 쓸수 있게 식용유 기름칠 해놨네요~~~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "11",
+    "RDate": "20211003",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고  ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "와인색상 이쁘네요~~~  ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오래 쓸수 있게 식용유 기름칠 해놨네요~~~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "447490",
+    "RawText": "후라이팬 코팅이 다 벗겨져  사게 됐는데 딸도 하나 달라고 해서 같이 잘 쓰고 있답니다 가벼워서 손목에도 무리가 없어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "60",
+    "Syllable": "66",
+    "Word": "18",
+    "RDate": "20210916",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "같이 잘 쓰고 있답니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 가벼워서 손목에도 무리가 없어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447493",
+    "RawText": "너무 얇다. 볶음요리에   잘 쓰고 있는데 내구성은 살짝 아쉽지만가격이 워낙 가벼우니 그맛으로 사용하기",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "50",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20210904",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "너무 얇다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "볶음요리에 잘 쓰고 있는데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "내구성은 살짝 아쉽지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 워낙 가벼우니 그맛으로 사용하기",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447513",
+    "RawText": "일년에 한번씩 바꾸는 라이프 스타일입니다 자주 사용하거든요  아주 저렴한 가격에  배송도 빨랐구요 외부표면칼라가 밝지않은 자주칼라라 지저분하게 안보여요  음식을 집에서 자주하는 지인들에게 추천했어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "110",
+    "Word": "22",
+    "RDate": "20210905",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "아주 저렴한 가격에  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "칼라가 밝지않은 자주칼라라 지저분하게 안보여요  ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447520",
+    "RawText": "가격이 저렴한데 적립금까지 사용해서 정말 착한가격으로 구매 했습니다 고급스럽진 않아도  가볍고 좋으네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "12",
+    "RDate": "20210909",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴한데 적립금까지 사용해서 정말 착한가격으로 구매 했습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "고급스럽진 않아도  ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "  가볍고 좋으네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447524",
+    "RawText": "오늘 사용했습니다. 넘넘 마음에 드네요 가벼워서 손목에 무리는 가지 않겠어요. 좀더 사이즈가 큰게 있으면 좋겠어요. 가격대비 훌륭합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "90",
+    "Syllable": "75",
+    "Word": "17",
+    "RDate": "20210828",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 손목에 무리는 가지 않겠어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 훌륭합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "좀더 사이즈가 큰게 있으면 좋겠어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "447526",
+    "RawText": "가성비갑이네여~오래두고쓸건아니라저렴한상품찾던중후라이팬이랑궁중팬을이가격에살수있어서좋았어영다만좀아쉬운건궁중팬이좀더깊었으면하네영~ 암튼상품배송둘다굿이네영~^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "85",
+    "Word": "2",
+    "RDate": "20210827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비갑이네여~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한상품찾던중후라이팬이랑궁중팬을이가격에살수있어서좋았어영",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "다만좀아쉬운건궁중팬이좀더깊었으면하네영~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "447535",
+    "RawText": "OOOO라서 믿음이 가고.. 궁중펜이랑 후라이펜 이 얇고 가벼워서 쓰기 좋아요..저렴하게 구매해서 좋습니다^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "12",
+    "RDate": "20210928",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "궁중펜이랑 후라이펜 이 얇고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 쓰기 좋아요..",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매해서 좋습니다^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447538",
+    "RawText": "생각보다 엄청 가벼워서 놀랬어요 과연 가볍지만 내구성이 좋을지 의문이지만 일단 배송,디자인,맘에 들어용",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "12",
+    "RDate": "20210913",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각보다 엄청 가벼워서 놀랬어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍지만 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인,맘에 들어용",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "내구성이 좋을지 의문이지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "447554",
+    "RawText": "진짜 최고의 가격에 잘산거 같아요 가격이 싸고 1+1이라, 반식반의 하면서 구매했는데 역시 OO 가볍고 코팅도 잘되있어서 음식 안 달라붙고 진짜 괜찮네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "85",
+    "Word": "21",
+    "RDate": "20210917",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "진짜 최고의 가격에 잘산거 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 싸고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "1+1이라",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅도 잘되있어서 음식 안 달라붙고 진짜 괜찮네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447557",
+    "RawText": "가벼워서 넘 좋쿠요 손목에 무리가 없을듯해요 가격도 좋쿠요 제품이 28cm 인데 30cm  였으면 도 좋을꺼 같아요 ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "90",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20210828",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 넘 좋쿠요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손목에 무리가 없을듯해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좋쿠요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "제품이 28cm 인데 30cm  였으면 도 좋을꺼 같아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "447558",
+    "RawText": "좀 얇긴해도 가벼워서 좋네요. 후라이팬은 자주 바꾸는게 좋다고 해서 구입했어요 코팅 벗겨지기전에 자주 바꾸려고요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "80",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20210827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "좀 얇긴해도",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447560",
+    "RawText": "저렴할때~~적립금써서 더 저렴히 구입!! 얇네요~~ 근데 전기렌지에서는 못 사용하는거 같아요..ㅡㅜ 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "70",
+    "Syllable": "60",
+    "Word": "11",
+    "RDate": "20210908",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴할때~~적립금써서 더 저렴히 구입!!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇네요~~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "근데 전기렌지에서는 못 사용하는거 같아요..ㅡㅜ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "447568",
+    "RawText": "배송 빠르고 스크레치없이 안전하게 잘 받았어요 눌러 붙지 않고  열전도 열이 좋아서 요리가빨리되니 너무 만족 강추!!",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20210831",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "눌러 붙지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "열전도 열이 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "요리가빨리되니 너무 만족",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447586",
+    "RawText": "적립금 사용 저렴하게 구매했어요 코팅 벗겨지면 교체 얼른 얼른 해서  사용하면 되겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "48",
+    "Word": "12",
+    "RDate": "20211008",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금 사용 저렴하게 구매했어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "코팅 벗겨지면 교체 얼른 얼른 해서  사용하면 되겠어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "447589",
+    "RawText": "좋은 가격에 2개 구매 구매했습니다  코팅 벗겨지면 자주 바꿔주며  사용할거예요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20210828",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "2개 구매 구매했습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "코팅 벗겨지면 자주 바꿔주며  사용할거예요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447613",
+    "RawText": "비싼거 사도 코팅  자꾸 벗겨지는데 저렴한 제품으로 자주 바꿔서 사용하는데  OOOO  가성비 최고 코팅이 잘 되어 있는 듯",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "69",
+    "Word": "18",
+    "RDate": "20210831",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "OOOO  가성비 최고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅이 잘 되어 있는 듯 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447632",
+    "RawText": "엄청 가벼워요 저렴하게  잘 구내한거 같아요 후라이팬 은 자주 바꾸는데 적당한거 같아요 그래서 쓰다 망가지면 또 구매할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20210814",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "엄청 가벼워요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게  잘 구내한거 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447637",
+    "RawText": "가격만큼 품질이 허.접합니다. OOOO 제품이라 믿고 구매한건데 팬이 너무 얇아서 불조절을 수시로 확인해야 타지않습니다. 장.점은 가볍고 저렴하다 이며, 단.점은 너무 많습니다. 재구매의사 없습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "10",
+    "Syllable": "111",
+    "Word": "23",
+    "RDate": "20210825",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격만큼 품질이 허.접합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "너무 얇아서 불조절을 수시로 확인해야 타지않습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "장.점은 가볍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하다 이며",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447647",
+    "RawText": "배송 빠르게 잘 받았어요. 사이즈28 밖에 없는게 조금 아쉽네요. 30도 같이 판매해주시면 좋겠어요. 주방에서 휘뚜루마뚜루 쓰기에 좋을것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "80",
+    "Syllable": "81",
+    "Word": "18",
+    "RDate": "20210826",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "  사이즈28 밖에 없는게 조금 아쉽네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "주방에서 휘뚜루마뚜루 쓰기에 좋을것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447653",
+    "RawText": "사이즈도 적당하고 가벼워서 편하게 사용하기에 좋아요 1+1으로 저렴하게 구입해서 더 좋네요.. 배송도 잘 왔어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20210825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 적당하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 편하게 사용하기에 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "1+1으로 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입해서 더 좋네요..",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447660",
+    "RawText": "가벼워요. 기존에 두께가 있고 좀 무거웠는데 얇고 가벼워서 막 사용하긴 좋을것 같아요 추천할 만한 프라이팬이예요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20210814",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "막 사용하긴 좋을것 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447662",
+    "RawText": "적립금사용하고 했어 저렴한가격에 구매했습니다  비싼걸쓰봐도 별 차이가 없어요 저렴하게 구매해 사용하다가 조금지저분하면 바꾸사용하는게 더 위생적인것 같더라구요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "80",
+    "Syllable": "87",
+    "Word": "16",
+    "RDate": "20210825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금사용하고 했어 저렴한가격에 구매했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매해 사용하다가",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447674",
+    "RawText": "평소  궁중 팩이나 웍을  많이 사용하는  편이라 적립금사용하여 웍만 2개 저렴하게 구매하였음. 가볍고  음식물이  달라붙지 않아  좋음. 두께가 좀 얇아서 아쉬움. 궁중팬도 같이  구매했음 좋았은껄   하는 아쉬움  있응.  ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "127",
+    "Word": "28",
+    "RDate": "20210826",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금사용하여 웍만 2개 저렴하게 구매하였음. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고  ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "음식물이  달라붙지 않아  좋음.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께가 좀 얇아서 아쉬움. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "447688",
+    "RawText": "평소에 웍을 많이 사용하는 편이라서 마침  쓰던걸 교체하려던 차에 구입하 되었어요 큰게 두개가 생기니까 너무 좋아요 앞으로  여러모로 잘 쓸거 같아요 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "87",
+    "Word": "22",
+    "RDate": "20210813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "큰게 두개가 생기니까 너무 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "앞으로  여러모로 잘 쓸거 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447699",
+    "RawText": "휘뚜루마뚜루 쓰기에 넘~ 조아요 가볍고 찜요리나 국물요리에 조으네요 뚜껑은 없지만 원래 사용하던 같은 서이즈의 뚜껑을 이용하니 오히려 더 조으네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "81",
+    "Word": "19",
+    "RDate": "20210813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "휘뚜루마뚜루 쓰기에 넘~ 조아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "찜요리나 국물요리에 조으네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "뚜껑은 없지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "447712",
+    "RawText": "배송 주문하고 6일걸려 왔어요 전에 OO 후라이팬 썼는데 가격대비 괜찮았는데 이전게 품질이 더 낫네요 세척하고 기름칠하고 바로 계란후라이해봤는데 새 후라이팬인데 가장자리에 들러붙어요ㅠ 크기도 28cm인데 생각보다  안 커요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "60",
+    "Syllable": "124",
+    "Word": "27",
+    "RDate": "20210819",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "이전게 품질이 더 낫네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "계란후라이해봤는데 새 후라이팬인데 가장자리에 들러붙어요ㅠ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 28cm인데 생각보다  안 커요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "447717",
+    "RawText": "가격대비 제품도좋고 실용적으로. 가정에서 주부들이 사용하기가좋고 마음에 듭니다.  충추들립니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "9",
+    "RDate": "20210814",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 제품도좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "실용적으로. 가정에서 주부들이 사용하기가좋고 마음에 듭니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447720",
+    "RawText": "잘 눌러붙지 않아서 좋아요~ 새제품이라 그런것도 있겟지만 아직까지는 사용 잘하고 있어요 언니랑 나눠 가졌는데 언니도 만족하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "71",
+    "Word": "16",
+    "RDate": "20210819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "잘 눌러붙지 않아서 좋아요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "새제품이라 그런것도 있겟지만 아직까지는 사용 잘하고 있어요 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447721",
+    "RawText": "가성비 갑이예요. 가격이 저렴하니 도금이 종ㅁ만 벗겨져도 바로 교체해서 쓸수 있어서 좋아요. 배송도 빠릅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20210819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 갑이예요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하니 도금이 종ㅁ만 벗겨져도 바로 교체해서 쓸수 있어서 좋아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447727",
+    "RawText": "후라이팬을 바꿀때가됬는데 마침 저렴한 가격에 후기도 괜찮은것 같아 주문했는데 얇아서 음식할때 불조절 잘해야겠지만 가볍고 가격대비 좋네요. 잘 사용할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "85",
+    "Word": "18",
+    "RDate": "20210814",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 마침 저렴한 가격에 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아서 음식할때 불조절 잘해야겠지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 좋네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447730",
+    "RawText": "후라이팬과 궁중팬 모두 얇아요 그치만 가벼워서 손목에는 무리가없을거같아요 찌그러짐 없이 도착했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "11",
+    "RDate": "20210814",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "후라이팬과 궁중팬 모두 얇아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 손목에는 무리가없을거같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447733",
+    "RawText": "타제품사용한던 궁중팬 코팅이 쉽게 벗겨져서  둘러보다 가격이저렴하고 해서  얼마나 사용할수  있을지  기대하며....주문해 봤어요~  ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "75",
+    "Word": "13",
+    "RDate": "20210819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이저렴하고 해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "얼마나 사용할수  있을지  기대하며....주문해 봤어요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "447739",
+    "RawText": "좋아요가격이 저렴해서 후라이팬 자주바꿀수 있어 좋내요 좋은상품인데 두개 세트라 더더욱 좋으네요 자주구매하고 있습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "64",
+    "Word": "13",
+    "RDate": "20210816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서 후라이팬 자주바꿀수 있어 좋내요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "좋은상품인데 두개 세트라 더더욱 좋으네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447754",
+    "RawText": "배송 빠르게 잘 받았습니다. 코팅이 좋아 쉽게 타지 않고, 설거지도 아주 편안해요. 매번 재구매해서 사용중이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20210818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅이 좋아 쉽게 타지 않고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "설거지도 아주 편안해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447757",
+    "RawText": "좋은가격에 1+1으로 하나도 아니고 두개나 구매했네요  가벼워서 요리나 설겆이 하기에도 좋네요 잘 쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20210818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은가격에 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "1+1으로 하나도 아니고 두개나 구매했네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "설겆이 하기에도 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447774",
+    "RawText": "파티웍을 먼저 쓰고있는데 다용도로 쓰기 좋네요 손잡이가 팬하고같이 뜨거워지는것 빼곤 좋아요 배송도 빨랐네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "80",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20210820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 다용도로 쓰기 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "손잡이가 팬하고같이 뜨거워지는것",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "447784",
+    "RawText": "가볍고 좋아요. 밑면이 넓어서 열 손실이 적고 조리할 때 달그락거리지 않고 안정감이 있을것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "14",
+    "RDate": "20210819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 좋아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 밑면이 넓어서 열 손실이 적고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "조리할 때 달그락거리지 않고 안정감이 있을것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447788",
+    "RawText": "OOO 후라이팬이 가성비가 좋아요. 가격이 좋을때 재여놓으려 구매했네요 배송 지체없이 빠르게 가져다 주셔서 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "14",
+    "RDate": "20210820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "OOO 후라이팬이 가성비가 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좋을때 재여놓으려 구매했네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447793",
+    "RawText": "배송잘받았습니다 가벼워서 좋네요 두개를 겹쳐서 들어도 넘가벼워요~ 꼼꼼하게 포장해서 안전하고 빠르게 배송해 주셔서 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "70",
+    "Word": "14",
+    "RDate": "20210820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "두개를 겹쳐서 들어도 넘가벼워요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "447796",
+    "RawText": "갈비 잘 구워 먹어봤는데...후라이팬이 가볍고  열 전도율이 빨라 불조절 잘해야할듯 순간 탈수도있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 후라이팬 1+1 ",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "12",
+    "RDate": "20210822",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "후라이팬이 가볍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": " 열 전도율이 빨라 불조절 잘해야할듯 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

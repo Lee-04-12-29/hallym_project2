@@ -1,0 +1,3404 @@
+[
+  {
+    "Index": "449081",
+    "RawText": "호스트가 설명을 너무 잘 하셔서 구매했는데 가격대비 품질이 넘 아닙니다. 절대구매하면 후회 백배요 양배추를 데쳐보았는데 수분은 없구  그냥. 데치는게 전배는 나아요 일단사용해서 반품 못하고 그냥 칠만원버렸습니다 품질이 너무 허접해요 용량도 어설프구요 요즈음 더 좋은것 많아요 가격은 비싸고 활용도는 완전 아니네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 힐** 조리기세트",
+    "ReviewScore": "20",
+    "Syllable": "174",
+    "Word": "40",
+    "RDate": "20190418",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 품질이 넘 아닙니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "양배추를 데쳐보았는데 수분은 없구 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "그냥. 데치는게 전배는 나아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 너무 허접해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "용량도 어설프구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "활용도는 완전 아니네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449082",
+    "RawText": "요리시간 절약 되고 좋네요  달걀찜 , 감자 고구마삶기, 양배추찌기, 밥 등 여러가지 해 봤는데 모두 다 맛있게 잘되어서 전 만족입니다  ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 힐** 조리기세트",
+    "ReviewScore": "100",
+    "Syllable": "77",
+    "Word": "20",
+    "RDate": "20190420",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "요리시간 절약 되고 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "달걀찜 , 감자 고구마삶기, 양배추찌기, 밥 등 여러가지 해 봤는데 모두 다 맛있게 잘되어서",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449083",
+    "RawText": "어제 라면 끓여서 좋았는데 오늘계란 삶으려고 전자렌즈 5분 돌렸는데 뚜껑  뻥터져서 그릇이깨졌어요...반품하고싶은데 사용하려고 빅스도 다 바렸어요...어땋게 해야 하나요...",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 힐** 조리기세트",
+    "ReviewScore": "20",
+    "Syllable": "97",
+    "Word": "18",
+    "RDate": "20190418",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "어제 라면 끓여서 좋았는데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 오늘계란 삶으려고 전자렌즈 5분 돌렸는데 뚜껑  뻥터져서 그릇이깨졌어요...",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449089",
+    "RawText": "빠른배송에 후라이팬 잘사용하고 있습니다 무거울줄 알았는데 그리 무겁지도 않고 디자인도 맘에들고 이쁘네요~~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 프라이팬 세트",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "12",
+    "RDate": "20190405",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거울줄 알았는데 그리 무겁지도 않고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 맘에들고 이쁘네요~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "후라이팬 잘사용하고 있습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449090",
+    "RawText": "이사하면서 쓰려고 주문했어요  방송보니 이쁘네요 나무손잡이도 이쁘고 유럽스탈 마치 쉐프님들이쓰는제품인듯 디자인이 멋져요 아직은 사용안해봤어요 풀어놓고 감상중입니다 하하하 오래오래 잘시용해야될것인데 잘쓰겠습니다 많이많이 파세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 프라이팬 세트",
+    "ReviewScore": "80",
+    "Syllable": "125",
+    "Word": "22",
+    "RDate": "20190412",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 나무손잡이도 이쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "유럽스탈 마치 쉐프님들이쓰는제품인듯 디자인이 멋져요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449092",
+    "RawText": "생각했던데로 디자인 깔끔하고.  자주 쓰는 사이즈 만족합니다. 잘 쓸께요. 배송도 빨라서 정말 좋았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 프라이팬 세트",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20190429",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 깔끔하고.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "자주 쓰는 사이즈 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449109",
+    "RawText": "가격대비좋은것같아샀는데..실망이예요.너무가볍고.얇으니깐남비에 열얼룩이생겨한번쓰고바로몇년쓴거같아지네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 3중바닥 스텐냄비 3종 세트 (16편수+18양수+24전골)",
+    "ReviewScore": "80",
+    "Syllable": "55",
+    "Word": "2",
+    "RDate": "20191103",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비좋은것같아샀는데..실망이예요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "너무가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇으니깐",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "남비에 열얼룩이생겨",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "한번쓰고바로몇년쓴거같아지네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449111",
+    "RawText": "냄비가 녹스는것은 처음봐요 스텐냄비라해서 샀는데 녹이슬어서 황당해요 녹스는 냄비가 처음이라서 너무 아닌것같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 3중바닥 스텐냄비 3종 세트 (16편수+18양수+24전골)",
+    "ReviewScore": "20",
+    "Syllable": "62",
+    "Word": "12",
+    "RDate": "20191012",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "냄비가 녹스는것은 처음봐요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "스텐냄비라해서 샀는데 녹이슬어서 황당해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "녹스는 냄비가 처음이라서 너무 아닌것같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449116",
+    "RawText": "할인을 많이 해서 싼맛에 샀는데 좋은 품질의 제품을 할인을 해주는줄 알았지만 역시나 아닌거네요. 봉지째 데우는 음식을 끓는속에 넣으며 솥 테두리에 봉지가 접촉하자마자 눌러붙어버리는 참사. 일회용 솥이 되고 마네요. 이런건 팔지 말아야 할듯요 ㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 3중바닥 스텐냄비 3종 세트 (16편수+18양수+24전골)",
+    "ReviewScore": "20",
+    "Syllable": "136",
+    "Word": "33",
+    "RDate": "20190930",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인을 많이 해서 싼맛에 샀는데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "좋은 품질의 제품을 할인을 해주는줄 알았지만 역시나 아닌거네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "봉지째 데우는 음식을 끓는속에 넣으며 솥 테두리에 봉지가 접촉하자마자 눌러붙어버리는 참사",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "일회용 솥이 되고 마네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449120",
+    "RawText": "약한 불에서 조리하니 색도 안변하고 좋네요. 가장자리는 얇아서 국물있는 음식말고 조리는 음식은  타려고하네요. 사용하기 가볍고 만족 합니다. 명절때라 기대 안했는대 배송도 빨라요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 3중바닥 스텐냄비 3종 세트 (16편수+18양수+24전골)",
+    "ReviewScore": "100",
+    "Syllable": "100",
+    "Word": "22",
+    "RDate": "20190905",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "약한 불에서 조리하니 색도 안변하고 좋네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": " 가장자리는 얇아서 국물있는 음식말고 조리는 음식은  타려고하네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "사용하기 가볍고 만족 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449124",
+    "RawText": "먼저 주말특가로 저렴하게 구매해서 좋고요 판매가 보니 후덜덜ㅎ스텐이라 깔끔하고 깨끗하고 안전하게 사용할수 있을것같아요~단점은 크기가 약간 작다는거 전반적으로 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 3중바닥 스텐냄비 3종 세트 (16편수+18양수+24전골)",
+    "ReviewScore": "100",
+    "Syllable": "93",
+    "Word": "18",
+    "RDate": "20190907",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "주말특가로 저렴하게 구매해서 좋고요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "스텐이라 깔끔하고 깨끗하고 안전하게 사용할수 있을것같아요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "단점은 크기가 약간 작다는거",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "판매가 보니 후덜덜ㅎ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449129",
+    "RawText": "냄비 필요해서 삿는데 스텐이라 좋아여 삼중이라 무게감은 잇어여 잘써질것같네여 가성비 좋은상품",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 3중바닥 스텐냄비 3종 세트 (16편수+18양수+24전골)",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20190901",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": " 스텐이라 좋아여",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "삼중이라 무게감은 잇어여",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "잘써질것같네여",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은상품",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449130",
+    "RawText": "무겁지 않아서 좋아요.  딱필요한거.라서 좋아요.  가성비좋게 구매핬어요.  만족입니다. 배송도 빨라 좋았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 3중바닥 스텐냄비 3종 세트 (16편수+18양수+24전골)",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "11",
+    "RDate": "20190824",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁지 않아서 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비좋게 구매핬어요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449136",
+    "RawText": "명품 냄비치고는 저렴핫 가격에 잘산거 같아요 묵직하니 열전도 잘 되겠네요. 써보진 않았지만 성능이 좋기를 기대합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 냄비 5종세트(추가3종,사은품1종)",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20190511",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "명품 냄비치고는 저렴핫 가격에 잘산거 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직하니",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "열전도 잘 되겠네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "써보진 않았지만 성능이 좋기를 기대합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "449144",
+    "RawText": "가격도 좋고 디자인도 이쁜데  생각보다 좀 눌러붙어요. 품질이 가격만큼 하는것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스톤 코팅 후라이팬 2종C (28후+28궁)",
+    "ReviewScore": "60",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20210826",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 이쁜데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "생각보다 좀 눌러붙어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 가격만큼 하는것 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449149",
+    "RawText": "후라이팬은 자주 갈아주는게 좋대서 싼걸로 샀어요. 색도 예쁘고 코팅도 괜찮네요.  연두색 작은거랑 세트인데 좋습니다. 사진은 큰것만 찍었어요. 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스톤 코팅 후라이팬 2종 (20후+26후)",
+    "ReviewScore": "100",
+    "Syllable": "86",
+    "Word": "18",
+    "RDate": "20210807",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "후라이팬은 자주 갈아주는게 좋대서 싼걸로 샀어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색도 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅도 괜찮네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "연두색 작은거랑 세트인데 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449153",
+    "RawText": "깔끔하고 예쁘네요  생각보다 얇고, 가볍긴 한데  아직 사용은 안해봤어요 맛있는 요리가 잘 되면 좋겠습니다.  사용해 보고 자세한 후기도 올려 볼게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스톤 코팅 궁중팬 28cm",
+    "ReviewScore": "100",
+    "Syllable": "84",
+    "Word": "20",
+    "RDate": "20191205",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔하고 예쁘네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "생각보다 얇고, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍긴 한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "맛있는 요리가 잘 되면 좋겠습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "449174",
+    "RawText": "팬두께가 괜찮아요  잘산거같아요 좀더 저렴한거는 너무얇아서 못쓰겠더라구요 가격은 저렴하지 않지만 좋습니다. 잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스톤 코팅 후라이팬 28cm",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "13",
+    "RDate": "20210808",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "팬두께가 괜찮아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴하지 않지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449175",
+    "RawText": "기름이 너무 튀고 조금만 기름이 부족해도 쉽게 눌러붙어요. 스톤보단 다이아코팅이 사용하기 훨낫네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스톤 코팅 후라이팬 28cm",
+    "ReviewScore": "30",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20210812",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "기름이 너무 튀고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "조금만 기름이 부족해도 쉽게 눌러붙어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "스톤보단 다이아코팅이 사용하기 훨낫네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449183",
+    "RawText": "이쁩니다 적립금으로 저렴하게  구매한것같아요 사진을 올리려니 용량초과라는 글귀와함께  안올려지네요ㅜ 배송도 빨라서 정말 좋았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스톤 코팅 후라이팬 20cm",
+    "ReviewScore": "100",
+    "Syllable": "73",
+    "Word": "13",
+    "RDate": "20191128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이쁩니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금으로 저렴하게  구매한것같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449188",
+    "RawText": "인덕션용으로 구입했는데 주방이 산뜻합니디. 색상도 굿!! 깔끔한게 냄비가 이뻐요~~~ 배송도 빨라서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 새** 세라믹 IH 냄비 2종 (24양수+24전골)",
+    "ReviewScore": "100",
+    "Syllable": "62",
+    "Word": "12",
+    "RDate": "20190601",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션용으로 구입했는데 주방이 산뜻합니디.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 굿!!",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔한게 냄비가 이뻐요~~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449189",
+    "RawText": "적립금 으로 살게 없어서 요 냄비를 샀는데 너무 예쁘고 인덕션에서 팔팔 잘끓네요~사이즈도 적당하고 예쁘고 너무  만족스러워요~ㅎㅎ가스렌지 인덕션 모든곳에 다 쓸수있어서 좋네요~ ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 새** 세라믹 IH 냄비 2종 (18양수+18편수)",
+    "ReviewScore": "100",
+    "Syllable": "99",
+    "Word": "21",
+    "RDate": "20190530",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 너무 예쁘고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션에서 팔팔 잘끓네요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "예쁘고 너무  만족스러워요~ㅎㅎ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "가스렌지 인덕션 모든곳에 다 쓸수있어서 좋네요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449190",
+    "RawText": "코팅력이 좋지 않아요 잘 보면 기스 자국과 흠집도 있어요 반품합니다 검수도 안하고 이런 상품을 보내다니 다시는 주문 안합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 새** 세라믹 IH 점보 냄비 28cm",
+    "ReviewScore": "10",
+    "Syllable": "70",
+    "Word": "18",
+    "RDate": "20191128",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅력이 좋지 않아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "잘 보면 기스 자국과 흠집도 있어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449195",
+    "RawText": "냄비가 튼튼해 보여서 샀는데요 완전 실망입니다 코팅이  너무 빨리 벗겨저서 사용하기가  불편하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 새** 세라믹 IH 양수 냄비 20cm",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20211106",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "냄비가 튼튼해 보여서 샀는데요 완전 실망입니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅이  너무 빨리 벗겨저서 사용하기가  불편하네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449197",
+    "RawText": "달걀이나 부침개도 아주예쁘게 동그랗게 모양내고너무좋아요~ 한꺼번에 여러개를 맛있게  만들 수 있어서 좋습니다. 강력추천합니다^*^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 금** 4구 에그팬 28cm",
+    "ReviewScore": "100",
+    "Syllable": "72",
+    "Word": "13",
+    "RDate": "20210930",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "달걀이나 부침개도 아주예쁘게 동그랗게 모양내고너무좋아요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "한꺼번에 여러개를 맛있게  만들 수 있어서 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449210",
+    "RawText": "제가 찾던 크기에 동네 마트에서 본 가격보다 많이 저렴해서 좋아요! 너무 마음에 들어요 배송도 빠르게 왔어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 아** 스텐 곰솥 34cm",
+    "ReviewScore": "100",
+    "Syllable": "60",
+    "Word": "16",
+    "RDate": "20191009",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "제가 찾던 크기에 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "동네 마트에서 본 가격보다 많이 저렴해서 좋아요! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449211",
+    "RawText": "생선구울때 사이즈 크고 깊은 양면 팬을찾다 구매하게 되었습니다. 말그대로 OOOO 생선양면팬 사용하기 너무 편하고 좋을것같아요 덕분에 생선구이 매일매일 먹을수있을것같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 금** 특대형 생선구이 양면팬",
+    "ReviewScore": "100",
+    "Syllable": "94",
+    "Word": "19",
+    "RDate": "20190613",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 너무 편하고 좋을것같아요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "덕분에 생선구이 매일매일 먹을수있을것같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "449216",
+    "RawText": "(OO멤버십 쿠폰)적립금으로 좋은 가격에 구입. 식용유 이용해서 닦으니 냄비 안쪽보다 뚜껑 가장자리에 연마제가 좀 남아있음 음식물 찌꺼기 끼일만한 홈 같은게 없어서 좋고 전체적으로  깔끔",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 리** IH 스텐 냄비 24cm양수",
+    "ReviewScore": "100",
+    "Syllable": "104",
+    "Word": "24",
+    "RDate": "20201220",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "식용유 이용해서 닦으니 냄비 안쪽보다 뚜껑 가장자리에 연마제가 좀 남아있음",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "음식물 찌꺼기 끼일만한 홈 같은게 없어서 좋고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "전체적으로  깔끔",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "(OO멤버십 쿠폰)적립금으로 좋은 가격에 구입",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449217",
+    "RawText": "3인 가족 국냄비용으로 구매했습니다. 생각보다 가볍지만 자주 쓸 듯해요 포장도 꼼꼼하게 배송도 빠르게 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 리** IH 스텐 냄비 20cm양수",
+    "ReviewScore": "80",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20210101",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각보다 가볍지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "자주 쓸 듯해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449234",
+    "RawText": "묵직한데 생각보다 깊어서 많이 들어갑니다. 국물 요리에도 괜찮을 거 같아요. 원하는 날짜에 배송해 주셔서 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 우** 소테팬 24cm",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20210524",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직한데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "생각보다 깊어서 많이 들어갑니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "국물 요리에도 괜찮을 거 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449239",
+    "RawText": "내가 찾던 크기와 깊이의 팬이예요 무게감도 적당히 좋아서 넘 맘에들어요 내구성도 단단해보이고 잘만들어진것 같아요 짱이예요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 우** 소테팬 24cm",
+    "ReviewScore": "100",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20201104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "내가 찾던 크기와 깊이의 팬이예요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "깊이의 팬이예요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감도 적당히 좋아서 넘 맘에들어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "내구성도 단단해보이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449252",
+    "RawText": "새후라이팬세척해서 바로 계란말이를했는데좀 달라붙네요ㆍ처음이라 눌러붙는건지 계속 해봐야겠어요ㆍ사이즈는 딱 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 우** 계란말이팬 (13*18.5*3.5(cm))",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "9",
+    "RDate": "20211008",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "계란말이를했는데좀 달라붙네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": " 처음이라 눌러붙는건지 계속 해봐야겠어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈는 딱 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449277",
+    "RawText": "적립금이용으로 저렴한 가격과 리뷰보고 정말갖고시픈걸 득템했어요 그립감좋구요 조금무겁긴해두 매끄럽구 좋아용~^^ 완전 강추 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 새** IH 인덕션 후라이팬 32cm",
+    "ReviewScore": "100",
+    "Syllable": "72",
+    "Word": "13",
+    "RDate": "20210414",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금이용으로 저렴한 가격과",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "그립감좋구요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "조금무겁긴해두",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "매끄럽구 좋아용~^^",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449278",
+    "RawText": "OO쇼핑에서 구매한 상품배송 포장이 너무 허술하고 저렴하게 배송이 되는군요.포장 박스를 보면서 왕짜증이 남니다. 또한 구입한 상품 코팅상태도 고르지 못하며 이런 상품을 판매해도 되는지 소비자를 우롱하는 홈쇼핑이 아닌지 품질 관리및 배송에 신경 쓰시길 바랍니다. 상품 반품 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 새** IH 인덕션 후라이팬 32cm",
+    "ReviewScore": "60",
+    "Syllable": "155",
+    "Word": "36",
+    "RDate": "20201113",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "구입한 상품 코팅상태도 고르지 못하며 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 관리및 배송에 신경 쓰시길 바랍니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449281",
+    "RawText": "인덕션 후라이팬 30cm라 커서 좋아요~ 그런데  열에 가열하면 가운데가 볼록해지기는 하네요 배송은 빠른 편입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 새** IH 인덕션 후라이팬 30cm",
+    "ReviewScore": "80",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20210808",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "인덕션 후라이팬 30cm라 커서 좋아요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "열에 가열하면 가운데가 볼록해지기는 하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "449284",
+    "RawText": "코팅력은 나쁘지 않은데 가운데 부분이 살짝 솟아있어 기름이나,음식재료가 중앙에서  가장자리쪽으로 흘러내려  음식 만들기   너~~무불편하네요.  비추입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 새** IH 인덕션 후라이팬 26cm",
+    "ReviewScore": "40",
+    "Syllable": "87",
+    "Word": "15",
+    "RDate": "20210131",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅력은 나쁘지 않은데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "가운데 부분이 살짝 솟아있어 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "기름이나,음식재료가 중앙에서  가장자리쪽으로 흘러내려  음식 만들기   너~~무불편하네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449289",
+    "RawText": "가격대비 만족스럽습니다. 옆면이 볼록해서 겉으로 보는것보다 많은 양의 음식을 할수있어서 좋네요. 단점은, 스텐이 조금 얇은 감이 있네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 로** IH 냄비 2종 SET (16cm편수+18cm양수)",
+    "ReviewScore": "90",
+    "Syllable": "76",
+    "Word": "17",
+    "RDate": "20210217",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 만족스럽습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "옆면이 볼록해서 겉으로 보는것보다 많은 양의 음식을 할수있어서 좋네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "스텐이 조금 얇은 감이 있네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449293",
+    "RawText": "적당한크기긴한데 열전도가 느린지 물끓이고하는데 좀 오래걸리는군요.그냥 싼맛입니다.시장 할인마트 잡화백화점에서도 같은것들 9,900원씩파는군요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 로** IH 냄비 2종 SET (16cm편수+18cm양수)",
+    "ReviewScore": "60",
+    "Syllable": "79",
+    "Word": "11",
+    "RDate": "20210227",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "적당한크기긴한데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "열전도가 느린지 물끓이고하는데 좀 오래걸리는군요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "그냥 싼맛입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449299",
+    "RawText": "와 너무 심하네요.. 바닥이 볼록하게 튀어나와있어서 기름이 묻혀지지 않는 구조에다가 마감은 왜그리 엉망인지 후라이팬 가장자리가 매끄럽지고않고 닦아더 닦아도 뭔가 계속 묻어나서 찜찜해서 쓸수가없어요 이런제품 팔몀안된다거 생각하요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 새** IH 인덕션 후라이팬 3종 (20후+28후+26궁)",
+    "ReviewScore": "20",
+    "Syllable": "126",
+    "Word": "26",
+    "RDate": "20210226",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 바닥이 볼록하게 튀어나와있어서 기름이 묻혀지지 않는 구조에다가",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 마감은 왜그리 엉망인지 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "후라이팬 가장자리가 매끄럽지고않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "닦아더 닦아도 뭔가 계속 묻어나서 찜찜해서 쓸수가없어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449300",
+    "RawText": "저렴한가격에 품질좋으네요. 무게도 적당하고 그립감도 좋아요. 쨍하게 예쁜 빨강이라 실물이 훨씬이쁘네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 새** IH 인덕션 후라이팬 3종 (20후+28후+26궁)",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "11",
+    "RDate": "20200722",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한가격에",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질좋으네요. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 적당하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "그립감도 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "쨍하게 예쁜 빨강이라 실물이 훨씬이쁘네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449301",
+    "RawText": "저희집인덕션엔안되네요 가운데 OOO부분이자석이아니어서 그런지 에러뜨고 안됩니다..ㅡㅡ당황스럽네요 박스도 버려서 반품도 못하고 속상합니다. ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 새** IH 인덕션 후라이팬 2종 (20후+26후)",
+    "ReviewScore": "100",
+    "Syllable": "77",
+    "Word": "11",
+    "RDate": "20190717",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "저희집인덕션엔안되네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "가운데 OOO부분이자석이아니어서 그런지 에러뜨고 안됩니다..",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449304",
+    "RawText": "후라이팬바꿀때가되서여기저기알아보는데 마침 방송을보게되서정말갑작스럽게주문하게됐어요 이런디자인팬들은많이봐서딱히맘에들지않았는데그날따라막끌리더라구요 ㅎ배송은2틀만에왔구요 보자마자 너무잘샀다는생각이든게 너무 무겁지도가볍지도않고 무엇보다 우드손잡이가 세련되고포인트되는게이쁘더라구요 오일링만잘하면 오래사용한다해서 세척하고 말리고 오일링까지끝내고나니 너무뿌듯 하더라구요~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 프라이팬 세트",
+    "ReviewScore": "100",
+    "Syllable": "199",
+    "Word": "19",
+    "RDate": "20190509",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "너무 무겁지도가볍지도않고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 우드손잡이가 세련되고포인트되는게이쁘더라구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449307",
+    "RawText": "집에 백만원 넘는 것들도 있는데 안쓰게 되네요~^^ 이것만 쓰게되요~~ 달라 붓지않고 요리할때 딱인것 같아요 우드의 손잡이 느낌이 너무 이뻐서 집에 손님들이와서 가스렌지위에 냄비보고 다들 이쁘다고 하시네요. 잘쓰고 있습니다^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 프라이팬 세트",
+    "ReviewScore": "100",
+    "Syllable": "126",
+    "Word": "28",
+    "RDate": "20191029",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "달라 붓지않고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "우드의 손잡이 느낌이 너무 이뻐서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 손님들이와서 가스렌지위에 냄비보고 다들 이쁘다고 하시네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "잘쓰고 있습니다^^",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "요리할때 딱인것 같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "이것만 쓰게되요~~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449313",
+    "RawText": "다 좋은대 손잡이 부분에  마무리가 좀 거슬리는거 빼고 이쁘네요 재질은  아직 미사용 이라  잘 모르겟지만 배송은 빨라서 좋았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 프라이팬 세트",
+    "ReviewScore": "100",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20190924",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": " 손잡이 부분에  마무리가 좀 거슬리는거 빼고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이쁘네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/질감",
+        "SentimentText": "재질은  아직 미사용 이라  잘 모르겟지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "449315",
+    "RawText": "심플한 디자인이 맘에 들어 주문하였는데요. 정말 잘산거같아요. 딱 필요한 구성들로만 이루어져 잘 사용할것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 프라이팬 세트",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20190508",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 딱 필요한 구성들로만 이루어져",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "잘 사용할것 같아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449316",
+    "RawText": "깔끔하니 이쁘네요! 기존에 쓰던거 다 버렸어요 ㅎㅎ 근데 인덕션 겸용이라그런지 가스렌지 위에 사용 시 고정 안되고 미끄러짐이 심해서 손잡이 잘 잡고 써야겠더라구여~ 그 점 빼고 만족합니다 ^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 프라이팬 세트",
+    "ReviewScore": "80",
+    "Syllable": "107",
+    "Word": "27",
+    "RDate": "20190515",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔하니 이쁘네요!",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션 겸용이라그런지 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "가스렌지 위에 사용 시 고정 안되고 미끄러짐이 심해서 손잡이 잘 잡고 써야겠더라구여~",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449317",
+    "RawText": "바닥도 두껍고 크기도 가정에서 제일 많이 사용할 수 있는 크기입니다. OOO 제품은 항상 진리입니다~~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 플러스 냄비 5종세트(추가3종,사은품1종)",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20190516",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "바닥도 두껍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 가정에서 제일 많이 사용할 수 있는 크기입니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449323",
+    "RawText": "썼으니 반품하기도 그렇고..  사용하자니 계란후라이 하나 했을 뿐인데  손잡이가 뜨거워서 결국엔 끄트머리 잡고했습니다.. 끄트머리를 잡고서는 들어 올릴 수 없는 무게.. 손잡이.. 해결책을 찾아야겠는데... 모양은 쌈빡하고 이뻐서..좋았는데.. 인테리어 소품이 되버렸네요.. 에공~ㅠㅠ슬퍼요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 드** 후라이팬 2종(20+28cm) 세트",
+    "ReviewScore": "20",
+    "Syllable": "163",
+    "Word": "30",
+    "RDate": "20190610",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "손잡이가 뜨거워서 결국엔 끄트머리 잡고했습니다..",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "끄트머리를 잡고서는 들어 올릴 수 없는 무게..",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "모양은 쌈빡하고 이뻐서..좋았는데.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "인테리어 소품이 되버렸네요..",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449324",
+    "RawText": "작은 팬이 왠만한 주물냄비(OOOO) 중간 사이즈 만큼 무겁습니다.  인덕션 사용 안된다는건 중요한 안내 사항입니다. 어느 나라에서 만들었다만 강조하지 말고 실 제품의 주요사항을 전면에 고지바랍니다.  인덕션 사용이 안되서 하이라이터에서 계란후라이 하나 했는데 손잡이에 열이 올라 뜨거워 잡을수가 없었습니다. 지나치게 광고를 잘하는건지, 제조사한테 제대로 속은 기분입니다. 사용 안할건데 이걸 어떻게 처리할지 그게 더 고민되서 난감합니다.  ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 드** 후라이팬 2종(20+28cm) 세트",
+    "ReviewScore": "20",
+    "Syllable": "247",
+    "Word": "53",
+    "RDate": "20190531",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "작은 팬이 왠만한 주물냄비(OOOO) 중간 사이즈 만큼 무겁습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션 사용 안된다는건 중요한 안내 사항입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션 사용이 안되서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "손잡이에 열이 올라 뜨거워 잡을수가 없었습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449337",
+    "RawText": "분홍색이 이쁘네요 작은 후라이팬은 달걀 후라이 1인분할 정도의 크기예요 넘 작아서 실망했어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티타늄 큐** 프라이팬 3종세트 20+20+28",
+    "ReviewScore": "60",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20190807",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "분홍색이 이쁘네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "작은 후라이팬은 달걀 후라이 1인분할 정도의 크기예요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "넘 작아서 실망했어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449366",
+    "RawText": "칼라도이쁘고  크기도 적당하고  저렴한 가격에 득템했어요  잘샀어요 감사합니다 빠른 배송도 좋습니다.  감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티타늄 큐** 프라이팬 3종세트 20+20+28",
+    "ReviewScore": "100",
+    "Syllable": "64",
+    "Word": "12",
+    "RDate": "20191027",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "칼라도이쁘고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 적당하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 득템했어요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449374",
+    "RawText": "다른 제품은 너무 비싸고 무거워서   손목이 아팡 싫엉 그런데 가볍고 좋은 제품 아주 좋아유 내 손목의 고통이 해방 되었당",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티타늄 큐** 프라이팬 3종세트 20+20+28",
+    "ReviewScore": "100",
+    "Syllable": "68",
+    "Word": "19",
+    "RDate": "20190914",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 좋은 제품 아주 좋아유",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "내 손목의 고통이 해방 되었당",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449375",
+    "RawText": "OO 티타늄3종프라이팬 OOO쇼핑사이트 에서 저렴한 가격에 놀라 언능 구매 했어요 실제로 받아보니 코팅도 잘 되어있고 이쁘고 쓸모있게 잘 만들었네요 구성도 마음에 들어요 시어머니께도 드렸어요 잘 쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티타늄 큐** 프라이팬 3종세트 20+20+28",
+    "ReviewScore": "100",
+    "Syllable": "114",
+    "Word": "26",
+    "RDate": "20190913",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 놀라 언능 구매 했어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅도 잘 되어있고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이쁘고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "쓸모있게 잘 만들었네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 마음에 들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449377",
+    "RawText": "적립금 사용하려고 구매한 후라이팬  아이먹일요리할때 적은양 음식하려고 산건데 크기도 앙증맞고 너무 무겁지도 가볍지도 않은 무게와 늘어붙지도않고 비싼팬보다 더 잘 쓸것같아요~^^ 착한가격에 잘 쓰겠습니다~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티타늄 큐** 프라이팬 3종세트 20+20+28",
+    "ReviewScore": "100",
+    "Syllable": "113",
+    "Word": "23",
+    "RDate": "20190816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 앙증맞고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "너무 무겁지도 가볍지도 않은 무게와",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "늘어붙지도않고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "비싼팬보다 더 잘 쓸것같아요~^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한가격에 잘 쓰겠습니다~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449386",
+    "RawText": "좋은구성 저렴하게 잘샀어요. 마트에서 팬하나만 사도 이가격... 너무 만족,만족... 클릭 한 번으로 문 앞에서 받으니 편리하고 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 데** 프라이팬세트 1세트 4P",
+    "ReviewScore": "100",
+    "Syllable": "76",
+    "Word": "17",
+    "RDate": "20190828",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "좋은구성 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘샀어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트에서 팬하나만 사도 이가격...",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449388",
+    "RawText": "6일새벽에 주문했는데...9일오후에도착함 홈쇼핑물건이 이렇게 늦게오는건.첨봤어요 상품하자는 없는듯하네요...저렴한가격에 잘써볼께요~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 데** 프라이팬세트 1세트 4P",
+    "ReviewScore": "60",
+    "Syllable": "73",
+    "Word": "8",
+    "RDate": "20200710",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품하자는 없는듯하네요..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한가격에 잘써볼께요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449392",
+    "RawText": "가격도 괜찮고 가벼워서 쓰기 좋아요..  바닥이 살짝 미끄러운듯 하지만 나름 만족해요 신속하게 배송해 주셔서 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 데** 프라이팬세트 1세트 4P",
+    "ReviewScore": "100",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20200519",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 괜찮고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 쓰기 좋아요..",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/질감",
+        "SentimentText": "바닥이 살짝 미끄러운듯 하지만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449399",
+    "RawText": "기존 사용하던 팬과 비교했을때 무게감이 많이 느껴집니다. 가격은 무난하네요 배송은 빨라서 마음에 들었습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 데** 프라이팬세트 1세트 4P",
+    "ReviewScore": "80",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20200309",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "기존 사용하던 팬과 비교했을때 무게감이 많이 느껴집니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 무난하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "449400",
+    "RawText": "후라이팬이 생각보다 너무 얇음 음식할때 가스렌지에서 고정되지않고  자꾸 움직여서  불편함 시간이 좀 걸리는 요리를 하다보면 팬에서 알수없는 이상한 냄세가 납니다 안좋은 성분이 나오는건 아닌지 살짝 걱정됨",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 데** 프라이팬세트 1세트 4P",
+    "ReviewScore": "50",
+    "Syllable": "113",
+    "Word": "26",
+    "RDate": "20200228",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "후라이팬이 생각보다 너무 얇음",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "음식할때 가스렌지에서 고정되지않고  자꾸 움직여서 불편함",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "시간이 좀 걸리는 요리를 하다보면 팬에서 알수없는 이상한 냄세가 납니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "안좋은 성분이 나오는건 아닌지 살짝 걱정됨",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449416",
+    "RawText": "후라이팬이 고급져 보이고 예쁘네요~뚜껑도 있어 여러모로 쓰임새가 좋을듯~ 안전하고 신속한 배송도 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 데** 프라이팬세트 1세트 4P",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20190905",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "후라이팬이 고급져 보이고 예쁘네요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "뚜껑도 있어 여러모로 쓰임새가 좋을듯~ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449423",
+    "RawText": "사각팬이 커서 좋음. 팬에 음식을 하고 세척을 하면 얼룩이 지네요. 팬바닥에 모래긁히듯한 소리가 나서 마지막 바닥에 있는 국물음식은 먹지 않게됨.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 데** 프라이팬 1+1세트 8P",
+    "ReviewScore": "60",
+    "Syllable": "81",
+    "Word": "20",
+    "RDate": "20200618",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사각팬이 커서 좋음. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "팬에 음식을 하고 세척을 하면 얼룩이 지네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "팬바닥에 모래긁히듯한 소리가 나서 마지막 바닥에 있는 국물음식은 먹지 않게됨.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449447",
+    "RawText": "OOOOO 프라이팬대박입니다 포장도꼼꼼이잘되있구요 무엇보다계란말이펜의크기에놀랐습니다 색상도너무예뻐요 구매하심후회안하실거에요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 데** 프라이팬 1+1세트 8P",
+    "ReviewScore": "100",
+    "Syllable": "68",
+    "Word": "6",
+    "RDate": "20191002",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "계란말이펜의크기에놀랐습니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도너무예뻐요 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449450",
+    "RawText": "3종세트 선물보내려고샀는데 두툼하니 고급스럽고 좋네요 1  + 1 좋은 구성으로 저렴하게 구매했어요 직접써보진않았지만 좋아보여요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 데** 프라이팬 1+1세트 8P",
+    "ReviewScore": "100",
+    "Syllable": "71",
+    "Word": "14",
+    "RDate": "20190925",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": " 두툼하니",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "고급스럽고 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "1  + 1 좋은 구성으로 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매했어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449458",
+    "RawText": "이상품은 아직 사용해보진않았지만 OOO은 언제나 좋은가격 좋은 품질의 상품이예요 배송도 빠르고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 스텐 진공냄비 (+스티머+24넘침방지뚜껑) ",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "12",
+    "RDate": "20200131",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "OOO은 언제나 좋은가격",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "좋은 품질의 상품이예요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449477",
+    "RawText": "생선구울려고 샀는데 괜찮은 것 같아요. 양면팬은 뒤집으면 기름이 흘러서..이제품 괜찮네요. 코팅도좋은듯해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 사각 프라이팬 (본체+뚜껑) ",
+    "ReviewScore": "100",
+    "Syllable": "60",
+    "Word": "11",
+    "RDate": "20210829",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "생선구울려고 샀는데 괜찮은 것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅도좋은듯해요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449487",
+    "RawText": "주방가전 아니고 가전제품인듯. 스토브는품질이 좋은데 스텐냄비와 구이판은  음식물이 너무달라붙음.  긁어내다 바닥 뚫리는줄..끓는음식조리시 뚜껑틈으로 물튀김 심함. 결국 적당한사이즈의 냄비와 프라이팬 따로샀습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 혼** 전기냄비",
+    "ReviewScore": "50",
+    "Syllable": "118",
+    "Word": "20",
+    "RDate": "20191228",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "스토브는품질이 좋은데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "스텐냄비와 구이판은  음식물이 너무달라붙음",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "긁어내다 바닥 뚫리는줄",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "끓는음식조리시 뚜껑틈으로 물튀김 심함.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449506",
+    "RawText": "저렴한 가격에 구입했는데... 배송되어 온 것이 이렇게 찌그러져 있네요. 교환이나 반품이 귀찮아서 그냥 쓰는데 이건 좀 꼼꼼히 봐주시면 좋겠네요 사용은 안해봐서 성능은 잘 모르겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 아** 냄비 전골 26cm",
+    "ReviewScore": "40",
+    "Syllable": "102",
+    "Word": "24",
+    "RDate": "20200418",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 구입했는데.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "사용은 안해봐서 성능은 잘 모르겠네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "449525",
+    "RawText": "코팅상태도 좋고 팬바닥이 넓어 내용물을 많이 취급할수 있어 좋아요! 사이즈도 원하던 크기입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 자** 후라이팬 2종 (30후+30웍)",
+    "ReviewScore": "100",
+    "Syllable": "53",
+    "Word": "12",
+    "RDate": "20210303",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅상태도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 팬바닥이 넓어 내용물을 많이 취급할수 있어 좋아요!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 원하던 크기입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449534",
+    "RawText": "가격도저렴하고 무게도 적당해요 가끔 싼거사면 바닥이 안평평해서 인덕션에서 쓰면 한쪽만자꾸탔는데 이건 착 달라붙어서 좋네요  손잡이 재질도 맘에들어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 자** 후라이팬 2종 (30후+30웍)",
+    "ReviewScore": "100",
+    "Syllable": "82",
+    "Word": "17",
+    "RDate": "20210204",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도저렴하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 적당해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/질감",
+        "SentimentText": "손잡이 재질도 맘에들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "가끔 싼거사면 바닥이 안평평해서 인덕션에서 쓰면 한쪽만자꾸탔는데 이건 착 달라붙어서 좋네요 ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449585",
+    "RawText": "가볍고 튼튼해서 사용하기 좋은데 작은 사이즈는 너무 작아서 활용도가 떨어져요. 배송은 빨라서 좋았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** 프라이팬 4종",
+    "ReviewScore": "80",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20200618",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해서 사용하기 좋은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "작은 사이즈는 너무 작아서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 활용도가 떨어져요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449588",
+    "RawText": "외관은 깔끔하고 청소간편 얼마나 무거운지 모든점수 다 까먹음 무거운거 싫어하시는분 참고하세요 ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** 프라이팬 4종",
+    "ReviewScore": "40",
+    "Syllable": "52",
+    "Word": "11",
+    "RDate": "20200615",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "외관은 깔끔하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "청소간편",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "얼마나 무거운지 모든점수 다 까먹음",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449598",
+    "RawText": "상품잘받앗구요 어제사용해보아서 지금상품평을립니당 좋은가격에잘구매햇습니당 사용해보니눌러붙지도않고 잘사용하겟습니당 ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** 프라이팬 4종",
+    "ReviewScore": "100",
+    "Syllable": "62",
+    "Word": "6",
+    "RDate": "20200518",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은가격에잘구매햇습니당",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "사용해보니눌러붙지도않고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449601",
+    "RawText": "가볍고 좋아요 더 큰 사이즈 후라이팬 있었음 좋겠어요 스팸한통이 한꺼번에 안들어가요   사이즈만 아쉽고. 다 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** 프라이팬 4종",
+    "ReviewScore": "80",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20200518",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "더 큰 사이즈 후라이팬 있었음 좋겠어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "스팸한통이 한꺼번에 안들어가요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈만 아쉽고.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449605",
+    "RawText": "가볍고 좋아요 더 큰 후라이팬 있었음 좋겠어요 스팸한통이 한꺼번에 안들어가요 배송은 주문하고 이틀 뒤에 받았네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** 프라이팬 4종",
+    "ReviewScore": "80",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20200518",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "더 큰 후라이팬 있었음 좋겠어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "스팸한통이 한꺼번에 안들어가요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449608",
+    "RawText": "잘 사용하고 있어요 프라이팬이 높아서 좋고요 보기와는 다르게 가벼워서 좋습니다^^ 배송도 빨라서 더 좋았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** 프라이팬 4종",
+    "ReviewScore": "100",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20200512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "잘 사용하고 있어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "프라이팬이 높아서 좋고요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 가벼워서 좋습니다^^",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449632",
+    "RawText": "구성도 가격도 좋네요 잘 쓰고 있습니다 번창하세요 자주 바꾸는 제품이라 늘 이리 저렴했음 하고 바래봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 코팅팬 1+1 골라담기",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "15",
+    "RDate": "20210821",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 가격도 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "잘 쓰고 있습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 늘 이리 저렴했음 하고 바래봅니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격도 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449635",
+    "RawText": "산지는 꽤 됐는데 한달 사용했는데 코팅 안 벗겨졌어요 1+1이라 개이득이였어요 프라이팬은 자주 갈아야 하는거라 이런게 좋은거 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다이아몬드 코팅팬 1+1 골라담기",
+    "ReviewScore": "100",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20210819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "한달 사용했는데 코팅 안 벗겨졌어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "1+1이라 개이득이였어요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449675",
+    "RawText": "무거운거 알고 샀는데도 무거움에 놀람 작은 사이즈도 있으면 좋을것 같아요 친구가 추천해줘서 샀는데 잘 사용하면 좋겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 스텐 진공냄비 (+스티머+24넘침방지뚜껑) ",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20200207",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거운거 알고 샀는데도 무거움에 놀람",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "작은 사이즈도 있으면 좋을것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449706",
+    "RawText": "아주가볍고 크기도그리작지않고 음식도눌러붙지않고 아주만족합니다~ 다음번엔 다른 사이즈도 구매해보려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 세라믹 IH 인덕션 편수냄비 18cm",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "9",
+    "RDate": "20210805",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "아주가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도그리작지않고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "음식도눌러붙지않고 아주만족합니다~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449708",
+    "RawText": "라면 끓이기에 적당할거 같아 구매했는데 소량볶음  요리에도 편하고 좋아요 저렴한 가격에 사서 좋았습니다. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 세라믹 IH 인덕션 편수냄비 18cm",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "소량볶음  요리에도 편하고 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 사서 좋았습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449709",
+    "RawText": "얼마 쓰지도 않았는데 코딩이 벗겨지네요 ㅠㅠ 포인트로 샀지만 포인트 날린 기분 배송만 빨랐네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 세라믹 IH 인덕션 편수냄비 18cm",
+    "ReviewScore": "10",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20210803",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "얼마 쓰지도 않았는데 코딩이 벗겨지네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "ㅠㅠ 포인트로 샀지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "포인트 날린 기분",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449715",
+    "RawText": "이상품 지인께 선물했어요 혼자 자취하 는데 찌게나 라면 끓이기좋은 사이즈이고 눌러붇지 않아요 코팅이 아주 좋습니다 ㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 세라믹 IH 인덕션 편수냄비 18cm",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20210113",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "찌게나 라면 끓이기좋은 사이즈이고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "눌러붇지 않아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅이 아주 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449728",
+    "RawText": "일단 가볍고 간단하게 끓여먹기 좋습니다 여러요리에 적당한 크기이네요 저렴한 가격에 만족합니다^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 세라믹 IH 인덕션 양수냄비 20cm",
+    "ReviewScore": "100",
+    "Syllable": "53",
+    "Word": "11",
+    "RDate": "20220217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "일단 가볍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "간단하게 끓여먹기 좋습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "여러요리에 적당한 크기이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 만족합니다^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449735",
+    "RawText": "손잡이가 너무 뜨거워서 ㅎㅎ 아주 잡기가 은근히 무서워요 가볍고 면 라면끓이기 딱임 배송은 그런데로 빠른편임",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 세라믹 IH 인덕션 양수냄비 20cm",
+    "ReviewScore": "100",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20210823",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "손잡이가 너무 뜨거워서 ㅎㅎ 아주 잡기가 은근히 무서워요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 면 라면끓이기 딱임",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449739",
+    "RawText": "양수냄비 손잡이가 짧아서 보관이 편할것 같아요. 1인가구인데 냄비 크기 적당하고 코딩도 잘 되어있고 좋아요 ^^ 음식물 양도 넉넉히 들어가요. 가성비 좋은 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 세라믹 IH 인덕션 양수냄비 20cm",
+    "ReviewScore": "100",
+    "Syllable": "93",
+    "Word": "22",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "양수냄비 손잡이가 짧아서 보관이 편할것 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "1인가구인데 냄비 크기 적당하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코딩도 잘 되어있고 좋아요 ^^ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "음식물 양도 넉넉히 들어가요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은 제품입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449740",
+    "RawText": "그냥 까맣지 않고 반짝거리는 뭔가가 있더라구요. 딱 필요한 크기인데 좋은 가격에 잘 샀어요. 유용하게 쓰고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 세라믹 IH 인덕션 양수냄비 20cm",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20210416",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "그냥 까맣지 않고 반짝거리는 뭔가가 있더라구요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "딱 필요한 크기인데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 잘 샀어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "유용하게 쓰고 있습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449745",
+    "RawText": "오늘 받았어요. 요리가 기대되고 튼튼해서 오래쓸수있겠네요. 야무지고 좋아보여요. 주방용품이 모두 OOO ㅎㅎㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO IH 스텐 진공냄비 (+스티머+24넘침방지뚜껑)",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "12",
+    "RDate": "20200117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해서 오래쓸수있겠네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "야무지고 좋아보여요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "요리가 기대되고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "449767",
+    "RawText": "막 쓰려고 샀는데 생각보다 바닥이  좀 얇네요. 크기나  색은 맘에 들어요. 싸게 잘 구입했어요. 배송도 정말 빨랐습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 줄** 세라믹냄비 2종세트(18편수+20양수)",
+    "ReviewScore": "60",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20200610",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": " 생각보다 바닥이  좀 얇네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기나  색은 맘에 들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색은 맘에 들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 잘 구입했어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449768",
+    "RawText": "포장,배송 꼼꽁하게  파손없이 배송잘받았음. 6월쯤 구매해서 지금도 잘 사용중. 코팅력도 좋아서 구매후 6개월정도 됐는데도 아직 잘쓰고 있음. 자주 사용하게 되는 사이즈이고 많이 쓰게됨. 양수는 국 위주로 편수는 찌개위주로... 편수는 가끔씩 약간에 기름두르고 간단한 볶음반찬도  가능함. 재구매 의사있음.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 줄** 세라믹냄비 2종세트(18편수+20양수)",
+    "ReviewScore": "100",
+    "Syllable": "171",
+    "Word": "37",
+    "RDate": "20211206",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅력도 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "자주 사용하게 되는 사이즈이고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "많이 쓰게됨.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "양수는 국 위주로 편수는 찌개위주로... ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편수는 가끔씩 약간에 기름두르고 간단한 볶음반찬도  가능함.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449774",
+    "RawText": "비슷한 타사 제품 사용했는데 오래되어 본 제품 구매했는데 편리하고 좋습니다 색상도 맘에 들고~ 배송도 주문하고 바로 담날에 받아 좋았습니다. ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 줄** 세라믹냄비 2종세트(18편수+20양수)",
+    "ReviewScore": "80",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20210827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편리하고 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 맘에 들고~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449777",
+    "RawText": "가볍고 편하게쓰기 좋아요 빠르게 조리되고 세척도 잘되고 가성비아이템이에요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 줄** 세라믹냄비 2종세트(18편수+20양수)",
+    "ReviewScore": "100",
+    "Syllable": "40",
+    "Word": "8",
+    "RDate": "20210810",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하게쓰기 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "빠르게 조리되고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "세척도 잘되고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비아이템이에요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449780",
+    "RawText": "냄비 사고 세달째 아주 잘쓰고 있어요  저렴해서 막쓸려고 샀는데 가볍고 코팅도 잘되있고 튼튼해요 라면끓이기 딱 좋은 크기에요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 줄** 세라믹냄비 2종세트(18편수+20양수)",
+    "ReviewScore": "100",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20210803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅도 잘되있고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 튼튼해요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "라면끓이기 딱 좋은 크기에요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449791",
+    "RawText": "하자없이 잘왔습니다 짙은 와인색이라 예쁘네요 몇년전부터 OO 냄비만 써요 코팅이 너무 약해서 반년정도밖에 못쓰지만 가성비로 씁니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 줄** 세라믹냄비 2종세트(18편수+20양수)",
+    "ReviewScore": "100",
+    "Syllable": "72",
+    "Word": "16",
+    "RDate": "20210624",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "짙은 와인색이라 예쁘네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅이 너무 약해서 반년정도밖에 못쓰지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비로 씁니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449799",
+    "RawText": "저렴하게 잘구매했다고 생각하고 몇 일만에 사용했는데 편수가 인덕션에서 작동을 하지 않네요. 일반 제품도 이정도 가격이니 아쉬운데로 사용해야지요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 줄** 세라믹냄비 2종세트(18편수+20양수)",
+    "ReviewScore": "50",
+    "Syllable": "79",
+    "Word": "17",
+    "RDate": "20210513",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘구매했다고 생각하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "편수가 인덕션에서 작동을 하지 않네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "일반 제품도 이정도 가격이니  아쉬운데로 사용해야지요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449825",
+    "RawText": "무사히 잘 받았습니다...냄비 크기들이 살짝 작은 감은 있지만 그래도 나름 맘에듭니다...좀더큰사이즈도 있으면 좋겠네요...사은품도 맘에들어요~^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 내열냄비 세트",
+    "ReviewScore": "100",
+    "Syllable": "82",
+    "Word": "14",
+    "RDate": "20200626",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "냄비 크기들이 살짝 작은 감은 있지만 그래도 나름 맘에듭니다..",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "좀더큰사이즈도 있으면 좋겠네요..",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 맘에들어요~^^",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449831",
+    "RawText": "OOOO를 전에 써본 경험이 있는지라 품질은 두말 필요 없네요  너무좋아요 그런데 이번구성에는 손잡이있는 편수냄비도 있고 맘에 듭니당~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 내열냄비 세트",
+    "ReviewScore": "100",
+    "Syllable": "75",
+    "Word": "17",
+    "RDate": "20200717",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "OOOO를 전에 써본 경험이 있는지라 품질은 두말 필요 없네요 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "이번구성에는 손잡이있는 편수냄비도 있고 맘에 듭니당~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449832",
+    "RawText": "유리냄비를 처음 구입했는데  사용해보니 밑면바닥에 내용물이 많이 달라붙고 스탠냄비에 비해 끓을때 많이 넘쳐서 불조절이 힘들다~~  그리고 처음에는 깨끗해서 좋았는데 스크래치가 많이 난다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 내열냄비 세트",
+    "ReviewScore": "40",
+    "Syllable": "103",
+    "Word": "22",
+    "RDate": "20200724",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "밑면바닥에 내용물이 많이 달라붙고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "스탠냄비에 비해 끓을때 많이 넘쳐서 불조절이 힘들다~~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "처음에는 깨끗해서 좋았는데 스크래치가 많이 난다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "449840",
+    "RawText": "기본적으로 구성은 좋은데 뚜컹잡을때 뜨거워 놓칠뻔 사은품 뚜껑 볼세트는 수박잘라서 보관하기 딱이에요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 내열냄비 세트",
+    "ReviewScore": "70",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20200728",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "기본적으로 구성은 좋은데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": " 뚜컹잡을때 뜨거워 놓칠뻔",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사은품 뚜껑 볼세트는 수박잘라서 보관하기 딱이에요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449844",
+    "RawText": "이유식냄비 찾다가 유리냄비로 다시 돌아왔어요~아무래도 겉과안이 같은  소재인  유리가 믿음직스러워서..그에따른 무거움과 급변한 온도차로 인한 깨짐과 균열은 신경써야하는 번거로움이 있지만요..소재하나만 보고 감안하려구여~상자가 넘 먼지랑 오염이 가득했고 어차피 세척하지만 새상품 샀을때 냄비에 이렇게 먼지 많은것도 첨 받아보네요..그래도 여기가 젤 저렴했고 구성이 무엇보다 맘에 들어서 겟합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 내열냄비 세트",
+    "ReviewScore": "80",
+    "Syllable": "219",
+    "Word": "43",
+    "RDate": "20200911",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "아무래도 겉과안이 같은  소재인  유리가 믿음직스러워서..",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": ".그에따른 무거움과 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "급변한 온도차로 인한 깨짐과 균열은 신경써야하는 번거로움이 있지만요..",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재하나만 보고 감안하려구여~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 젤 저렴했고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 무엇보다 맘에 들어서 겟합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "449854",
+    "RawText": "생각보다 많이 작아보여요 ㅡㅡ 그중에 하나라도 좀 더 크면 좋았을꺼 같아요 잘쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 내열냄비 세트",
+    "ReviewScore": "80",
+    "Syllable": "48",
+    "Word": "12",
+    "RDate": "20200707",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "생각보다 많이 작아보여요 ㅡㅡ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "그중에 하나라도 좀 더 크면 좋았을꺼 같아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  }
+]

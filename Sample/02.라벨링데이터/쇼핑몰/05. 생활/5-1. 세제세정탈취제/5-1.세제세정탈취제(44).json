@@ -1,0 +1,2876 @@
+[
+  {
+    "Index": "348735",
+    "RawText": "행사 안할때는 좀 비싸다는 생각을 했었는데  이번에 행사가로 저렴하게 잘 사서 좋아요.  향은 타사보다 오래가는듯 해서 재구매합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "4",
+    "Syllable": "74",
+    "Word": "17",
+    "RDate": "20191107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 행사가로 저렴하게 잘 사서 좋아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향은 타사보다 오래가는듯 해서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348752",
+    "RawText": "OOO 연보라색이랑 핑크색은 사용해봤지만 이 노란색은 상품평이 넘 좋아서 가격은 비싸지만 꼭 써보고 싶어서 주문했습니다. 향이 좋기를 기대합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "4",
+    "Syllable": "81",
+    "Word": "18",
+    "RDate": "20210116",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸지만 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋기를 기대합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "348760",
+    "RawText": "건조기 돌릴때 향이 났으면 좋겠다 했는데 건조기용이 나와서 너무 좋네요. 시트형이라 쓰기도 편해요. 특히 수건에서 향기가 은근히 나서 너무 좋아요^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "4",
+    "Syllable": "83",
+    "Word": "20",
+    "RDate": "20210203",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트형이라 쓰기도 편해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "특히 수건에서 향기가 은근히 나서 너무 좋아요^^",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348777",
+    "RawText": "향이 은은한데 제 취향은 아닙니다. 다른 향 구매해보고 싶습니다. 다 사용한 시트 꺼내놓으면 방향제로도 사용할 수 있어 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20201229",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 은은한데 제 취향은 아닙니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "다 사용한 시트 꺼내놓으면 방향제로도 사용할 수 있어 좋습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348779",
+    "RawText": "섬유탈취제 쓰다가 건조기용 드라이시트 사봤는데요~ 향이 너무 좋아요 오래가고요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "9",
+    "RDate": "20201229",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "오래가고요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348780",
+    "RawText": "OO건조기 살 때 샘플로 받은 거 사용해보니 향기 좋더라고요. 여러 후기도 찾아봤는데 향이 좋다는 후기 많았어요. 가격 저렴하게 사서 잘 쓰고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "22",
+    "RDate": "20201229",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "샘플로 받은 거 사용해보니 향기 좋더라고요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 저렴하게 사서 잘 쓰고 있습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348782",
+    "RawText": "건조기 돌아갈 때는 무슨 멀미약 냄새 같은 게 나서 망했다고 생각했는데 빨래 꺼내 보니 빨래에서는 은은한 향이 나서 너무 좋았어요. 재구매 의사 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "23",
+    "RDate": "20201230",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "건조기 돌아갈 때는 무슨 멀미약 냄새 같은 게 나서 망했다고 생각했는데",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "빨래에서는 은은한 향이 나서 너무 좋았어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348783",
+    "RawText": "겨울이라 더 건조해져서 건조 시트가 꼭 필요했는데 저렴하게 행사해서 잘 샀습니다. 정전기 방지 기능이 꼭 효과가 있으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "4",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20201230",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 행사해서 잘 샀습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "정전기 방지 기능이 꼭 효과가 있으면 좋겠습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "348797",
+    "RawText": "꽃향보다는 과일향 좋아하는데 달콤한 향 나고 좋습니다. 쿠폰 할인 받아서 저렴하게 잘 샀습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20210102",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "꽃향보다는 과일향 좋아하는데 달콤한 향 나고 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 할인 받아서 저렴하게 잘 샀습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348798",
+    "RawText": "이 제품 쓴 후로는 정전기가 안 일어나니 정말 좋습니다. 향도 정말 좋아요. 다음에 구입할 때는 다른 향도 써보고 싶네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "4",
+    "Syllable": "67",
+    "Word": "19",
+    "RDate": "20210102",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "이 제품 쓴 후로는 정전기가 안 일어나니 정말 좋습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 정말 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348810",
+    "RawText": "OOO 다른향 사용 중인데 상품평 보고 궁금해서 이 향을 구매했습니다. 아직 사용전인데 향이 좋았으면 좋겠고 향이 오래 지속되기를 바랍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "4",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20210105",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋았으면 좋겠고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향이 오래 지속되기를 바랍니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "348822",
+    "RawText": "품질 좋아요. 세탁실에 향기 가득해서 좋고 세탁기용 유연제 쓸 때보다 사용감도 간편하고 나쁜 성분은 좀 덜 들었다고 하니 마음이 편해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "20",
+    "RDate": "20210106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "세탁실에 향기 가득해서 좋고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용감도 간편하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "나쁜 성분은 좀 덜 들었다고 하니 마음이 편해요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348823",
+    "RawText": "전에 OO향 쓰다가 한동안 안나와서 단종된 줄 알고 다른향 썼는데 다시 나오길래 주문했습니다. 가격은 올랐지만 향은 역시 무난하고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "4",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20210106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 올랐지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 역시 무난하고 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348830",
+    "RawText": "건조기를 강력으로 돌리면 정전기가 파팍 튀어서 구매했어요. 빨래 막 끝낸 후에는 향도 좋은데, 옷감에 오래 남지 않는게 안타깝긴 합니다. 정전기 이는 것도 확 잡히지는 않는 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "103",
+    "Word": "27",
+    "RDate": "20210107",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "빨래 막 끝낸 후에는 향도 좋은데,",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "옷감에 오래 남지 않는게 안타깝긴 합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "정전기 이는 것도 확 잡히지는 않는 것 같아요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "348835",
+    "RawText": "건조기 돌릴때 쓰려고 샀습니다. 향도 좋아서 마음에 들고 정전기 방지가 잘 되길 기대해봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20210108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋아서 마음에 들고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "정전기 방지가 잘 되길 기대해봅니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "348844",
+    "RawText": "세탁기에 섬유유연제 사용할 때에 비해 향이 오래 지속되고 좋네요. 은은하고 달콤한 향이 나서 참 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20210109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향이 오래 지속되고 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "은은하고 달콤한 향이 나서 참 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348846",
+    "RawText": "처음 써보는데 향이 은은하게 좋아서 마음에 들어요. 쿠폰 덕분에 가격도 저렴하게 잘 산거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "14",
+    "RDate": "20210110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 은은하게 좋아서 마음에 들어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 덕분에 가격도 저렴하게 잘 산거 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348849",
+    "RawText": "아직 안 써봐서 향은 모르겠지만 다른 것보다 저렴하게 산 것은 맘에 드네요. 양도 진짜 많아서 오래 쓰겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "17",
+    "RDate": "20210111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 것보다 저렴하게 산 것은 맘에 드네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 진짜 많아서 오래 쓰겠어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348850",
+    "RawText": "오자마자 뜯어서 건조기 넣고 이불 털기 코스로 돌렸는데 이불에서 좋은 향기가 나고 오래 지속돼서 좋습니다. 계속 사용 하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20210111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "이불에서 좋은 향기가 나고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "오래 지속돼서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348858",
+    "RawText": "지금까지 건조기는 그냥 돌렸었는데요. 이거 사용하니 정전기도 줄고 향도 더 진하게 살아서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20210112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "정전기도 줄고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 더 진하게 살아서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348861",
+    "RawText": "아우라 드라이시트 향이 오래간다는 평이 많아서 이왕이면 섬유유연제 효과도 있고 향도 좋다고 소문난 윌유메리미를 구매했는데 익숙한 향은 아니라 표현하기가 어렵지만 은은하게 좋은편인 듯 합니다.  근데 아직 건조기에 넣어서 사용해 본게 아니라 향 지속력은 리뷰가 불가하네요.  오래 지속되기를 바래봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "168",
+    "Word": "38",
+    "RDate": "20210112",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "익숙한 향은 아니라 표현하기가 어렵지만 은은하게 좋은편인 듯 합니다.  ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": " 사용해 본게 아니라 향 지속력은 리뷰가 불가하네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "오래 지속되기를 바래봅니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "348864",
+    "RawText": "OO 제품 재 출시돼서 얼른 사서 쓰려고 구매했습니다. 예전보다 가격이 많이 올랐지만  향은 여전히 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20210113",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "예전보다 가격이 많이 올랐지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향은 여전히 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348869",
+    "RawText": "2장 넣고 건조기 돌려봤는데 생각보다 향이 너무 안나요. 그것도 빨래 일부는 향이 진하고 또 일부는 아예 안나고 그러네요. 빨래양을 조절해서 해봐두 성능이 그다지 안좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "24",
+    "RDate": "20210114",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "생각보다 향이 너무 안나요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "빨래 일부는 향이 진하고 또 일부는 아예 안나고 그러네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "빨래양을 조절해서 해봐두 성능이 그다지 안좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "348870",
+    "RawText": "배송이 빠르고 좋습니다. 향도 좋고 가격도 저렴해서 맘에 듭니다.  앞으로 계속 구매하겠습니다. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20210114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서 맘에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348871",
+    "RawText": "건조한 날씨에 정전기 예방하는데 필수죠. 게다가  향도 완전 좋아서 만족스러워요. 시트형이라 양 조절 필요없이 한 장씩만 써도 충분합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20210114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "건조한 날씨에 정전기 예방하는데 필수죠",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 완전 좋아서 만족스러워요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트형이라 양 조절 필요없이 한 장씩만 써도 충분합니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348876",
+    "RawText": "건조기 시트 OOO꺼 항상 써왔어서 새로운 향으로 재구매 해봤어요. 향이 무난하게 쓰기 좋은것 같네요. 사은품 가방도 귀여워서 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "4",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20210115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 무난하게 쓰기 좋은것 같네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "사은품 가방도 귀여워서 만족해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348878",
+    "RawText": "OOO제품들이 향이 다 좋은거 같아요. 시트형이라 한장씩 뽑아쓰기 편해요. 다만 생각보다 향이 많이 남지 않는거 같아서 아쉬움이 있네요. 두장씩 넣었는데도 이걸로는 부족한가 봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "101",
+    "Word": "23",
+    "RDate": "20210115",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트형이라 한장씩 뽑아쓰기 편해요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "생각보다 향이 많이 남지 않는거 같아서 아쉬움이 있네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "두장씩 넣었는데도 이걸로는 부족한가 봅니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "348880",
+    "RawText": "향이 넘 좋아 맘에 듭니다. 그런데 향이 진한 편이라 한 장을 반으로 나눠서 쓰거나 두 번씩 쓰면 좋아요. 또 주문할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "20",
+    "RDate": "20210116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 넘 좋아 맘에 듭니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향이 진한 편이라 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 한 장을 반으로 나눠서 쓰거나 두 번씩 쓰면 좋아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348886",
+    "RawText": "OOO 다른향 쓰고 있었는데 궁금해서 구매했습니다. 배송 빠르고 향도 좋습니다. 사은품 가방은 들고 다니지는 못할것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "4",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20210117",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사은품 가방은 들고 다니지는 못할것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "348889",
+    "RawText": "원래 다른 향을 쓰고 있는데 어떤 향인지 궁금해서 구매해봤어요. 현재 쓰고 있는 향보다는 향이 별로네요. 다른 향과 섞어서 썼더니 그나마 조금 낫네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "22",
+    "RDate": "20210118",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "현재 쓰고 있는 향보다는 향이 별로네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "다른 향과 섞어서 썼더니 그나마 조금 낫네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "348890",
+    "RawText": "냄새가 좋네요. 액체만 써 봤는데 드라이시트가 확실히 냄새가 오래 가고 좋은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "13",
+    "RDate": "20210118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 좋네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "드라이시트가 확실히 냄새가 오래 가고 좋은 것 같습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348891",
+    "RawText": "향이 나쁘지는 않지만 너무 인위적인 향처럼 느껴져셔 사용하지 않게 되네요. 괜히 샀나 싶어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "3",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20210118",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 나쁘지는 않지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "너무 인위적인 향처럼 느껴져셔 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "348895",
+    "RawText": "OOO 제품 쓰고 있는데 다른 향이라 주문해 봤어요. 달콤한 향이 나는데 얼른 써보고 싶네요. 사은품 에코백도 보내주셨네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20210118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "달콤한 향이 나는데 얼른 써보고 싶네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품 에코백도 보내주셨네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348896",
+    "RawText": "주말에 주문 했는데 빨리 도착했어요. 쿠폰으로 싸게 사서 좋아요. 덤으로 온 사은품 가방은 아주 귀엽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20210118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰으로 싸게 사서 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "덤으로 온 사은품 가방은 아주 귀엽네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348905",
+    "RawText": "건조기 돌리는 중인데 일단 약간 달달한 향이 납니다. 건조  끝나고도 옷에 잔향 오래 갔으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "15",
+    "RDate": "20210118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "약간 달달한 향이 납니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": " 건조  끝나고도 옷에 잔향 오래 갔으면 좋겠습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "348913",
+    "RawText": "착한가격 만족해요. 건조기용 OO 섬유유연제 간편하고 좋습니다. 함께 주신 에코백 만족합니다. 재구매 하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "13",
+    "RDate": "20210118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한가격 만족해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "건조기용 OO 섬유유연제 간편하고 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "함께 주신 에코백 만족합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348914",
+    "RawText": "최근 제조 제품으로 보내주셔서 만족합니다. 향도 은은하고 좋네요. 쿠폰 써서 저렴한 가격에 득템한 기분입니다. 사은품가방도 너무 귀엽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "17",
+    "RDate": "20210118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 은은하고 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 써서 저렴한 가격에 득템한 기분입니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "사은품가방도 너무 귀엽네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348926",
+    "RawText": "도톰하니 향기 지속력도 좋고 향기도 좋습니다. OOOO 쓰다가 갈아탔는데 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "10",
+    "RDate": "20210119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향기 지속력도 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348930",
+    "RawText": "시트 한 장 가볍게 쓱 뽑아서 넣어요. 사용하기 정말 편하죠. 옷감도 부들부들해지고  향도 은은해서 아주 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "4",
+    "Syllable": "66",
+    "Word": "17",
+    "RDate": "20210119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트 한 장 가볍게 쓱 뽑아서 넣어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 정말 편하죠",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "옷감도 부들부들해지고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 은은해서 아주 맘에 듭니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348933",
+    "RawText": "항상 OOO 쓰는데 새로나온 향이 있어 구매했습니다. 신제품이라 그런지 더 비싸지만 이번 향도 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20210119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "신제품이라 그런지 더 비싸지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "이번 향도 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348935",
+    "RawText": "새로 나온 제품이라 한번 사봤습니다. 이 냄새 저는 좋아합니다. 주변에서 많이 나는 냄새는 아니지만 은은한 향이라 너무 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "19",
+    "RDate": "20210119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 이 냄새 저는 좋아합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "은은한 향이라 너무 마음에 듭니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348946",
+    "RawText": "OOO만 계속 사용중이에요. 이 향은 처음인데 향이 너무 좋네요. 이번에 사은품가방까지 마음에 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "4",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20210120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 좋네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품가방까지 마음에 드네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348947",
+    "RawText": "박스 오픈하자마자 풍겨오는 향은 좋은것 같은데 아직 사용해보지 않은 새로운 향이라 기대가 됩니다. 빨리 써보고 싶네요. 잔향도 오래가면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "19",
+    "RDate": "20210120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "박스 오픈하자마자 풍겨오는 향은 좋은것 같은데 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": " 잔향도 오래가면 좋겠어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "아직 사용해보지 않은 새로운 향이라 기대가 됩니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "348949",
+    "RawText": "일단 기존 OO제품보다 향이 강해서 좋습니다. 건조기가 돌아가면 밖에서 부터 향이 계속 나는게 너무 좋습니다. 물티슈처럼 꺼내쓸수 있어서 향 날라감도 덜할것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "22",
+    "RDate": "20210120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "기존 OO제품보다 향이 강해서 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "건조기가 돌아가면 밖에서 부터 향이 계속 나는게 너무 좋습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "물티슈처럼 꺼내쓸수 있어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": " 향 날라감도 덜할것 같네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348953",
+    "RawText": "OOO 섬유시트 골고루 쓰고 있습니다. 이 향은 처음인데 향이 좋아서 만족해요. 건조기 사용때 필수라서 잘 사용중입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "4",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20210120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋아서 만족해요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "건조기 사용때 필수라서 잘 사용중입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348969",
+    "RawText": "신상품이고 사은품도 줘서 샀는데 향이 너무 강해서 아쉬워요. 은은하고 자극적이지 않은 향이면 좋겠는데 아니네요. 액체 섬유유연제에 비해 가격도 비싼 편인듯하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "3",
+    "Syllable": "90",
+    "Word": "20",
+    "RDate": "20210122",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 줘서 샀는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 강해서 아쉬워요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "은은하고 자극적이지 않은 향이면 좋겠는데 아니네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "액체 섬유유연제에 비해 가격도 비싼 편인듯하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "348970",
+    "RawText": "미세플라스틱 없는 안전한 성분이라 구매했네요. 향이 좋습니다. 꼼꼼하게 포장해서 안전하게 배송해 주셔서 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "13",
+    "RDate": "20210122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "미세플라스틱 없는 안전한 성분이라 구매했네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348976",
+    "RawText": "그냥 OOO 쓰고 있었는데 확실히 향기가 좋습니다. 향이 오래 지속되는것 같아요. 부모님댁에도 보내드렸네요. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "15",
+    "RDate": "20210122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "확실히 향기가 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향이 오래 지속되는것 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "348990",
+    "RawText": "전에 쓰던 건조기용 드라이시트는 향은 좋은데 건조후에 옷에서 향이 거의 안났거든요..그런데 OOO는 향이 오래 가요. 전에 쓰던 OO에 비하면 좀 약하긴 하지만 은은하니 나는 향도 좋네요. 함께 주신 귀여운 O 에코백도 감사합니다~^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "131",
+    "Word": "32",
+    "RDate": "20210123",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "OOO는 향이 오래 가요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " OO에 비하면 좀 약하긴 하지만 은은하니 나는 향도 좋네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 함께 주신 귀여운 O 에코백도 감사합니다~^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349001",
+    "RawText": "잘못 구매해서 다시 알아보고 제대로 건조기 시트를 구매했습니다. 대용량이라 좋습니다. 향이 좋아서 빨래하는 것도 즐겁게 느껴지네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "4",
+    "Syllable": "73",
+    "Word": "16",
+    "RDate": "20210125",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋아서 빨래하는 것도 즐겁게 느껴지네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349003",
+    "RawText": "읠유메리미 향 추천도 많고 후기도 좋아 가격이 저렴할때 구입했습니다. 에코백 사은품까지 포함이라 정말 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20210125",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴할때 구입했습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "에코백 사은품까지 포함이라 정말 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349015",
+    "RawText": "사은품으로 받은것보다 향이 그리 좋지 않네요. 건조기 살때 주신 거는 향이 오래 가던데 이건 금방 사라져요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "4",
+    "Syllable": "60",
+    "Word": "16",
+    "RDate": "20210127",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "사은품으로 받은것보다 향이 그리 좋지 않네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "건조기 살때 주신 거는 향이 오래 가던데 이건 금방 사라져요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "349016",
+    "RawText": "한 박스에 같이 받으려고 우유랑 같이 시켰는데 따로 배송이 되었습니다. 아무튼 가격 싸고 향이 좋습니다. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20210127",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 싸고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349022",
+    "RawText": "두장은 넣어야 잔향이 오래갑니다. 에코팩은 들고다니기 챙피할 정도에요. 처음 구매해 봤는데 재구매는 생각을 해봐야겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "14",
+    "RDate": "20210127",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "두장은 넣어야 잔향이 오래갑니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "에코팩은 들고다니기 챙피할 정도에요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "349024",
+    "RawText": "건조기에 사용하는데 정전기 없어지고 은은한 향기도 너무 좋습니다. 가격만 조금 더 착했으며 좋겠네요. 빠른 배송 감사드립니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20210127",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "정전기 없어지고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "은은한 향기도 너무 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격만 조금 더 착했으며 좋겠네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "349032",
+    "RawText": "향이 좋다고 해서 구입해 봤는데요. 향이 너무 좋아서 사람들이 추천하는 이유를 알것 같습니다. 계속 건조기 돌리고 싶을만큼 좋은 향입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20210128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 좋아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "계속 건조기 돌리고 싶을만큼 좋은 향입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349034",
+    "RawText": "건조기시트 향 바꿔보고 싶어서 이 향으로 주문했네요. 저렴하게 잘 산거 같아요. 향기 진하고 달콤한 게 딱 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "18",
+    "RDate": "20210128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 산거 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기 진하고 달콤한 게 딱 맘에 듭니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349035",
+    "RawText": "신상이 나왔길래 궁금해서 사봤습니다. 달콤한 향이 나서 좋습니다. 사은품가방도 장보러 다닐때 요긴하게 쓸것 같아 마음에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "16",
+    "RDate": "20210128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "달콤한 향이 나서 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사은품가방도 장보러 다닐때 요긴하게 쓸것 같아 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349041",
+    "RawText": "OO 보다는 OOO이 향이 더 진해서 갠적으로는 조금 불편합니다. 조금 지나면 은은해지면서 오래가는것 같아 괜찮은 듯요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "4",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20210128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "OO 보다는 OOO이 향이 더 진해서 갠적으로는 조금 불편합니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "조금 지나면 은은해지면서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": " 오래가는것 같아 괜찮은 듯요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349042",
+    "RawText": "한 장 넣으면 향이 안나서 두장 넣으니 향이 너무 강합니다. 그냥저냥 적당히 써야겠네요. 기대를 많이 했는데 품질이 많이 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "4",
+    "Syllable": "73",
+    "Word": "19",
+    "RDate": "20210128",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "한 장 넣으면 향이 안나서 두장 넣으니 향이 너무 강합니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 많이 아쉬워요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "349054",
+    "RawText": "건조기 쓰면서 섬유 유연제 향이 없어져서 구입하게 되었습니다. 건조기 사용 후에도 향이 좋으네요. 가격대비 용량이 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "4",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20210129",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "건조기 사용 후에도 향이 좋으네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "가격대비 용량이 아쉽네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "349058",
+    "RawText": "저렴하게 잘 샀어요. 품질도 마음에 들고 괜찮네요. 배송도 주문한 바로 다음날 보내주셔서  감사합니다. 잘 사용할께요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20210130",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 샀어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 마음에 들고 괜찮네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349063",
+    "RawText": "OO중에 OOO가 제일 좋은거 같아요. 향이 쎄지않고 은은해서 좋구요. 용량이 많아 한동안 두고 쓸 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20210130",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 쎄지않고 은은해서 좋구요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 많아 한동안 두고 쓸 것 같아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349064",
+    "RawText": "향이 좋은 드라이시트네요. 배송도 빨라서 좋고 사은품 에코백도 잘 가지고 다닐 것 같아 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "15",
+    "RDate": "20210130",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋은 드라이시트네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품 에코백도 잘 가지고 다닐 것 같아 마음에 듭니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349078",
+    "RawText": "5천원 쿠폰 받아 저렴한 가격으로 잘 이용하고 있습니다. 시트형이라 사용도 간편하고 향도 무난해서 사용하기 괜찮은 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20210131",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "5천원 쿠폰 받아 저렴한 가격으로 잘 이용하고 있습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트형이라 사용도 간편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 무난해서 사용하기 괜찮은 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349087",
+    "RawText": "항상 애용하는 제품인데 향이 오래가고 향기가 좋습니다. 쿠폰 사용하고 더 저렴하게 구입하니 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20210201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향이 오래가고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기가 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 사용하고 더 저렴하게 구입하니 좋네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349088",
+    "RawText": "다른 향보다 이 향이 제일 좋은거 같습니다. 사은품 에코백은 아이가 마음에 든다고 좋아하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20210201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "이 향이 제일 좋은거 같습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품 에코백은 아이가 마음에 든다고 좋아하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349091",
+    "RawText": "옷감 손상도 확연히 줄고 향이 정말 마음에 들어요. OOO 건조기시트 향은 다 좋은 것 같아요. 사은품으로 가방 증정까지 득템한 기분이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "4",
+    "Syllable": "78",
+    "Word": "20",
+    "RDate": "20210201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "옷감 손상도 확연히 줄고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 정말 마음에 들어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품으로 가방 증정까지 득템한 기분이에요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349093",
+    "RawText": "향기도 좋고 건조후에 빨래가 더 부드럽고 정전기 없이 빨래를 마무리 할 수 있어 아주 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "4",
+    "Syllable": "56",
+    "Word": "16",
+    "RDate": "20210201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "건조후에 빨래가 더 부드럽고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "정전기 없이 빨래를 마무리 할 수 있어 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349094",
+    "RawText": "건조기 구입한지 얼마 안돼서 구입했습니다. 다른제품 사용하고 있지만 이것도 써 보고 싶어서 구입하게 됐는데 향은 좋으네요.  써보고 좋으면 재구매 하려구요.  다른 향도 구입해 사용해 보고 싶어요.  시트 타입이라 한 장씩 톡톡 뽑아 쓰면 되니 편리하고 좋을 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "4",
+    "Syllable": "151",
+    "Word": "38",
+    "RDate": "20210201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향은 좋으네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트 타입이라 한 장씩 톡톡 뽑아 쓰면 되니 편리하고 좋을 것 같아요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349095",
+    "RawText": "향이 예전에 쓰던거랑 다른걸 사고싶었는데 잘모르겠어서 가격은 저렴하지 않지만 그냥 샀습니다. 건조기 사용 후 향이 좀 오래남기를 바랍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "18",
+    "RDate": "20210201",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴하지 않지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향이 좀 오래남기를 바랍니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "349100",
+    "RawText": "향이 좋아서 섬유유연제는 따로 사용하지 않고 드라이시트만 사용하고 있습니다. 향이 정말 좋아서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "4",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20210201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋아서 섬유유연제는 따로 사용하지 않고 드라이시트만 사용하고 있습니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 정말 좋아서 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349101",
+    "RawText": "건조기용 탈취, 유연제로 이거 사용하고 있습니다. 한 장 넣으면 향이 너무 독해서 1/2장 또는 1/3장씩 찢어서 넣습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "4",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20210201",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "한 장 넣으면 향이 너무 독해서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "1/2장 또는 1/3장씩 찢어서 넣습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "349104",
+    "RawText": "건조기를 사용하고 있어서 필요해서 샀습니다. 총 120매로 한 박스 안에 40매짜리 3봉지가 들어 있는데 양이 많아 좋네요. 뜯어 놓고 오래 사용하다 보면 향도 없어지고 말라 버릴 것 같아 걱정이었거든요.  에코백이랑 세트 구성으로 샀는데 냄새가 나는 것이 별룹니다. 그냥 더 저렴하게 구매하는 것이 좋았을 뻔 했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "178",
+    "Word": "45",
+    "RDate": "20210201",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 총 120매로 한 박스 안에 40매짜리 3봉지가 들어 있는데 양이 많아 좋네요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 에코백이랑 세트 구성으로 샀는데 냄새가 나는 것이 별룹니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "그냥 더 저렴하게 구매하는 것이 좋았을 뻔 했어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "349107",
+    "RawText": "건조기에서 나와도 향기가 오래 남아있어서 만족스러워요. 향이 강하지 않고 은은해서 더 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "12",
+    "RDate": "20210202",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "건조기에서 나와도 향기가 오래 남아있어서 만족스러워요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 강하지 않고 은은해서 더 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349114",
+    "RawText": "복숭아향처럼 달달한 향이라 괜찮네요. 핑크만 쓰다가 오렌지색이 새로 나와서 사봤는데 이것도 향이 괜찮은것 같아 잘 쓰고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "4",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20210202",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "복숭아향처럼 달달한 향이라 괜찮네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 괜찮은것 같아 잘 쓰고 있어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349126",
+    "RawText": "향을 바꿔가며 쓰고 싶어서 주문했는데 OOO 향 좋습니다. 집앞까지 택배배송이 힘들어서 액체 세제와 유연제를 모두 시트지로 바꿨는데 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "18",
+    "RDate": "20210203",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "OOO 향 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "모두 시트지로 바꿨는데 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349135",
+    "RawText": "향이 좋을 거 같아 구매했는데 만족합니다. 배송은 빠르게 잘 왔어요. 세탁기 헹굼할때 액체 섬유유연제 안 넣고 빨래 끝나면 건조기에 섬유유연제 시트 집어 넣는데 시트형이라 한장씩 집어 넣는 게 매우 편리해서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "120",
+    "Word": "31",
+    "RDate": "20210204",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋을 거 같아 구매했는데 만족합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트형이라 한장씩 집어 넣는 게 매우 편리해서 좋아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349139",
+    "RawText": "사용해보니 이 향보다 OO이 전 더 좋은것 같습니다. 이 제품은 기본 두장씩 써야 향이 나네요. 재구매는 안합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "4",
+    "Syllable": "64",
+    "Word": "17",
+    "RDate": "20210204",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "이 향보다 OO이 전 더 좋은것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "이 제품은 기본 두장씩 써야 향이 나네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "349143",
+    "RawText": "항상 OOO 꺼만 사용중입니다. 아직 좀 남았는데 사은품에 혹해서 주문했어요. 사은품이 너무 마음에 들고, 메리미 향이 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20210204",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품이 너무 마음에 들고,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "메리미 향이 좋네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349145",
+    "RawText": "아직 써보지는 않았는데 향은 그리 강한것 같지는 않습니다. 저렴하게 구매해서 좋습니다. 사은품으로 보내주신 가방은 귀엽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이 섬유유연시트 120매 1개",
+    "ReviewScore": "4",
+    "Syllable": "69",
+    "Word": "15",
+    "RDate": "20210204",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "아직 써보지는 않았는데 향은 그리 강한것 같지는 않습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매해서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "사은품으로 보내주신 가방은 귀엽네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349164",
+    "RawText": "OOO만 쓰다가 저렴하게 판매하길래 구입했습니다. 그런데 향이 오래가고 용량도 많아서 너무 맘에 드네요..세일을 많이 하길래  하루에 한번씩 샀네요. 정말 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 섬유유연제 1.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "20",
+    "RDate": "20220826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 판매하길래 구입했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향이 오래가고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 많아서 너무 맘에 드네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일을 많이 하길래 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349168",
+    "RawText": "써 보고 좋아서 다시 구매한 제품이지만 비쌉니다. 다른 건 2100미리이던데 1700미리 밖에 안 들어 있어 양이 좀 적은 편입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 섬유유연제 1.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "19",
+    "RDate": "20220826",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비쌉니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "다른 건 2100미리이던데 1700미리 밖에 안 들어 있어 양이 좀 적은 편입니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "349176",
+    "RawText": "저렴하게 구입한 것 같아 좋습니다. 향이 좋아서 늘 사용하는 유연제예요. 좋은 가격 자주 부탁드려요. 다 쓰고 또 구매하러 오겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 섬유유연제 1.7L 4개",
+    "ReviewScore": "4",
+    "Syllable": "75",
+    "Word": "19",
+    "RDate": "20220825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입한 것 같아 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋아서 늘 사용하는 유연제예요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격 자주 부탁드려요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349177",
+    "RawText": "배송은 주문 후 빨리 도착했습니다. 포장은 종이 상자에 충전제로 제품 손상 받지 않게 잘 받았습니다. 미세 플라스틱이 없는 제품으로 향도 좋아서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 섬유유연제 1.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "22",
+    "RDate": "20220824",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "미세 플라스틱이 없는 제품으로 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋아서 만족합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349188",
+    "RawText": "향이 좋길래 구매했습니다. 사용전이라 향이 오래가는지는 아직 모르겠지만 지속력이 좋았으면 해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 섬유유연제 1.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "11",
+    "RDate": "20220823",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋길래 구매했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "사용전이라 향이 오래가는지는 아직 모르겠지만 지속력이 좋았으면 해요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "349201",
+    "RawText": "늘 쓰는 제품이네요. 향이 오래가니 좋습니다. 배송도 빠르고 가격도 매장대비 저렴하니 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 섬유유연제 1.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20220822",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향이 오래가니 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 매장대비 저렴하니 너무 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349206",
+    "RawText": "늘 쓰고 있는거라 주문했어요. 향은 좋은데 상품박스가 다 찢어져서 엉망이네요. 가격도 지난번보다 많이 올랐는데 포장을 너무 허술하게 해주셔서 기분이 안좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 섬유유연제 1.7L 4개",
+    "ReviewScore": "3",
+    "Syllable": "88",
+    "Word": "20",
+    "RDate": "20220822",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 좋은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 지난번보다 많이 올랐는데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "349224",
+    "RawText": "요즘 날씨가 너무 덥고 자주 빨래를 해서 그런지 세제랑 섬유유연제를 많이 사용합니다. 향기는 좋은데 건조후에는 향이 금방 사라지는 느낌이라 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 섬유유연제 1.7L 4개",
+    "ReviewScore": "4",
+    "Syllable": "83",
+    "Word": "20",
+    "RDate": "20220818",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기는 좋은데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "건조후에는 향이 금방 사라지는 느낌이라 아쉬워요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "349225",
+    "RawText": "향이 좋아서 매번 구매하여 잘 쓰고 있습니다.  배송도 빠르고 터진 것 없이 잘 받았어요. 가격이 좀 착하면 바랄 것이 없을 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 섬유유연제 1.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "22",
+    "RDate": "20220818",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋아서 매번 구매하여 잘 쓰고 있습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 착하면 바랄 것이 없을 것 같아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "349230",
+    "RawText": "제가 사용해보고 향이 너무 좋아서 시댁에도 보내드렸는데 만족하셔서 좋습니다. 용량 대비 가격도 착해서 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 섬유유연제 1.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20220817",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "용량 대비 가격도 착해서 맘에 듭니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349238",
+    "RawText": "타 섬유유연제 쓰다가 바꿨는데 건조 후 OOO가 향이 더 진하게 오래 나는것 같습니다. 향도 은은하게 나서 더 좋습니다. OOO 쓰면 다른 섬유유연제 못쓸듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 섬유유연제 1.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "24",
+    "RDate": "20220816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "건조 후 OOO가 향이 더 진하게 오래 나는것 같습니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 은은하게 나서 더 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349239",
+    "RawText": "여기서 두번째 주문인데 배송이 항상 빠르고 최근 제조품으로 와서 좋아요. 가격도 여기가 제일 좋은 것 같네요. 행사가격으로 저렴하게 잘 샀어요. 또 주문할께요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 섬유유연제 1.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "22",
+    "RDate": "20220816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 여기가 제일 좋은 것 같네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "행사가격으로 저렴하게 잘 샀어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349245",
+    "RawText": "향이 정말 좋네요. 잘 사용하게 될 것 같아요. 리필이라 가격도 저렴하게 구매해서 좋네요 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 섬유유연제 1.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20220813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 정말 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "리필이라 가격도 저렴하게 구매해서 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349260",
+    "RawText": "가격은 저렴해서 착하고 총알배송입니다. 그 어떤 제품보다 향이 좋아서 마음에 들어요. 재구매 의향 높습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 섬유유연제 1.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20220809",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴해서 착하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "그 어떤 제품보다 향이 좋아서 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349263",
+    "RawText": "향이 좋아서 잘 쓰고 있어요. 저렴한 가격에 구매한 것 같아 만족합니다. 빠른 배송 감사드리고 또 사러 올게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 섬유유연제 1.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "17",
+    "RDate": "20220809",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋아서 잘 쓰고 있어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 구매한 것 같아 만족합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349283",
+    "RawText": "다른 향 쓰다가 이 향으로 바꿨는데 향이 좀 진한거 같아 부담됐어요. 그래도 가끔은 진한 향이 필요할때가 있는 것 같아요. 지금은 향이 진하게 느껴지지만 적응해보려고요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 섬유유연제 1.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "94",
+    "Word": "24",
+    "RDate": "20220804",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좀 진한거 같아 부담됐어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "지금은 향이 진하게 느껴지지만 적응해보려고요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "349303",
+    "RawText": "건조기 사용하다보니 대부분 향이 다 날아가 버리던데 이 제품은 은은하게 향이 오래 남아 좋아요. 가격도 착하고 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 섬유유연제 1.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "17",
+    "RDate": "20220801",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "이 제품은 은은하게 향이 오래 남아 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착하고 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349304",
+    "RawText": "샘플을 사용해보니 향기가 너무 좋아서 구매했습니다. 가격도 저렴해서 좋습니다. 앞으로도 자주 이용하겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 섬유유연제 1.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "12",
+    "RDate": "20220801",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "샘플을 사용해보니 향기가 너무 좋아서 구매했습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "349305",
+    "RawText": "OOO 사용하다 단종되어 OO 쓰고 있었습니다. 향이 좋습니다. 건조 후 은은하게 오래 지속돼서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 섬유유연제 1.7L 4개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20220731",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "건조 후 은은하게 오래 지속돼서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

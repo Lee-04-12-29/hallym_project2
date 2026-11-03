@@ -1,0 +1,3314 @@
+[
+  {
+    "Index": "522251",
+    "RawText": "생각보다 튼튼합니다 빨래도 많이 널수있어서 좋고요 바퀴도 잘 굴러가서 밀고 다니기 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "4",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20210105",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "생각보다 튼튼합니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "빨래도 많이 널수있어서 좋고요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 바퀴도 잘 굴러가서 밀고 다니기 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522253",
+    "RawText": "저는 생각보단 별로네요. 새상품인데도 사진처럼 기스도 나고 휘어져왔습니다. 날개살이 얇은편이라 잘 휘어질듯하네요 전에 쓰던것보단 날개살이 얇고 간격도 좁은편이라 두께감 있는 옷들은 2칸씩은 써야될것 같아요. 그리고 전체적으로 허접한 느낌이예요. 양쪽 날개처럼 넓힐때 고정하는 장치가 고정이 아니라 쉽게 같이 빠집니다. 장점은 간격빼고 많이 널수 있고 바퀴 고정도 되고 접을 수 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "3",
+    "Syllable": "216",
+    "Word": "49",
+    "RDate": "20210105",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "기스도 나고 휘어져왔습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "날개살이 얇은편이라",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "잘 휘어질듯하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "날개살이 얇고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "간격도 좁은편이라",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "두께감 있는 옷들은 2칸씩은 써야될것 같아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "전체적으로 허접한 느낌이예요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "고정하는 장치가 고정이 아니라 쉽게 같이 빠집니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "간격빼고 많이 널수 있고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "바퀴 고정도 되고 접을 수 있습니다.  ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522277",
+    "RawText": "톤튼해보이지는 않습니다 퀄리티는 좋네요 고장만 안났음좋겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "4",
+    "Syllable": "34",
+    "Word": "6",
+    "RDate": "20210104",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "톤튼해보이지는 않습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "퀄리티는 좋네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "고장만 안났음좋겠습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "522282",
+    "RawText": "완전 만족합니다 색상도 이쁘고 기존에 사용하던 건조대보다 튼튼하고 안정감도 있네요. 쿠폰적용해서 아주 저렴하게 구입했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "14",
+    "RDate": "20210104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 이쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고 안정감도 있네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰적용해서 아주 저렴하게 구입했어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522287",
+    "RawText": "다른 부분은 괜찮은데 옆날게 거치해 올리는 부분이 너무 잘빠져버립니다 무거운 옷을 널으니 주저앉아 버리네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "4",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20210104",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "옆날게 거치해 올리는 부분이 너무 잘빠져버립니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "무거운 옷을 널으니 주저앉아 버리네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "522294",
+    "RawText": "튼튼하고 좋네요 넉넉하게 빨래를 널수 있겠어요 잘쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "32",
+    "Word": "7",
+    "RDate": "20210103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "넉넉하게 빨래를 널수 있겠어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522303",
+    "RawText": "기존쓰는것보다 빨래널곳은 많아졌어요 사이 간격이 좁고 양옆에 고정시키는게 불편합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "4",
+    "Syllable": "46",
+    "Word": "9",
+    "RDate": "20210103",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "기존쓰는것보다 빨래널곳은 많아졌어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "사이 간격이 좁고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 양옆에 고정시키는게 불편합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "522304",
+    "RawText": "기존에 쓰던 빨랫대가 휘어서 이번엔 가격이 좀 높은 걸로 구입했어요 탄탄해 보이긴 합니다. 또 생각보다 가볍네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20210102",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 높은 걸로 구입했어요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "탄탄해 보이긴 합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 생각보다 가볍네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522330",
+    "RawText": "빠른배송 감사드려요 다리가 부러져서 새로 구매했는데 튼튼하고 품질이 아주 좋네요 적극 추천합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "12",
+    "RDate": "20201228",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 아주 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522338",
+    "RawText": "기대보다 너무 좋은 상품입니다 모두들 사세요 대박입니다 편하고 멋지고 모두가 좋아하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20201211",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "멋지고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522340",
+    "RawText": "가격은 비싸네요 튼튼하고 대용량이라 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "25",
+    "Word": "5",
+    "RDate": "20201210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 튼튼하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "대용량이라 만족합니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522358",
+    "RawText": "이 건조대 사용전 좀 넓은 걸 써서인지 더 좁게 느껴지네요. 양옆을 접어버리면 부피가 작아 편합니다. 더 써봐야 장단점을 알 수 있겠어요. 현재로는 무난하니 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "4",
+    "Syllable": "93",
+    "Word": "24",
+    "RDate": "20201203",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "더 좁게 느껴지네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "양옆을 접어버리면 부피가 작아 편합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522361",
+    "RawText": "하자잇는부분은 없는것같네요 아직빨래를안널어봐서 많이 널릴지는 모르겠구요 가격이너무비싸네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "7",
+    "RDate": "20201126",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "하자잇는부분은 없는것같네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "아직빨래를안널어봐서 많이 널릴지는 모르겠구요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이너무비싸네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "522364",
+    "RawText": "빨래는 많이 걸리네요 엽날개쪽 흰색이 자꾸빠져요 빨래 널때도윗쪽 거치하는 흰부분이 자꾸빠지네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "1",
+    "Syllable": "52",
+    "Word": "11",
+    "RDate": "20201125",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "빨래는 많이 걸리네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "엽날개쪽 흰색이 자꾸빠져요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 빨래 널때도윗쪽 거치하는 흰부분이 자꾸빠지네요  ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "522370",
+    "RawText": "튼튼하고 좋아요 기존에도 쓰던건데 하나더 필요해서 구매했네요 빨래도 많이 널수있어서 좋습니다 진짜 튼튼합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20201119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": " 빨래도 많이 널수있어서 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "진짜 튼튼합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522372",
+    "RawText": "싼가격에 너무 잘샀네요 괜찮네요 튼튼하고 많이 널수있어서 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "36",
+    "Word": "8",
+    "RDate": "20201118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼가격에 너무 잘샀네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 튼튼하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "많이 널수있어서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522373",
+    "RawText": "상품보고 만족해요 튼튼해보이고 많이걸수있어서 만족스럽네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "31",
+    "Word": "5",
+    "RDate": "20201116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해보이고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": " 많이걸수있어서 만족스럽네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522374",
+    "RawText": "전에 쓰던 타사 ㅇㅇ 빨래건조대가 부러져서 여기서 구매해요 워낙에 많은 빨래건조가 가능하다는걸 알기에 이런 타입으로 재구매했는데 전에꺼보다 조금 높네요 그리고 날개펼때 고정하는 걸림쇠가 가끔 빠지네요 그것외엔 좋은 구조의 건조대군요 많은양의 빨래를 널기엔 최고입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "148",
+    "Word": "33",
+    "RDate": "20201116",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "전에꺼보다 조금 높네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "날개펼때 고정하는 걸림쇠가 가끔 빠지네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "좋은 구조의 건조대군요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "많은양의 빨래를 널기엔 최고입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522383",
+    "RawText": "상품평보고 구매했는데 평가대로 좋아요 완전 튼튼한 정도는 아니지만 집에서 사용하기에는 충분해요 조립도 너무 편하고 가볍게 설치 잘 했습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "18",
+    "RDate": "20201114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "완전 튼튼한 정도는 아니지만 집에서 사용하기에는 충분해요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립도 너무 편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522384",
+    "RawText": "기재된 사이즈랑 좀 차이가 있어요 재는 위치에 따라 다를 수 있다지만 펼쳐지는 부분도 일센티 차이나고 옆쪽 날개도 일센티 작아요 크기는 큰거 같은데 양날개에는 큰 옷을 못 널고 수건이나 바지정도 널수있겠네요 쓰던게 오래되서 살이 자꾸 빠져 구매한건데 좀 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "3",
+    "Syllable": "146",
+    "Word": "38",
+    "RDate": "20201113",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "기재된 사이즈랑 좀 차이가 있어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": " 펼쳐지는 부분도 일센티 차이나고 옆쪽 날개도 일센티 작아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기는 큰거 같은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "양날개에는 큰 옷을 못 널고 수건이나 바지정도 널수있겠네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "522388",
+    "RawText": "디자인도 괜찮구요 튼튼하고 자리도 많이 차지하지 않아서 만족해요 배송도 빠릅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20201112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 괜찮구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "자리도 많이 차지하지 않아서 만족해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522392",
+    "RawText": "ㅇㅇ데이 덕분에 저렴하게 구입했네요 가운데 부분 길어서 남편 티셔츠 널때 딱 좋네요 마음껏 세탁기 돌릴수 있어서 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20201111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입했네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "가운데 부분 길어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "남편 티셔츠 널때 딱 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 마음껏 세탁기 돌릴수 있어서 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522395",
+    "RawText": "이름이 튼튼이인데 엄청 튼튼하지는 않습니다 이 스타일이 많이 널리기는 하는 거 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "3",
+    "Syllable": "47",
+    "Word": "12",
+    "RDate": "20201109",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "엄청 튼튼하지는 않습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "이 스타일이 많이 널리기는 하는 거 같네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522396",
+    "RawText": "튼튼하네요 바퀴도 있어서 편하게 사용할수있어서 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "30",
+    "Word": "6",
+    "RDate": "20201109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "바퀴도 있어서 편하게 사용할수있어서 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522399",
+    "RawText": "2번째 구매인데 이번 제품은 좀 뻑뻑합니다 부품걸이도 잘 빠지네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "4",
+    "Syllable": "36",
+    "Word": "9",
+    "RDate": "20201107",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": " 좀 뻑뻑합니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "부품걸이도 잘 빠지네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "522400",
+    "RawText": "생각보다 품질이 별로네요 공간활용은 좋아보여서 좋은데 플라스틱 마감, 금속대 마감 등에 좀 실망스럽네요 흔들흔들 하니까 무게를 지탱하지 못할거 같구요 그래도 쿠폰써서 할인된 가격이라 그냥 써볼게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "3",
+    "Syllable": "109",
+    "Word": "25",
+    "RDate": "20201106",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "생각보다 품질이 별로네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "공간활용은 좋아보여서 좋은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "플라스틱 마감, 금속대 마감 등에 좀 실망스럽네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "흔들흔들 하니까 무게를 지탱하지 못할거 같구요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 쿠폰써서 할인된 가격이라",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522405",
+    "RawText": "쓰던게 망가져 급하게 주문했는데 배송이 빠릅니다 바퀴만 달면 되서 따로 조립할껀 없네요 중간에 고정막대기가 플라스틱이라 좀 약해보이네요 중간에 공간 활용이 안되서 아쉬워요 걸이가 많아서 많이 걸수 있을것 같은데 오래 썼으면 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "4",
+    "Syllable": "128",
+    "Word": "31",
+    "RDate": "20201105",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "바퀴만 달면 되서 따로 조립할껀 없네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "중간에 고정막대기가 플라스틱이라",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "좀 약해보이네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "중간에 공간 활용이 안되서 아쉬워요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "걸이가 많아서 많이 걸수 있을것 같은데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 오래 썼으면 합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "522409",
+    "RawText": "잘받았어요 디자인 깔끔은한데 힘받는 지지대가 너무 약해보이네요 이불을 널으면 부러질것 같은 정도입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "4",
+    "Syllable": "56",
+    "Word": "12",
+    "RDate": "20201103",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 깔끔은한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "힘받는 지지대가 너무 약해보이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "이불을 널으면 부러질것 같은 정도입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "522410",
+    "RawText": "튼튼하네요 많은양도 널기 좋을듯합니다 높이도 적당해서 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "4",
+    "Syllable": "34",
+    "Word": "7",
+    "RDate": "20201101",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하네요 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "많은양도 널기 좋을듯합니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "높이도 적당해서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522414",
+    "RawText": "날개부분이 많아 다양하게 활용가능합니다 쭉 펴면 이불 길게 널려서 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "3",
+    "Syllable": "41",
+    "Word": "10",
+    "RDate": "20201026",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "날개부분이 많아 다양하게 활용가능합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "쭉 펴면 이불 길게 널려서 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522418",
+    "RawText": "예전에 다른 곳에서 비슷한 빨래건조대를 샀었는데 널 수 있는 공간도 많아서 잘 사용하고 있어요. 이번에도 널 수 있는 공간도 많고 튼튼해서 잘 사용할것 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "24",
+    "RDate": "20201021",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "널 수 있는 공간도 많고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 튼튼해서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522420",
+    "RawText": "만족합니다 잘 쓰고 있구요 아주 다 접히진 않아서 사용시 조금 불편하지만 튼튼하고 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "13",
+    "RDate": "20201020",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아주 다 접히진 않아서 사용시 조금 불편하지만",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522424",
+    "RawText": "좋은 가격에 잘 구매했다. 물건이 실용성이 있으며 장소에 구애받지 않게 보관이 가능하며 세탁양이나 크기에 걱정없이 아무곳에서나 간편하게 사용이 가능합니다 따로 짜맞출 필요없이 완제품으로 배송될뿐아니라 포장도 튼튼하게 잘배송이 되어 선택및 가격도 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "141",
+    "Word": "31",
+    "RDate": "20201014",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "물건이 실용성이 있으며",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "장소에 구애받지 않게 보관이 가능하며",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "세탁양이나 크기에 걱정없이 아무곳에서나 간편하게 사용이 가능합니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 만족해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 잘 구매했다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522436",
+    "RawText": "배송빠르네요 완제품으로와서 바퀴만 끼우면 되니 편합니다 튼튼해보이고 크기도커서 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "9",
+    "RDate": "20201001",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "완제품으로와서 바퀴만 끼우면 되니 편합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해보이고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기도커서 만족해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522450",
+    "RawText": "추천받고샀는데 너무 좋네요 양날개 접을수있어서 공간활용에도 좋습니다 바퀴도 달려서 이리저리 옮길 수 있습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20200924",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "양날개 접을수있어서 공간활용에도 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "바퀴도 달려서 이리저리 옮길 수 있습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522463",
+    "RawText": "넉넉하게 빨래를 널수 있습니다. 내구성이 좋아서 오래 쓸수 있을듯 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "40",
+    "Word": "10",
+    "RDate": "20200919",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "넉넉하게 빨래를 널수 있습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "내구성이 좋아서 오래 쓸수 있을듯 합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522471",
+    "RawText": "박스테잎이 떨어진채로와서 내용물 걱정했더니 괜찮아요 생각처럼 튼튼하지는 않는듯 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "4",
+    "Syllable": "47",
+    "Word": "9",
+    "RDate": "20200906",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "박스테잎이 떨어진채로와서 내용물 걱정했더니 괜찮아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "생각처럼 튼튼하지는 않는듯 합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "522474",
+    "RawText": "튼튼합니다 접어두기도 좋아서 빨래없을땐 공간도 많이 차지하지 않습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "38",
+    "Word": "8",
+    "RDate": "20200903",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "접어두기도 좋아서 빨래없을땐 공간도 많이 차지하지 않습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522480",
+    "RawText": "철로 만든 건조대에 비해 튼튼하지는 않네요 많은 빨래를 한번에 널 수 있어서 좋구요 바퀴가 달려있어서 장소를 옮기기에도 편하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20200831",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "철로 만든 건조대에 비해 튼튼하지는 않네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "많은 빨래를 한번에 널 수 있어서 좋구요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "바퀴가 달려있어서 장소를 옮기기에도 편하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522483",
+    "RawText": "커서 빨래 널기 좋네요 위에 이불널고 아래 자잘한 옷이나 수건 걸면 됩니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "41",
+    "Word": "12",
+    "RDate": "20200829",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "커서 빨래 널기 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "위에 이불널고 아래 자잘한 옷이나 수건 걸면 됩니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522487",
+    "RawText": "배송은 겁나 늦게 오긴했는데 비교적 만족합니다 근데 중간에 흰색고정핀같은게 딱 들어맞지않고 꽉끼어도 계속 빠집니다 중심이 안맞은지 살짝 흔들흔들거리네요 튼튼하게 오래쓰길 바랄뿐입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "4",
+    "Syllable": "101",
+    "Word": "21",
+    "RDate": "20200827",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "흰색고정핀같은게 딱 들어맞지않고 꽉끼어도 계속 빠집니다 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "중심이 안맞은지 살짝 흔들흔들거리네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하게 오래쓰길 바랄뿐입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "522488",
+    "RawText": "생각보다 상당히 튼튼하네요 프레임은 굵은 편입니다 접어두면 공간도 적게 차지하구요 가격대비 훌륭합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "12",
+    "RDate": "20200827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "생각보다 상당히 튼튼하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "프레임은 굵은 편입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "접어두면 공간도 적게 차지하구요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 훌륭합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522489",
+    "RawText": "빨래를 많이 널수 있어요 무겁지않아 좋네요 바퀴도 있어 편합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "4",
+    "Syllable": "35",
+    "Word": "9",
+    "RDate": "20200827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "빨래를 많이 널수 있어요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁지않아 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "바퀴도 있어 편합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522492",
+    "RawText": "폭은 좁은편이고 길이는 꽤 깁니다. 폈을 때 가운데 널수 있는 살이 더 있었으면 좋겠네요. 날개를 고정시키는 부분이 플라스틱이라 좀 그렇네요 대체로 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "4",
+    "Syllable": "88",
+    "Word": "22",
+    "RDate": "20200825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "폭은 좁은편이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "길이는 꽤 깁니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "폈을 때 가운데 널수 있는 살이 더 있었으면 좋겠네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "날개를 고정시키는 부분이 플라스틱이라 좀 그렇네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "522513",
+    "RawText": "4년정도 사용하니 이곳저곳 부러지고 고장나기 시작해서 새로 구입했어요. 그동안 너무나도 잘 사용해서 동일제품으로 구매했어요. 튼튼하고 많은 빨래를 널수 있습니다 보관하기도 용이합니다 이만한게 없는것 같아요. 기존꺼랑 비교해보니 양쪽 날개펴는곳 받침부분이 업그레이드 되어 좋다 나란히 두고 사진찍어보니 흰부분이 변색된게 확연히 보이네요. 너무 잘샀네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "195",
+    "Word": "41",
+    "RDate": "20200818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "많은 빨래를 널수 있습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "보관하기도 용이합니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이만한게 없는것 같아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "날개펴는곳 받침부분이 업그레이드 되어 좋다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "흰부분이 변색된게 확연히 보이네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522523",
+    "RawText": "정말 튼튼하네요 빨래도 많이 널 수 있어서 앞으로 빨래 널 걱정은 없겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "42",
+    "Word": "12",
+    "RDate": "20200813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "정말 튼튼하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "빨래도 많이 널 수 있어서 앞으로 빨래 널 걱정은 없겠습니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522531",
+    "RawText": "맘에들어요 바퀴있어 엄청편하네요 빨래많이널수있어좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "30",
+    "Word": "4",
+    "RDate": "20200806",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "바퀴있어 엄청편하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "빨래많이널수있어좋습니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522535",
+    "RawText": "아이들 셋이라 빨래양이 많이 나오는데 사이즈는 딱 좋네요 이사온 새 집과 디자인이 딱 어울립니다 잘 쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "16",
+    "RDate": "20200802",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈는 딱 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이사온 새 집과 디자인이 딱 어울립니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522536",
+    "RawText": "지금껏 구입한 건조대중에 최고로 맘에드네요 가격도 착하고 디자인도 예쁘고 튼튼합니다 배송도 빠르고 모두 다 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20200731",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522538",
+    "RawText": "생각만큼 엄청 튼튼하지는 않지만 잘 사용중이에요 빨래 여러장 널수 있어서 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "11",
+    "RDate": "20200731",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "생각만큼 엄청 튼튼하지는 않지만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "빨래 여러장 널수 있어서 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522543",
+    "RawText": "중복 할인되는 날 저렴히 잘 구매했네요 튼튼해보이고 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "33",
+    "Word": "8",
+    "RDate": "20200729",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "중복 할인되는 날 저렴히 잘 구매했네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해보이고 좋습니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522544",
+    "RawText": "타 건조대보다 훨씬 많은 양의 빨래를 널을수 있습니다 미사용시 부피가 확줄어서 좋네요 바퀴가 밑에 있어서 빨래 건조시 이동도 수월해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "19",
+    "RDate": "20200728",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "훨씬 많은 양의 빨래를 널을수 있습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "미사용시 부피가 확줄어서 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "바퀴가 밑에 있어서 빨래 건조시 이동도 수월해요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522548",
+    "RawText": "그동안 튼튼하게 잘썼네요. 5년쓰고 교체해요. 바퀴달려서 이동하기 편하고 접이식이라 편하고 빨래 많이 널어져서 좋고 간격사이가 넓어져서 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "17",
+    "RDate": "20200723",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "바퀴달려서 이동하기 편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "접이식이라 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "빨래 많이 널어져서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "간격사이가 넓어져서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522550",
+    "RawText": "튼튼하네요 많이 널수있어 요즘같이 빨래 많이 나오는날 딱 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "36",
+    "Word": "9",
+    "RDate": "20200721",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "많이 널수있어 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "요즘같이 빨래 많이 나오는날 딱 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522554",
+    "RawText": "튼튼하긴 한데 접고 펴고 하는게 좀 번거롭네요 마감이 좀 아쉬운 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "3",
+    "Syllable": "42",
+    "Word": "11",
+    "RDate": "20200714",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하긴 한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "접고 펴고 하는게 좀 번거롭네요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감이 좀 아쉬운 제품입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "522568",
+    "RawText": "기대이상으로 품질 좋네요. 어떤후기에는 냄새가 많이 난다고 했는데 저는 안나네요. 전에쓰던거보다 확장성이 좋아 이불도 충분히 가능할것같습니다. 잘쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "17",
+    "RDate": "20200608",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "기대이상으로 품질 좋네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 많이 난다고 했는데 저는 안나네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "확장성이 좋아 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "이불도 충분히 가능할것같습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522569",
+    "RawText": "새로운 빨래 건조대 찾다가 구입했어요 일반 빨래 건조대 보다 폭이 넓어서 퀸사이즈 이불을 안심하고 널 수 있어 좋아요 전체 스틸 소재인줄 알았지만 신발 올려놓는 부분이나 흰색 접히는 부분은 플라스틱이네요 그리고 생각보다 설명서 사진처럼 반으로 접는 게 쉽지 않아요 두 손으로 잘 잡고 양쪽으로 몇번씩 잡아 당겨야 합니다 넓게 펼쳐놓고 널 수 있는 건 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "200",
+    "Word": "54",
+    "RDate": "20200603",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "일반 빨래 건조대 보다 폭이 넓어서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "퀸사이즈 이불을 안심하고 널 수 있어 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "전체 스틸 소재인줄 알았지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "신발 올려놓는 부분이나 흰색 접히는 부분은 플라스틱이네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "생각보다 설명서 사진처럼 반으로 접는 게 쉽지 않아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "두 손으로 잘 잡고 양쪽으로 몇번씩 잡아 당겨야 합니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "넓게 펼쳐놓고 널 수 있는 건 좋습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522572",
+    "RawText": "무엇보다 많은 빨래 널기가 가능 하네요 아기있는집 적극 추천해요 접어서 보관하기도 편하고 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20200530",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "많은 빨래 널기가 가능 하네요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "접어서 보관하기도 편하고 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522574",
+    "RawText": "좀 약해 보이네요 무거운 빨래는 못 널겠다는 생각이 듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "4",
+    "Syllable": "32",
+    "Word": "9",
+    "RDate": "20200526",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "좀 약해 보이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "무거운 빨래는 못 널겠다는 생각이 듭니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "522576",
+    "RawText": "빨래많이널수 있습니다 튼튼해보이지는 않네요 안에 제습기 둘 자리 있어서 제습기틀고 빨래널기 좋은듯합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "4",
+    "Syllable": "57",
+    "Word": "12",
+    "RDate": "20200523",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "빨래많이널수 있습니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해보이지는 않네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "안에 제습기 둘 자리 있어서 제습기틀고 빨래널기 좋은듯합니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522578",
+    "RawText": "요령이 없는건가 싶어서 ㅇㅇㅇ도 찾아보고 설명서도 봤지만 그냥 제품이 많이 뻣뻣했던 것 같네요 30분만에 겨우 펼쳤어요 제품 펼치고 나서도 보니 서로 아귀가 잘 맞지 않는 부분이 있어요 이거는 플라스틱이 휜 거라 앞으로도 계속 이럴거 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "3",
+    "Syllable": "134",
+    "Word": "35",
+    "RDate": "20200514",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품이 많이 뻣뻣했던 것 같네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "30분만에 겨우 펼쳤어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "서로 아귀가 잘 맞지 않는 부분이 있어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 플라스틱이 휜 거라 앞으로도 계속 이럴거 같네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "522582",
+    "RawText": "두개째 구매네요 써보니 튼튼하고 좋아서 재구매해요 색도 무난하게 예쁘고 사이즈도 좋고 얼마든지 접어서 펼쳐서 사용하니 좋습니다 무엇보다 이불빨래 널때 바닥에 닿지 않도록 다 펼쳐지니 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "105",
+    "Word": "25",
+    "RDate": "20200508",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색도 무난하게 예쁘고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "얼마든지 접어서 펼쳐서 사용하니 좋습니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "이불빨래 널때 바닥에 닿지 않도록 다 펼쳐지니 좋네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522586",
+    "RawText": "빨래건조대 오렌만에 샀는데 크기는 만족합니다 다만 옆에 힘이조금약합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "39",
+    "Word": "8",
+    "RDate": "20200430",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기는 만족합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "옆에 힘이조금약합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "522587",
+    "RawText": "파손된 부분없이 잘왔네요 생각보다 살대는 튼튼해보이구요 x자 고정이 안되어 그부분은 조심해야할듯 합니다 쿠폰적용해 저렴히 잘샀습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "4",
+    "Syllable": "73",
+    "Word": "15",
+    "RDate": "20200429",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "파손된 부분없이 잘왔네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "생각보다 살대는 튼튼해보이구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "x자 고정이 안되어 그부분은 조심해야할듯 합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰적용해 저렴히 잘샀습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522594",
+    "RawText": "저렴한 가격에 잘샀네요 좋은 가격에 좋은 물건 잘산거죠 조립되어 와서 바로 쓰기만하면 돼서 너무 편하고 튼튼해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "4",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20200409",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "조립되어 와서 바로 쓰기만하면 돼서 너무 편하고 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522597",
+    "RawText": "배송빠르고 기존상품에서 업그레이드됐어요. 바퀴가 뻑뻑하고 거치대가 다소 약해서 오래사용하진못할거같습니다. 행사때 좋은가격에 구매했어요 본가격으로 구매했다면 반품했을거같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "3",
+    "Syllable": "95",
+    "Word": "15",
+    "RDate": "20200401",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "기존상품에서 업그레이드됐어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "바퀴가 뻑뻑하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "거치대가 다소 약해서 오래사용하진못할거같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "행사때 좋은가격에 구매했어요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522600",
+    "RawText": "배송빠릅니다 가격착하고 튼튼하게 오랫동안 쓸수 있길 바래요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "32",
+    "Word": "7",
+    "RDate": "20200326",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격착하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하게 오랫동안 쓸수 있길 바래요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "522601",
+    "RawText": "디자인도 좋네요 자리 차지 않아서 좋구요  빨래 너는게 재미있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "36",
+    "Word": "9",
+    "RDate": "20200320",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "자리 차지 않아서 좋구요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522613",
+    "RawText": "이불널기도 넉넉하네요 근데 검은가루가 자꾸 떨어집니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "4",
+    "Syllable": "29",
+    "Word": "6",
+    "RDate": "20200225",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "이불널기도 넉넉하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "검은가루가 자꾸 떨어집니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "522614",
+    "RawText": "좋아요가격대비좋네요 튼튼한것같습니다 많이 널수있어서 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "32",
+    "Word": "5",
+    "RDate": "20200225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비좋네요 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼한것같습니다 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "많이 널수있어서 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522615",
+    "RawText": "제품 지지대가 생각보다 약합니다 크기는 적당하고 좋네요 사진처럼 스테인레스 부분에 매직으로 그려져 있어요 좀더 신경써서 물건 보내주세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "4",
+    "Syllable": "75",
+    "Word": "17",
+    "RDate": "20200222",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "제품 지지대가 생각보다 약합니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기는 적당하고 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "스테인레스 부분에 매직으로 그려져 있어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "522619",
+    "RawText": "전에 같은 모양으로 생긴 빨래대를 사서 사용하고 있는데 플라스틱 부분이 잘 깨져서 몇 년 못 쓰고 바꿔했어요 쿠폰 받아서 저렴하게 구매했어요 예전에 쓰던 것보다 바퀴 부분도 잘 굴러가고 날개부분의 폭이 넓어져서 사용하기 편리해요. 이번엔 오래 사용할 수 있었으면 좋겠다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "150",
+    "Word": "39",
+    "RDate": "20200214",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 받아서 저렴하게 구매했어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "예전에 쓰던 것보다 바퀴 부분도 잘 굴러가고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "날개부분의 폭이 넓어져서 사용하기 편리해요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오래 사용할 수 있었으면 좋겠다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "522624",
+    "RawText": "생각보다 가볍네요 이불이나 무거운 옷을 널때에는 균형맞게 널어야해요. 스텐이라서 연마제가 많이 묻어있네요. 닦아도 계속 묻어 나오니 많이 닦아야 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "3",
+    "Syllable": "84",
+    "Word": "19",
+    "RDate": "20200212",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각보다 가볍네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "이불이나 무거운 옷을 널때에는 균형맞게 널어야해요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "스텐이라서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "연마제가 많이 묻어있네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "닦아도 계속 묻어 나오니 많이 닦아야 합니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "522628",
+    "RawText": "사용해봐야 알겟지만 보기엔 그리 튼튼해 보이진 않다고 합니다 사이즈도 너무 커서 유용하게 쓰이진 않겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "4",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20200210",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "그리 튼튼해 보이진 않다고 합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈도 너무 커서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 유용하게 쓰이진 않겠어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "522634",
+    "RawText": "생각보다 좋습니다 빨래도 많이 널수있구요 그렇다고 엄청 큰 사이즈도 아니라 더 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "4",
+    "Syllable": "47",
+    "Word": "12",
+    "RDate": "20200207",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "빨래도 많이 널수있구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "엄청 큰 사이즈도 아니라 더 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522637",
+    "RawText": "쓰던 거랑 비슷한 스타일로 사려다가 이걸로 구매했어요 생각보다 사용성이 별로네요. 펴고 접는게 불편합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "3",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20200206",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "생각보다 사용성이 별로네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "펴고 접는게 불편합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "522641",
+    "RawText": "일단 튼튼하네요. 사용하지 않을 때는 접어서 보관할 수 있어요. 벽에 세워서 사용도 가능해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "13",
+    "RDate": "20200205",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "일단 튼튼하네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하지 않을 때는 접어서 보관할 수 있어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "벽에 세워서 사용도 가능해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522644",
+    "RawText": "칸이 많아 빨래를 여러개 널수 있어 좋습니다 바퀴도 있어 이동이 용이하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "41",
+    "Word": "11",
+    "RDate": "20200204",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "칸이 많아 빨래를 여러개 널수 있어 좋습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "바퀴도 있어 이동이 용이하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522645",
+    "RawText": "보기에는 약해보였는데 사용해보니 편하고 좋네요 탄탄하고 많이 걸수있고 이동도 편해서 좋습니다 싸게 잘 샀네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20200204",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "보기에는 약해보였는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용해보니 편하고 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "탄탄하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "많이 걸수있고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "이동도 편해서 좋습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 싸게 잘 샀네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522650",
+    "RawText": "튼튼하고 많이 널을수 있는 제품을 찾다 구매 했는데 너무 좋군요. 여자가 혼자 조립하기도 간단해요. 바퀴만 4개 조립해 주시면 됩니다. 그리고 무엇보다 많은 옷들을 한번에 건조할수 있어서 너무나 좋다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "111",
+    "Word": "28",
+    "RDate": "20200203",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고 많이 널을수 있는 제품을 찾다 구매 했는데 너무 좋군요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "많이 널을수 있는 제품을 찾다 구매 했는데 너무 좋군요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "여자가 혼자 조립하기도 간단해요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "바퀴만 4개 조립해 주시면 됩니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "많은 옷들을 한번에 건조할수 있어서 너무나 좋다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522659",
+    "RawText": "굉장히 튼튼해 보이거나 하지는 않네요 날개접으면 이불도 널겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "36",
+    "Word": "8",
+    "RDate": "20200127",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "굉장히 튼튼해 보이거나 하지는 않네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "날개접으면 이불도 널겠습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522660",
+    "RawText": "배송 온 상품 상태가 좋지 않지만 그냥 쓰기로 했습니다 그런데 대가 너무 약하네요 가격도 안싸요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "2",
+    "Syllable": "53",
+    "Word": "15",
+    "RDate": "20200125",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 대가 너무 약하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 안싸요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "522661",
+    "RawText": "사진과 설명만보고 주문했는데 후기에 별로 안튼튼하다는 말에 걱정했어요 오늘 받아보니 힘받는부분과 연결부분이 플라스틱이라서 약합니다 조금 쓰다보면 플라스틱이 부숴질거 같습니다 여분의 연결부분 플라스틱을 동봉하는게 좋을듯하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "3",
+    "Syllable": "124",
+    "Word": "24",
+    "RDate": "20200123",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "힘받는부분과 연결부분이 플라스틱이라서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "약합니다 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "조금 쓰다보면 플라스틱이 부숴질거 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "522662",
+    "RawText": "디자인은 이뻐요 근데 생각보다 튼튼하지 않네요 가격에 비에 잘부러질까 걱정입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "3",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20200123",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 이뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "생각보다 튼튼하지 않네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "가격에 비에 잘부러질까 걱정입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "522670",
+    "RawText": "튼튼이라고하는데그정도는모르겠어요 일단건조대가이쁩니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "4",
+    "Syllable": "28",
+    "Word": "2",
+    "RDate": "20200114",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼이라고하는데그정도는모르겠어요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "건조대가이쁩니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522674",
+    "RawText": "아직 무거운건 올려보진 않아서 튼튼한지는 알수가 없네요 많은 양을 널수 있어 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "12",
+    "RDate": "20191208",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼한지는 알수가 없네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "많은 양을 널수 있어 좋아요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522681",
+    "RawText": "배송도 빠르고 아주 맘에 듭니다 저렴한 가격에 아주 잘샀네요 빨래도 정말 많이 널리네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "13",
+    "RDate": "20191125",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "빨래도 정말 많이 널리네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522687",
+    "RawText": "제품의 소재, 연결상태 등을 종합하여 볼 때 견고성이 낮아보이네요. 디자인은 괜찮아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "3",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20191118",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "견고성이 낮아보이네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 괜찮아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522694",
+    "RawText": "이불 빨래용으로 큰 사이즈가 필요해서 구매했습니다 사이즈가 딱이네요. 가격도 괜찮고 튼튼합니다. 아래 바퀴도 있어서 이동 보관이 쉽다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "17",
+    "RDate": "20191113",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈가 딱이네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 괜찮고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 튼튼합니다. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 아래 바퀴도 있어서 이동 보관이 쉽다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522706",
+    "RawText": "걸이대가 많아서 좋은데 튼튼한것은 살짝 아쉽습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "4",
+    "Syllable": "27",
+    "Word": "6",
+    "RDate": "20191107",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "걸이대가 많아서 좋은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼한것은 살짝 아쉽습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "522709",
+    "RawText": "튼튼합니다 이번에 중복할인까지 받아서 저렴하게 득템했네요 이불빨아서 널어봐야겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "8",
+    "RDate": "20191106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "중복할인까지 받아서 저렴하게 득템했네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522710",
+    "RawText": "저번에 구입해서 써보니 가성비가 좋아서 두번째 구입이네요 디자인도 맘에 들구요 번창하세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "11",
+    "RDate": "20191106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 맘에 들구요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522714",
+    "RawText": "박스 포장 비닐 꼼꼼하게 잘 되어있고 제품에 설명서가 있어서 사용방법도 쉽네요 건조대가 튼튼하게되어있어 봉도 빠질염려 없을정도로 마음에 듭니다 근데 반품한 제품인지 이곳저곳 흡집 자국들이 있네요 건조대 구매했는것 중에 제일 마음에 드는데 사용할려니 찝찝 하고 반품할려니 박스도 바로 버려서 없어서 고민입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "3",
+    "Syllable": "171",
+    "Word": "40",
+    "RDate": "20191101",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "설명서가 있어서 사용방법도 쉽네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "건조대가 튼튼하게되어있어 봉도 빠질염려 없을정도로 마음에 듭니다 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이곳저곳 흡집 자국들이 있네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "522717",
+    "RawText": "제품 튼튼하네요 바퀴도 잘 돌고 무엇보다 널대가 많아서 너무 좋습니다 이래 저래 판매자님 귀찮게 한거 같은데 대응도 빠르고 친절해서 물건까지 더 좋아보이네요 감사해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "23",
+    "RDate": "20191023",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "제품 튼튼하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "바퀴도 잘 돌고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "무엇보다 널대가 많아서 너무 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522722",
+    "RawText": "튼튼하구요 빨래도많이널수있어요 저렴하고 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "26",
+    "Word": "4",
+    "RDate": "20191016",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하구요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "빨래도많이널수있어요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하고 좋습니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522725",
+    "RawText": "엄청 부실해보이네요 한부분이 깨졌어요 꼭 쓴거처럼 더럽기도 합니다 귀찮아서 그냥 쓸게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "1",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20191015",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "엄청 부실해보이네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "한부분이 깨졌어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "꼭 쓴거처럼 더럽기도 합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "522727",
+    "RawText": "상품자체는 튼튼하고 참 좋네요. 디자인이 맘에들어서 구매했어요 이사후 개봉해보느라 늦게 확인했는데 바퀴하나가 저렇게 자꾸 빠집니다 전체틀에서 빠지는건 아니고 바퀴커버 나사 한 부분이 자꾸 빠지네요 한개만 다시 보내주실수있으실까요?",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "4",
+    "Syllable": "128",
+    "Word": "27",
+    "RDate": "20191013",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고 참 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 맘에들어서 구매했어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 바퀴하나가 저렇게 자꾸 빠집니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "전체틀에서 빠지는건 아니고 바퀴커버 나사 한 부분이 자꾸 빠지네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "522729",
+    "RawText": "조금 약해보이는감이 있네요 빨래는 넉넉하게 널수 있어서 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "35",
+    "Word": "8",
+    "RDate": "20191012",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "조금 약해보이는감이 있네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": " 빨래는 넉넉하게 널수 있어서 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522734",
+    "RawText": "생각보다 많이 큽니다  그래도 접을수 있어서 좋긴 하네요 조립이 정말 간단해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "11",
+    "RDate": "20191009",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "생각보다 많이 큽니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "접을수 있어서 좋긴 하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립이 정말 간단해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "522737",
+    "RawText": "아주 만족하면서 쓰고 있습니다 가운데 플라스틱이 좀 약해보이긴 하네요 다 펼쳐 놓으면 세탁기 한 통 가득 빨아도 다 널 수 있을 정도로 크고 바퀴가 달려 있어서 힘들이지 않도 옮길수 있어서 정말 편해요 잘 쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 튼튼이 빨래건조대",
+    "ReviewScore": "5",
+    "Syllable": "120",
+    "Word": "34",
+    "RDate": "20191006",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "가운데 플라스틱이 좀 약해보이긴 하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "다 펼쳐 놓으면 세탁기 한 통 가득 빨아도 다 널 수 있을 정도로 크고",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 바퀴가 달려 있어서 힘들이지 않도 옮길수 있어서 정말 편해요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

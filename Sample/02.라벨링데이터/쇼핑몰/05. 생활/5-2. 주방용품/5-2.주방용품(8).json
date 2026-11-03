@@ -1,0 +1,3228 @@
+[
+  {
+    "Index": "418318",
+    "RawText": "배송도 빠르게 왔어요. 생선 구웠는데 냄새도 안 나고 넘 맛있게 잘 구워져서 만족해요. 저렴한 가격에 잘 샀어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "17",
+    "RDate": "20210114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "생선 구웠는데 냄새도 안 나고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": " 넘 맛있게 잘 구워져서 만족해요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 잘 샀어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418332",
+    "RawText": "조리할때 음식 냄새가 좀 덜나는데 연기가 많이날땐 가스불이 감당을 못 하네요. 팬이 살짝 무거운 편이구요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "3",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20201126",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "조리할때 음식 냄새가 좀 덜나는데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": " 연기가 많이날땐 가스불이 감당을 못 하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "팬이 살짝 무거운 편이구요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "418335",
+    "RawText": "아직 써 보지는 않았는데 냄새가 확실히 덜난다해서 기대가 됩니다. 생선을 좋아하는 가족을 위해서 유용하게 잘 사용할 수 있을 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "20",
+    "RDate": "20201120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "아직 써 보지는 않았는데 냄새가 확실히 덜난다해서 기대가 됩니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "생선을 좋아하는 가족을 위해서 유용하게 잘 사용할 수 있을 것 같아요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418337",
+    "RawText": "고기가 부드럽게 잘익고 괜찮습니다. 생선, 고기 촉촉하니 맛나네요. 이 브랜드 팬은 처음 구매해봤는데 생각보다 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "4",
+    "Syllable": "70",
+    "Word": "15",
+    "RDate": "20201108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "고기가 부드럽게 잘익고 괜찮습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "생선, 고기 촉촉하니 맛나네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418338",
+    "RawText": "이전에 같은 원리팬 생선팬 원형을 쓰고 너무 좋아서 이번엔 사각을 주문했습니다.  기존 쓰던 것 보다 작은 감은 있지만 깊이감이 깊어 나름 좋은 것 같습니다. 다른 양면생선팬은 마지막에 오픈 했을 때 윗쪽 팬에서 기름이 흘러내려 불편하고 양면팬사이 이음새부분도 세척이 불편했는데 이 팬은 냄새도 덜나면서 세척도 용이해 추천해요. 배송도 빠르고 뽁뽁이로 포장도 꼼꼼하게 잘 되어 왔네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "4",
+    "Syllable": "215",
+    "Word": "54",
+    "RDate": "20201023",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "기존 쓰던 것 보다 작은 감은 있지만",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "깊이감이 깊어 나름 좋은 것 같습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "이 팬은 냄새도 덜나면서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "세척도 용이해 추천해요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418349",
+    "RawText": "생선 굽는 냄새가 없어 좋아요. 그동안에는 종이 호일 깔고 후라이팬에 생선을 구웠는데 이 팬은 그럴 필요가 없어 편해요. 생선이 눌어서 껍질이 벗겨지는 걱정 하지 않아도 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "26",
+    "RDate": "20200921",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "생선 굽는 냄새가 없어 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "종이 호일 깔고 후라이팬에 생선을 구웠는데 이 팬은 그럴 필요가 없어 편해요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 생선이 눌어서 껍질이 벗겨지는 걱정 하지 않아도 됩니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418352",
+    "RawText": "아직 사용은 안해봤는데 냄새도 잡아주고 통도 깊이가 꽤 깊어 기름도 튀질 않을것 같아요. 가격도 저렴하고 상품 좋네요. 배송은 빠르고 좋았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "20",
+    "RDate": "20200901",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "냄새도 잡아주고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "통도 깊이가 꽤 깊어",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "기름도 튀질 않을것 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418354",
+    "RawText": "가장 잘 쓰고 있습니다. 코팅이 잘되어 고기, 생선 다 붙지 않고 잘 구워져요. 연기 빠짐은 좀더 써봐야 알겠고 제품 구성으로 뚜껑이 있어서 좋아요. 생선 구울 때 양파 껍질 몇 조각 넣으면 비린내 많이 없어집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "5",
+    "Syllable": "120",
+    "Word": "34",
+    "RDate": "20200830",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅이 잘되어 고기, 생선 다 붙지 않고 잘 구워져요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "연기 빠짐은 좀더 써봐야 알겠고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "제품 구성으로 뚜껑이 있어서 좋아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418355",
+    "RawText": "오자마자 삼치 구웠는데 노릇노릇 잘 구워집니다. 후라이팬보다는 냄새가 덜 나고 튀는것도 없어서 괜찮았어요. 내일은 고구마 구워볼려고해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "4",
+    "Syllable": "76",
+    "Word": "16",
+    "RDate": "20200902",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "오자마자 삼치 구웠는데 노릇노릇 잘 구워집니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "후라이팬보다는 냄새가 덜 나고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "튀는것도 없어서 괜찮았어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418359",
+    "RawText": "생선 구웠는데 냄새도 덜 나고 타지도 않고 맛있게 구워집니다. 좋은 제품 빠르게 배송해주셔서 감사합니다. 잘 써보겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20200821",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "생선 구웠는데 냄새도 덜 나고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "타지도 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "맛있게 구워집니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418360",
+    "RawText": "나에겐 최고의 프라이팬입니다. 받아서 소세지를 구웠는데, 정말 연기도 안 나고 기름도 튀어 나오 질 않아서 매우 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20200819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "정말 연기도 안 나고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "기름도 튀어 나오 질 않아서 매우 만족합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418363",
+    "RawText": "가격도 저렴하고 장점이 많은 제품인거 같아요. 다만, 약간만 더 컸으면, 좀더 큰 사이즈가 있었으면 좋았을텐데 이점은 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20200730",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "약간만 더 컸으면,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "좀더 큰 사이즈가 있었으면 좋았을텐데 이점은 아쉽습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "418365",
+    "RawText": "추천으로 구입했는데 냄새가 아예 안나는건 아니지만 별로 안납니다.  생선 잘 안구워 먹었는데 이 팬 사고는 자주 구워 먹고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "19",
+    "RDate": "20200723",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "냄새가 아예 안나는건 아니지만 별로 안납니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "생선 잘 안구워 먹었는데 이 팬 사고는 자주 구워 먹고 있어요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418366",
+    "RawText": "고무패킹때문인지 몰라도 살짝 물리적인 힘을 가해져야 뚜껑이 완벽하게 닫힙니다. 안그러면 어떤부분은 닫히고 어떤부분은 떠있네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "3",
+    "Syllable": "70",
+    "Word": "14",
+    "RDate": "20200716",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "고무패킹때문인지 몰라도 살짝 물리적인 힘을 가해져야 뚜껑이 완벽하게 닫힙니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "안그러면 어떤부분은 닫히고 어떤부분은 떠있네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "418367",
+    "RawText": "뚜껑을 닫고 처음 조리시에는 냄새가 없어요. 그런데 뒤집을 때는 결국 열어야 하니까 완전 냄새를 잡는것은 아니예요. 그래도 냄새는 덜 배출되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "4",
+    "Syllable": "81",
+    "Word": "20",
+    "RDate": "20200716",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "뚜껑을 닫고 처음 조리시에는 냄새가 없어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "뒤집을 때는 결국 열어야 하니까 완전 냄새를 잡는것은 아니예요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "그래도 냄새는 덜 배출되네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "418374",
+    "RawText": "조기를 구워었는데 기름도 튀지 않고 연기도 덜 나서 좋습니다. 하지만 프라이팬 보다 맛은 떨어집니다. 고등어 같은 기름기가 많은 것은 맛이 어떨는지 모르겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "3",
+    "Syllable": "90",
+    "Word": "22",
+    "RDate": "20200618",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "기름도 튀지 않고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "연기도 덜 나서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "프라이팬 보다 맛은 떨어집니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "고등어 같은 기름기가 많은 것은 맛이 어떨는지 모르겠습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "418379",
+    "RawText": "첨 받았을때 뚜껑 손잡이가 반대편에 달려있어서 좀 황당했습니다. 다행히 헐겁게 달려있어서 다시 뚜껑 위쪽으로 고정했습니다.  일단은 써보니 뚜껑이 있어서 냄새가 훨씬 덜 나네요. 갈치 구워보니 냄새가 그래도 약간 나긴 하는데, 부엌에만 좀 나고 막 집전체로 퍼지진 않습니다.  뚜껑열고 한번 뒤집을때는 어쩔수 없이 냄새 많이 나니까 최대한 빨리 뒤집어야 합니다. 뚜껑 밀착력이 완벽하진 않지만 쓸만합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "5",
+    "Syllable": "226",
+    "Word": "54",
+    "RDate": "20200529",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "일단은 써보니 뚜껑이 있어서 냄새가 훨씬 덜 나네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "냄새가 그래도 약간 나긴 하는데, 부엌에만 좀 나고 막 집전체로 퍼지진 않습니다. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "뚜껑 밀착력이 완벽하진 않지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "418381",
+    "RawText": "냄새도 덜나고 잘 구워지고 뚜껑도 분리되고 양면팬보다 더 유용하게 쓸듯 하네요. 친구가 추천해줘서 구매해봤는데 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20200528",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "냄새도 덜나고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "잘 구워지고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "뚜껑도 분리되고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "양면팬보다 더 유용하게 쓸듯 하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418384",
+    "RawText": "냄새가 아예 안나는건 아니지만 뚜껑으로 밀폐하니 냄새가 덜납니다. 비린 고등어 구워도 냄새가 덜나서 괜찮은 거 같습니다. 크기도 적당히 크네요. 강추.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "20",
+    "RDate": "20200517",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "냄새가 아예 안나는건 아니지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "뚜껑으로 밀폐하니 냄새가 덜납니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "비린 고등어 구워도 냄새가 덜나서 괜찮은 거 같습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 적당히 크네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418393",
+    "RawText": "진짜 정말 좋습니다. OOO 양면팬 사용하다가 오래돼서 새로 구입했습니다. 그런데 이게 훨씬 품질이 괜찮습니다. 냄새 진짜 덜 나고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20200422",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "이게 훨씬 품질이 괜찮습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "냄새 진짜 덜 나고 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418399",
+    "RawText": "아직 사용전이라 모르겠지만 90% 이상 냄새를 잡아준다고 해서 기대 되네요. 사이즈도 딱 적당해서 좋고 배송도 빨랐습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20200410",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "아직 사용전이라 모르겠지만 90% 이상 냄새를 잡아준다고 해서 기대 되네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 사이즈도 딱 적당해서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418403",
+    "RawText": "와우 이게 바로 그 유명한 그릴자국 나는 스테이크 팬이군요. 아주 극적이진 않지만 연기 배출효과도 분명 있는 것 같아요. 가격도 저렴하고 추천해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "21",
+    "RDate": "20200406",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "와우 이게 바로 그 유명한 그릴자국 나는 스테이크 팬이군요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "아주 극적이진 않지만 연기 배출효과도 분명 있는 것 같아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고 추천해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418411",
+    "RawText": "냄새가 아예 안나는 건 아닙니다. 하지만 뚜껑이 있어서 냄새가 많이 줄긴 합니다. 엄마 구입해 드렸더니 괜찮다 하셔서 저도 하나 구입했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "4",
+    "Syllable": "79",
+    "Word": "20",
+    "RDate": "20200308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "냄새가 아예 안나는 건 아닙니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "뚜껑이 있어서 냄새가 많이 줄긴 합니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "418413",
+    "RawText": "한 60%정도의 냄새를 잡아주고 연기도 줄여주는 것 같아서 좋습니다. 디자인이 예쁘네요. 빠른 배송도 감사드립니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "4",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20200307",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "한 60%정도의 냄새를 잡아주고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 예쁘네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "연기도 줄여주는 것 같아서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418416",
+    "RawText": "여기가 젤 저렴한 것 같아서 주문했습니다. 냄새 정말 안나는 듯 합니다. 저는 여기에 고구마 자주 구워먹습니다. 생선 한번 구웠는데 냄새가 적게 나서 좋았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "23",
+    "RDate": "20200225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 젤 저렴한 것 같아서 주문했습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "냄새 정말 안나는 듯 합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "저는 여기에 고구마 자주 구워먹습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "생선 한번 구웠는데 냄새가 적게 나서 좋았습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418417",
+    "RawText": "고등어 구워보니 확실히 냄새가 훨씬 덜 나서 좋습니다. 뚜껑이 밀폐가 잘 되어서 후라이팬에 한 것 보다 촉촉하게 구워져서 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "4",
+    "Syllable": "76",
+    "Word": "19",
+    "RDate": "20200223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "고등어 구워보니 확실히 냄새가 훨씬 덜 나서 좋습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "뚜껑이 밀폐가 잘 되어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "후라이팬에 한 것 보다 촉촉하게 구워져서 만족스럽습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418418",
+    "RawText": "뚜껑덮고 생선 구울때는 확실하게 냄새는 안나네요. 하지만 뚜껑을 열었을때는 비린내 나는건 여전합니다. 밑에 있는 구멍으로 냄새를 태워서 없에준다고 설명서에는 나와있는데 신뢰가 안갑니다. 개인적인 생각인데 생선보다는 삼겹살 구워먹는 용도로 사용하는게 차라리 나을듯 하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "3",
+    "Syllable": "151",
+    "Word": "32",
+    "RDate": "20200218",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "뚜껑덮고 생선 구울때는 확실하게 냄새는 안나네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "뚜껑을 열었을때는 비린내 나는건 여전합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "밑에 있는 구멍으로 냄새를 태워서 없에준다고 설명서에는 나와있는데 신뢰가 안갑니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "생선보다는 삼겹살 구워먹는 용도로 사용하는게 차라리 나을듯 하네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "418427",
+    "RawText": "아직 사용해보지 못해서 별 하나 뺐습니다. 외관 상으로는 모양이 좋아 보입니다. 배송도 주문 이틀 만에 바로 받았습니다. 다만 아쉬운 점은 적합한 조리 방법이 동봉 되어 있었으면 하는 바램입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "4",
+    "Syllable": "109",
+    "Word": "28",
+    "RDate": "20191211",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "외관 상으로는 모양이 좋아 보입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "다만 아쉬운 점은 적합한 조리 방법이 동봉 되어 있었으면 하는 바램입니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "418428",
+    "RawText": "새상품인지 의심스러운 제품이 왔네요. 박스도 열어본 자국 있고 뚜껑 손잡이 부분이 깨져서 왔습니다. 뚜껑에 고정시키고 보니 쓸 수 있을거 같아 생선 구워 봤는데 이 매캐한 냄새가 안에서 나는 연기냄새인지 밖에서 타는 냄새인건지 굉장히 역하네요. 생선냄새 때문에 구입한건데 생선냄새에 매캐한 탄냄새까지 더 나다니요. 그리고 불에 닿지도 않았는대 냄비 손잡이 부분에서 소리가 났습니다. 깨진건지 아직은 모르겠는데 기분 좋은 소리는 아닙니다. 제 것만 이런건지 정상품인줄 믿고 박스도 다 버려서 반품이나 환불도 안될거고 참 난감합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "3",
+    "Syllable": "296",
+    "Word": "71",
+    "RDate": "20191209",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "이 매캐한 냄새가 안에서 나는 연기냄새인지 밖에서 타는 냄새인건지 굉장히 역하네요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "생선냄새에 매캐한 탄냄새까지 더 나다니요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "불에 닿지도 않았는대 냄비 손잡이 부분에서 소리가 났습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "깨진건지 아직은 모르겠는데 기분 좋은 소리는 아닙니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "418431",
+    "RawText": "OOO 생선팬을 사용하다 세척이 불편해서 바꿨습니다. 디자인도 깔끔하게 예쁘네요. 편하게 잘 사용하고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "4",
+    "Syllable": "62",
+    "Word": "13",
+    "RDate": "20191019",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔하게 예쁘네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하게 잘 사용하고 있습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418436",
+    "RawText": "생선 구울때마다 냄새와 굽기 정도 때문에 힘들어하는 지인에게 선물로 드리려고 주문했습니다. 찾아보니 해당 제품 평이 좋더라고요. 궁금한것들을 문의 드렸는데 친절하게 답해주시고 빠른 배송해주셔서 너무 좋았습니다. 아직 사용후기는 몰라서 올리지 못하지만 이름 그대로 냄새해결에 좋을거라 믿습니다. 생선이 맛있게 잘 구워지면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "5",
+    "Syllable": "184",
+    "Word": "40",
+    "RDate": "20190830",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "냄새해결에 좋을거라 믿습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "생선이 맛있게 잘 구워지면 좋겠네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "418437",
+    "RawText": "배송이 빠르고 배송 안내가 친절해요. 상품은 생각보다 크기가 큰 편이어서 생선 두 마리 정도는 충분히 들어갈 사이즈라서 맘에 듭니다. 무엇보다 생선 구울 때 냄새가 안 나서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "27",
+    "RDate": "20190829",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "상품은 생각보다 크기가 큰 편이어서 생선 두 마리 정도는 충분히 들어갈 사이즈라서 맘에 듭니다. ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "생선 구울 때 냄새가 안 나서 좋습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418442",
+    "RawText": "OOO 쓰다가 한번 바꿔봤습니다. 양면은 아니지만 뚜껑이 유리라 내용물 보이는 점이 좋네요. 생선도 맛있게 잘 구워져서 추천합니다. 다만 사이즈가 더 컸으면 좋았을거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "23",
+    "RDate": "20190801",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "양면은 아니지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "뚜껑이 유리라 내용물 보이는 점이 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "생선도 맛있게 잘 구워져서 추천합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "다만 사이즈가 더 컸으면 좋았을거 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "418445",
+    "RawText": "이게 괜찮다는 얘기를 듣고 구입했는데 만족스럽네요. 냄새와 연기가 그냥 그릴보다 확실히 적고 체감상 1/4정도로 줄어드는 것 같아요.  눌러 붙는 것 거의 없습니다. 추가 구입할 의향 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "26",
+    "RDate": "20190710",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "냄새와 연기가 그냥 그릴보다 확실히 적고 체감상 1/4정도로 줄어드는 것 같아요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "눌러 붙는 것 거의 없습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418447",
+    "RawText": "생선을 구울 때 항상 사용했습니다. 처음 산 것은 한 1년 반 정도 쓴 것 같은데 코팅이 약해져서 새로 구입했어요.  냄새는 확실히 적게 나는 것 같아요. 하지만 생선 뒤집을 때 뚜껑을 열어야 해서 어쩔수 없이 냄새가 새어 나갈 수 밖에 없습니다. 그래도 그냥 일반팬에 구울 때랑은 비교도 안되게 냄새가 적게 나는 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "5",
+    "Syllable": "182",
+    "Word": "52",
+    "RDate": "20190627",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "냄새는 확실히 적게 나는 것 같아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "그냥 일반팬에 구울 때랑은 비교도 안되게 냄새가 적게 나는 것 같아요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "생선을 구울 때 항상 사용했습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418452",
+    "RawText": "OO 쓰다 설거지가 너무 귀찮아 샀는데 생선 굽는데 전 냄새 나요ㅠㅠ저 아래 구멍으로 연기도 나옵니다 제가 사용을 못해서 그러는지 전 만족스럽지 않네여ㅠㅠ 생선은 잘 구워집니다 전 냄새가 나서 고구마 굽는 용도로 쓰고 다시 사야할거 같네여ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "3",
+    "Syllable": "135",
+    "Word": "35",
+    "RDate": "20190521",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "생선 굽는데 전 냄새 나요ㅠㅠ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "저 아래 구멍으로 연기도 나옵니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": " 생선은 잘 구워집니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "전 냄새가 나서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "고구마 굽는 용도로 쓰고 다시 사야할거 같네여ㅠㅠ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "418456",
+    "RawText": "기존 쓰던 OOO팬이 고장나서 같은걸로 새로 사려다가 설겆이가 불편해서 다른걸로 사봤습니다. 원하는 크기보다 사이즈가 조금 큰 듯하고 아직 사용전인데 생선이 잘 구워졌으면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "5",
+    "Syllable": "101",
+    "Word": "23",
+    "RDate": "20190423",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "원하는 크기보다 사이즈가 조금 큰 듯하고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "아직 사용전인데 생선이 잘 구워졌으면 좋겠어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "418462",
+    "RawText": "냄새도 안 나고 생선이 촉촉하고 맛나게 잘 구워집니다. 냉동된 채로 구워도 뚜껑 덕에 금방 구워지네요. 사고 보니 색상도 맘에 드네요. 사이즈는 1센티라도 더 큰 걸로 추천해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "26",
+    "RDate": "20190228",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "냄새도 안 나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "생선이 촉촉하고 맛나게 잘 구워집니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "냉동된 채로 구워도 뚜껑 덕에 금방 구워지네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "사고 보니 색상도 맘에 드네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418468",
+    "RawText": "본품 박스로 배송 되었고 파손은 없습니다. 삽겹살 구웠는데 맛있습니다. 내일은 생선을 한번 구워봐야겠습니다. 냄새가 덜해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매** 사각팬 27x21cm+유리뚜껑",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "16",
+    "RDate": "20181228",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "삽겹살 구웠는데 맛있습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "냄새가 덜해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418480",
+    "RawText": "잘 받았습니다.  전을 부칠 때 모양잡기 힘들었는데 이 팬을 이용하면 전을 이쁘게 잘 부칠 수 있을 것 같습니다. 유용하게 잘 사용할 수 있을 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "25",
+    "RDate": "20220816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "이 팬을 이용하면 전을 이쁘게 잘 부칠 수 있을 것 같습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "유용하게 잘 사용할 수 있을 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418481",
+    "RawText": "4구 IH 계란후라이팬 정말 좋습니다. 호박 채썰고 새우가루 부침가루 김가루만 넣고 맛있게 부쳐 먹었습니다. 응용해서 감자부침 부추전 해물전 등 볶은밥 누룽지 해먹어도 맛있습니다. 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "24",
+    "RDate": "20220813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "호박 채썰고 새우가루 부침가루 김가루만 넣고 맛있게 부쳐 먹었습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "응용해서 감자부침 부추전 해물전 등 볶은밥 누룽지 해먹어도 맛있습니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418483",
+    "RawText": "인덕션용 에그팬이 필요해서 구매했습니다. 꽤 묵직한데 인덕션에서 요리할때는 가벼운 제품보다 어느정도 무게감이 있는게 좋아요. 다른 좀더 저렴한 제품들도 있었지만 이게 상품평도 좋아 선택했는데, 튼튼해 좋네요. 계란후라이나 전 부칠때 모양이 잡혀서 요리하기가 좋을듯해요. 유용하게 쓸 수 있겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "166",
+    "Word": "36",
+    "RDate": "20220803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "꽤 묵직한데 인덕션에서 요리할때는 가벼운 제품보다 어느정도 무게감이 있는게 좋아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해 좋네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "계란후라이나 전 부칠때 모양이 잡혀서 요리하기가 좋을듯해요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "유용하게 쓸 수 있겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418485",
+    "RawText": "무게감이 있습니다. 끄덕거리거나 그런 문제는 없어 보여요. 아직 사용 전이지만  눌러 붙지 않으면 좋겠고 요리도 잘 되었으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20220611",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감이 있습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "끄덕거리거나 그런 문제는 없어 보여요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "아직 사용 전이지만  눌러 붙지 않으면 좋겠고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "요리도 잘 되었으면 좋겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "418489",
+    "RawText": "OO 인덕션으로 열전도율 체크하니까 5정도 나옵니다. 열전도율은 좋은편이 아니에요. 게다가 무겁기도 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "3",
+    "Syllable": "60",
+    "Word": "12",
+    "RDate": "20220222",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "열전도율은 좋은편이 아니에요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "게다가 무겁기도 합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "418491",
+    "RawText": "인덕션용이라서 확실히 조리가 빠릅니다. 아침마다 맥모닝 만들어 먹는데 모양도 이쁘고 타사 후라이팬 뚜껑도 사용할 수 있어서 너무 좋습니다. 묵직한게 좋습니다. 촉촉한 걸 원하신다면 가운데 물조금 넣고 뚜껑 닫으면 계란후라이 노른자도 익으면서 부드러워집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "143",
+    "Word": "32",
+    "RDate": "20211006",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션용이라서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "확실히 조리가 빠릅니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "아침마다 맥모닝 만들어 먹는데 모양도 이쁘고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "타사 후라이팬 뚜껑도 사용할 수 있어서 너무 좋습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직한게 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418496",
+    "RawText": "코팅력 좋은거 찾다가 발견한 제품인데 좋습니다. 깊이도 적당해서 전 부칠때 많이 두껍지 않게 잘 부쳐져서 좋네요. 팬이 너무 얇은건 가스렌지 올렸을때 중심이 잘 안잡히고 기울어진다는데 이 제품은 두꺼워서 고정도 잘 되니 좋습니다. 팬 사이즈도 너무 작지 않고 좋네요. 좀 더 비싼 제품이 확실히 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "170",
+    "Word": "44",
+    "RDate": "20210414",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "깊이도 적당해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "이 제품은 두꺼워서 고정도 잘 되니 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "팬 사이즈도 너무 작지 않고 좋네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좀 더 비싼 제품이 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "전 부칠때 많이 두껍지 않게 잘 부쳐져서 좋네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅력 좋은거 찾다가 발견한 제품인데 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418506",
+    "RawText": "묵직해서 좋습니다. 코팅도 잘 돼 있어 맘에 듭니다. 영업장에서 쓰는데 그동안 구입한 팬중에 품질이 최고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20200512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직해서 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅도 잘 돼 있어 맘에 듭니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "그동안 구입한 팬중에 품질이 최고 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418509",
+    "RawText": "코팅력이 별로입니다. 기름을 넉넉하게 했는데도 들러 붙었네요. 한꺼번에 여러개 요리하기에는 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "4",
+    "Syllable": "56",
+    "Word": "11",
+    "RDate": "20200423",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅력이 별로입니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "기름을 넉넉하게 했는데도 들러 붙었네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "한꺼번에 여러개 요리하기에는 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418511",
+    "RawText": "전반적으로 만족하는데 중간에 네모 모양이 설거지 하기 불편합니다. 동그란 모양이었으면 좋았을 듯 하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "4",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20200401",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "네모 모양이 설거지 하기 불편합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "동그란 모양이었으면 좋았을 듯 하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "418513",
+    "RawText": "인덕션용 찾다가 구매한 제품입니다. 코팅 우리몸에 좋은거 찾다가 이걸로 구매했어요. 좋은 소재일거라 믿습니다. 사이즈가 크고 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "16",
+    "RDate": "20200312",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "좋은 소재일거라 믿습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 크고 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션용 찾다가 구매한 제품입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418515",
+    "RawText": "아침에 4식구 계란후라이 하는데 매일 사용합니다. 시간도 단축되고 예쁘게 되서 만족합니다. 인덕션 사용해도 문제 없습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20200308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아침에 4식구 계란후라이 하는데 매일 사용합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "시간도 단축되고 예쁘게 되서 만족합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션 사용해도 문제 없습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418516",
+    "RawText": "역시 좋습니다. 계란도 후라이하기 좋치만 김치만두전을 굽기에도 딱 좋은 것 같아요. 진작에 사서 써 볼 걸 그랬다는 생각이 듭니다. 강추예요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "20",
+    "RDate": "20200214",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "계란도 후라이하기 좋치만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "김치만두전을 굽기에도 딱 좋은 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418517",
+    "RawText": "배송이 빨라서 좋습니다. 주문하고 다음날 왔습니다. 달걀 프라이랑 전 부칠 때 유용할 것 같습니다. 사이즈도 적당한 것이 딱 좋으네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "19",
+    "RDate": "20200209",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "달걀 프라이랑 전 부칠 때 유용할 것 같습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 사이즈도 적당한 것이 딱 좋으네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418521",
+    "RawText": "코팅은 좋은 것 같아요. 근데 첫 사용시에 바닥면 도장이 타는 냄새가 나네요. 단 1회 사용했을 뿐인데도 휨 현상이 있습니다.  인덕션 특성상 수평이 맞지 않으면 바닥면에 밀착되지 않고 덜그덕거리게 되는데 휨 현상에 대해서는 어떻게 처리해야하는지 의문이네요. 반품이나 교환을 통해 해결이 될지 모르겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "3",
+    "Syllable": "170",
+    "Word": "41",
+    "RDate": "20200130",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅은 좋은 것 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 첫 사용시에 바닥면 도장이 타는 냄새가 나네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 단 1회 사용했을 뿐인데도 휨 현상이 있습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 인덕션 특성상 수평이 맞지 않으면 바닥면에 밀착되지 않고 덜그덕거리게 되는데 휨 현상에 대해서는 어떻게 처리해야하는지 의문이네요.",
+        "SentimentWord": "16",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "418529",
+    "RawText": "그냥 그저 그렇습니다. 소재 특성 때문인지 불이 세다 싶으면 눌러붙고 항상 쓰던 프라이팬 코팅 느낌이랑은 좀 다르네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "17",
+    "RDate": "20191220",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "불이 세다 싶으면 눌러붙고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "항상 쓰던 프라이팬 코팅 느낌이랑은 좀 다르네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "418531",
+    "RawText": "인덕션용이라고 하나 바닥이 고르지 않아서 고르게 열전달이 안되니 답답합니다. 품질이 별로입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "3",
+    "Syllable": "53",
+    "Word": "11",
+    "RDate": "20191205",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션용이라고 하나",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "바닥이 고르지 않아서 고르게 열전달이 안되니 답답합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 품질이 별로입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "418536",
+    "RawText": "예쁜 계란후라이 해 먹으려고 샀는데 너무 너무 좋으네요. 부침개도 작게 만들어 먹어봤는데 넘 잘 익고 맛나서 적극 추천해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "18",
+    "RDate": "20190718",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "예쁜 계란후라이 해 먹으려고 샀는데 너무 너무 좋으네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "부침개도 작게 만들어 먹어봤는데 넘 잘 익고 맛나서",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418541",
+    "RawText": "4구라 4인 가구에 적합하고 인덕션에서 가능해서 제일 마음에 드네요. 인덕션이 안되는 제품이 많은데 인덕션 가능하고 코팅 잘 되어 있네요.  틈새 공간이 타 제품에 비해 작아서 설거지 하기도 용이한 것 같아요. 단점이라면 3구에 비해 좀 크다는 겁니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "141",
+    "Word": "36",
+    "RDate": "20190426",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "4구라 4인 가구에 적합하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션에서 가능해서 제일 마음에 드네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션 가능하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅 잘 되어 있네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "틈새 공간이 타 제품에 비해 작아서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "단점이라면 3구에 비해 좀 크다는 겁니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": " 설거지 하기도 용이한 것 같아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418542",
+    "RawText": "28센티로 너무 커요. 사이즈 생각 않고 4구만 생각하고 샀더니 인덕션 화구보다 훨씬 커서 걱정입니다. 아직 사용 전이지만 달걀 후라이 맛있게 되면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "22",
+    "RDate": "20190425",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "28센티로 너무 커요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "인덕션 화구보다 훨씬 커서 걱정입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "아직 사용 전이지만 달걀후라이 맛있게 되면 좋겠어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "418543",
+    "RawText": "한번에 여러가지 요리를 할 수 있어서 편리합니다. 아는 언니가 넘 좋다고 추천해줘서 구매했습니다. 진짜 사용하기 편하고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20190411",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "한번에 여러가지 요리를 할 수 있어서 편리합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "진짜 사용하기 편하고 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418545",
+    "RawText": "항상 계란 후라이 식구 수 대로 할때마다 모양도 안이쁘고 3개밖에 못했는데 4개 동시에 하니 좋습니다. 코팅도 잘 되어있어 눌러 붙지도 않고 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "4",
+    "Syllable": "83",
+    "Word": "22",
+    "RDate": "20190219",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "계란 후라이 식구 수 대로 할때마다 모양도 안이쁘고 3개밖에 못했는데 4개 동시에 하니 좋습니다",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅도 잘 되어있어 눌러 붙지도 않고 좋네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418546",
+    "RawText": "인덕션에서 사용중인데 잘 늘러붙지도 않아서 좋고 가성비가 훌륭한거 같아 만족하며 사용 중인 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20190217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션에서 사용중인데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "잘 늘러붙지도 않아서 좋고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 훌륭한거 같아 만족하며 사용 중인 제품입니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418548",
+    "RawText": "사용해 봤는데 불이 강한것도 아니고 기름도 적당히 둘렀는데 음식이 눌러 붙어서 별로네요. 가격대도 좀 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "2",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20190105",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "음식이 눌러 붙어서 별로네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대도 좀 있습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "418555",
+    "RawText": "인덕션을 사용하는데 후라이팬 바닥면이 뒤틀려서 계란후라이가 잘 안되서 교체했습니다. 이 제품은 인덕션에 사용해도 뒤틀리지 않아서 좋습니다. 근데 두번 썼는데 가운데가 갈색으로 탄 게 안지워집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "24",
+    "RDate": "20180831",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "이 제품은 인덕션에 사용해도 뒤틀리지 않아서 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "두번 썼는데 가운데가 갈색으로 탄 게 안지워집니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "418556",
+    "RawText": "우선 배송이 빨라서 좋았습니다. 인덕션용이 필요해서 주문했는데 사용에 문제 없어 좋습니다. 박스에는 IH라고 표기가 되어있지만 에그팬 제품 자체에 IH 표시가 없어서 엄마가 정품 아닌거 같다고 불안해 하시네요.  저렴하게 잘 구매했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "4",
+    "Syllable": "133",
+    "Word": "30",
+    "RDate": "20180813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션용이 필요해서 주문했는데 사용에 문제 없어 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 구매했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418559",
+    "RawText": "코팅도 좋고 후라이도 눌러붙지 않아 좋은 것 같아요. 그러나 가운데 자투리 부분이 막혀 있었으면 더욱 좋았을 것 같네요. 자투리 공간이 까맣게 변하고 닦기가 불편해서 보완이 필요할 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "4",
+    "Syllable": "107",
+    "Word": "28",
+    "RDate": "20180703",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "후라이도 눌러붙지 않아 좋은 것 같아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "가운데 자투리 부분이 막혀 있었으면 더욱 좋았을 것 같네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "자투리 공간이 까맣게 변하고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "닦기가 불편해서 보완이 필요할 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "418564",
+    "RawText": "에그팬을 검색하다 우연히 OOO을 찾게 되었습니다. 일반 코팅보다 단단해서 좋고 사이트에 일러주신대로 시즈닝을 하고 사용을 했더니 정말 후라이가 예쁘게 되니 좋았습니다. 전도 부쳐먹었는데 잘 되더라구요. 너무 좋아서 진작 살걸 그랬습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "133",
+    "Word": "30",
+    "RDate": "20180520",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "일반 코팅보다 단단해서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "정말 후라이가 예쁘게 되니 좋았습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "전도 부쳐먹었는데 잘 되더라구요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418569",
+    "RawText": "비빔밥, 볶음밥 자주 맛나게 해먹고 있어요.  토스트나 핫케이크 만들 때도 유용하게 사용할 수 있을 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "16",
+    "RDate": "20180425",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": " 비빔밥, 볶음밥 자주 맛나게 해먹고 있어요.  ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "  토스트나 핫케이크 만들 때도 유용하게 사용할 수 있을 것 같습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418572",
+    "RawText": "코팅력이 좋은지는 잘 모르겠습니다. 제품 마감이 깨끗하지 못해서 맘에 안드네요. 다른 분들한테 추천은 못하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20180418",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅력이 좋은지는 잘 모르겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 마감이 깨끗하지 못해서 맘에 안드네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "418581",
+    "RawText": "너무 무겁긴한데 일단 크기가 커서 좋고 동그랗게 움푹 패인게 맘에 드네요. 인덕션 사용도 가능하다 하니 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 에** IH 인덕션 에그팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20180402",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "너무 무겁긴한데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기가 커서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "동그랗게 움푹 패인게 맘에 드네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션 사용도 가능하다 하니 만족스럽습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418588",
+    "RawText": "써보니 좋습니다. 묵직하고 코팅이 잘 되어 있어서 요리가 잘 되는 것 같아요. 코팅이 오래가기만 바랄뿐입니다. 손잡이가 좀 더 길면 좀 더 안정적으로 요리할 수 있을 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "100",
+    "Word": "27",
+    "RDate": "20220621",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅이 잘 되어 있어서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": " 손잡이가 좀 더 길면 좀 더 안정적으로 요리할 수 있을 것 같습니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "요리가 잘 되는 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅이 오래가기만 바랄뿐입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "418594",
+    "RawText": "OO을 구입해서 사용한지 4개월 정도 되었는데 벌써부터 스크래치가 많이 나서 실망입니다. 가격이 만만치 않은데 코팅력이 좀 그러네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "17",
+    "RDate": "20211013",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "사용한지 4개월 정도 되었는데 벌써부터 스크래치가 많이 나서 실망입니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 만만치 않은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅력이 좀 그러네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "418595",
+    "RawText": "배송 주문 다음날 바로 도착했어요. 우선 세척부터 해줬는데 묻어나오는게 없어 기분이 좋습니다. 저렴하게 잘 샀어요. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20211008",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "세척부터 해줬는데 묻어나오는게 없어 기분이 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 샀어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418599",
+    "RawText": "이전에 쓰던 프라이팬인데 이전보다 가격이 더 떨어져 싸게 샀습니다. 코팅력도 좋고 무게도 가볍지도 않고 적당하고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20210930",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이전보다 가격이 더 떨어져 싸게 샀습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 가볍지도 않고 적당하고 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418603",
+    "RawText": "집에서 사용하던 후라이팬이 수명이 다된 것 같아 구입했습니다. 적당히 큼직하고 제품도 좋네요. 모양도 예쁩니다. 즐거운 마음으로 부치고 볶고 하겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "19",
+    "RDate": "20210911",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "적당히 큼직하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "모양도 예쁩니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418608",
+    "RawText": "손잡이 부분에 문제 있어서 교환 받았는데 교환 받은 상품도 손잡이 부분이 좀 덜그럭거려서 맘에 안듭니다. 가격도 비싸네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "3",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20210831",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "손잡이 부분에 문제 있어서 교환 받았는데 교환 받은 상품도 손잡이 부분이 좀 덜그럭거려서 맘에 안듭니다",
+        "SentimentWord": "15",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "418609",
+    "RawText": "무겁긴 하지만 튼튼하고 오래쓸 수 있는 프라이팬이라 항상 구입하는 제품입니다. 가격은 저렴하지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20210830",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁긴 하지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고 오래쓸 수 있는 프라이팬이라 항상 구입하는 제품입니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴하지 않습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "418610",
+    "RawText": "늘 쓰던 제품입니다. 살짝 무게감은 있지만 코팅이 잘 되어 있어서 편하게 쓰고 있습니다. 추천하는 제품이니 한 번 사용해 보세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "19",
+    "RDate": "20210829",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "늘 쓰던 제품입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "살짝 무게감은 있지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅이 잘 되어 있어서 편하게 쓰고 있습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418611",
+    "RawText": "항상 쓰는 제품입니다. 포장 상태도 좋네요. 제가 써 본 후라이팬 중에 품질이 제일 좋은 것 같아요. 가격은 좀 있습니다. 번창하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "20",
+    "RDate": "20210826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "제가 써 본 후라이팬 중에 품질이 제일 좋은 것 같아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 좀 있습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "418615",
+    "RawText": "인덕션과 겸용이라 그런지 좀 무겁습니다. 아직 써 보지는 않았지만 열전도율이 좋아서 음식이 골고루 익었음 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20210817",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션과 겸용이라 그런지",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "좀 무겁습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "열전도율이 좋아서 음식이 골고루 익었음 좋겠습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "418616",
+    "RawText": "기존에 쓰던 프라이팬보다 가격이 저렴해도 코팅이 좋습니다. 프라이팬이  두꺼워서 안정적입니다. OO 제품이 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "13",
+    "RDate": "20210816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "기존에 쓰던 프라이팬보다 가격이 저렴해도",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅이 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "프라이팬이  두꺼워서 안정적입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418618",
+    "RawText": "친구에게 선물했는데 품질이 좋다고 맘에 들어 하네요. 묵직해서 좋고 사용하기 편한 제품이라 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20210813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋다고 맘에 들어 하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직해서 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 편한 제품이라 추천합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418619",
+    "RawText": "OO 티타늄프로라서 코팅이 좋습니다. 무게감도 있어 좋구요. 근데 신문지가 구겨넣어져 있고 OO박스도 깨끗하지 않고 포장이 별로입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "4",
+    "Syllable": "75",
+    "Word": "16",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "OO 티타늄프로라서 코팅이 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감도 있어 좋구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418633",
+    "RawText": "아직 제대로 써보지는 않았지만 좋습니다. 후라이팬 무거운 편인데 너무 가벼운 거 안 좋아해서 괜찮아요. 실제로 보니 크기는 쪼금 작아 보이네요. 다음에는 31cm를 사야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "23",
+    "RDate": "20210722",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "후라이팬 무거운 편인데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기는 쪼금 작아 보이네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "너무 가벼운거 안 좋아해서 괜찮아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418636",
+    "RawText": "배송도 빨리 왔고, 가격도 저렴하게 구입했습니다. 티타늄 블랙 코팅이면 코팅 벗겨짐 걱정없이 오래 쓸 수 있는 건가요! 기대됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20210716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게 구입했습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "티타늄 블랙 코팅이면 코팅 벗겨짐 걱정없이 오래 쓸 수 있는 건가요! ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "418645",
+    "RawText": "새로 출시된 모델은 아닌데 후기가 좋아서 주문했습니다. 묵직해서 좋습니다. 코딩이 오래갔음 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "4",
+    "Syllable": "57",
+    "Word": "12",
+    "RDate": "20210515",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직해서 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코딩이 오래갔음 좋겠습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "418649",
+    "RawText": "OO 제품 쓰면서 항상 느끼는 거지만 좋네요.  이 제품도 품질은 인증된 제품이니 말할 필요가 없습니다. 코팅력도 좋아서 마음에 드네요. 잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "21",
+    "RDate": "20210508",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "이 제품도 품질은 인증된 제품이니 말할 필요가 없습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅력도 좋아서 마음에 드네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418656",
+    "RawText": "다른 곳보다 가격이 저렴해서 좋습니다. 열전도율이 좋아서 음식이 골고루 익습니다. 빠른 배송 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20210414",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 곳보다 가격이 저렴해서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "열전도율이 좋아서 음식이 골고루 익습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418658",
+    "RawText": "전보다 저렴하게 구매해서 만족스럽네요. 두께감이 있어 확실히 골고루 익고 음식물이 잘 타지 않아서 쓸 만합니다. 오래 써도 잘 타지 않아서 재구매 했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "22",
+    "RDate": "20210411",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "전보다 저렴하게 구매해서 만족스럽네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께감이 있어 확실히 골고루 익고 음식물이 잘 타지 않아서 쓸 만합니다",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418672",
+    "RawText": "손잡이가 좀 짧은듯해요. 무거운듯도 합니다. 아직 써보지는 않았지만 좋다니까 좋다고 믿고 싶습니다. 배송은 다른 곳보다 약간 느린편이에요.  제품 상자 그대로 택배 송장 붙여서 보내 왔네요. 뭐 따로 포장한다는 것도 그렇긴 하겠습니다. 어쨌든 배송이 늦은 관계로 별 두개 뺐습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "3",
+    "Syllable": "157",
+    "Word": "38",
+    "RDate": "20210128",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "손잡이가 좀 짧은듯해요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거운듯도 합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "418676",
+    "RawText": "인덕션까지 되서 좋은데 무게가 좀 나가서 팔 좀 아프겠어요. 인덕션용으로만 쓰려고 합니다. 내구성은 좋을 듯 싶습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "4",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20210118",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션까지 되서 좋은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게가 좀 나가서 팔 좀 아프겠어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "내구성은 좋을 듯 싶습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418679",
+    "RawText": "역시 후라이팬은 OO입니다. 무게가 좀있는거 빼고는 다 좋습니다. 오래 쓸 수 있기를 기대합니다. 빠른 배송 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20210112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게가 좀있는거 빼고는",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오래 쓸 수 있기를 기대합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "418705",
+    "RawText": "항상 OO 후라이팬 구매해서 사용합니다. 이 제품은 높이가 조금  더 깊었으면 좋았겠어요. 무게감은 딱 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "4",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20200803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "이 제품은 높이가 조금  더 깊었으면 좋았겠어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감은 딱 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418729",
+    "RawText": "믿고 사용하는 OO 후라이팬입니다. 무게감이 묵직하니 좋습니다. 열전도성이 좋아서 요리가 빨리 되니 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20200610",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감이 묵직하니 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "열전도성이 좋아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "요리가 빨리 되니 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "418734",
+    "RawText": "세제로 세척하고 식초물에 끓이고 약한열에 식용유 바르기를 세번 반복했습니다. 이 방법이 오래 쓰는 방법이라하여 번거롭지만 사용준비했어요.  티타늄 코팅팬이 오래쓰고 좋습니다. 좀 무겁긴합니다. 이 제품보다 사이즈 큰 건 너무 무거워서 손목에 무리가 갈 듯하니 참고하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "151",
+    "Word": "34",
+    "RDate": "20200604",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "티타늄 코팅팬이 오래쓰고 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "좀 무겁긴합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "418736",
+    "RawText": "둘러 붙지 않고 요리가 잘 됩니다. 그런데 팬 가운데가 약간 위로 올라와 있어 기름을 더 넣어야 하는 아쉬움은 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "4",
+    "Syllable": "67",
+    "Word": "19",
+    "RDate": "20200602",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "둘러 붙지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "요리가 잘 됩니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "팬 가운데가 약간 위로 올라와 있어",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "기름을 더 넣어야 하는 아쉬움은 있습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "418738",
+    "RawText": "제품 품질은 아주 좋은데 인덕션 사용할 수 있게 만들어서 조금 무거운 게 단점이네요. 배송도 빠르게 해 주셨습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "17",
+    "RDate": "20200528",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 품질은 아주 좋은데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션 사용할 수 있게 만들어서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "조금 무거운 게 단점이네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "418740",
+    "RawText": "일단 무게감은 좀 있습니다. 몇 달 썼는데도 코팅이 견고하고 좋습니다. 오래 쓸 거 같습니다. 가격은 좀 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "17",
+    "RDate": "20200526",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "일단 무게감은 좀 있습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "몇 달 썼는데도 코팅이 견고하고 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오래 쓸 거 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 좀 있습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "418742",
+    "RawText": "일단 가격이 착해서 너무 좋아요. 다만 무게가 좀 있습니다. 이상하게 헌 프라이팬보다 기름이 더 튀지만 잘 사용해 보겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "18",
+    "RDate": "20200517",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "일단 가격이 착해서 너무 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게가 좀 있습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "이상하게 헌 프라이팬보다 기름이 더 튀지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "418744",
+    "RawText": "전에 쓰던 OO보다 좀더 비싸고 튼튼한걸로 이번에 샀는데 튼튼해보입니다. 오래 썼으면 좋겠습니다. 빠른 배송 감사드립니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 티** 프라이팬 28cm",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20200513",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "전에 쓰던 OO보다 좀더 비싸고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼한걸로 이번에 샀는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해보입니다. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오래 썼으면 좋겠습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  }
+]

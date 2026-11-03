@@ -1,0 +1,3474 @@
+[
+  {
+    "Index": "904951",
+    "RawText": "진짜로 내인생 입안의 상쾌함을 껌을 씹던때보다 상쾌한 기분은 첨이에요. 입안이 정말 상쾌해지고 치석도 덜 생겨요. 단점은 보관통안에 자외선 살균기 같은 기능이 없네요. 두번째 단점은 조금 무겁구요. 두가지 단점을 제외하고는 모두 만족해요. 매일매일 칫솔질 후 1~2시간 상쾌함의 지속력이 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "165",
+    "Word": "38",
+    "RDate": "20210902",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "내인생 입안의 상쾌함을 껌을 씹던때보다 상쾌한 기분은 첨이에요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "입안이 정말 상쾌해지고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "치석도 덜 생겨요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "보관통안에 자외선 살균기 같은 기능이 없네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "조금 무겁구요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "매일매일 칫솔질 후 1~2시간 상쾌함의 지속력이 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "904952",
+    "RawText": "1+1인데 저렴하게 구매한것같습니다 아들 딸 각 각하나씩 애들좋아합니다 배송 아주빠르네요 디자인도 이쁩니다 마니파세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "4",
+    "Syllable": "65",
+    "Word": "13",
+    "RDate": "20210901",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "1+1인데 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매한것같습니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 이쁩니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "904953",
+    "RawText": "신랑과 같이 쓰려고 다른 색상으로 구매했습니다. 전동칫솔은 처음 사용하는거라 어색하긴 햇는데 확실히 칫솔질 할때보단 팔이 덜 아프네요. 기능도 5가지나 되고 또 입안 안쪽 치아까지 닿아서 칫솔질이 되니 그것또한 좋네요. 과연 잘 딱일까 하는 의심이 들기도 하지만 이물질 나오는거 보면 잘되는거같아요. 하고나서 개운한 감도 잇고 전동칫솔에 잘 적응할게요. 배송도 엄청 빨랐어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "210",
+    "Word": "50",
+    "RDate": "20210901",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "기능도 5가지나 되고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "입안 안쪽 치아까지 닿아서 칫솔질이 되니 그것또한 좋네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "이물질 나오는거 보면 잘되는거같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "하고나서 개운한 감도 잇고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 전동칫솔은 처음 사용하는거라 어색하긴 햇는데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "확실히 칫솔질 할때보단 팔이 덜 아프네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "904957",
+    "RawText": "후기처럼 완전 간질간질합니다. 이전에 사용하던거보단 훨 성능이 좋은거 같습니다. 칫솔 돌릴때마다 헤드가 이에 부딪혀서 좀 아프지만 양치하고나니 확실히 개운합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "19",
+    "RDate": "20210901",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "후기처럼 완전 간질간질합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "이전에 사용하던거보단 훨 성능이 좋은거 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "칫솔 돌릴때마다 헤드가 이에 부딪혀서 좀 아프지만",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치하고나니 확실히 개운합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "904958",
+    "RawText": "3일째사용해봤는데 별로인듯합니다 깨끗하게 닦인다는 느낌도 없고 집사람은 잇몸이 아프다함 저는 입술이 떨려 간지럽기도 해요 ㅇㅇㅇ가 좀더 괜찮은거 같습니다 신기해서 구입해봤는데 쓰던거쓰는게 더좋을꺼같군요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "3",
+    "Syllable": "112",
+    "Word": "22",
+    "RDate": "20210901",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "깨끗하게 닦인다는 느낌도 없고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "집사람은 잇몸이 아프다함 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": " 입술이 떨려 간지럽기도 해요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "904963",
+    "RawText": "기존에 ㅇㅇㅇ 음파칫솔 쓰다가 잘 고장나고 가격도 비싸서 갈아탔어요  ㅇㅇ는 우선 가격이 착한것 같고 디자인도 깔끔하고 성능도 괜찮아요 단지 켜고 다 썼을때 몇번씩 눌러서 꺼야한다는게 바쁠때는 귀찮습니다 그점만 빼면 다 좋구요 참 칫솔모는 모자라서 주문했어요 잘 쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "4",
+    "Syllable": "152",
+    "Word": "37",
+    "RDate": "20210901",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "우선 가격이 착한것 같고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능도 괜찮아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "켜고 다 썼을때 몇번씩 눌러서 꺼야한다는게 바쁠때는 귀찮습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "참 칫솔모는 모자라서 주문했어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "904970",
+    "RawText": "기존에 ㅇㅇㅇ 보급형을 쓰다가 잇몸이 너덜너덜해질 것 같아 초음파칫솔로 바꿨는데 정말 좋은 것 같다 잇몸에 무리가 가지 않는 게 제일 좋은 것 같습니다. 진동 세기도 5가지나 되어 좋고 디자인도 깔끔하고 가격도 합리적이라 더 좋은 것 같습니다. 얼른 사세요.두번 사세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "150",
+    "Word": "39",
+    "RDate": "20210831",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "잇몸에 무리가 가지 않는 게 제일 좋은 것 같습니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "진동 세기도 5가지나 되어 좋고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인도 깔끔하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 합리적이라 더 좋은 것 같습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "904973",
+    "RawText": "뭐가 좋은지 잘 모르겠다시는 분들은 미세모 별도 구입하셔서 진동모드 바꿔가면서 한번 써보세요 제 경우는 아주 깔끔하게 살짝 스케일링 기분이 들 정도로 좋았어요. 디자인 예쁘고 마감 좋은데 이정도 가격이면 너무 훌륭한것 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "126",
+    "Word": "31",
+    "RDate": "20210830",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "아주 깔끔하게 살짝 스케일링 기분이 들 정도로 좋았어요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감 좋은데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이정도 가격이면 너무 훌륭한것 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "904993",
+    "RawText": "디자인 가격도 마음에 들고 색상도 다맘에 듭니다 고장없이 오래 가길 바랍니다 일주일동안 써보고 좋으면 한셋트 더 구매해서 식구들 다 함깨 해야겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "4",
+    "Syllable": "82",
+    "Word": "21",
+    "RDate": "20210824",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 가격도 마음에 들고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 마음에 들고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 다맘에 듭니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "고장없이 오래 가길 바랍니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "905006",
+    "RawText": "입안이 간지러워 적응이 안됩니다. 치약 거품도 거의 생기지 않아서 별로입 강도조절이 없으니 사용할때 너무 불편해요 만원 더 주고 ㅇㅇ로 사는것 추천합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "3",
+    "Syllable": "85",
+    "Word": "21",
+    "RDate": "20210818",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "입안이 간지러워 적응이 안됩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 치약 거품도 거의 생기지 않아서 별로입 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "강도조절이 없으니 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용할때 너무 불편해요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "905025",
+    "RawText": "착한 가격에 성능도 좋습니다 ㅇㅇㅇ를 쓰다가 고장이나서 리뷰보고 구매했는데 기대 이상입니다 강도도 적당하고 개운하게 잘 닦입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "16",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능도 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "강도도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운하게 잘 닦입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905040",
+    "RawText": "간지럼을 잘 타는 스탈이라 잇몸 주위 살들이 떨리니 간지러워 혼났습니다 계속쓰면서 적응해야겠지요 적응안되니 양치하면서 침을 질질흘리는건 덤입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "4",
+    "Syllable": "80",
+    "Word": "17",
+    "RDate": "20210806",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "잇몸 주위 살들이 떨리니 간지러워 혼났습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "적응안되니 양치하면서 침을 질질흘리는건 덤입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "905048",
+    "RawText": "ㅇㅇㅇ꺼 쓰다가 바꿨는데 이게 훨씬 이가 잘 안닦입니다. 뽀독한 느낌도 하나도 없네요. 다시 바꿔야 겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20210805",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "훨씬 이가 잘 안닦입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "뽀독한 느낌도 하나도 없네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "905049",
+    "RawText": "일반 양치시 잇몸에서 늘 피가 나서 고민이었는데 싹 해소됐어요 사용후 뽀드득 느낌도 좋습니다 휴대도 편하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20210804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "일반 양치시 잇몸에서 늘 피가 나서 고민이었는데 싹 해소됐어요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "사용후 뽀드득 느낌도 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "휴대도 편하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905051",
+    "RawText": "진동이 너무 쎄서 그런지 치아에 칫솔을 대고 있으면 스켈링하는 느낌이네요 그리고 주변에 너무 튀고 양치하고 나면 세면대뿐만 아니라 거울까지 다 튀어서 별로임 처음 사용할 땐 많이 간지럽기도 하고 진동도 많이 느껴지는 편이엿어요 양치는 확실히 깨끗하게 되네요 칫솔모도 부드럽다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "3",
+    "Syllable": "153",
+    "Word": "38",
+    "RDate": "20210804",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "진동이 너무 쎄서 그런지 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "치아에 칫솔을 대고 있으면 스켈링하는 느낌이네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "주변에 너무 튀고 양치하고 나면 세면대뿐만 아니라 거울까지 다 튀어서 별로임",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": " 처음 사용할 땐 많이 간지럽기도 하고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 진동도 많이 느껴지는 편이엿어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 양치는 확실히 깨끗하게 되네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "칫솔모도 부드럽다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905052",
+    "RawText": "배송 물건 만족해요 사용해보니 성능 디자인 흠 잡을때가 없네요 한가지 아쉬운점은 5v1젠더도 같이구성이되었으면 아쉬운부분이라 별도로구매하는 번거로움이 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "17",
+    "RDate": "20210804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "사용해보니 성능 디자인 흠 잡을때가 없네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 흠 잡을때가 없네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 5v1젠더도 같이구성이되었으면 아쉬운부분이라",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "별도로구매하는 번거로움이 있어요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "905053",
+    "RawText": "배송 엄청 빨리왔습니다 받자마자 아이들이 썼는데 처음에 이상한지 적응을 못했는데 두번째는 너무 재밌다네요 디자인도 이쁘고 저렴하게 1+1에 구매해서 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "19",
+    "RDate": "20210803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아이들이 썼는데 처음에 이상한지 적응을 못했는데 두번째는 너무 재밌다네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 이쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "1+1에 구매해서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905060",
+    "RawText": "힘들이지 않고 사용하기는 편합니다 단 잇몸과 치아를 깨끗하게 닦이지는 않아요 한번 충전해도 오래쓰질않아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20210802",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "힘들이지 않고 사용하기는 편합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잇몸과 치아를 깨끗하게 닦이지는 않아요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "한번 충전해도 오래쓰질않아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "905061",
+    "RawText": "ㅇㅇㅇ 보다 진동이 미세하고 칫솔모도 부드러워요 처음엔 잇몸이 너무 간질해서 적응이 안되지만 며칠 쓰면 괜찮아집니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20210802",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "ㅇㅇㅇ 보다 진동이 미세하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "칫솔모도 부드러워요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "처음엔 잇몸이 너무 간질해서 적응이 안되지만 며칠 쓰면 괜찮아집니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "905064",
+    "RawText": "사용시 초음파로 시술받는 느낌이 있어요. 그러나 끝나고 나면 개운함이 있어서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "11",
+    "RDate": "20210731",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용시 초음파로 시술받는 느낌이 있어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "끝나고 나면 개운함이 있어서 만족합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905068",
+    "RawText": "작년부터 다른 제품을 쓰고 있었는데 리필솔을 살려고하니 단종됐다고해서 어떤전동치솔을 살까 고르고 있었습니다. 마침 광고도하고 ㅇㅇ쇼핑에서 쎄일하길래 주문했습니다. 써본 결과 너무 맘에 듭니다. 제가 쓰던거 ㅇㅇㅇ 보다 휠씬 개운하네요. 저렴한 가격에 잘샀어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "145",
+    "Word": "31",
+    "RDate": "20210729",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "ㅇㅇ쇼핑에서 쎄일하길래 주문했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "제가 쓰던거 ㅇㅇㅇ 보다 휠씬 개운하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 잘샀어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905073",
+    "RawText": "진동이 너무 강력해서 처음 쓰시는분은 당황하실듯해요. 센서티브모드로 놓고하니 한결 낫습니다. 개운하네요. 근데 좀 적응시간이 필요할듯합니다. 저도 처음 쓰거든요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "4",
+    "Syllable": "90",
+    "Word": "18",
+    "RDate": "20210727",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "진동이 너무 강력해서 처음 쓰시는분은 당황하실듯해요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "센서티브모드로 놓고하니 한결 낫습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운하네요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "근데 좀 적응시간이 필요할듯합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "905077",
+    "RawText": "가격 싸고 성능 좋습니다 타사 제품 3년정도 사용했을 때 전원버턴 고장으로 못쓰게 됐었거든요 고장안나길 바래봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "4",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20210726",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 싸고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능 좋습니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "고장안나길 바래봅니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "905083",
+    "RawText": "생각했던 것 만큼 세정력이 훌륭하진 않은것 같으나 꾸준히 사용해볼게요. 3~4회 사용까진 입술 잇몸 혀 엄청 간지러운데 좀 지나니까 괜찮아지네요 다만 생각보단 시원한 느낌은 아닙니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "101",
+    "Word": "24",
+    "RDate": "20210722",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "생각했던 것 만큼 세정력이 훌륭하진 않은것 같으나 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "3~4회 사용까진 입술 잇몸 혀 엄청 간지러운데",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "생각보단 시원한 느낌은 아닙니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "905092",
+    "RawText": "디자인은 맘에 드네요. 기존에 진동 칫솔을 사용하다 잇몸에 무리가 생겨서 고민했는데 음파 전동 칫솔은 잇몸에 크게 무리를 주지는 않아요. 여행등 간편히 가지고 다니기에 좋은 것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "4",
+    "Syllable": "102",
+    "Word": "26",
+    "RDate": "20210717",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 맘에 드네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "음파 전동 칫솔은 잇몸에 크게 무리를 주지는 않아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여행등 간편히 가지고 다니기에 좋은 것 같아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905098",
+    "RawText": "선물로 구입했는데 칫솔 여유분을 더 주셔서 솔만 바꾸어서 가족끼리도 사용하니 더 좋네요. 전동칫솔은 처음 쓰는거라 간지러웠는데 쓰다보니 적응되서 쓰면 쓸수록 개운하고 괜찮습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "22",
+    "RDate": "20210715",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "칫솔 여유분을 더 주셔서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "솔만 바꾸어서 가족끼리도 사용하니 더 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "전동칫솔은 처음 쓰는거라 간지러웠는데 쓰다보니 적응되서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "쓰면 쓸수록 개운하고 괜찮습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905100",
+    "RawText": "일단 사용감은 간질간질거려 웃음을 참기힘든게 첫 느낌이네요 2분 끝나고 나서는 개운합니다 치과에서 스케일링 받은 느낌이이네요 남편도 간질거린다 합니다 방수는 잘되는지 아직 모르겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "101",
+    "Word": "22",
+    "RDate": "20210714",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "사용감은 간질간질거려 웃음을 참기힘든게 첫 느낌이네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "2분 끝나고 나서는 개운합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "치과에서 스케일링 받은 느낌이이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "남편도 간질거린다 합니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "방수성",
+        "SentimentText": "방수는 잘되는지 아직 모르겠어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "905101",
+    "RawText": "ㅇㅇㅇ구강세정기와 진동칫솔 사용하다 베터리 고장으로 둘 다 ㅇㅇ제품으로 교체했어요 가격은 좀 비싸지만 진동과 세정력은 더 좋은듯 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "17",
+    "RDate": "20210714",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 좀 비싸지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "진동과 세정력은 더 좋은듯 하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 세정력은 더 좋은듯 하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905105",
+    "RawText": "치석이 자주 생겨 구매했습니다. 스케일링 한것 처럼 뽀득해지네요. 강추합니다. 가격은 비싸지만 하나 더 사서 사무실서 쓸 예정이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "17",
+    "RDate": "20210710",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "스케일링 한것 처럼 뽀득해지네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "905106",
+    "RawText": "꼼꼼히 잘닦여서 입냄새가 줄어든것 같습니다 그냥 칫솔은 닦아주지 못한 부분까지 닦아주는것같아서 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "12",
+    "RDate": "20210709",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "꼼꼼히 잘닦여서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "입냄새가 줄어든것 같습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 그냥 칫솔은 닦아주지 못한 부분까지 닦아주는것같아서 좋습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905109",
+    "RawText": "배송 빠릅니다 전동칫솔 예전에 쓰다가 넘 강도가 쎄서 사용하지 않았어요 그러다 잇몸이 넘 약해져 다시 주문했습니다 ㅇㅇ꺼는첨사용해보는데 디자인도 깔끔하니 이쁘네요. 잘 닦이길 바래봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "103",
+    "Word": "23",
+    "RDate": "20210706",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔하니 이쁘네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦이길 바래봅니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "905114",
+    "RawText": "전동칫솔 쭉 써왔는데 이 제품은 가격은 좀 비싸지만, 사용해보니 깔끔하고, 군더더기 없는 디자인에 사용후 개운함이 기분좋게 하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20210704",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 제품은 가격은 좀 비싸지만, ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "사용해보니 깔끔하고,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "군더더기 없는 디자인에",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "사용후 개운함이 기분좋게 하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905120",
+    "RawText": "전동첫솔 처음 써보는거라 어색하긴합니다 깨끗하게 잘 닦이긴 하네요 디자인 이쁘고 좋습니다 배송도 빨랐어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20210627",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "전동첫솔 처음 써보는거라 어색하긴합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "깨끗하게 잘 닦이긴 하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 이쁘고 좋습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905126",
+    "RawText": "일단 디자인이 심플하고 마음에 드네요 그립감은 별로지만 무게감은 좋네요. 양치할수있는 모드가 다양한데, 진동세기에 차이가 있고 필요에 따라 골라할수 있는부분이 만족스럽다. ㅇㅇ칫솔의 방수기능은 잘 모르겠어요 하루 3회 양치하는데 보름에 한번정도 충전하고 있네요 칫솔모가 슬림하고 부드럽네요 잇몸에 무리도 덜가고 교체도 쉬운것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "185",
+    "Word": "40",
+    "RDate": "20210615",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 심플하고 마음에 드네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "그립감은 별로지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감은 좋네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "양치할수있는 모드가 다양한데, 진동세기에 차이가 있고 필요에 따라 골라할수 있는부분이 만족스럽다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "방수성",
+        "SentimentText": "ㅇㅇ칫솔의 방수기능은 잘 모르겠어요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": " 하루 3회 양치하는데 보름에 한번정도 충전하고 있네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "칫솔모가 슬림하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "부드럽네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "잇몸에 무리도 덜가고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "교체도 쉬운것 같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905138",
+    "RawText": "기존에쓰던게 오래되서 바꿨는데 진동이 더쎄서 아프지않을까걱정했는데 정말 아파요 완전 방수라고 하는데 그렇지도 않은듯하네요 사용감이나 충전은 편합니다 압력센서는 좋네요 나도모르게 힘주면 멈춰서 다시 살살닦을 수 있습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "121",
+    "Word": "25",
+    "RDate": "20210520",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "아프지않을까걱정했는데 정말 아파요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "방수성",
+        "SentimentText": "완전 방수라고 하는데 그렇지도 않은듯하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용감이나 충전은 편합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 압력센서는 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "나도모르게 힘주면 멈춰서 다시 살살닦을 수 있습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905150",
+    "RawText": "힘이 좋습니다. 진동이 좋은 것 같아요. 2분이라는 시간이 너무 짧은거 같기도 합니다. 케이스가 있어서 너무 맘에 들어서 선택했습니다. 칫솔 2개 들어가는 케이스라 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "23",
+    "RDate": "20210504",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "힘이 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "진동이 좋은 것 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "2분이라는 시간이 너무 짧은거 같기도 합니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "케이스가 있어서 너무 맘에 들어서 선택했습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "칫솔 2개 들어가는 케이스라 만족합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905153",
+    "RawText": "평소에 쓰고 있었던 전동칫솔이 망가져 버리고 다시 구입하기 애매해서 일반 칫솔 써보니 개운함이 없더라구요. 다시 전동칫솔로 구입 할려고 보다가 마침 판매하길래 주문했습니다. 가격이 저렴해서 기대를 안하고 언박싱 했는데 구성이 알차서 기대이상이였어요. 작동 해보니 불량제품 아니여서 다행이고 사용해보니 고가제품하고 비교되긴 하지만 나름 괜찮은 제품을 만나서 좋습니다. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "213",
+    "Word": "47",
+    "RDate": "20210501",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 알차서 기대이상이였어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "작동 해보니 불량제품 아니여서 다행이고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905154",
+    "RawText": "중국산 전동칫솔 사용하다 국산의 좋은 전종칫솔이 나왔다하여 구매하여 사용하고 있어요 성능은 10점 만점에 6점정도네요 본체에 건전지를 바꾸는게 번거로움도 있습니다. 전체적으로 나쁘지는 않아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "22",
+    "RDate": "20210501",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 성능은 10점 만점에 6점정도네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 본체에 건전지를 바꾸는게 번거로움도 있습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "905157",
+    "RawText": "제품 품질은 가격대비 좋습니다. 정말 진동이 좋아서 딱고나면 깨끗한 느낌이 들어서 좋습니다. 제품설명서에 없는것이 있어서 본사 문의해서 알았어요. 충전시 led 깜밖임 완충시 led가 계속들어오네요. 설명서에 표시가 없어서 꼽아두고 완충여부를 몰랐어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "141",
+    "Word": "30",
+    "RDate": "20210430",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 품질은 가격대비 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "정말 진동이 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "딱고나면 깨끗한 느낌이 들어서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "충전시 led 깜밖임 완충시 led가 계속들어오네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "설명서에 표시가 없어서 꼽아두고 완충여부를 몰랐어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "905158",
+    "RawText": "진동모드가 5가지가 있네요. 사용하다보니 클린이 가장 좋아요. 충전도 편하게 잘되고 블랙에 골드포인트도 멋있네요. ㅇㅇㅇ 썼었는데 처음엔 진동방식이 달라서 그런지 간지러웠는데 금방 적응되네요. 가성비 아주 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "120",
+    "Word": "25",
+    "RDate": "20210430",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "진동모드가 5가지가 있네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "사용하다보니 클린이 가장 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "충전도 편하게 잘되고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "블랙에 골드포인트도 멋있네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "처음엔 진동방식이 달라서 그런지 간지러웠는데 금방 적응되네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 아주 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905169",
+    "RawText": "치솔모 부드럽대서 샀습니다 근데 ㅇㅇㅇ보다 비싸요 진동이랑 음파진동이랑 다르긴한데 아들은 그냥 진동이 편하다고 그거쓰고 딸이 쓰고 있네요 아직까진 잇몸아프다고는 안합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "4",
+    "Syllable": "94",
+    "Word": "20",
+    "RDate": "20210420",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "치솔모 부드럽대서 샀습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " ㅇㅇㅇ보다 비싸요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 아들은 그냥 진동이 편하다고 그거쓰고 딸이 쓰고 있네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": " 아직까진 잇몸아프다고는 안합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905173",
+    "RawText": "가족 모두가 사용중인데 아주 만족합니다 가격도 좋고 물론 성능도 아주 좋습니다 부모님도 사드려야 겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20210414",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능도 아주 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905179",
+    "RawText": "커피를 좋아하다보니 치아색이 누렇게 되는것도 방지할겸 음파칫솔을 처음으로 구매했어요. 가성비로 시작해보려고 구매했는데 사용해보니 간지러워 죽겠네요 입술부분에 닿아서 이런 간지러움은 처음 느껴봅니다. 칫솔머리가 반대편 치아에 다으면 진동이 심하게 느껴져 별로입니다 사용할때 좀 불편하네요. 치간세정기 소음에 비교하면 이건 모기소리정도입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "189",
+    "Word": "37",
+    "RDate": "20210407",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비로 시작해보려고 구매했는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "사용해보니 간지러워 죽겠네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": " 입술부분에 닿아서 이런 간지러움은 처음 느껴봅니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "칫솔머리가 반대편 치아에 다으면 진동이 심하게 느껴져 별로입니다 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용할때 좀 불편하네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "치간세정기 소음에 비교하면 이건 모기소리정도입니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905189",
+    "RawText": "기존에 ㅇㅇㅇ기본 모델 사용중인데 휴대용으로 쓰려고 구매했다. 사용중인 것보다 개당 가격도 저렴하고 진동도 더 강하고 기능도 5가지모드로 다양해서 좋은것 같네요. 고장 없이 오래 사용하길 바래봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "110",
+    "Word": "25",
+    "RDate": "20210403",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "사용중인 것보다 개당 가격도 저렴하고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "진동도 더 강하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "기능도 5가지모드로 다양해서 좋은것 같네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "고장 없이 오래 사용하길 바래봅니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "905194",
+    "RawText": "남편이 맘에 들어합니다 디자인부터도 세련되 보이고 기능도 맘에 든다네요 휴대용 케이스도 있으니 좋데요 다 좋은데 포장부분이 좀 아쉬웠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "18",
+    "RDate": "20210401",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인부터도 세련되 보이고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "기능도 맘에 든다네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "휴대용 케이스도 있으니 좋데요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905206",
+    "RawText": "건전지 사용으로 2개 쓰고 이번에는 충전용으로 구입했어요 무게감은 좀 있습니다 진동 센편이라서 대만족하네요 모드 바뀔때 마다 본체에 약한 램프가 비치는데 색이 이쁘네요 가격은 조금 비싸지만 ㅇㅇ사길 잘했다 싶어요. 고장 안나고 오래 쓰길 바랍니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "137",
+    "Word": "33",
+    "RDate": "20210309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감은 좀 있습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "진동 센편이라서 대만족하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "모드 바뀔때 마다 본체에 약한 램프가 비치는데 색이 이쁘네요 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 조금 비싸지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "고장 안나고 오래 쓰길 바랍니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "905207",
+    "RawText": "배송이 이렇게 빠른걸 본적이 없어요. 다만 전혀 생각지 못한 전동 칫솔의 진동이 너무 쎄네요 적응하는 시간이 오래 걸릴 것 같습니다 스켈링한 느낌이 들어 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "24",
+    "RDate": "20210309",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "전혀 생각지 못한 전동 칫솔의 진동이 너무 쎄네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "적응하는 시간이 오래 걸릴 것 같습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "스켈링한 느낌이 들어 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905219",
+    "RawText": "진동이 넘 세서 다른 기능을 사용해보니 훨씬 편한기능이 있었네요 한동안 그냥쓰면서 적응하려 노력했는데그럴 필요가 없어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 클** 전동칫솔 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20210212",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "진동이 넘 세서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "다른 기능을 사용해보니 훨씬 편한기능이 있었네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "한동안 그냥쓰면서 적응하려 노력했는데그럴 필요가 없어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905252",
+    "RawText": "ㅇㅇㅇ 전동칫솔은 치아사이를 골고루 깨끗하게 닦아 주어서 너무 좋아요. 타임장치도 되어 있어서 양치하기가 너무 편해서 좋네요. 감사해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "17",
+    "RDate": "20220903",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "치아사이를 골고루 깨끗하게 닦아 주어서 너무 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "타임장치도 되어 있어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "양치하기가 너무 편해서 좋네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905382",
+    "RawText": "아들이 아주 뽀드득 뽀드득 잘 닦이고 만족스럽다 합니다 칫솔모만 따로 사야겠네요 가격이 부담스럽지만 좋아하니 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20211219",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "아들이 아주 뽀드득 뽀드득 잘 닦이고 만족스럽다 합니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 부담스럽지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "905411",
+    "RawText": "전동치솔 사용하다가 일반치솔 사용했는데 개운함이 덜해서 구매했습니다. 구간별 진동알람이 있어 좋아요. 가격은 비싼편이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 전동칫솔 기본구성",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "13",
+    "RDate": "20211014",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "구간별 진동알람이 있어 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싼편이에요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "905429",
+    "RawText": "이 닦을 때 팔이 안 아파서 좋네요 좀 세게 누르면 멈칫할 때가 있어서 거슬리는 게 좀 있어요 진동이 있어서 양치성능은 좋은데, 머리가 울리는 게 좀 있어요. 두통이나 어지러울 땐 못 쓸듯 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "32",
+    "RDate": "20210428",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "이 닦을 때 팔이 안 아파서 좋네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "좀 세게 누르면 멈칫할 때가 있어서 거슬리는 게 좀 있어요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "진동이 있어서 양치성능은 좋은데,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "머리가 울리는 게 좀 있어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 두통이나 어지러울 땐 못 쓸듯 합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "905438",
+    "RawText": "인플란트 하냐고 치주골 이식하고 양치가 잘 안되어서 고민하다가 구입했습니다. 생각보다 양치후 상쾌함이 없어요. 재품구성도 별로네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "15",
+    "RDate": "20210423",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "생각보다 양치후 상쾌함이 없어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "재품구성도 별로네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "905444",
+    "RawText": "저희 아이들 같은 경우엔 처음 사용 해본거라 진동 세기가 좀 쎄다 하더니 저녁부터는 금방 적응해서 좋고 하네요 또 아이의 꼼꼼히 안 닦였던 이 부분의 치석까지 제거 되는게 본인 눈에도 보이니 좋아 하더라구요. 역시 적응은 금방이에요 배송도 빨랐습니다. 가격은 제일 싼곳에서 사도 부담스럽긴했어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "164",
+    "Word": "42",
+    "RDate": "20210409",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "진동 세기가 좀 쎄다 하더니 저녁부터는 금방 적응해서 좋고 하네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "치석까지 제거 되는게 본인 눈에도 보이니 좋아 하더라구요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 제일 싼곳에서 사도 부담스럽긴했어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "905453",
+    "RawText": "15년 넘게 쓰던게 약해진듯 해서 이번에 새로 마련했습니다.가성비는 좋지만 생각보다 닦이질 않네요. 별로임",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20210327",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비는 좋지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "생각보다 닦이질 않네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "905454",
+    "RawText": "10년넘게 전동칫솔 사용중인데 검색해보면 가격대가 여러종류인데 이제품이 가성비가 최고네요. 게다가 여행용케이스가있어 더 좋습니다. 아들줄려고 한개 더 주문했습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "17",
+    "RDate": "20210326",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 이제품이 가성비가 최고네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "여행용케이스가있어 더 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905467",
+    "RawText": "저랑 신랑이 사용해보고 좋아서 친정부모님도 구입해서 드렸는데 사용하기는 편하다고 하는데 생각보다 잘 닦이진 않는다고 하네요 진동도 너무 강해서 잇몸이 아프다고 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "21",
+    "RDate": "20210225",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기는 편하다고 하는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "생각보다 잘 닦이진 않는다고 하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "진동도 너무 강해서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "잇몸이 아프다고 합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "905481",
+    "RawText": "칫솔로 할 때 보다 개운함이 느껴지네요. 진동도 많이 세지 않아서 좋고, 구석구석 깨끗하게 이가 닦이는 것 같아서 기분까지 좋아집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "19",
+    "RDate": "20210115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "칫솔로 할 때 보다 개운함이 느껴지네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "진동도 많이 세지 않아서 좋고,",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "구석구석 깨끗하게 이가 닦이는 것 같아서 기분까지 좋아집니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905483",
+    "RawText": "ㅇㅇㅇ 예전부터 배터리 교체형으로 쭉 사용하다 편의를 위해 충전 제품으로 바꿨습니다. 전에 것에 비해 가볍지만 소리는 조금 크네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20210114",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "전에 것에 비해 가볍지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소리는 조금 크네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "905492",
+    "RawText": "치솔질이 잘 안되는 부분 양치에 효과적인거 같습니다 소리가 좀 거슬리지만 그냥 하는것보다는 전동치솔로 하면 깨끗이 잘 됩니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20210106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "치솔질이 잘 안되는 부분 양치에 효과적인거 같습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소리가 좀 거슬리지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "전동치솔로 하면 깨끗이 잘 됩니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905498",
+    "RawText": "집에서도 사용중인데 회사에서도 사용하려고 구입했습니다. 양치가 항상 개운해서 넘 좋네요. 가성비도 좋고 아주 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "14",
+    "RDate": "20201224",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치가 항상 개운해서 넘 좋네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비도 좋고 아주 만족해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905503",
+    "RawText": "브랜드 전동칫솔 사용하다 생각보다 별로여서 전동칫솔 사용안하다가 몇년전 ㅇㅇㅇ 좋다고 해서 충전표시 안되는 초기 버전 사서 사용하다 이 제품으로 바꿨습니다. 여전히 완충되는데 오래걸리고 완충되어도 그냥 꽂아두는게 나을 정도네요 사용해보면 안쪽치아까지 깨끗히 닦여 계속 ㅇㅇㅇ제품을 사용할 수 밖에 없습니다. 단, 진동은 여전히 세게느껴지네요. 여행용 케이스가 있다는 점도 좋았고 싸게 잘 산거 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 전동칫솔 기본구성",
+    "ReviewScore": "4",
+    "Syllable": "224",
+    "Word": "51",
+    "RDate": "20201222",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "완충되는데 오래걸리고 완충되어도 그냥 꽂아두는게 나을 정도네요 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "사용해보면 안쪽치아까지 깨끗히 닦여 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "진동은 여전히 세게느껴지네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "여행용 케이스가 있다는 점도 좋았고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 싸게 잘 산거 같습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905507",
+    "RawText": "예전에 쓰던것이 충전이 오래안가 가격저렴한거같아 구매했는데요 진동이 넘 쎄네요 그리고 전에꺼보다 충전상태가 오래가진않습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 전동칫솔 기본구성",
+    "ReviewScore": "3",
+    "Syllable": "68",
+    "Word": "13",
+    "RDate": "20201220",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격저렴한거같아 구매했는데요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "진동이 넘 쎄네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "전에꺼보다 충전상태가 오래가진않습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "905527",
+    "RawText": "전에 쓰던게 고장나서 버리고 안쓰다가 거의 1년만에 다시 전동치솔샀습니다 잘닦이니까 안쓸수가 없지만 3년정도 쓰면 고장나서 가격이 쌀때 또 샀어요 전에 쓰던거보다 무게는 가볍고 길이가 좀더 기네요 소리는 좀 시끄럽네요 충전하고 저녁에 써봐야겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 프** 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "138",
+    "Word": "32",
+    "RDate": "20201214",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 쌀때 또 샀어요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "전에 쓰던거보다 무게는 가볍고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이가 좀더 기네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소리는 좀 시끄럽네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "905534",
+    "RawText": "초등생이 쓰기에는 칫솔모가 작긴합니다. 지름1센티미터남짓이라 작습니다 그러나 이닦기싫어하니까 시도해보네요. 건전지가 사용하기 편할것 같고 잘쓰면 가성비도 나쁘지 않다고 생각합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "4",
+    "Syllable": "99",
+    "Word": "18",
+    "RDate": "20221011",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "초등생이 쓰기에는 칫솔모가 작긴합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "지름1센티미터남짓이라 작습니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "건전지가 사용하기 편할것 같고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "잘쓰면 가성비도 나쁘지 않다고 생각합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "905542",
+    "RawText": "2년쓰고 다시 재구매해요 가격이 저렴해서 막 쓰기 좋습니다 애들이 스스로 치카를깨끗하게 못하는거같아서 전동칫솔로 쓰고 있어요 진동도쎄고 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "17",
+    "RDate": "20220916",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "막 쓰기 좋습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 진동도쎄고 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905562",
+    "RawText": "고양이 양치시키려고 구매했는데 모가 좀 크긴 하지만 잘 닦일 거 같습니다 튼튼하고 맘에 듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "14",
+    "RDate": "20220714",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "모가 좀 크긴 하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦일 거 같습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고 맘에 듭니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905581",
+    "RawText": "애가 셋이라 칫솔을 3개 주문했다. 이상한건 3개중 2개는 소음이 크고 1개는 소음과 진동이 적다는 것인데요. 그렇다면 소음이 적은 1개는 정상적인 상태이고 소음이 큰 2개는 불량이라는 건지 궁금하네요 2개는 소음이 심해서 애들이 거부감을 느끼네요 소음 때문에 조금 찝찝합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "3",
+    "Syllable": "154",
+    "Word": "37",
+    "RDate": "20220518",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "3개중 2개는 소음이 크고 1개는 소음과 진동이 적다는 것인데요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "소음이 적은 1개는 정상적인 상태이고 소음이 큰 2개는 불량이라는 건지 궁금하네요 ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "2개는 소음이 심해서 애들이 거부감을 느끼네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소음 때문에 조금 찝찝합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "905583",
+    "RawText": "이 전동칫솔 사용한지 한 5년 된것 같습니다 입안이 좁은 아이들은 사용하기 힘들어요 양치하는 법만 잘 지키면 깨끗하게 닦여요 칫솔 결합 부분에 곰팡이 쓸기 쉬우니 깨끗이 새척후 분리시켜 건조해야합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "111",
+    "Word": "28",
+    "RDate": "20220517",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "입안이 좁은 아이들은 사용하기 힘들어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치하는 법만 잘 지키면 깨끗하게 닦여요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "칫솔 결합 부분에 곰팡이 쓸기 쉬우니 깨끗이 새척후 분리시켜 건조해야합니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "905626",
+    "RawText": "2번째 구매입니다 아이들이 스스로 양치하기에도 편하고, 깨끗하게 양치가 되어 만족해서 쓰고 있습니다 강력 추천해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20220317",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아이들이 스스로 양치하기에도 편하고,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "깨끗하게 양치가 되어 만족해서 쓰고 있습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905637",
+    "RawText": "아이가 편하게 양치할수 있게 도와줘서 좋네요. 다만 칫솔모가 너무 약한건지 사용한지 1주일도 안되었는데 다 벌어져서 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "3",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20220306",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아이가 편하게 양치할수 있게 도와줘서 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "칫솔모가 너무 약한건지 사용한지 1주일도 안되었는데 다 벌어져서 아쉽네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "905639",
+    "RawText": "평소 생각만했는데 세일을 많이하는걸보고 가족셋트로 구입했어요 어금니 속 사이사이까지 들어갈수있는 헤드크기라 좋습니다 평소 신경쓰이던 부분까지 깨끗하게 스케일링한 기분입니다 성능 합격입니다 고장안나고 오래사용했음 좋겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "123",
+    "Word": "23",
+    "RDate": "20220305",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일을 많이하는걸보고 가족셋트로 구입했어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "어금니 속 사이사이까지 들어갈수있는 헤드크기라 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "평소 신경쓰이던 부분까지 깨끗하게 스케일링한 기분입니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능 합격입니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "고장안나고 오래사용했음 좋겠습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "905648",
+    "RawText": "5살 손자가 이닦이를 싫어해서 사주었는데 신기해하며 잘 닦습니다 아이가 2분이 되기전에 끄니까 2분까지 설정되어있는지 확인못해 봤네요 일단 거부감 없이 잘 사용하니 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "4",
+    "Syllable": "96",
+    "Word": "22",
+    "RDate": "20220225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "5살 손자가 이닦이를 싫어해서 사주었는데 신기해하며 잘 닦습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "아이가 2분이 되기전에 끄니까 2분까지 설정되어있는지 확인못해 봤네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "거부감 없이 잘 사용하니 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905677",
+    "RawText": "7살 아이가 쓰긴 좋긴한데 어금니 바깥쪽 닦을땐 너무 커서 좀 힘들다하네요 건전지라 쓰기 편합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "4",
+    "Syllable": "54",
+    "Word": "14",
+    "RDate": "20220119",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "7살 아이가 쓰긴 좋긴한데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "어금니 바깥쪽 닦을땐 너무 커서 좀 힘들다하네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "건전지라 쓰기 편합니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905684",
+    "RawText": "전동칫솔을 사용하고 싶다는 딸을 위해 저렴히 샀는데 넘 좋아합니다. 괜히 한번더 가서 양치하고 개운하다고 해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20220110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴히 샀는데 넘 좋아합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "한번더 가서 양치하고 개운하다고 해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905744",
+    "RawText": "아이랑 하나씩 사서 쓰고 있습니다 확실히 좀 더 깨끗하게 닦이는 것 같네요 추가 구성품 하나가 잘못와서 아쉬움이 남았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "18",
+    "RDate": "20211104",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "좀 더 깨끗하게 닦이는 것 같네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 추가 구성품 하나가 잘못와서 아쉬움이 남았습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "905745",
+    "RawText": "아이혼자 잘안닦이는 부분이 잘닦여서 좋네요 아직 엄마가 해주긴 해야하지만 최저가 좋은상품 감사해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20211103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "아이혼자 잘안닦이는 부분이 잘닦여서 좋네요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "최저가 좋은상품 감사해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905753",
+    "RawText": "4살이라서 치아관리가 슬슬 중요한데 항상 닦여주는게 너무 힘들어서 주문했어요 전동이니 너무 편합니다 칫솔보다는 무게가 나가지만 진동으로 제가 못해주는 부분까지 닦아주니 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "21",
+    "RDate": "20211028",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "전동이니 너무 편합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "칫솔보다는 무게가 나가지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "진동으로 제가 못해주는 부분까지 닦아주니 좋네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905757",
+    "RawText": "아이가 일반 칫솔로는 플라그 제거가 잘 되지 않아 전동 칫솔로 구매했어요. 사용 후 아이도 입안이 개운하다고 하고, 노랗던 치아가 많이 하얗게 되어서 너무 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "24",
+    "RDate": "20211022",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "사용 후 아이도 입안이 개운하다고 하고,",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "노랗던 치아가 많이 하얗게 되어서 너무 만족해요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905788",
+    "RawText": "아이들용이라 전동이 조금 약하지만 아이들이 쓰는거니깐 안전하긴한거 같습니다 칫솔모가 작아서 치약이 잘 떨어집니다 그래도 만족하고 쓰고 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "4",
+    "Syllable": "78",
+    "Word": "17",
+    "RDate": "20210923",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "아이들용이라 전동이 조금 약하지만 아이들이 쓰는거니깐 안전하긴한거 같습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "칫솔모가 작아서 치약이 잘 떨어집니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "905815",
+    "RawText": "상품은 빠른 배성으로 받았어요. 작동은 잘 되네요. 아이들이 좋아해서 잘 사용해요.그런데 충격에 너무 약합니다. 한번 딸어뜨렸는데 작동이 처음보단 잘 안됩니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "3",
+    "Syllable": "88",
+    "Word": "20",
+    "RDate": "20210830",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "작동은 잘 되네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 충격에 너무 약합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "한번 딸어뜨렸는데 작동이 처음보단 잘 안됩니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "905824",
+    "RawText": "전동칫솔로 치카하다가 아이 잇몸에서 피가 난적도 있긴한데 조심그럽게 해보니 피 안나고 잘 닦이는거 같습니다 일반칫솔로 하는거 보다 더 잘 닦이네요 그래도 치실은 해줘야하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "23",
+    "RDate": "20210821",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "조심그럽게 해보니 피 안나고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦이는거 같습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "일반칫솔로 하는거 보다 더 잘 닦이네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "치실은 해줘야하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "905825",
+    "RawText": "본제품 내구성이 안좋아보이네요. 손으로 하는 양치보다 더 깨끗히 안되는 것 같습니다. 애들도 안좋아합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20210821",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "본제품 내구성이 안좋아보이네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "손으로 하는 양치보다 더 깨끗히 안되는 것 같습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "905856",
+    "RawText": "좋습니다 아이가 너무 좋아하고 이도 깨끗하게 잘 닦입니다 확실히 일반 칫솔보다 전동 칫솔이 깨끗하게 닦입니다 가격은 저렴하지 않지만 그래도 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "20",
+    "RDate": "20210729",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "이도 깨끗하게 잘 닦입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "확실히 일반 칫솔보다 전동 칫솔이 깨끗하게 닦입니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴하지 않지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "905872",
+    "RawText": "아이들이 너무 좋아합니다 스스로 양치하는건 너무 좋은데 솔이 약한건지 아이들이 양치를 세게하는건지 솔이 금방 벌어지네요 상세설명에는 세달 사용 가능하다는데 일주일 정도 사용한게 저 정도인데 한달을 버틸수 있을까 싶어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "3",
+    "Syllable": "121",
+    "Word": "28",
+    "RDate": "20210717",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "솔이 약한건지 아이들이 양치를 세게하는건지 솔이 금방 벌어지네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "일주일 정도 사용한게 저 정도인데 한달을 버틸수 있을까 싶어요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "905882",
+    "RawText": "아이 치아가 누렇게 변색도 되고 치석도 많아서 구매했는데 아직 크게 효과는 없는거 같아요 열심히 사용하면 효과있길 바래봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20210712",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "아직 크게 효과는 없는거 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "열심히 사용하면 효과있길 바래봅니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "905891",
+    "RawText": "첫째 3살때부터 계속 쓰던건데 두찌 생기면서도 계속 이어서 쓰고 있습니다 팁빼서 씻고 관리하고 리필 사뒀다가 자주 갈아주니 편리합니다 그리고 아기들은 오래 구석구석 양치를 잘못하니 걱정되는데 전동칫솔쓰면 그나마 빠른시간안에 플라그제거가 되니 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "138",
+    "Word": "31",
+    "RDate": "20210705",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 팁빼서 씻고 관리하고 리필 사뒀다가 자주 갈아주니 편리합니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 빠른시간안에 플라그제거가 되니 좋아요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905950",
+    "RawText": "가격대비 너무 좋습니다. 이가격에 이 품질 제품 만나보기 힘들어요 개인적으로 맘에 드는 거래였습니다. 물건도 잘 왔네요. 맘에 드는 거래였어요. 굿 추천해드립니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "4",
+    "Syllable": "91",
+    "Word": "21",
+    "RDate": "20210511",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 너무 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이가격에",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이 품질 제품 만나보기 힘들어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "905989",
+    "RawText": "아이들이 좋아해요. 서로 이닦는 모습이 흐뭇하게 만듭니다 건전지라서 사용이 더 편하거 같하요. 좋은물건 좋은가격에 샀네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20210317",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "건전지라서 사용이 더 편하거 같하요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은물건 좋은가격에 샀네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "906027",
+    "RawText": "아이들이 칫솔질이 잘 안되는것 같아서 구매해봤는데 생각보다 잘 안닦이는거 같아요 아파하기도 하구요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20210211",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "생각보다 잘 안닦이는거 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "아파하기도 하구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "906042",
+    "RawText": "우리 아이들은 전동 친솔로 양치하면 손으로 못한곳까지 깨끗하게 닦여서 좋아요 저렴하게 잘 구매 했습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20210120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "손으로 못한곳까지 깨끗하게 닦여서 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 구매 했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "906142",
+    "RawText": "스켈링 해주는거 같이 개운해요 교정기를 해서 구석구석 닦기 힘든데 너무 편합니다 이가 반짝거리네요 지인한테 추천했습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20201005",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "스켈링 해주는거 같이 개운해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "교정기를 해서 구석구석 닦기 힘든데 너무 편합니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "이가 반짝거리네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "906149",
+    "RawText": "아이 구강 사이즈에도 딱 맞는거 같습니다 회전파워도 강한거 같구요 깨끗하게 잘 닦여서 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "4",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20200926",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "아이 구강 사이즈에도 딱 맞는거 같습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "회전파워도 강한거 같구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "깨끗하게 잘 닦여서 만족합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "906167",
+    "RawText": "충전식이아닌 건전지용이라 어디든 휴대가능합니다 원형헤드라 회전하며 잇몸과 치아 사이 치태 제거됩니다 치아 안쪽 안보이는 구석까지 잘 닦입니다 생각보다 무게가 있긴 합니다 회전 진동이 조금 강한편입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "3",
+    "Syllable": "111",
+    "Word": "25",
+    "RDate": "20200916",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "충전식이아닌 건전지용이라 어디든 휴대가능합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "원형헤드라",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "회전하며 잇몸과 치아 사이 치태 제거됩니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "치아 안쪽 안보이는 구석까지 잘 닦입니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각보다 무게가 있긴 합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "회전 진동이 조금 강한편입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "906175",
+    "RawText": "가격대비 상당히 효율적이네요 평상시 꼼꼼하게 양치하는 습관이나, 양치후 구석구석에 치석이 좀 남아있는 느낌이 있었지만 전동칫솔을 쓰면서 치석의 찝찝함이 모두 사라졌어요 성인용 2개를 먼저 써보고 만족하여 아이들거 2개도 구매했어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "128",
+    "Word": "28",
+    "RDate": "20200913",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "가격대비 상당히 효율적이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "전동칫솔을 쓰면서 치석의 찝찝함이 모두 사라졌어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "906184",
+    "RawText": "3개월 정도 사용해보니 처음엔 진동에 익숙하지 않아 불편했지만 지금은 꼼꼼히 이가 닦이는 기분이들어 좋습니다. 많이파세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20200909",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "처음엔 진동에 익숙하지 않아 불편했지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "꼼꼼히 이가 닦이는 기분이들어 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "906247",
+    "RawText": "구석구석 잘닦여서 좋네요. 여분칫솔은 호환용으로 저렴히 더 구매해뒀네요. 그립감도 좋은 것 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20200723",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "구석구석 잘닦여서 좋네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": " 그립감도 좋은 것 같습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "906287",
+    "RawText": "양치를 그렇게 싫고 귀찮아하던 아이두명이 하루 3번 4번도 합니다 치아상태가 안좋은 첫째인데 항상 누런이로 스트레스받었는데 한방에 해결했습니다 너무 좋네요 잇몸도 안아프다고하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "21",
+    "RDate": "20200619",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "치아상태가 안좋은 첫째인데 항상 누런이로 스트레스받었는데 한방에 해결했습니다 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": " 잇몸도 안아프다고하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "906337",
+    "RawText": "무게가 생각보다 가벼워 좋습니다 아이 혼자 스스로 척척하니 넘 좋구요 아이 이가 살짝 노래졌는데 전동칫솔 3일만에 깨끗해졌습니다 진작에 쓸껄 후회했네요 완전 강추합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "22",
+    "RDate": "20200515",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게가 생각보다 가벼워 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아이 혼자 스스로 척척하니 넘 좋구요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "아이 이가 살짝 노래졌는데 전동칫솔 3일만에 깨끗해졌습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "906339",
+    "RawText": "하나사서 써보고 괜찮아서 두개더 구매했습니다. 애들이 칫솔도 안물고 양치하기 편하다고 하네요. 사용해보니 뽀드득 잘닦이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 스** 키즈 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "14",
+    "RDate": "20200515",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "애들이 칫솔도 안물고 양치하기 편하다고 하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "사용해보니 뽀드득 잘닦이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

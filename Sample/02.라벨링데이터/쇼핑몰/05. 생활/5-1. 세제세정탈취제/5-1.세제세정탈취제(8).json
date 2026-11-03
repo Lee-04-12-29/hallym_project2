@@ -1,0 +1,3206 @@
+[
+  {
+    "Index": "326419",
+    "RawText": "주말에 주문했는데 수요일 아침에 왔습니다. 가격대는 좀 있지만 용량이 엄청 많아서 몇달간은 문제없이 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20211215",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대는 좀 있지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 엄청 많아서 몇달간은 문제없이 사용하겠습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326431",
+    "RawText": "겨울철이라 실내에서 건조하는 경우가 많은데 다른 제품보다 건조후 풍기는 냄새가 깔끔합니다.  양도 충분해서 오래 쓰겠네요. 주위에 추천하는 제품이랍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "18",
+    "RDate": "20220114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "다른 제품보다 건조후 풍기는 냄새가 깔끔합니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 충분해서 오래 쓰겠네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326433",
+    "RawText": "아주 만족합니다. 샘플 써보니 좋아서 구매했습니다. 세제가 조금 가격대가 있지만 써보니 좋아서 구매했습니다.  여기가 가장 좋은 가격대에서 판매하고 있어서 구매했습니다.   ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "20",
+    "RDate": "20220114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세제가 조금 가격대가 있지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 가장 좋은 가격대에서 판매하고 있어서 구매했습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326444",
+    "RawText": "빨래를 문 닫고 말릴때가 많아 이제품 구매해서 사용해보았는데 빨래에서 냄새도 안나고 향도 좋습니다. 세제 종류는 모두 OOO만 쓰고 있어요. 가격도 여기가 저렴해서 싸게 샀습니다. 잘 사용할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "26",
+    "RDate": "20220206",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "빨래에서 냄새도 안나고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 여기가 저렴해서 싸게 샀습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326446",
+    "RawText": "한번써보고 향도 좋고 향이 은은하게 오래가서 또 구입했습니다.  세정효과도 좋은것같고 여름에 쓰기좋은것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20220209",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향이 은은하게 오래가서 또 구입했습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정효과도 좋은것같고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름에 쓰기좋은것 같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326448",
+    "RawText": "항상 OO만 사용하다가 OOO가 실내건조에 좋고 향이 더 좋다고 해서 바꿔봤어요. 향은 무난한것 같은데 젖은 빨래에서 나는 세균냄새까지 잡아주는지는 잘 모르겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "21",
+    "RDate": "20220210",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 무난한것 같은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "젖은 빨래에서 나는 세균냄새까지 잡아주는지는 잘 모르겠어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "326451",
+    "RawText": "19830원에 구매했습니다. OOO페이로 결재했습니다.  할인 받아 아주 좋은 가격에 구매했습니다. 냄새는 무난하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "12",
+    "RDate": "20220215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인 받아 아주 좋은 가격에 구매했습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새는 무난하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "326466",
+    "RawText": "저렴하게 잘 사서 좋아요.  어제 주문했는데 하루만에 왔네요. 배송도 다른곳보다 더 빠릅니다. 실내건조 주로 하는데 냄새 안 나고 좋아요^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20220224",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 사서 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "실내건조 주로 하는데 냄새 안 나고 좋아요^^",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326467",
+    "RawText": "OOO 세탁세제 실내건조용이 꿉꿉한 냄새도 안나고 좋다고 해서 가성비 좋게 구매해 봤어요. 사은품으로 작은 빨간색 세탁세제도 받아서 기분 좋습니다.  포장도 뚜껑부분이 감싸져 와서 샐 위험 없어서 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "114",
+    "Word": "27",
+    "RDate": "20220226",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가성비 좋게 구매해 봤어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품으로 작은 빨간색 세탁세제도 받아서 기분 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326470",
+    "RawText": "벌써 네번째 구매입니다. 품질이 좋아서 이 세제만 계속 쓰네요. 실내 건조 세제인데 냄새가 넘 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "15",
+    "RDate": "20220303",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": " 품질이 좋아서 이 세제만 계속 쓰네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 넘 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326478",
+    "RawText": "상품 빠르게 배송되었네요. 과대 포장 없이도 최근 제조상품으로 안전하게 받았어요. 상품은 사용 전이지만 자스민향 기대됩니다. 가격도 저렴했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "17",
+    "RDate": "20220303",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "상품은 사용 전이지만 자스민향 기대됩니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴했어요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326484",
+    "RawText": "OOO 향기가 참 좋고 뚜껑에 계량해서 쓰는것도 너무 편해서 쓰기 좋아요 다른 분들께도 추천드립니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "14",
+    "RDate": "20220311",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "OOO 향기가 참 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "뚜껑에 계량해서 쓰는것도 너무 편해서 쓰기 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326485",
+    "RawText": "OOO여서 섬유 유연제인 줄 알고 잘못 구매했네요 우선 양은 많아서 좋네요 사용해보니 세제지만 향도 좋고요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20220314",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양은 많아서 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "세제지만 향도 좋고요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326487",
+    "RawText": "요즘 실내에서 세탁건조를 하다보니 실내건조용세제를 쓰게 되더라고요. 고농축이니 적은 양만 넣어도 되고 세탁도 깨끗이 돼요.  향도 과하지 않고 은은하니 좋네요!",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "20",
+    "RDate": "20220314",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "고농축이니 적은 양만 넣어도 되고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁도 깨끗이 돼요.  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 과하지 않고 은은하니 좋네요! ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326490",
+    "RawText": "항상 애용하는 제품인데 이번에 저렴하게 잘 구매했습니다 항상 향이 좋아서 잘 사용하고 있습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20220316",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 구매했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326497",
+    "RawText": "세탁세제도 세탁이 잘되고 좋은거 같습니다. 이거랑 OOO 섬유유연제를 같이 쓰면 향기가 더 진하고 오래갑니다. 세제도 이제 이거만 써야겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "18",
+    "RDate": "20220317",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁세제도 세탁이 잘되고 좋은거 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "섬유유연제를 같이 쓰면 향기가 더 진하고 오래갑니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326498",
+    "RawText": "역시 OOO입니다. OOO는 향기가 너무 좋으네요.  리필용으로 다른 향기의 종류로 보내주셔서 더 좋아요. 근데 가격은 좀 비싸네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "17",
+    "RDate": "20220317",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " OOO는 향기가 너무 좋으네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "리필용으로 다른 향기의 종류로 보내주셔서 더 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 좀 비싸네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "326500",
+    "RawText": "빠른 배송 감사합니다 고농축이라 세제 양도 적게 사용해서 좋긴한데 향이 생각보다 약해서 좀 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "14",
+    "RDate": "20220317",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "고농축이라 세제 양도 적게 사용해서 좋긴한데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 생각보다 약해서 좀 아쉽네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "326503",
+    "RawText": "마침 세제가 똑 떨어져 급한 마음에 조금 비싸도 그냥 구매했습니다. 향도 나쁘지 않고 배송도 빨라서 좋네요. 잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "18",
+    "RDate": "20220318",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "급한 마음에 조금 비싸도 그냥 구매했습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향도 나쁘지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "326504",
+    "RawText": "유연제만 있는 줄 알았는데 세탁 세제도 있다는 걸 처음 알았네요. 향기가 좋기로 유명한 명성만큼이나 향기는 좋습니다 세탁력도 좋으리라 기대해봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "19",
+    "RDate": "20220321",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기가 좋기로 유명한 명성만큼이나 향기는 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁력도 좋으리라 기대해봅니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "326508",
+    "RawText": "배송은 빠릅니다 늘 사용하는 제품 좋은 가격에 구매했습니다 실내 건조 시 좋아서 자주 사용하는 제품입니다 다 사용한 후 재구매하려고 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "20",
+    "RDate": "20220323",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "제품 좋은 가격에 구매했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "실내 건조 시 좋아서 자주 사용하는 제품입니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326509",
+    "RawText": "OOO 실내 건조 써보고 싶었는데 할인을 하길래 저렴해서 구매했어요. 그런데 향의 지속력이 다른 제품보다 떨어집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20220323",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 구매했어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": " 향의 지속력이 다른 제품보다 떨어집니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "326511",
+    "RawText": "일반 세제랑 성능이 다른 점을 모르겠네요. 빨고 나면 빨래에 물냄새밖에 안나고 건조 후에는 빨래 잘못 말렸을 때나는 냄새가 올라옵니다. 많이 샀는데 다른 사용법도 모르겠고 저걸 다 어쩌나 싶습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "3",
+    "Syllable": "110",
+    "Word": "28",
+    "RDate": "20220403",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "일반 세제랑 성능이 다른 점을 모르겠네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "빨고 나면 빨래에 물냄새밖에 안나고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "건조 후에는 빨래 잘못 말렸을 때나는 냄새가 올라옵니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "다른 사용법도 모르겠고 저걸 다 어쩌나 싶습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "326512",
+    "RawText": "너무너무 좋아요.^^따로 유연제가 필요 없을 정도로 향기가 좋아요. 실내 건조 꿉꿉했는데 향도 좋고 양도 다 만족스럽네요.  세탁기를 열면 기분 좋은 향이 나니 기분이 좋아져요.^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "101",
+    "Word": "24",
+    "RDate": "20220404",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "따로 유연제가 필요 없을 정도로 향기가 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "실내 건조 꿉꿉했는데 향도 좋고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 다 만족스럽네요.  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 세탁기를 열면 기분 좋은 향이 나니 기분이 좋아져요.^^",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326519",
+    "RawText": "향이 좋아서 늘 사용하는 세제인데 가격 저렴하게 패키지로 잘 구입한 것 같아 좋아요.  마개 부분 포장도 흐르지 않게 잘 해서 배송되어 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "22",
+    "RDate": "20220424",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋아서 늘 사용하는 세제인데 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 저렴하게 패키지로 잘 구입한 것 같아 좋아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326520",
+    "RawText": "OOO 세탁세제 블루 쓰는데 향이 좋아서, 핑크도 사봤는데 역시 향이 좋습니다.  사은품이 블루라 좋네요.  잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20220426",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향이 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품이 블루라 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326522",
+    "RawText": "이전에 쓰던 항균세제는 향이 좀 독해서 불편했었는데 OOO는 향이 은은해서 좋습니다.  가격이 좀 비싸기는 하지만 당분간은 요걸로 정착하려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "19",
+    "RDate": "20220428",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "OOO는 향이 은은해서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 비싸기는 하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "326528",
+    "RawText": "가성비 굿인것 같아요. 향도 좋고 살균까지 된다하니 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "34",
+    "Word": "8",
+    "RDate": "20220517",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 굿인것 같아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": " 살균까지 된다하니 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326535",
+    "RawText": "향은 제 취향의 향이 아니라서 별로이지만 초고농축이라 세제량을 조금만 써도 됩니다. OO라 가격이 그닥 저렴하진 않았어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20220519",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 제 취향의 향이 아니라서 별로이지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "초고농축이라 세제량을 조금만 써도 됩니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "OO라 가격이 그닥 저렴하진 않았어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "326538",
+    "RawText": "추가상품 OOO 섬유유연제도 왔습니다. 보너스도 있어 기분 좋습니다. 항상 사용하던 제품 저렴하게 사니까 더 만족스럽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20220519",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "추가상품 OOO 섬유유연제도 왔습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "보너스도 있어 기분 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 사니까 더 만족스럽네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326540",
+    "RawText": "향이 좋아 만족스럽습니다. 할인행사에 사은품 증정까지 있어서 가성비 좋은 만족스러운 구매였어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "11",
+    "RDate": "20220521",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋아 만족스럽습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인행사에",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품 증정까지 있어서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은 만족스러운 구매였어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326541",
+    "RawText": "고농축이라 항상 사용하는 제품이네요. 무엇보다 향이 좋습니다. 세탁력도 당연히 좋구요. 강추합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "11",
+    "RDate": "20220521",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "고농축이라 항상 사용하는 제품이네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁력도 당연히 좋구요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326545",
+    "RawText": "품질이 마음에 드네요. 세제가 다 비슷하려니 생각하고 OO를 계속 쓰다가 OOO로 바꾸니 세척력이 너무 좋네요. 세척력의 차이를 확실히 알게 되었어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "20",
+    "RDate": "20220524",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 마음에 드네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세척력이 너무 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력의 차이를 확실히 알게 되었어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326549",
+    "RawText": "사은품도 주셔서 감사해요.  양도 넉넉하고 가격도 저렴해서 좋습니다. 사용전이라 알 수는 없지만 향이 오래가면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20220525",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 주셔서 감사해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 양도 넉넉하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "사용전이라 알 수는 없지만 향이 오래가면 좋겠네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "326550",
+    "RawText": "첫 구매했어요. 배송도 빠르고 배송상태도 좋습니다. 저렴하게 구매하고 사은품도 받아서 만족합니다. 그리고 향이 좋아요. 잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "16",
+    "RDate": "20220525",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 받아서 만족합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326559",
+    "RawText": "배송 빠르게 잘 왔습니다. 향이 좋아서 섬유유연제는 필요 없습니다. 단 가격은 비싸고 양은 적어요. 참고하세요, 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "4",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20220601",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이좋아서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "섬유유연제는 필요 없습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양은 적어요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "326562",
+    "RawText": "때마침 사려고 생각중이었는데 저렴하게 샀습니다. 늘 쓰던 거라 향 좋아요. 때도 잘 빠져서 기분도 시원해집니다.  잘 쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20220601",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 샀습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "때도 잘 빠져서 기분도 시원해집니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326575",
+    "RawText": "맘에 쏙 듭니다. 배송이 되니 마트가서 무겁게 들고오지 않아도 되고 용량도 크고 세정력도 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "14",
+    "RDate": "20220619",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 크고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력도 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁게 들고오지 않아도 되고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "326576",
+    "RawText": "세정효과가 좋은 것 같아요. 특히 향이 좋아 여름에 쓰기 좋은 것 같습니다. 무엇보다 온오프라인 중 OOOO가 제일 저렴한 듯해서 진짜 착한 가격에 샀습니다. 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "25",
+    "RDate": "20220619",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정효과가 좋은 것 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "특히 향이 좋아",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "무엇보다 온오프라인 중 OOOO가 제일 저렴한 듯해서 진짜 착한 가격에 샀습니",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름에 쓰기 좋은 것 같습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326583",
+    "RawText": "베란다가 작아서 아파트 거실에 빨래 널어야해서 늘 쓰는 제품입니다. 항상 사용하는 제품인데 저렴히 사서 좋았어요. 향기도 은은해서 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "19",
+    "RDate": "20220630",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "항상 사용하는 제품인데 저렴히 사서 좋았어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 은은해서 마음에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326584",
+    "RawText": "섬유유연제 사용하지 않아도 좋은 향이 나네요.  생각보다 향이 강해서 좋고 세탁도 깨끗하게 잘 되는거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20220630",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "섬유유연제 사용하지 않아도 좋은 향이 나네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 생각보다 향이 강해서 좋고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세탁도 깨끗하게 잘 되는거 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326585",
+    "RawText": "OOO는 섬유유연제만 써봤는데 이번에 세탁세제도 써보려고 구매했습니다. 빨래가 깨끗하게 잘 되면 좋겠네요. 가격은 조금만 더 저렴하면 좋았을것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "18",
+    "RDate": "20220701",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "빨래가 깨끗하게 잘 되면 좋겠네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 조금만 더 저렴하면 좋았을것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "326592",
+    "RawText": "향이 좋아서 사춘기 자녀와 운동하는 가족 있는 집에  딱입니다. 하지만 지속력이 약해서 유연제와 같이 써야지만 향이 좀 오래가는 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20220703",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "지속력이 약해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": " 유연제와 같이 써야지만 향이 좀 오래가는 듯합니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "326594",
+    "RawText": "처음 사용해 보는 세제입니다. 가격대는 좀 있지만  사용해 보고 싶어서 바로 주문했습니다. 사은품도 주시고 너무 잘 구매했네요.  아직 사용전인데 세정력도 좋았으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "22",
+    "RDate": "20220706",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대는 좀 있지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 주시고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "아직 사용전인데 세정력도 좋았으면 좋겠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "326615",
+    "RawText": "마트보다 더 저렴하게 샀습니다. OO는 처음 사용해 보는데 유명한 브랜드니까 품질이 뛰어나리라 기대합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "4",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20220721",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트보다 더 저렴하게 샀습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 뛰어나리라 기대합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "326620",
+    "RawText": "꼼꼼하게 포장되어 배송 빨리 되었습니다. OO 세제는 처음인데, 예전에 세정력 관련 세제 기사에 OO가 높은 순위였던 걸 봤는데 마침 쎈딜중이라 구매해 봤습니다. 정말 세정력 좋고 향기도 좋아서 요즘 잘 쓰고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "122",
+    "Word": "31",
+    "RDate": "20220725",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "정말 세정력 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326621",
+    "RawText": "상품 잘 받았어요. 시원한 향이 좋습니다. 다 쓰고 다음에 또 구매할 예정이에요. 합리적인 저렴한 가격에다 증정품까지 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20220728",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "시원한 향이 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 합리적인 저렴한  가격에다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "증정품까지 감사합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326623",
+    "RawText": "향기도 좋고 세탁도 잘 됩니다.  잘 사용할게요. 저렴하게 구입합니다. 무엇보다 2개 구성이라 좋고 양이 많아 더 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20220728",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세탁도 잘 됩니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "2개 구성이라 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아 더 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326624",
+    "RawText": "가격은 저렴하지 않지만 얼룩이 잘 지워지고 좋습니다. 유통기한도 아주 길어서 좋습니다. OOO에서의 쇼핑은 항상 만족하고 최고입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "16",
+    "RDate": "20220729",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴하지 않지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "얼룩이 잘 지워지고 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326638",
+    "RawText": "향도 무난하고 세탁력도 좋습니다. 행사가로 저렴하게 구매했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "36",
+    "Word": "7",
+    "RDate": "20220803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 무난하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁력도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "행사가로 저렴하게 구매했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326640",
+    "RawText": "OO만 쓰다가 주문해 봤어요.  세제만 사용해도 냄새 좋습니다.  근데 가성비는 솔직히 OO이 더  좋은 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20220804",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 세제만 사용해도 냄새 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "  가성비는 솔직히 OO이 더  좋은 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "326646",
+    "RawText": "엄마가 사용해보시고 추천을 해주셔서 처음 사용해 본 제품이에요.  향도 좋고 세탁이 깨끗한 느낌입니다. 잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20220811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁이 깨끗한 느낌입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326651",
+    "RawText": "배송도 빠르네요. 좋은 가격에 OO 쓰니 넘~ 좋아요. 세척력도 좋아 깨끗하게 세탁되네요^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20220819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 OO 쓰니 넘~ 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력도 좋아 깨끗하게 세탁되네요^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326655",
+    "RawText": "실내에서 빨래 말리는 경우가 많아서 애용하고 있어요.  용량도 커서 좋아요.  빨래를 자주 하니 용량 큰 걸로 주문해서 만족하며 사용하고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "20",
+    "RDate": "20220825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "실내에서 빨래 말리는 경우가 많아서 애용하고 있어요.  ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 커서 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 빨래를 자주 하니 용량 큰 걸로 주문해서 만족하며 사용하고 있어요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326661",
+    "RawText": "항상 실내건조세제를 사용하는데 가격이 좀 더 저렴해서 한번 써 보려고 주문했네요. 실내 건조용이 아니라 걱정이 되긴 하는데 세탁 후 꿉꿉한 냄새가 안났으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "23",
+    "RDate": "20210312",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 더 저렴해서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁 후 꿉꿉한 냄새가 안났으면 좋겠습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "326669",
+    "RawText": "저렴하게 너무 잘 산 것 같네요. 포장도 엄청 신경써 주셔서 세지도 않고 뚜껑에 세심한 포장 안전하게 왔어요. 완전 만족입니다. 냄새도 괜찮고 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "22",
+    "RDate": "20210308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 너무 잘 산 것 같네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 괜찮고 만족합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326670",
+    "RawText": "깨끗하게 세탁이 잘 돼서 항상 쓰는 세제라 주문했습니다. 저렴하게 구입해서 좋습니다. 배송도 빠르고 포장 상태도 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20210629",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "깨끗하게 세탁이 잘 돼서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326673",
+    "RawText": "블루 구매했어요. 싱그럽고 향긋한 향 좋습니다. 세탁세제 계량컵도 보기 편해서 마음에 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20191025",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "싱그럽고 향긋한 향 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "세탁세제 계량컵도 보기 편해서 마음에 드네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326674",
+    "RawText": "배송 잘 받았습니다. OOO 액체세재와 섬유유연제 그리고 사은품까지 안전하게 잘 받아 다행이에요. OOO 세제는 세척력도 좋고 사은품도 마음에 쏙 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "20",
+    "RDate": "20191204",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 마음에 쏙 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326676",
+    "RawText": "사용해 보니 세탁력이 좋고 세탁 후 세탁물에 남는 향이 좋아서 재구매 했습니다. 같이 온 사은품도 잘 받았고 사은품 역시 만족스럽게 잘 쓰고 있습니다. 다 사용하면 또 사러 올께요~~^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "104",
+    "Word": "28",
+    "RDate": "20191212",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "사용해 보니 세탁력이 좋고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "세탁 후 세탁물에 남는 향이 좋아서 재구매 했습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 사은품 역시 만족스럽게 잘 쓰고 있습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326678",
+    "RawText": "빨래빨아보면 세척력은 다른 것과 별 차이 모르겠어요. 하지만 양말은 좀 깨끗해지는 거 같네요. 가격이 좀 비싸요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "16",
+    "RDate": "20200122",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력은 다른 것과 별 차이 모르겠어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "양말은 좀 깨끗해지는 거 같네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 비싸요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "326679",
+    "RawText": "대용량으로 구매하였어요. 아직 사용해보진 않았지만 세탁력 좋았으면 합니다. 잘 사용할 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20200128",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량으로 구매하였어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁력 좋았으면 합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "326692",
+    "RawText": "사용해 보지 못한 제품이라 망설임 끝에 주문했는데 향이 너무 좋네요.  개인마다 취향은 다르겠지만 세척력도 좋아 써보시면 후회하지는 않으실 듯 합니다. 망설임 없이 구매하셔되 될 듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "26",
+    "RDate": "20200423",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "개인마다 취향은 다르겠지만 세척력도 좋아 써보시면 후회하지는 않으실 듯 합니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326693",
+    "RawText": "아직 사용은 안 해봤는데 뚜껑 열어보니 향기가 아주 좋네요 좋은 향이 오래 갔으면 좋겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "4",
+    "Syllable": "50",
+    "Word": "14",
+    "RDate": "20200503",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기가 아주 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "좋은 향이 오래 갔으면 좋겠네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "326694",
+    "RawText": "OOO 써보고 좋아서 계속 사용중이네요. 할인해서 저렴하게 샀습니다. 만족합니다. 향도 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "11",
+    "RDate": "20200503",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인해서 저렴하게 샀습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326698",
+    "RawText": "분홍색 써보고 이번 것도 샀습니다. 향도 괜찮고 세정력도 괜찮네요. 세제 이제 정착할 것 같은 느낌입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20200520",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 괜찮고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력도 괜찮네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326699",
+    "RawText": "무지 싸게 샀습니다. 샘플 써봤는데 세정력이 정말 좋네요.  OO 쓰다가 바꿨는데 향도 좋고 양도 많아 한동안은 걱정이 쓸 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "20",
+    "RDate": "20200520",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "무지 싸게 샀습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력이 정말 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아 한동안은 걱정이 쓸 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326700",
+    "RawText": "OO 핑크색 쓰고있는데 블루도 궁금해서 구매했습니다. 블루는 향이 좀 강해서 핑크의 은은한 향이 낫네요. 가격도 블루는 할인이 없어서 더 비싸네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "20",
+    "RDate": "20200520",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "블루는 향이 좀 강해서 핑크의 은은한 향이 낫네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 블루는 할인이 없어서 더 비싸네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "326703",
+    "RawText": "OO 섬유유연제는 워낙 향이 좋고 오래가니 항상 애용하는 중입니다. 그래서 더 기대하고 샀던 세제였고 세제도 향 좋고 빨래도 잘돼서 너무 맘에 듭니다. 재구매하려구요. 배송도 빠르고 포장도 새지않게 꼼꼼하게 왔습니다. 빠른 배송 감사해요,",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "133",
+    "Word": "32",
+    "RDate": "20200521",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "세제도 향 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "빨래도 잘돼서 너무 맘에 듭니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326705",
+    "RawText": "다른 통과 비교해도 키가 더 큽니다. 파란색 통이  뭔가 세탁이 잘 될것만 같은 느낌이 드네요. 개봉전인데 깨끗하게 빨리면 좋겠습니다. 저렴하게 잘샀습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "4",
+    "Syllable": "87",
+    "Word": "21",
+    "RDate": "20200522",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "다른 통과 비교해도 키가 더 큽니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "파란색 통이  뭔가 세탁이 잘 될것만 같은 느낌이 드네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "개봉전인데 깨끗하게 빨리면 좋겠습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘샀습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326706",
+    "RawText": "OOO 세제는 처음 구매해 봤는데 무엇보다 향기가 너무 좋아요. 뚜껑도 특이하고 편리합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20200522",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 무엇보다 향기가 너무 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "뚜껑도 특이하고 편리합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326713",
+    "RawText": "2.8리터라서 용량이 엄청 나서 오래 쓸 수 있을 것 같아요. 세탁세제인데 향도 좋네요. 향기 지속력도 더 좋아진 것 같습니다 추후 또 구매하겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "22",
+    "RDate": "20200526",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "2.8리터라서 용량이 엄청 나서 오래 쓸 수 있을 것 같아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 세탁세제인데 향도 좋네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향기 지속력도 더 좋아진 것 같습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326714",
+    "RawText": "아직 써보진 않았지만 OOO 유연제처럼 향이 진하지 않아서 좋습니다. 상큼하고 시원한 향이라 기분이 상쾌해져요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20200527",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " OOO 유연제처럼 향이 진하지 않아서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "상큼하고 시원한 향이라 기분이 상쾌해져요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326715",
+    "RawText": "가격 저렴하고 배송도 빠릅니다 사용하기도 편리해서 좋습니다 항상 좋은 상품 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20200527",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기도 편리해서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326721",
+    "RawText": "전부터 사용하고 싶었어요. 이번 세일 쿠폰으로 싸게 구매했습니다 효과 좋으면 더 구매하려고요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "4",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20200531",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일 쿠폰으로 싸게 구매했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과 좋으면 더 구매하려고요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "326726",
+    "RawText": "향도 좋고 섬유유연제를 안 넣어도 돼서 좋습니다. OO 사용하다가 OOO로 바꾸게 되었습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20200610",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "섬유유연제를 안 넣어도 돼서 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326730",
+    "RawText": "비싼 것 같습니다. 그러나 향이 좋아 맘엔 드네요. 잘 사용하고 있는데 집듣이 선물로 지인이 핑크를 사왔네요. 핑크도 기대가 되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "19",
+    "RDate": "20200612",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싼 것 같습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향이 좋아 맘엔 드네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326732",
+    "RawText": "오자마자 바로 세탁을 해봤는데 향 거슬리는 거 없고요. 세탁도 깨끗하게 잘 되네요. 가격 만족합니다. 향도 생각보다 오래 가네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "4",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20200613",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향 거슬리는 거 없고요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁도 깨끗하게 잘 되네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 만족합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향도 생각보다 오래 가네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326736",
+    "RawText": "OO는 섬유 유연제만 만드는 줄 알았는데 세탁세제가 있네요. 향기가 뿜뿜나는 세탁세제라고 하니 듣기만해도 기분이 좋아지는 느낌이라 바로 구매했습니다. 아직 세탁해보진 않았지만 역시 OO라 향이 너무 좋네요. 다른 분들 후기 보니 세정력도 OOO이랑 견줄만큼 우수하다고 하니 세정력도 좋을거라고 기대합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "170",
+    "Word": "38",
+    "RDate": "20200623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 아직 세탁해보진 않았지만 역시 OO라 향이 너무 좋네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력도 좋을거라고 기대합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "326738",
+    "RawText": "OO 섬유 유연제는 다양한 향과 은은한 향기 지속성으로 애용하고 있었는데, OO 세제가 나왔다고 해서 주문했어요. 세제 역시 은은하고 상쾌한 향이 좋습니다. 빨래도 잘 빨리는 느낌이에요. 애용하게 될 거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "119",
+    "Word": "29",
+    "RDate": "20200623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "은은하고 상쾌한 향이 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "빨래도 잘 빨리는 느낌이에요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326739",
+    "RawText": "섬유유연제는 항상 OO 제품만 사용하다가 이번에 액체세제도 나왔길래 구매하게되었네요.  세정력은 괜찮은것 같습니다.  세제 자체에서 은은한 향이 나서 좋네요. 핑크랑 블루 중에 고민하다가 왠지 블루가 여름에 잘 어울릴것 같은 향이라서 블루로 구매했어요. 저렴하게 잘 구매해서 좋아요. 앞으로는 세제도 OO로 정착하게 될것 같습니다. 좋은 제품 저렴하게 잘 구매한거 같고 사은품도 이것저것 많이 받을수 있어서 더 좋았습니다. 만족스런 구매였습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "249",
+    "Word": "56",
+    "RDate": "20200623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세정력은 괜찮은것 같습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "세제 자체에서 은은한 향이 나서 좋네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 구매해서 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 제품 저렴하게 잘 구매한거 같고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 이것저것 많이 받을수 있어서 더 좋았습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326740",
+    "RawText": "OO 세탁 세제 오늘 배송 받았어요. OOO 행사로 마트 가격보다 저렴하게 구입했습니다. 세탁 후, 실내 건조 시에도 냄새 없이 향도 오래 오래가네요. 향은 향긋하면서 시원한 향입니다. 향이 요즘같이 더운 날씨에 맞춤인 듯 하네요. 2.8리터 2개로 넉넉한 용량이라 당분간 세제 걱정 없이 오래 사용할 듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "175",
+    "Word": "45",
+    "RDate": "20200623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입했습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "실내 건조시에도 냄새 없이",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 오래 오래가네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 향긋하면서 시원한 향입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "향이 요즘같이 더운 날씨에 맞춤인듯하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "2.8리터 2개로 넉넉한 용량이라 당분간 세제 걱정 없이 오래 사용할 듯 합니다. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326741",
+    "RawText": "세제가 들어간 양을 알 수 있어 좋습니다. 계량이 편해 낭비없이 정량 사용가능해서 좋아요. OO 프리미엄 세탁세제답게 향이 매우 좋습니다. 블루세제는 향이 자스민과 비슷한 향기가 나서좋고 여름에 잘 어울리는 향 같습니다. 빨래후에도 일정시간 향이 지속되고 생선냄새도 제거된다고 하니 고기나 생선 먹고 난 후 냄새걱정을 안 해도 돼요. 세척도 심하지 않는 얼룩을 제거하는 데 효과가 있습니다. 이번에는 블루만을 구매했는데 다음에는 딸기향이 나는 핑크제품도 구매하고 싶네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "263",
+    "Word": "63",
+    "RDate": "20200623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "계량이 편해 낭비없이 정량 사용가능해서 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 매우 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "블루세제는 향이 자스민과 비슷한 향기가 나서좋고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름에 잘 어울리는 향 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "빨래후에도 일정시간 향이 지속되고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "생선냄새도 제거된다고 하니 고기나 생선 먹고 난 후 냄새걱정을 안 해도 돼요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척도 심하지 않는 얼룩을 제거하는 데 효과가 있습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326742",
+    "RawText": "OO 섬유유연제를 사용중이기 때문에 세탁세제는 믿고 구매했습니다. 뚜껑을 열고 향기를 맡아보니 역시나 좋았어요. 세제는 세척력이 더 중요한데 사용해보니 무난하게 좋았어요. 실내건조용도 있는것같던데 다음엔 그것도 사용해 보고싶습니다. 아주만족한 구매였네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "142",
+    "Word": "28",
+    "RDate": "20200623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "뚜껑을 열고 향기를 맡아보니 역시나 좋았어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세제는 세척력이 더 중요한데 사용해보니 무난하게 좋았어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326744",
+    "RawText": "배송 받자마자 사용해봤는데 향이 과하지 않고 상큼하네요.  이번에 주문한 OOO 세탁세제가 세정력이 우수하고 여름에 특히나 빨래후에도 땀냄새등등을 잡고 찌든때 세탁에도 탁월한거 같습니다. 앞으로 세제 섬유유연제는 OOO로 통일해야겠어요. 새지않게 입구도 스치로폴로 잘 포장되어서 배송됐어요. 번창하십시오~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "170",
+    "Word": "34",
+    "RDate": "20200623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 과하지 않고 상큼하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력이 우수하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "여름에 특히나 빨래후에도 땀냄새등등을 잡고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "찌든때 세탁에도 탁월한거 같습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326745",
+    "RawText": "원래 쓰던 세제를 사용하다가 세탁기를 바꾼뒤 평소보다 세척이 잘 되지 않는거 같아서 구매를 했습니다. 섬유유연제 OO는 써봤지만 세제로 사용하는건 처음인데 역시 향이 좋습니다. 평소 사용하던거 보다 세척력도 더 우수한것 같구요. 섬유유연제를 OO로 쓰고 있었는데 같이 쓰니 더 좋은것 같습니다. 앞으로 세탁세제는 OO로 정착할거 같습니다!",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "189",
+    "Word": "44",
+    "RDate": "20200623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "섬유유연제 OO는 써봤지만 세제로 사용하는건 처음인데 역시 향이 좋습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "평소 사용하던거 보다 세척력도 더 우수한것 같구요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "섬유유연제를 OO로 쓰고 있었는데 같이 쓰니 더 좋은것 같습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326746",
+    "RawText": "OOO 하면 섬유유연제로만 알고있어 큰 기대없이 세제를 주문했습니다. 역시 향이 최고네요. 냄새 원인 분자를 제거한다는 내용도 기대되네요. 아직 세탁을 해보지는 않았지만 기대가 되고 섬유유연제와 함께 사용 시 나올 향이 기대가 되네요. 항상 좋은 상품으로 판매해 주시면 좋겠네요. 저렴하게 잘 구매 하였어요 감사합니다. 다음에 기회가 되면 또 구매할 예정입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "202",
+    "Word": "48",
+    "RDate": "20200623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "역시 향이 최고네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "냄새 원인 분자를 제거한다는 내용도 기대되네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "섬유유연제와 함께 사용 시 나올 향이 기대가 되네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 구매 하였어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326747",
+    "RawText": "OOO 세제를 블루로 처음으로 주문해봤습니다. OOO가 워낙 향이 좋다보니 향을 자꾸 맡게 되네요. 블루와 잘 어울리는 상쾌한 향이 나서 일단 향부터 만족입니다. 여름이랑 잘 맞는 향이라 너무 좋습니다. 택배가 좀 일찍오고 빨래 돌릴게 쌓여서 돌려봤는데 정말 잘 빨리는 것 같습니다. 커피 얼룩이 흔적도 없이 사라져버렸어요. 세정력도 훌륭한 것 같습니다. 역시 믿고 쓰는 OOO입니다. 다 쓰고 나면 재주문하러 다시 오겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "239",
+    "Word": "59",
+    "RDate": "20200623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "OOO가 워낙 향이 좋다보니 향을 자꾸 맡게 되네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "블루와 잘 어울리는 상쾌한 향이 나서 일단 향부터 만족입니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "여름이랑 잘 맞는 향이라 너무 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "정말 잘 빨리는 것 같습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 커피 얼룩이 흔적도 없이 사라져버렸어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세정력도 훌륭한 것 같습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326748",
+    "RawText": "적극추천합니다. 별 기대하지 않고 샀는데 써보니 향기도 좋고 찌든 때도 잘빠지는 것 같아요.향기 때문에 섬유유연제를 쓰시는 것이라면 따로 섬유유연제는 안넣어도 될 것 같아요. 포장도 신경써서 보내주셨고 빠른배송 좋습니다. 할인도 하고 있어서 저렴하게 구매했어요. 향기도 은은하니 나는 게 마음에 듭니다.이 가격이라면 앞으로도 계속 구매할 의향있습니다.많이 파세요.~~!",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "206",
+    "Word": "45",
+    "RDate": "20200623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "써보니 향기도 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 찌든 때도 잘빠지는 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "향기 때문에 섬유유연제를 쓰시는 것이라면 따로 섬유유연제는 안넣어도 될 것 같아요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인도 하고 있어서 저렴하게 구매했어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 은은하니 나는 게 마음에 듭니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 가격이라면 앞으로도 계속 구매할 의향있습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326749",
+    "RawText": "달콤한 향이 별루라서 블루로 주문했어요. 시원한 향이 좋아 탁월한 선택이었던 것 같아요. 두껑을 열자마다 좋고 상쾌한 향이 진하게 퍼져서 깜짝 놀랐어요.  섬유유연제 안넣고 세탁해 보았는데 세제 향만으로도 상쾌함은 충분했습니다.  장마철이 곧 다가오는데 항상 상쾌하게 지낼 수 있을 것 같아 기대됩니다. 정말 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "181",
+    "Word": "42",
+    "RDate": "20200623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 시원한 향이 좋아 탁월한 선택이었던 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "두껑을 열자마다 좋고 상쾌한 향이 진하게 퍼져서 깜짝 놀랐어요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "섬유유연제 안넣고 세탁해 보았는데 세제 향만으로도 상쾌함은 충분했습니다.  ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "항상 상쾌하게 지낼 수 있을 것 같아 기대됩니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "326751",
+    "RawText": "배송 너무 빠르고 안전하게 와서 기분이 좋네요. 받자마자 수건 세탁을 하였는데 시원하게 상쾌한 향이 나서 좋아요. 용량도 2.8L 로 오래 쓸수 있을것 같고 손잡이도 달려있어서 편하게 사용하기 좋네요.  당분간은 OOO 블루로 쓸 예정입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "135",
+    "Word": "33",
+    "RDate": "20200623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "시원하게 상쾌한 향이 나서 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 2.8L 로 오래 쓸수 있을것 같고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "손잡이도 달려있어서 편하게 사용하기 좋네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326753",
+    "RawText": "OOO 섬유 유연제는 이미 검증된 제품이고 OOO에서 세탁세제가 나왔다고 해서 궁금 했는데 저렴한 가격에 잘 샀어요. 택배 받자마자 써봤는데 특유의 OOO만의 향이 나는게 좋습니다. 때 빠지는건 좀 더 써보면 알겠지만 무난하네요. 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "135",
+    "Word": "32",
+    "RDate": "20200623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 잘 샀어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "특유의 OOO만의 향이 나는게 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "때 빠지는건 좀 더 써보면 알겠지만 무난하네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "326754",
+    "RawText": "애벌 빨래 없이도 찌든 때가 잘 빠지고 안 보이는 냄새까지 쏙쏙 빠지네요. 거기다가 향기는 다른 세제 다 써보았는데 OOO가 향기도 좋고 지속시간도 길고 최고예요. 전에 마트에서 다른 세제 싸다고 샀다가 때도 잘 빠지고 향기도 바로 없어져서 속상했는데 이곳에서 마트보다 더 싼 가격에 구입할 수 있어서 너무 좋습니다.오늘 빨래 바로 해야겠네요.앞으로 빨래는 OOO만 쓰려구요. 안써본 사람은 있어도 한번만 사용한 사람은 없을걸요.많이 파십쇼.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "247",
+    "Word": "61",
+    "RDate": "20200623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "애벌 빨래 없이도 찌든 때가 잘 빠지고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "지속시간도 길고 최고예요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼 가격에 구입할 수 있어서  너무 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "안 보이는 냄새까지 쏙쏙 빠지네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326755",
+    "RawText": "OOO는 섬유유연제만 써봤는데 세제도 있다고 해서 구매해 봤네요.일단 배송 상태 좋아요. 오자마자 빨래 돌려 봤는데 향이 상큼한 게 여름에 잘 어울리네요. 찌든 때도 잘 빠져요.  앞으로 애용하게 될거 같습니다 ^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "120",
+    "Word": "30",
+    "RDate": "20200623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 상큼한 게 여름에 잘 어울리네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 찌든 때도 잘 빠져요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326756",
+    "RawText": "OOO에서 OOOO 프리미엄 세탁세제 액체형 블루 2.8L 2개를 구매했어요. 포장도 꼼꼼하게 해서 오고 빠른 배송되어 너무 좋네요.  저렴하게 잘 구매했어요. 향기도 너무 마음에 드네요. 앞으로도 OOOO 세탁세제 자주 사용할 것 같아요.  재구매 의사 있어요~~^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "150",
+    "Word": "34",
+    "RDate": "20200623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴하게 잘 구매했어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 너무 마음에 드네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326757",
+    "RawText": "배송이 빨라서 좋았습니다. 오늘 받고 바로 세탁기 돌려봤어요. 뚜껑 열었을때 나는 향이 좋고 세탁후에도 잔향이 남아있어 좋습니다. 대용량 2통을 저렴한 가격에 잘 구입했네요. 다음엔 핑크색상으로 구매해볼 예정입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "120",
+    "Word": "27",
+    "RDate": "20200623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "뚜껑 열었을때 나는 향이 좋고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "세탁후에도 잔향이 남아있어 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 대용량 2통을 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 잘 구입했네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326758",
+    "RawText": "OOO 프리미엄 세탁세제 액체형 블루 2.8L 2개 OOO에서 구매하였습니다. 여러가지 행사 이벤트가 있어서 저렴하게 잘 샀어요. 오늘 집에 도착하자마자 사용했는데 향기도 너무 좋고 세탁도 잘 되는거 같았어요. 핑크 주문할려다가 전부 블루로 주문했는데 다음번 주문시에는 핑크로 주문해보려고요. 제품 마음에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "175",
+    "Word": "39",
+    "RDate": "20200623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "여러가지 행사 이벤트가 있어서 저렴하게 잘 샀어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 너무 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세탁도 잘 되는거 같았어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326759",
+    "RawText": "받자마자 궁금증에 쓰던 세제는 안쓰고  일단 빨아봤는데 빨래 향이 장난아니게 좋습니다. 기존에 OO제품은 잔향이 너무 지속되지 않아서 맘에 안들었는데  OOO는 잔향도 오래 지속된다는 평을 봤습니다. 일단 빨래는 했으니 햇볕에 잘 말리면 잔향도 계속 유지됐으면 좋겠네요. 마침 낼부터는 장마라서 일단 햇빛 건조가 아닌 대조군이 생기니까 괜찮으려나 싶고요. 쓰던 세제는 얼른 다 써버리고 OOO로 써야겠네요. 한 세트만 구입했는데 향이 이렇게 좋은줄 알았으면 몇 세트 더 사둘걸  하는 생각도 들었습니다. 다 쓰고 떨어질 때 쯤 세일시즌이었으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "310",
+    "Word": "74",
+    "RDate": "20200623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "빨래 향이 장난아니게 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "잔향도 계속 유지됐으면 좋겠네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 이렇게 좋은줄 알았으면",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326760",
+    "RawText": "굉장해요. 향기 지속력이 어마어마하고 세정력 또한 우수해요. 향도 좋고 섬유유연제를 따로 넣지않아도 되는 게 가장 마음에 들어요. 포토이벤트와 더불어 저렴한 가격에 기분좋게 구매했습니다 매우 만족합니다 적극 추천합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "121",
+    "Word": "27",
+    "RDate": "20200623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향기 지속력이 어마어마하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력 또한 우수해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "섬유유연제를 따로 넣지않아도 되는 게 가장 마음에 들어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 기분좋게 구매했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "326761",
+    "RawText": "찌든때 묻은 세탁물은 애벌빨래 하느라 시간이 더 소요 되더라고요. 그런데 OOO 프리미엄 세탁세제는 애벌빨래 없이도 찌든 때와 얼룩을 보다 효과적으로 제거할 수 있도록 세탁력을 강화하였다고 합니다. 제대로 깨끗하게 빨아졌을까하는 걱정도 되었는데 사용해보니 지저분하던 얼룩이 한번에 사라졌습니다. 애벌빨래를 하지 않았는데도 깨끗해져서 놀랐어요. 집에 쓰던 섬유유연제와 함께 쓰니 더욱 향이 좋고  빨래가 쾌적해지는 느낌이네요. OOO 세탁세제와 섬유유연제 함께 써 보시길 추천드립니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "270",
+    "Word": "59",
+    "RDate": "20200623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "지저분하던 얼룩이 한번에 사라졌습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "애벌빨래를 하지 않았는데도 깨끗해져서 놀랐어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "집에 쓰던 섬유유연제와 함께 쓰니 더욱 향이 좋고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "빨래가 쾌적해지는 느낌이네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

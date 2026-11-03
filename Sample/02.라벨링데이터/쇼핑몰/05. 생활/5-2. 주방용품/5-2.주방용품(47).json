@@ -1,0 +1,3136 @@
+[
+  {
+    "Index": "438949",
+    "RawText": "절삭력이 좋습니다. 잘  쓰고 있습니다. 손 조심한다고 고무 장갑 끼고 했다가 장갑 몇 개나 나갔는데 요령 터득하면 괜찮을 거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "4",
+    "Syllable": "76",
+    "Word": "20",
+    "RDate": "20210310",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력이 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손 조심한다고 고무 장갑 끼고 했다가 장갑 몇 개나 나갔는데 요령 터득하면 괜찮을 거 같습니다.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "438951",
+    "RawText": "생각보다 큽니다. 힘 안 들여도 얇게 잘 썰리니 편합니다. 칼날 진짜 날카로우니 다치지 않게 조심해야 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "4",
+    "Syllable": "61",
+    "Word": "16",
+    "RDate": "20210309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "생각보다 큽니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "힘 안 들여도 얇게 잘 썰리니 편합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "칼날 진짜 날카로우니 다치지 않게 조심해야 합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "438955",
+    "RawText": "배송은 2일 걸리고 상품은 좋은 편이에요. 칼날이 날카로워 손조심해야 될것 같아요. 두께 조절이 조금 되어 편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "4",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20210306",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 칼날이 날카로워 손조심해야 될것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "두께 조절이 조금 되어 편합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "438968",
+    "RawText": "가격이 비싸서 구매하기까지 고민하다 평이 좋아서 구매했습니다. 하지만 고민한 시간이 아까웠을 정도로 너무 좋습니다.  사용 중에 손가락 조심하시고 양배추 외 다른 거 자르면 제품에 색이 물듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "26",
+    "RDate": "20210219",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싸서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용 중에 손가락 조심하시고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "양배추 외 다른 거 자르면 제품에 색이 물듭니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "438973",
+    "RawText": "업소용처럼은 아니더라도 가정용으론 가성비 정말 좋습니다. 이거 하나 사서 집에서 양배추 샐러드 원없이 먹는 듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20210203",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "업소용처럼은 아니더라도 가정용으론 가성비 정말 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "이거 하나 사서 집에서 양배추 샐러드 원없이 먹는 듯 합니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "438983",
+    "RawText": "생각보다 채칼이 커서 놀랐습니다. 양배추샐러드를 해먹으려 구매했는데 잘 썰릴 것 같아요. 아주 튼튼해보여서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20210128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "생각보다 채칼이 커서 놀랐습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "양배추샐러드를 해먹으려 구매했는데 잘 썰릴 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 아주 튼튼해보여서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "438985",
+    "RawText": "얇게 채 썬 양배추샐러드를 좋아하는데 딱 제가 원하는 얇은 두께로 잘 썰려서 너무 좋습니다. 칼날이 많이 위험하니 조심해서 사용해야 할 듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "22",
+    "RDate": "20210126",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "원하는 얇은 두께로 잘 썰려서 너무 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 칼날이 많이 위험하니 조심해서 사용해야 할 듯 합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "438987",
+    "RawText": "배송이 빨라 좋았네요.  작동도 잘 됩니다.  사용시 다칠수 있으니 맨손으로 하지 말고 안전캡 꼭 사용하길 바랍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20210124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "작동도 잘 됩니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용시 다칠수 있으니 맨손으로 하지 말고 안전캡 꼭 사용하길 바랍니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "438988",
+    "RawText": "돈까스 가게에서 나오는 가느다란 양배추 샐러드가 먹고 싶어서 구매했어요. 이제 집에서도 맛있는 양배추 샐러드 먹어요.  이 슬라이서 덕분에 요즘 1일1양배추 샐러드 먹고 있는데 너무 맛나네요. 그런데 칼날때문에 손조심해야 해서 사용할 때마다 긴장이 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "143",
+    "Word": "33",
+    "RDate": "20210123",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "이 슬라이서 덕분에 요즘 1일1양배추 샐러드 먹고 있는데 너무 맛나네요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그런데 칼날때문에 손조심해야 해서 사용할 때마다 긴장이 됩니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "이제 집에서도 맛있는 양배추 샐러드 먹어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "438995",
+    "RawText": "쌈무 만들 때 적당한 채칼이 없었는데 얇게 잘 썰립니다.  홀더가 있어서 안전하게 보관할 수 있는 것도 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "18",
+    "RDate": "20210120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "쌈무 만들 때 적당한 채칼이 없었는데 얇게 잘 썰립니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "홀더가 있어서 안전하게 보관할 수 있는 것도 마음에 듭니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439008",
+    "RawText": "배송 받고 바로 양배추샐러드 해서 먹었는데 가늘게 잘 나왔어요.  손 베인 분들이 많다고 해서 살살 사용했는데 정말 잘 되네요. 그런데 채소는 찢어서 해야하는데 잘 안됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "25",
+    "RDate": "20210108",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "양배추샐러드 해서 먹었는데 가늘게 잘 나왔어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손 베인 분들이 많다고 해서 살살 사용했는데 정말 잘 되네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "채소는 찢어서 해야하는데 잘 안됩니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "439021",
+    "RawText": "곱게 잘 썰립니다. 시간도 절약되고 단점이 있다면 당근을 채 썰 때 색이 흰 플라스틱에 물이 들어버렸습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "16",
+    "RDate": "20201225",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "곱게 잘 썰립니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "시간도 절약되고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "당근을 채 썰 때 색이 흰 플라스틱에 물이 들어버렸습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "439028",
+    "RawText": "양배추 샐러드 해먹기 좋게 잘 썰려서 좋아요. 배송도 빨리 와서 만족합니다.  근데 칼날이 많이 위험해서 썰 때 손가락 조심해야겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "4",
+    "Syllable": "76",
+    "Word": "19",
+    "RDate": "20201218",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "양배추 샐러드 해먹기 좋게 잘 썰려서 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "칼날이 많이 위험해서 썰 때 손가락 조심해야겠습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "439034",
+    "RawText": "아주 만족스럽습니다. 식당에서 나오는 양배추보다 더 얇게 썰려서 나오는 것 같아요. 양배추 샐러드는 조금만 두꺼워도 식감이 떨어져서 먹기가 부담스러운데 거의 실처럼 두께가 얇아서 먹기가 정말 좋네요. 근데 칼날이 엄청 날카로워서 애들 있는집에서는 꽁꽁 숨겨놓거나 손이 닫지 않는 곳에 보관해야 할 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "171",
+    "Word": "41",
+    "RDate": "20201211",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "식당에서 나오는 양배추보다 더 얇게 썰려서 나오는 것 같아요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": " 거의 실처럼 두께가 얇아서 먹기가 정말 좋네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "칼날이 엄청 날카로워서 애들 있는집에서는 꽁꽁 숨겨놓거나 손이 닫지 않는 곳에 보관해야 할 듯합니다.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "439042",
+    "RawText": "양배추 썰었는데 왜 안썰리지 하고 아래를 보니 양배추가 썰려 있네요.  순식간에 썰리니 느낌보다는 이 정도 썰어야지 먼저 생각해 두시고 쓰셔야 될 것 같습니다.  가늘게 썰어지니 양배추 식감이 좋아 많이 먹게 되어 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "124",
+    "Word": "32",
+    "RDate": "20201206",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "양배추 썰었는데 왜 안썰리지 하고 아래를 보니 양배추가 썰려 있네요.  ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": " 순식간에 썰리니 느낌보다는 이 정도 썰어야지 먼저 생각해 두시고 쓰셔야 될 것 같습니다.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "가늘게 썰어지니 양배추 식감이 좋아 많이 먹게 되어 좋아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439049",
+    "RawText": "한 번 사용했는데 양배추 썰기 좋은 것 같습니다. 자꾸 연습하면 두께가 고르게 잘 될 듯합니다. 배송도 빨라서 정말 맘에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "20",
+    "RDate": "20201119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "양배추 썰기 좋은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 자꾸 연습하면 두께가 고르게 잘 될 듯합니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439073",
+    "RawText": "몸체가 넓어서 좋고 얇게 썰려서 양배추 무우 썰기 좋아요. 날이 꽤 날카로우니 손조심하셔야 해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "14",
+    "RDate": "20201021",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "몸체가 넓어서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": " 얇게 썰려서 양배추 무우 썰기 좋아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "날이 꽤 날카로우니 손조심하셔야 해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "439079",
+    "RawText": "너무 부드럽게 힘 안 들여도 잘 잘려요. 돈까스집 양배추샐러드 만들어 먹었네요. 무척 날카로우니 칼날 조심하셔야 해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20201013",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "너무 부드럽게 힘 안 들여도 잘 잘려요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "돈까스집 양배추샐러드 만들어 먹었네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 무척 날카로우니 칼날 조심하셔야 해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "439080",
+    "RawText": "완전 짱입니다.  써보고 너무 좋아서 선물도 하나 보냈습니다.  돈까스집 양배추샐러드 연어집 양파채 처럼 다 얇게 너무 잘 됩니다.  조금 커서 당황했지만 성능이 크기를 잊게 하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "25",
+    "RDate": "20201011",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "돈까스집 양배추샐러드 연어집 양파채 처럼 다 얇게 너무 잘 됩니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "조금 커서 당황했지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능이 크기를 잊게 하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439081",
+    "RawText": "가게서 파는 양배추같이 얇고 곱게 잘 썰어져요. 두께조절 되어 더 좋습니다. 사이즈도 크고 양 옆으로 넓어서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "17",
+    "RDate": "20201009",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "가게서 파는 양배추같이 얇고 곱게 잘 썰어져요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 두께조절 되어 더 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 크고 양 옆으로 넓어서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439083",
+    "RawText": "몇 번 망설이다 주문했는데 가늘고 쉽게 잘 썰리네요. 캡이 있어서 보관도 위험하지 않고 정말 좋아요. 진짜 강추네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "17",
+    "RDate": "20201008",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "가늘고 쉽게 잘 썰리네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": " 캡이 있어서 보관도 위험하지 않고 정말 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439087",
+    "RawText": "큰 무를 쓱쓱 채쳐도 될 정도로 일반 채칼보다 커서 좋습니다. 절삭력도 좋습니다. 감자 얇게 슬라이스해서 말렸다가 튀겨 먹으려고 주문했는데 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "21",
+    "RDate": "20201007",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "큰 무를 쓱쓱 채쳐도 될 정도로 일반 채칼보다 커서 좋습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력도 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439088",
+    "RawText": "정말 튼튼해 보입니다.  손잡이도 있어서 편하고  밑면 넓이도 넓고 튼튼해보이네요. 색깔도 환하구 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20201007",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "정말 튼튼해 보입니다.  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "손잡이도 있어서 편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 밑면 넓이도 넓고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 튼튼해보이네요. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔도 환하구 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439095",
+    "RawText": "양배추샐러드랑 무쌈을 해먹으려고 샀습니다.  아직 안써봤는데 얇게 잘 썰린다고 하니 기대가 되네요. 위험하니 손조심하란 평이 많아서 좀 긴장이 됩니다. 일제라 좀 그런데 대체할 만한 것이 없는 것 같아 그냥 샀습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "4",
+    "Syllable": "121",
+    "Word": "30",
+    "RDate": "20200926",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": " 아직 안써봤는데 얇게 잘 썰린다고 하니 기대가 되네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "위험하니 손조심하란 평이 많아서 좀 긴장이 됩니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "439100",
+    "RawText": "가는 양배추 채 해봤는데 아주 만족합니다. 힘도 안들고 수월하게 되니 너무 좋습니다. 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20200916",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "가는 양배추 채 해봤는데 아주 만족합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "힘도 안들고 수월하게 되니 너무 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439110",
+    "RawText": "양배추용으로 구매했는데 크고 튼튼해 보입니다. 실처럼 얇게 썰리지는 않지만 먹기에 좋네요. 잘 산거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "4",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20200905",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해 보입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "실처럼 얇게 썰리지는 않지만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "439124",
+    "RawText": "두께 조절이 안되니 불편합니다. 절삭력은 좋은데 손은 조심해야 합니다. 그래도 여러 요리에 잘 사용해 볼게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20200821",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "두께 조절이 안되니 불편합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력은 좋은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손은 조심해야 합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "439128",
+    "RawText": "배송이 빠르고 물건 잘 받았습니다. 칼날 접합부가 살짝 녹이 쓸어 있었는데 사용성에 문제없어 교환 안하고 그냥 씁니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "17",
+    "RDate": "20200814",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "칼날 접합부가 살짝 녹이 쓸어 있었는데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용성에 문제없어 교환 안하고 그냥 씁니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "439132",
+    "RawText": "얇게 잘 썰려 좋으네요.  칼날이 날카롭다는 후기가 많아 엄청 조심스럽게 쓰고 있습니다. 배송도 빠르고 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20200811",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "얇게 잘 썰려 좋으네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 칼날이 날카롭다는 후기가 많아 엄청 조심스럽게 쓰고 있습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "439136",
+    "RawText": "칼날이 날카로워서 조심해야 할 것 같네요. 폭이 넓어서 무 슬라이스하기에는 좋을 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "13",
+    "RDate": "20200805",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "칼날이 날카로워서 조심해야 할 것 같네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "폭이 넓어서 무 슬라이스하기에는 좋을 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439137",
+    "RawText": "받자마자 양배추를 잘라 봤는데 장난 아니게 잘 잘립니다. 단단한 꼬다리 부분도 여지없이 간단하게 잘려 진작 살 걸 하고 생각했답니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "19",
+    "RDate": "20200801",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "장난 아니게 잘 잘립니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "단단한 꼬다리 부분도 여지없이 간단하게 잘려",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439140",
+    "RawText": "너무 부드럽게 잘 잘립니다. 배송도 빠르고 좋네요. 제가 양배추 샐러드를 좋아해서 이것저것 검색 후 구입했는데 품질 나쁘지 않아 보입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20200731",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "너무 부드럽게 잘 잘립니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 나쁘지 않아 보입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "439141",
+    "RawText": "요즘 저녁에 양배추 샐러드를 먹어요. 속이 너무 쓰려서 먹기 시작했는데 다음날 속도 쓰리지 않고 몸도 가벼워지는것 같아 너무 좋습니다. 그런데 채를 썰어야 하는데 얇게 썰어도 두껍고 시간도 오래 걸려서 양배추 채칼 찾다 구입했는데 진짜 좋습니다.  칼날이 날카로워서 정말 조심해야 하고 세척하는 부분도 신경 쓰이지만 정말 구입 잘 한 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "193",
+    "Word": "50",
+    "RDate": "20200731",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "칼날이 날카로워서 정말 조심해야 하고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "세척하는 부분도 신경 쓰이지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "439145",
+    "RawText": "칼이 잘 들어 양배추 신나게 자르다가 손까지 잘랐네요. 정말 위험하니 조심히 사용해야 할 듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "4",
+    "Syllable": "56",
+    "Word": "15",
+    "RDate": "20200730",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "칼이 잘 들어 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "정말 위험하니 조심히 사용해야 할 듯 합니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "양배추 신나게 자르다가 손까지 잘랐네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "439147",
+    "RawText": "그림하고 똑같이 생겼네요. 실제로 받아보니 칼날이 위로 솟아 있어서 손 조심해야겠어요. 실물이 생각보다 작은 편입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "3",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20200725",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "칼날이 위로 솟아 있어서 손 조심해야겠어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "실물이 생각보다 작은 편입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "439150",
+    "RawText": "얇은 양배추 먹고 싶어서 산 채칼인데, 정말 얇게 잘 썰려서 양배추 아삭하고 맛납니다. 두께 조절해서 자를 수도 있으니 사용하기 나쁘지 않을 것 같습니다.만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "23",
+    "RDate": "20200724",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "정말 얇게 잘 썰려서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "두께 조절해서 자를 수도 있으니",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 사용하기 나쁘지 않을 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": " 양배추 아삭하고 맛납니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439156",
+    "RawText": "양배추 채칼로는 품질이 최고인 듯 합니다.  돈까스집 양배추처럼 나오는데 엄청 잘 잘립니다.  진짜 구매 강추합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20200717",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "양배추 채칼로는 품질이 최고인 듯 합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "돈까스집 양배추처럼 나오는데 엄청 잘 잘립니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439165",
+    "RawText": "안써봤지만 절삭력이 기대가 됩니다. 품질에 비해 가격이 비싸 보이지 않습니다. 배송도 빠르고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20200713",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "안써봤지만 절삭력이 기대가 됩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "품질에 비해 가격이 비싸 보이지 않습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439177",
+    "RawText": "집에있는 양배추칼 쓰기가 불편해서 좀 가격있지만 이 제품으로구매했습니다. 너무 튼튼하고 기존것에 비해 술술 썰리는 기분이라 샐러드 준비하기가 훨씬 편해졌습니다. 잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "21",
+    "RDate": "20200702",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좀 가격있지만 이 제품으로구매했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 너무 튼튼하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "기존것에 비해 술술 썰리는 기분이라",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "샐러드 준비하기가 훨씬 편해졌습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439181",
+    "RawText": "오 좋네요. 돈까스집 양배추 샐러드 가능하겠어요. 칼이 너무 날카로워서 안전 손잡이도 잘려요. 큼지막하니 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20200630",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "돈까스집 양배추 샐러드 가능하겠어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "칼이 너무 날카로워서 안전 손잡이도 잘려요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "큼지막하니 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439189",
+    "RawText": "양배추 썰기에 넓고 좋습니다. 칼로 힘들게 썰지 않아도 되니 편리합니다. 빠른 배송도 감사합니다. 잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20200626",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "양배추 썰기에 넓고 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "칼로 힘들게 썰지 않아도 되니 편리합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439196",
+    "RawText": "주위에서 추천해줘서 구입했는데 양배추 양파 잘 썰립니다. 삼겹살 곁들여 먹고 양배추 요리도 잘 먹을수 있을것 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20200620",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "양배추 양파 잘 썰립니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "삼겹살 곁들여 먹고 양배추 요리도 잘 먹을수 있을것 같네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439200",
+    "RawText": "생각보다 사이즈 커서 받아보고 놀랐네요. 양배추는 진짜 얄게 갈려서 일식집 그 느낌이 납니다. 양배추 마니 먹어야겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20200619",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "생각보다 사이즈 커서 받아보고 놀랐네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "양배추는 진짜 얄게 갈려서 일식집 그 느낌이 납니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439206",
+    "RawText": "채는 아주 가늘게 썰어야 되어서 조절 안되는 채칼은 포기했습니다.  그래서 슬라이스로 해서 손으로 채 썰려고 구매했는데 얇게 잘 잘려서 좋습니다. 그런데 칼날이 완전 예리해서 손조심해야겠습니다. ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "25",
+    "RDate": "20200617",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "얇게 잘 잘려서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "칼날이 완전 예리해서 손조심해야겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "439207",
+    "RawText": "신세계입니다. 사용도 편하고 아주 잘 잘립니다. 사용한 지 며칠 밖에 안 됐지만 아주 잘 사용하고 있습니다. 많이 파시고 번창하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "19",
+    "RDate": "20200616",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용도 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "아주 잘 잘립니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439226",
+    "RawText": "칼은 그래도 나름 잘 드는것 같은데 채 썰때 끝부분이 자꾸 남아요. 채칼 길이가 짧아서 채소가 미끌어집니다. 그래서 더 짧은 길이로 잘라지네요. 컴팩트해서 보관하기는 좋은데 사용하기엔 살짝 아쉬운 크기네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "4",
+    "Syllable": "115",
+    "Word": "28",
+    "RDate": "20200603",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "칼은 그래도 나름 잘 드는것 같은데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "채 썰때 끝부분이 자꾸 남아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "채칼 길이가 짧아서 채소가 미끌어집니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그래서 더 짧은 길이로 잘라지네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "컴팩트해서 보관하기는 좋은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사용하기엔 살짝 아쉬운 크기네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "439237",
+    "RawText": "정말 얇게 썰립니다. 양배추 굵은 심지도 종이 두께처럼 썰려서 깜짝 놀랬습니다. 왜 양배추 채칼 검색하면 OOOO 채칼이 많은지 알겠습니다. 이제 샌드위치나 돈까스 먹을 때 밖에서 파는 느낌으로 맛나게 맘껏 먹을 거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "126",
+    "Word": "32",
+    "RDate": "20200528",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "정말 얇게 썰립니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "양배추 굵은 심지도 종이 두께처럼 썰려서 깜짝 놀랬습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "이제 샌드위치나 돈까스 먹을 때 밖에서 파는 느낌으로 맛나게 맘껏 먹을 거 같습니다.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439238",
+    "RawText": "배송도 나름 무난했습니다. 생각하고 예상했던 사이즈의 물건이 온 거 같습니다. 저렴하게 잘 구입했네요. 주변의 평이 워낙 좋아서 믿고 구입한건데 사용 후, 괜찮으면 주변 지인들에게 많이 추천해야겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "113",
+    "Word": "26",
+    "RDate": "20200527",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "생각하고 예상했던 사이즈의 물건이 온 거 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 구입했네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439243",
+    "RawText": "채칼 처음 써보네요. 두께 조절 하는 데가 없어 헤맸습니다. 칼날이 엄청 날카로우니 손가락 조심해야겠습니다. 볼에 채칼 얹어서 해보니 움직여서 거치대가 없는 게 불편하고 아쉽네요. 양파는 엄청 얇게 잘됩니다. 식당 가니 양배추를 얇게 슬라이스해서 나왔는데 엄첨 많이 먹게 되어서 상품평 보고 주문하게 됐습니다. 아무튼 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "4",
+    "Syllable": "188",
+    "Word": "45",
+    "RDate": "20200522",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "두께 조절 하는 데가 없어 헤맸습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "칼날이 엄청 날카로우니 손가락 조심해야겠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "볼에 채칼 얹어서 해보니 움직여서 거치대가 없는 게 불편하고 아쉽네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "양파는 엄청 얇게 잘됩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439264",
+    "RawText": "오늘 받고 진짜 커서 깜놀했습니다. 바로 양배추 채 썰었는데 일식집처럼 가늘게 썰립니다.  찬물에 좀 담갔다가 고기 먹을 때 간장 소스 뿌려 먹으니 애들이 평소보다 더 맛나게 많이 먹습니다.  얇은 채라 소화하기도 좋고 식감도 시원해서 더 맛나고 좋습니다. 진작에 살 걸하는 후회가 듭니다. 착한 가격에 너무나 잘 샀습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "181",
+    "Word": "47",
+    "RDate": "20200429",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "오늘 받고 진짜 커서 깜놀했습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "바로 양배추 채 썰었는데 일식집처럼 가늘게 썰립니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "찬물에 좀 담갔다가 고기 먹을 때 간장 소스 뿌려 먹으니 애들이 평소보다 더 맛나게 많이 먹습니다. ",
+        "SentimentWord": "16",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "얇은 채라 소화하기도 좋고 식감도 시원해서 더 맛나고 좋습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한 가격에 너무나 잘 샀습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439273",
+    "RawText": "얇게 채 썰어져 너무 좋습니다. 손 다칠까 봐 무섭긴 합니다. 하지만 양배추를 아까워하지만 않으면 된다는 걸 명심 또 명심하고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "20",
+    "RDate": "20200424",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "얇게 채 썰어져 너무 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손 다칠까 봐 무섭긴 합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "439277",
+    "RawText": "받아서 한번 사용하고 설거지해서 말려놨는데 벌써 날이 녹슬었네요. 품질이 너무 안 좋네요. 이미 사용은 했는데 혹시 반품이 안될까요?",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "1",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20200420",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "받아서 한번 사용하고 설거지해서 말려놨는데 벌써 날이 녹슬었네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 너무 안 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "439286",
+    "RawText": "채칼 덕분에 야채가 얇게 잘 썰려서 먹기 편해졌습니다. 그런데 정말 무서울 정도로 잘 썰려서 위험하니 조심해야겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20200416",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "채칼 덕분에 야채가 얇게 잘 썰려서 먹기 편해졌습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "정말 무서울 정도로 잘 썰려서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "위험하니 조심해야겠습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "439296",
+    "RawText": "고정핀도 있으니 칼날이 무섭긴 하지만 조심해서 잘 써 보려고 합니다. 얇게 채썰기 좋습니다. 많은 양도 금방 해결할 수 있을 듯하여 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "4",
+    "Syllable": "79",
+    "Word": "21",
+    "RDate": "20200407",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "고정핀도 있으니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "칼날이 무섭긴 하지만 조심해서 잘 써 보려고 합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "얇게 채썰기 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "많은 양도 금방 해결할 수 있을 듯하여 좋습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439300",
+    "RawText": "빠른 배송 잘 받았네요. 생각보다 커서 깜짝 놀랐습니다. 당근이랑 양배추 편하게 채 썰기 좋을 것 같아요. 잘 사용할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "18",
+    "RDate": "20200403",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "생각보다 커서 깜짝 놀랐습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "당근이랑 양배추 편하게 채 썰기 좋을 것 같아요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439301",
+    "RawText": "큰 무는 얇게 잘 안 되고 좀 작은 무로 하니 얇게 잘 잘립니다. 절삭력이 좋아서 손 안 베이게 조심해야겠습니다. 일제는 불매 하는데 아무리 검색해도국산중에는 이거보다 잘 잘리는게 없습니다. 씁쓸합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "4",
+    "Syllable": "113",
+    "Word": "29",
+    "RDate": "20200403",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "큰 무는 얇게 잘 안 되고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": " 좀 작은 무로 하니 얇게 잘 잘립니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력이 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손 안 베이게 조심해야겠습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "439303",
+    "RawText": "약간 두껍게 썰리는 거 같긴합니다. 그런데 정말 사용하기 편하고 잘 썰립니다. 남편이 두 번 썰었는데 두 번 다 피 봤습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "20",
+    "RDate": "20200402",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "약간 두껍게 썰리는 거 같긴합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "정말 사용하기 편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "잘 썰립니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "남편이 두 번 썰었는데 두 번 다 피 봤습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "439308",
+    "RawText": "가족들이 무쌈을 좋아하는데 무 썰기를 일정하게 만들 수 없어 구매했네요. 성능이 엄청 좋습니다. 무쌈 맛있게 만들어 먹었네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "4",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20200330",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능이 엄청 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "무쌈 맛있게 만들어 먹었네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439333",
+    "RawText": "예전에도 써봤는데 너무 좋아서 다시 샀습니다. 근데 이번에는 칼이 조금 무딥니다. 그래도 칼날이 있으니 손 안다치게 조심해서 써야 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "3",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20200314",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "근데 이번에는 칼이 조금 무딥니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "칼날이 있으니 손 안다치게 조심해서 써야 합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "439348",
+    "RawText": "배송은 사흘정도 걸렸습니다. 크기는 생각보다 작지만 사용하기는 괜찮습니다. 크기 비교 사진 올립니다. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "13",
+    "RDate": "20200229",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기는 생각보다 작지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기는 괜찮습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439352",
+    "RawText": "OOO에서 채칼을 구매해서 써 봤는데 전혀 아니었는데 여기 것은 채 조절도 되고 잘 썰립니다. 확실히 품질이 다르네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "17",
+    "RDate": "20200227",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 채 조절도 되고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": " 잘 썰립니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "확실히 품질이 다르네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439358",
+    "RawText": "양배추가 얇게 잘 잘립니다. 덕분에 양배추를 정말 맛있게 먹었습니다. 손 안 다치게 조심해서 사용하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20200223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "양배추가 얇게 잘 잘립니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "덕분에 양배추를 정말 맛있게 먹었습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손 안 다치게 조심해서 사용하세요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "439375",
+    "RawText": "돈까스 집에서 주는 양배추처럼 썰어 먹고 싶어서 샀습니다. 집에서 바로 해봤는데 얄팍하게 잘 썰립니다.  OOO에서 3천원 주고 산 거랑은 칼날 퀄리티 자체가 다릅니다. 후기가 좋아서 산 건데 역시 사길 잘한 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "123",
+    "Word": "32",
+    "RDate": "20200207",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "얄팍하게 잘 썰립니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "OOO에서 3천원 주고 산 거랑은 칼날 퀄리티 자체가 다릅니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439390",
+    "RawText": "가게에서 쓰려고 구매했어요. 사이즈 넓이가 맞질 않아 반품하려고 합니다. 생각보다 작습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "3",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20200126",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈 넓이가 맞질 않아 반품하려고 합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "생각보다 작습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "439393",
+    "RawText": "너무 칼날이 날카로워서 세척시 수세미도 잘립니다.  조심히 양배추 쓱쓱 긁으니 실처럼 가느다란 양배추가 나와서 양배추 샐러드를 금방 뚝딱 완성했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "19",
+    "RDate": "20200118",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "너무 칼날이 날카로워서 세척시 수세미도 잘립니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "조심히 양배추 쓱쓱 긁으니 실처럼 가느다란 양배추가 나와서",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "양배추 샐러드를 금방 뚝딱 완성했습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439399",
+    "RawText": "오자마자 무 잘라 보았습니다. 처음 사용해 보는 거라 잘 모르겠지만 힘을 빡빡 줘서 하는 게 맞는 건지 힘이 많이 들어가네요.  가정집에서 쓰긴 딱 좋은 사이즈 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "4",
+    "Syllable": "95",
+    "Word": "26",
+    "RDate": "20200113",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "힘을 빡빡 줘서 하는 게 맞는 건지 힘이 많이 들어가네요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "가정집에서 쓰긴 딱 좋은 사이즈 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439407",
+    "RawText": "2미리로 얇게 잘 잘립니다. 칼날 조심해서 잘 사용해야겠습니다.  돈까스 집처럼 진짜 얇게는 아니지만 제가 써는 것보다 얇아서 양배추 샐러드 맛나게 해 먹기 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "23",
+    "RDate": "20200109",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "2미리로 얇게 잘 잘립니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "칼날 조심해서 잘 사용해야겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "돈까스 집처럼 진짜 얇게는 아니지만 제가 써는 것보다 얇아서 양배추 샐러드 맛나게 해 먹기 좋습니다.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439409",
+    "RawText": "양배추 금방 썰어져서 좋습니다. 칼이 잘 들어서 얇게 잘 썰리네요. 날카로워서 조금 남은건 직접 칼로 하는게 손 다치지 않을거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "20",
+    "RDate": "20200108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "양배추 금방 썰어져서 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": " 칼이 잘 들어서 얇게 잘 썰리네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "날카로워서 조금 남은건 직접 칼로 하는게 손 다치지 않을거 같아요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "439411",
+    "RawText": "박스가 많이 찌그러져서 송장위에 테이프를 여러군데 붙인게 보여요. 엄청 가벼운데 안 깨지고 오기 다행이네요. 리뷰들이 좋다고 평을하셔서 주문했는데  양배추 채 써는데 정말 편리합니다. 날이 정말 날카로워서 조심히 다뤄야해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "4",
+    "Syllable": "125",
+    "Word": "28",
+    "RDate": "20200104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "엄청 가벼운데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "양배추 채 써는데 정말 편리합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "날이 정말 날카로워서 조심히 다뤄야해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "439419",
+    "RawText": "다양한 두께로 조절이 가능합니다. 얇게 잘려서 돈까스집 양배추처럼 먹을 수 있어서 매우 만족스럽네요. 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20191231",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "다양한 두께로 조절이 가능합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "얇게 잘려서 돈까스집 양배추처럼 먹을 수 있어서 매우 만족스럽네요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439421",
+    "RawText": "양배추 채칼 너무 좋습니다. 칼날 조절이 쉽게 되어 아주 가늘게도 잘되고 너무 좋네요. 이렇게 두께 조절이 잘 되리라고 생각을 못했는데 정말 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "22",
+    "RDate": "20191225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 칼날 조절이 쉽게 되어 아주 가늘게도 잘되고 너무 좋네요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "이렇게 두께 조절이 잘 되리라고 생각을 못했는데 정말 좋아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439435",
+    "RawText": "이거 예전에 카페 알바할 때 쓰던 거였어요. 찾았었는데 맞네요. 정말 잘 썰립니다. 이게 젤 얇게 썰어진다는 거 보고 이걸로 결정했네요. 몸에 좋은 양배추 샐러드 맛있게 많이 해서 먹었습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 양배추 채칼",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "28",
+    "RDate": "20191213",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "정말 잘 썰립니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "몸에 좋은 양배추 샐러드 맛있게 많이 해서 먹었습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "이게 젤 얇게 썰어진다는 거 보고 이걸로 결정했네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439446",
+    "RawText": "크기는 생각보다 크지만 품질도 좋고 가격도 싸고 아주 좋은 제품이예요. 포장도 꼼꼼히 잘해 주셔서 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 바** 채칼 3호 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20211223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기는 생각보다 크지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 싸고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439453",
+    "RawText": "배송도 빠르고 포장도 꼼꼼하게해서 보내주셨네요. 사이즈가 크고 좋아요. 이 사이즈가 제일 좋은 것 같습니다. 잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 바** 채칼 3호 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20211109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 크고 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "이 사이즈가 제일 좋은 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439456",
+    "RawText": "식당인데 채칼은 OOO 채칼이 좋은거 같아 꾸준히 구매중이에요.다용도 채칼은 용도가 여럿이라 좋긴 하지만 너무 날카로워서 베임사고가 생기는 반면 OOO 채칼은 안전홀더가 있어서 베임사고는 생기지 않아서 좋아요. 단계 조절이 쉬워서 좋은거 같습니다. 채칼3은 더 넓어져서 좋아요. 더 사용해봐야 할듯해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 바** 채칼 3호 1개",
+    "ReviewScore": "5",
+    "Syllable": "169",
+    "Word": "38",
+    "RDate": "20211005",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " OOO 채칼은 안전홀더가 있어서 베임사고는 생기지 않아서 좋아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "단계 조절이 쉬워서 좋은거 같습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "채칼3은 더 넓어져서 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439458",
+    "RawText": "시험 삼아 당근을 썰었는데 하얀 몸체에 당근물이 들어 아무리 씻어도 얼룩이 남아 있네요. 그래도 채는 잘 썰려 다행입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 바** 채칼 3호 1개",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "18",
+    "RDate": "20210702",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "하얀 몸체에 당근물이 들어 아무리 씻어도 얼룩이 남아 있네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "채는 잘 썰려 다행입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439463",
+    "RawText": "김장하려고 주문했는데 배송 잘 되었습니다. 같은 제품 중 가장 저렴해서 이 사이트에서 구입했네요. 잘 썰리는 채칼 덕에 김장 금방 끝낼수 있었네요. 타 사이트 상품평에 부서진다는 얘기있던데 무 세로로 반 썰어서 통 받치고 밀어보니 잘 잘리더군요. 생각보다 큼직하고 손잡이도 있어서 편하게 잘 썼습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 바** 채칼 3호 1개",
+    "ReviewScore": "5",
+    "Syllable": "168",
+    "Word": "42",
+    "RDate": "20201210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가장 저렴해서 이 사이트에서 구입했네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "잘 썰리는 채칼 덕에 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "무 세로로 반 썰어서 통 받치고 밀어보니 잘 잘리더군요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "생각보다 큼직하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "손잡이도 있어서 편하게 잘 썼습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "김장 금방 끝낼수 있었네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439466",
+    "RawText": "OOO 슬라이서 단단하게 만들어진 제품이라 무게가 있는 무종류들을 슬라이스 할 때 참 좋을 것 같아 기대가 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 바** 채칼 3호 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "17",
+    "RDate": "20201202",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "단단하게 만들어진 제품이라",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "무게가 있는 무종류들을 슬라이스 할 때 참 좋을 것 같아 기대가 됩니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439470",
+    "RawText": "제품이 크고 튼튼해서 좋습니다. 특히 크기를 조절할 수 있어 더 좋아요. 가격이 정말 착해서 가성비 좋은 제품이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 바** 채칼 3호 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "17",
+    "RDate": "20200922",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "제품이 크고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해서 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "특히 크기를 조절할 수 있어 더 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 정말 착해서 가성비 좋은 제품이에요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439475",
+    "RawText": "감자 깎는 것 같은 양배추 채칼로 양배추 썰다가 이 제품으로 하니 무척이나 편리해졌어요. 채칼은 너무 얇게 나와 식감도 별로였는데 이 제품은 딱 먹기좋은 두께로 잘 잘려서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 바** 채칼 3호 1개",
+    "ReviewScore": "5",
+    "Syllable": "101",
+    "Word": "27",
+    "RDate": "20200616",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 이 제품으로 하니 무척이나 편리해졌어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "딱 먹기좋은 두께로 잘 잘려서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439483",
+    "RawText": "김장할때 잘 썼습니다. 당근 무 거침없이 쏵쏵 썰어지고 크기 조절도 잘되고 튼튼해서 매년 김장때마다 쓸거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 바** 채칼 3호 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20191218",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "당근 무 거침없이 쏵쏵 썰어지고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 크기 조절도 잘되고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 매년 김장때마다 쓸거 같습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439496",
+    "RawText": "크고 튼튼해 보여서 좋네요. 집에 무가 없어 아직 사용 전인데 잘 산 거 같네요. 많이 파시고 번창하시길 바랍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 바** 채칼 3호 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "18",
+    "RDate": "20191016",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해 보여서 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439497",
+    "RawText": "집에 있는 다용도 채칼은 작아서 무생채용으로 고심 끝에 고른 겁니다. 단계조절도 되고 크기도 쓰기 무난합니다.  튼튼해보여 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 바** 채칼 3호 1개",
+    "ReviewScore": "4",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20191008",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "단계조절도 되고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 크기도 쓰기 무난합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해보여 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439502",
+    "RawText": "굵기 조절에서 가장 두껍게 해놔도 쓰다 보면 중후반엔 얇게 나옵니다. 계속 그래서 여러 방안 찾아봐도 굵기 조절이 쓰다 보면 변하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 바** 채칼 3호 1개",
+    "ReviewScore": "2",
+    "Syllable": "75",
+    "Word": "20",
+    "RDate": "20190104",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "굵기 조절에서 가장 두껍게 해놔도 쓰다 보면 중후반엔 얇게 나옵니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "여러 방안 찾아봐도 굵기 조절이 쓰다 보면 변하네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "439508",
+    "RawText": "상품평이 좋아서 구매해 봤는데 3단계 굵기 조절도 되고 좋습니다. 가격도 저렴하고 좋아서 하나 더 사서 친구한테 줄거예요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 바** 채칼 3호 1개",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20180519",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "3단계 굵기 조절도 되고 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고 좋아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439511",
+    "RawText": "가격대비 정말 좋은 제품이에요. 깨끗하게 씻어서 닭볶음할려고 고기 자르는데 슥슥 잘 잘렸어요. 처음인데도 뼈도 싹둑 잘 잘리고 정말 잘 구입했어요 감사드려요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스** 뼈가위 4T",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "21",
+    "RDate": "20220426",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 정말 좋은 제품이에요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "고기 자르는데 슥슥 잘 잘렸어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "처음인데도 뼈도 싹둑 잘 잘리고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439601",
+    "RawText": "뭔가 묵직하고 날이 톱니날이라 그런지 가볍지 않아 좋습니다. 견고하게 사용할 수 있을 듯해요. 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20211020",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "뭔가 묵직하고 날이 톱니날이라 그런지 가볍지 않아 좋습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "견고하게 사용할 수 있을 듯해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439606",
+    "RawText": "생각보다 크기가 큽니다. 그래서 그런지 살짝 무게감이 있긴 합니다.  절삭력 좋습니다. 튼튼합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20211004",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "생각보다 크기가 큽니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "살짝 무게감이 있긴 합니다.  ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼합니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439620",
+    "RawText": "집에 있는 가위는 짧아서 불편했는데 길쭉해서 쓰기 좋은 것 같습니다.  삼겹살이 정말 부드럽게 잘 잘려서 아주 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20210702",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "길쭉해서 쓰기 좋은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "삼겹살이 정말 부드럽게 잘 잘려서 아주 만족합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439622",
+    "RawText": "배송은 빨랐습니다. 손에도 잘 맞습니다. 그런데 처음이라 그런지 뻑뻑하고 소리가 나네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "4",
+    "Syllable": "49",
+    "Word": "11",
+    "RDate": "20210613",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "그립감",
+        "SentimentText": "손에도 잘 맞습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "처음이라 그런지 뻑뻑하고 소리가 나네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "439630",
+    "RawText": "이전에 쓰던 가위와 비교해 보면 비슷한 모양과 성능이네요. 많이 사용하는 평범한 모양이지만 성능은 해외 여느 가위 못지 않게 좋으네요. 비싼 OOO 가위 하나 사느니 저렴한 이 제품 사서 여러 번 바꿔 쓰는 것이 백 번 낫다는 생각이 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "135",
+    "Word": "38",
+    "RDate": "20210119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이전에 쓰던 가위와 비교해 보면 비슷한 모양과 성능이네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능이네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "많이 사용하는 평범한 모양이지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능은 해외 여느 가위 못지 않게 좋으네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싼 OOO 가위 하나 사느니 저렴한 이 제품 사서 여러 번 바꿔 쓰는 것이 백 번 낫다는 생각이 드네요.",
+        "SentimentWord": "19",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439639",
+    "RawText": "원래 OOO 가위를 사용하였는데 잃어버려서 OO에서 사서 다른 가위를 사용했었네요. 근데 잘 잘려지지 않고 심지어 손잡이가 부러져서 다시 OOO 가위로 구매 했습니다. 가성비 대비 정말 좋은 국산 가위인 거 같습니다. 오래 사용했음 좋겠습니다. 잘 사용할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "145",
+    "Word": "35",
+    "RDate": "20201206",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 대비 정말 좋은 국산 가위인 거 같습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오래 사용했음 좋겠습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "439645",
+    "RawText": "OOO 는 품질 최고입니다. 이세상 절삭력이 아닙니다. 너무 잘 잘잘립니다. 빠른 배송도 좋습니다. 강력 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20200520",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "OOO 는 품질 최고입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "이세상 절삭력이 아닙니다. 너무 잘 잘잘립니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439651",
+    "RawText": "어제 잘 받았습니다. 무료배송 가장 착한가격이라 넘감사하네요.  날길이가 정말 길어서 김치 자를때 유용할거라 생각하고 샀는데 손힘이 약해서 김치 자를 때  힘이 많이 듭니다. 손힘을 길러야 한번에 자를수 있을 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "123",
+    "Word": "30",
+    "RDate": "20200401",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "날길이가 정말 길어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "김치 자를때 유용할거라 생각하고 샀는데 손힘이 약해서 김치 자를 때  힘이 많이 듭니다",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "손힘을 길러야 한번에 자를수 있을 것 같네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가장 착한가격이라 넘감사하네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439653",
+    "RawText": "엄청 잘 잘립니다. 사이즈도 커서 사용하기 좋고 같은 제품 마트에서 파는 것 보다 훨씬 저렴합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "15",
+    "RDate": "20200319",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "엄청 잘 잘립니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 커서 사용하기 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 같은 제품 마트에서 파는 것 보다 훨씬 저렴합니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439654",
+    "RawText": "날이 길어서 불고기나 김치 자르기에도 용이합니다. 무엇이든 싹둑싹둑 절삭력도 훌륭합니다. 가격대비 대만족입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "12",
+    "RDate": "20200302",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "날이 길어서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "무엇이든 싹둑싹둑 절삭력도 훌륭합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 대만족입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 불고기나 김치 자르기에도 용이합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439664",
+    "RawText": "O 가위보다 주둥이가 길고 경쾌하며 OO 제품보다는 품질이나 가격도 훨씬 나아보입니다. OOO가 칼을 만드니 가위도 잘 만드나 봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20191104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "O 가위보다 주둥이가 길고 경쾌하며",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 품질이나 가격도 훨씬 나아보입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격도 훨씬 나아보입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "439689",
+    "RawText": "가위 넘 좋습니다. 무게감도 조금 있어서 잘리는 느낌도 좋고 쓰기 무난합니다. 또 구매하고 싶네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "14",
+    "RDate": "20180630",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감도 조금 있어서 잘리는 느낌도 좋고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "쓰기 무난합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "439697",
+    "RawText": "가위 본연의 역할에 충실한 제품입니다. 고기 잘 잘리고 무게도 그리 많이 나가지 않아 쓰기 무난한 가위입니다. 배송 빨라 좋고요. 특히 가격 면에서 나쁘지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "24",
+    "RDate": "20170527",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "고기 잘 잘리고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 그리 많이 나가지 않아",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 쓰기 무난한 가위입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 면에서 나쁘지 않습니다.  ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "439698",
+    "RawText": "좀 더 신중하게 치수를 봐야 했는데 생각보다 큽니다. 가위 성능은 아주 좋고 손으로 잡았을 때 그립감도 아주 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "4",
+    "Syllable": "66",
+    "Word": "18",
+    "RDate": "20170523",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "좀 더 신중하게 치수를 봐야 했는데 생각보다 큽니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "가위 성능은 아주 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "그립감도 아주 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

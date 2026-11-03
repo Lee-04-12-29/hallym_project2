@@ -1,0 +1,2923 @@
+[
+  {
+    "Index": "396499",
+    "RawText": "세탁기를 깨끗하게 사용하기 위해 구입해 봤어요. 내부가 눈에 보이진 않아서 깨끗해진지는 잘 모르겠어요. 냄새도 독합니다. 그래도 믿고 한번씩 청소 해보려고해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "20",
+    "RDate": "20211202",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "내부가 눈에 보이진 않아서 깨끗해진지는 잘 모르겠어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 독합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396504",
+    "RawText": "성능이 좋은것 같습니다. 할인된 가격으로 저렴하게 잘 샀습니다. 늘 사용하던 제품이라 고민없이 구입했어요. 추천해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20211201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능이 좋은것 같습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인된 가격으로 저렴하게 잘 샀습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "396506",
+    "RawText": "세탁조에 들어 부으니 엄청 지독한 OO 냄새 나네요. 효과가 기대됩니다. 세탁 후 빨래에 무슨 찌꺼기 섞여 나와서 찝찝했는데 이제 깨끗해지면 좋겠네요. 다 사용 후 또 구매할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "100",
+    "Word": "26",
+    "RDate": "20211201",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "세탁조에 들어 부으니 엄청 지독한 OO 냄새 나네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과가 기대됩니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "이제 깨끗해지면 좋겠네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "396512",
+    "RawText": "세탁조 클리너 후기보고 주문했는데 세탁기 청소 깨끗하게 됐으면 좋겠습니다. 냄새가 많이 독하긴 하지만 청소가 잘 되면 주기적으로 써보려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "19",
+    "RDate": "20211130",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁기 청소 깨끗하게 됐으면 좋겠습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 많이 독하긴 하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396517",
+    "RawText": "OO거는 이번에 처음 사용해봤어요. 이전에 쓰던 제품이랑 비교까진 아니지만,  세탁조 청소후에 세탁물 찌꺼기가 줄어든건 같아요. 하지만 냄새가 좀 심해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "4",
+    "Syllable": "86",
+    "Word": "19",
+    "RDate": "20211128",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁조 청소후에 세탁물 찌꺼기가 줄어든건 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 좀 심해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396523",
+    "RawText": "저렴한 가격이라 한 번 구매해봤습니다 세탁조 청소해 보려구요 효과 좋으면 재구매하러 오겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "12",
+    "RDate": "20211127",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격이라",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과 좋으면 재구매하러 오겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "396527",
+    "RawText": "세탁조 청소 자주하는 편인데 개운하게 되는게 없어서 이 제품으로 바꿔봤습니다. 액상은 처음 써보는데 저렴하고 좋아요. 세척도 잘 되었으면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "4",
+    "Syllable": "82",
+    "Word": "19",
+    "RDate": "20211125",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하고 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척도 잘 되었으면 좋겠네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "396541",
+    "RawText": "액체라서 편리하네요. 최근 세탁기에 이 물질이 있어서 급하게 샀어요. 깨끗하게 청소가 잘 되면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20211123",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "액체라서 편리하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 깨끗하게 청소가 잘 되면 좋겠습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "396555",
+    "RawText": "세탁기가 오래되서 세탁조 세제로 청소를 자주하는데 OOO는 처음 구입해봅니다. 도착하자마자 통세척하는데 락스냄새가 나네요. 세척 잘되고 있는거면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "17",
+    "RDate": "20211121",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "통세척하는데 락스냄새가 나네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척 잘되고 있는거면 좋겠네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "396569",
+    "RawText": "드럼 세탁기 사용시 소량을 썼더니 세척이 깨끗이 되지 않는것 같아요. 세척력에 비해 용량이 경제적이지는 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20211120",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "소량을 썼더니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척이 깨끗이 되지 않는것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "세척력에 비해 용량이 경제적이지는 않네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396572",
+    "RawText": "오자마자 써봤는데 통 뒷면이 보이질 않으니 세척이 잘된지는 모르겠어요. 먼지 필터 보니까 먼지가 많이 묻어있던데 세척이 잘된거면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "18",
+    "RDate": "20211120",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "통 뒷면이 보이질 않으니 세척이 잘된지는 모르겠어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "먼지 필터 보니까 먼지가 많이 묻어있던데 세척이 잘된거면 좋겠네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "396575",
+    "RawText": "여러가지 사이트를 통해 비교해 봤더니 여기가 제일 가격이 저렴하네요. 세척력도 좋았으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20211119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 제일 가격이 저렴하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력도 좋았으면 좋겠습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "396590",
+    "RawText": "세탁기 청소를 자주 해줘야한다고해서 구매했습니다. 액체는 처음 사용해보는데 효과가 좋으면 좋겠네요. 근데 뚜껑만 열어봤는데도 냄새가 엄청 지독하네요. 환기 잘 시켜야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "20",
+    "RDate": "20211118",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "액체는 처음 사용해보는데 효과가 좋으면 좋겠네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "뚜껑만 열어봤는데도 냄새가 엄청 지독하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "환기 잘 시켜야겠어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396603",
+    "RawText": "잘 구매했습니다. 사용해보니 효과는 있는 것 같습니다. 세탁기의 퀴퀴한 냄새도 없어졌네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "11",
+    "RDate": "20211117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "사용해보니 효과는 있는 것 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "세탁기의 퀴퀴한 냄새도 없어졌네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "396608",
+    "RawText": "저렴하게 구매해서 쟁여 둘 수 있어 좋습니다. 냄새가 조금 독해서 아쉽지만 세탁기 관리에는 이 제품이 최고입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "16",
+    "RDate": "20211117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 조금 독해서 아쉽지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396612",
+    "RawText": "아주 깨끗해지는 것은 아닙니다. 세탁기를 분해해서 청소를 못하는 지금으로선 최선이라 생각이 들어서 사용합니다. 정말 저렴합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "15",
+    "RDate": "20211117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "아주 깨끗해지는 것은 아닙니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "정말 저렴합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "396640",
+    "RawText": "세탁을 해도 옷에서 쉰내가 나는 것 같아 구입했습니다. 10년도 넘은 통돌이 세탁기가 깨끗한건지 한 통 다 넣어도 아무것도 안떠오르고 물이 맑은데 클린되는 게 맞는 건지 모르겠네요. 두시간째 불리고 있는데 지금 확인해도 깨끗한데 효과가 있는 게 맞는 건지 진짜 모르겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "4",
+    "Syllable": "152",
+    "Word": "39",
+    "RDate": "20211115",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 한 통 다 넣어도 아무것도 안떠오르고 물이 맑은데 클린되는 게 맞는 건지 모르겠네요. ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "두시간째 불리고 있는데 지금 확인해도 깨끗한데 효과가 있는 게 맞는 건지 진짜 모르겠네요.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396641",
+    "RawText": "한 달에 한 번씩 이걸로 관리 해 주고 있습니다. 가격은 저렴하고 좋습니다. 세정력은 눈으로 확인을 할 수 없어 잘 모르겠지만 믿고 사용합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "22",
+    "RDate": "20211114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴하고 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력은 눈으로 확인을 할 수 없어 잘 모르겠지만 믿고 사용합니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "396652",
+    "RawText": "쿠폰 사용해서 저렴하게 샀습니다. 주기적으로 해주면 좋은 거 같아서 사용하기는 하는데 세정력이 완벽하게 되지는 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20211113",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 사용해서 저렴하게 샀습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력이 완벽하게 되지는 않습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "396657",
+    "RawText": "배송이 매우 빠르게 와서 좋았네요. 품질도 괜찮고 무엇보다 저렴하게 구입해서 만족스럽네요. 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20211112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 괜찮고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "무엇보다 저렴하게 구입해서 만족스럽네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "396660",
+    "RawText": "가격은 비싼 편이고 양도 많지는 않습니다. 냄새는 심하지 않고 아직 사용 전이라서 효과가 어떨지는 잘 모르겠지만 잘 사용해 보겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "19",
+    "RDate": "20211112",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싼 편이고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많지는 않습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새는 심하지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "아직 사용 전이라서 효과가 어떨지는 잘 모르겠지만",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "396661",
+    "RawText": "세탁조 청소 아무리해도 세탁한 옷에 먼지같은게 남아 구매 후 두개 넣고 청소했습니다. 세탁한 옷이 훨씬 더 깔끔해졌네요. 가루제품은 가루가 세탁조에 남는다구 들어서 액체로 구매한건데 세제 찌꺼기가 남지 않아서 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "121",
+    "Word": "29",
+    "RDate": "20211112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세탁한 옷이 훨씬 더 깔끔해졌네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "세제 찌꺼기가 남지 않아서 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "396679",
+    "RawText": "항상 사용하는 제품이라서 또 구매했습니다.  냄새는 좀 나지만 세정력은 좋습니다. 가격도 착해서 저렴하게 잘 구매했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20211110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새는 좀 나지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력은 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착해서 저렴하게 잘 구매했습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "396700",
+    "RawText": "찬물로 해도 되고 편합니다. 14kg세탁기라서 1통 반을 사용해야 하는데 양이 많아서 다행입니다. 제품 괜찮습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20211108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "찬물로 해도 되고 편합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "14kg세탁기라서 1통 반을 사용해야 하는데 양이 많아서 다행입니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "396706",
+    "RawText": "빠른 배송 감사드립니다. 좋은 가격에 구매해서 좋았는데 이 제품 OO 냄새가 납니다. 세정력도 조금은 아쉬운 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20211108",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 구매해서 좋았는데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "이 제품 OO 냄새가 납니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력도 조금은 아쉬운 듯합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396712",
+    "RawText": "세탁조 청소를 알아보다가 이 제품을 만났습니다. 효과가 좋길 기대해 봅니다. 일단 가격은 무척 저렴하고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20211107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 효과가 좋길 기대해 봅니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 무척 저렴하고 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "396723",
+    "RawText": "드럼세탁기 앞에 고무부분에 까만때가 있었는데 칫솔로 닦아도 잘 안 지워졌습니다. 그런데 이 제품을 넣고 돌리니 까만때가 깨끗해졌습니다. 가격은 조금 비싼편이긴 합니다. 그래도 저는 강력하게 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "112",
+    "Word": "25",
+    "RDate": "20211106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "이 제품을 넣고 돌리니 까만때가 깨끗해졌습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 조금 비싼편이긴 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396727",
+    "RawText": "가격대비 품질이 별로 입니다. 배송만 빠르네요. 전체적으로 잘 닦이지도 않네요. 다음부턴 이 제품은 안 사용하려고요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "4",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20211105",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 품질이 별로 입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "전체적으로 잘 닦이지도 않네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396729",
+    "RawText": "한개당 2000원도 안된 가격으로 매우 저렴하게 잘 샀습니다. OOO니깐 세정력은 괜찮을것 같습니다. 매우 맘에 들어요~~~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "15",
+    "RDate": "20211105",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "한개당 2000원도 안된 가격으로 매우 저렴하게 잘 샀습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "OOO니깐 세정력은 괜찮을것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "396740",
+    "RawText": "잘 받았어요. 사용해 보니 찌꺼기가 둥둥 떠나오네요. 헹궈도 헹궈도 계속 나와서 헹굼을 열 번도 더한 것 같습니다. 물세는 얼마나 나올지 걱정이 되지만 뭔가 엄청 깨끗해진 것 같아 뿌듯하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "28",
+    "RDate": "20211104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "사용해 보니 찌꺼기가 둥둥 떠나오네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "헹궈도 헹궈도 계속 나와서 헹굼을 열 번도 더한 것 같습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 엄청 깨끗해진 것 같아 뿌듯하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "396743",
+    "RawText": "드럼 세탁기는 매우 소량만 사용해도 되겠어요. 향이 너무 강해서 좀 별로였지만 그래도 세탁조가 깨끗해져서 기분이좋아요. 역시 믿고 쓰는 OO 네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "20",
+    "RDate": "20211104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "드럼 세탁기는 매우 소량만 사용해도 되겠어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 강해서 좀 별로였지만 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세탁조가 깨끗해져서 기분이좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "396744",
+    "RawText": "세탁조 클리너 가격이  엄청 비싸던데 비싼 만큼 품질이 좋았으면 좋겠네요. 일단 냄새는 너무 독합니다. 사용해 보고 다시 구매할지 생각해봐야겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "19",
+    "RDate": "20211104",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 세탁조 클리너 가격이  엄청 비싸던데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싼 만큼 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋았으면 좋겠네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새는 너무 독합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396753",
+    "RawText": "가루보다 액체가 좋을것 같아 구매했습니다. OO냄새가 나지않아서 좋구요. 세탁기도 완전 깨끗해졌습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "11",
+    "RDate": "20211103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "OO냄새가 나지않아서 좋구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁기도 완전 깨끗해졌습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "396768",
+    "RawText": "약품 냄새 같은 게 심하게 좀 많이 납니다만 세탁조 찌꺼기 제거에는 효과가 좋았으면 하네요. 사용해보고 괜찮으면 계속 사용하려고요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20211102",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "약품 냄새같은게 심하게 좀 많이 납니다만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁조 찌꺼기 제거에는 효과가 좋았으면 하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "396773",
+    "RawText": "한번 사용 해 봤더니 세탁기에서 약품 냄새 같기도하고 수영장에서 맡아 본 냄새가 나네요. 비싼 만큼 품질을 기대했던 제가 잘못인가봐요  다시는 사용 안 할려고요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "23",
+    "RDate": "20211102",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "약품 냄새같기도하고 수영장에서 맡아 본 냄새가 나네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싼 만큼 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질을 기대했던 제가 잘못인가봐요  ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396784",
+    "RawText": "저렴하게 잘 구매했습니다 냄새는 좀 나지만 사용해보고 잘 씻기면 다음에 또 구매하려 올께요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "13",
+    "RDate": "20211031",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 구매했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새는 좀 나지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "사용해보고 잘 씻기면 다음에 또 구매하려 올께요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "396803",
+    "RawText": "세탁기에서 자꾸 찌꺼기가 나와서 이 제품을 사용하고나서 보니 세정력은 그럭저럭 무난하듯해요. 근데 세제 냄새가 많이 강해서 별로네요. 다시 구입하고 싶지않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "20",
+    "RDate": "20211027",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력은 그럭저럭 무난하듯해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "세제 냄새가 많이 강해서 별로네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396818",
+    "RawText": "세정력이 그럭저럭 무난합니다. 세탁기 안이 냄새나기 시작할때 한 번씩 사용하기 좋습니다. 냄새가 너무 독해서 그리 자주 사용하지는 못하겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "18",
+    "RDate": "20211027",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력이 그럭저럭 무난합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 세탁기 안이 냄새나기 시작할때 한 번씩 사용하기 좋습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 너무 독해서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396826",
+    "RawText": "안쪽을 확인할 수는 없으나 곰팡이 냄새가 제거된 것 같아요. 근데 수영장 냄새가 조금 나서 더 사용해보고 더 살지 말지 결정해야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "20",
+    "RDate": "20211026",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "곰팡이 냄새가 제거된 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "수영장 냄새가 조금 나서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396832",
+    "RawText": "배송도 빨라서 아주 좋습니다. 아직 사용해보진 않았지만 비싼만큼 세정 효과도 기대해봅니다. 써보고 좋으면 다음에 구매할 의향이 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "17",
+    "RDate": "20211026",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싼만큼",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정 효과도 기대해봅니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "396837",
+    "RawText": "세탁조 클리너 사용해보니 금방 세탁기에  검은색 부유물이 떠 다녀서 깜짝 놀랐어요. 근데 사용하고 나서 OO냄새가 좀 심합니다. 꼭 이 제품이 아니더라도 세탁조 청소는 자주 해줘야겠다고 생각했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "4",
+    "Syllable": "111",
+    "Word": "26",
+    "RDate": "20211025",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "금방 세탁기에  검은색 부유물이 떠 다녀서 깜짝 놀랐어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "사용하고 나서 OO냄새가 좀 심합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396840",
+    "RawText": "세탁조 청소하기 위해 구매했습니다. 청소가 잘 되었는지는 모르겠는데 세탁조에서 나는 냄새가 줄어들기는 했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "13",
+    "RDate": "20211025",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "청소가 잘 되었는지는 모르겠는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁조에서 나는 냄새가 줄어들기는 했습니다.  ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "396843",
+    "RawText": "싼 가격에 잘 산 것 같네요. 4통은 양이 좀 많아서 주변에 나눠줘도 될 거 같아요. 그런데  약간 OO냄새 같은 게 나는데 그 부분은 호불호가 갈릴 듯하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "26",
+    "RDate": "20211025",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼 가격에 잘 산 것 같네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 4통은 양이 좀 많아서 주변에 나눠줘도 될 거 같아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "  약간 OO냄새 같은 게 나는데 그 부분은 호불호가 갈릴 듯하네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "396847",
+    "RawText": "깨끗해졌는지 눈에 보이지 않지만 주기적으로 세척해 봐야 겠어요. 세정제 냄새가 나긴 하지만 살균된 느낌이라 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20211025",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "깨끗해 졌는지 눈에 보이지 않지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "세정제 냄새가 나긴 하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "살균된 느낌이라 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "396870",
+    "RawText": "안 보이지만 세탁조가 깨끗해진 느낌이에요. 더 사용해보고 성능 좋으면 또 구매하려고요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20211023",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "안 보이지만 세탁조가 깨끗해진 느낌이에요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "더 사용해보고 성능 좋으면 또 구매하려고요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "396874",
+    "RawText": "찬물에도 잘 녹아서 깨끗하게 세탁조 청소를 해주니 좋은데 아쉬운 점은 냄새가 너무 심하네요. 가격도 그리 저렴하지 않구요. 재구매는 좀 고려해봐야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "4",
+    "Syllable": "85",
+    "Word": "20",
+    "RDate": "20211023",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "찬물에도 잘 녹아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "아쉬운 점은 냄새가 너무 심하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "깨끗하게 세탁조 청소를 해주니 좋은데 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격도 그리 저렴하지 않구요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396876",
+    "RawText": "세탁조 먼지 나오는 것 같아 청소하려고 구입했습니다 냄새가 조금 나기는 한데 사용해보고 효과 좋으면 더 구매할 것 같아요 빠른 배송 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "4",
+    "Syllable": "79",
+    "Word": "21",
+    "RDate": "20211023",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 조금 나기는 한데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "사용해보고 효과 좋으면 더 구매할 것 같아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "396884",
+    "RawText": "효과가 좋아서 항상 사용하던 제품입니다 이번에 세일 해서 저렴하게 구매했네요 이런 행사 자주 해주시면 좋을 것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "17",
+    "RDate": "20211023",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과가 좋아서 항상 사용하던 제품입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일 해서 저렴하게 구매했네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "396886",
+    "RawText": "OO 통돌이 통세척하려고 구매했어요. 한번 사용해 봤는데 세탁조 부유물은 하나도 안나오네요. 세탁기가 깨끗한건지 세정력이 약한건지 잘 모르겠어요. 전에 사용하던 제품보다 냄새가 좀 독하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "23",
+    "RDate": "20211022",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁기가 깨끗한건지 세정력이 약한건지 잘 모르겠어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "전에 사용하던 제품보다 냄새가 좀 독하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396887",
+    "RawText": "통돌이 한 달에 한 번씩 베이킹소다3종세트로 청소하는데 혹시 몰라서 세탁조 클리너 전용세제를 이용해 봤어요. 미세한 물 때들이 깨끗이 제거되는 것 같아 더 좋으네요. 세탁기 냄새도 안나는 것 같아 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "114",
+    "Word": "29",
+    "RDate": "20211022",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "미세한 물 때들이 깨끗이 제거되는 것 같아 더 좋으네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁기 냄새도 안나는 것 같아 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "396888",
+    "RawText": "같은 제품 세제가 좋다고 해서 바꿔봤어요. 할인 받아 사긴 했는데 저렴하다는 생각은 안들지만 이제 세탁기도 깨끗해지길 기대해봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "4",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20211022",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인 받아 사긴 했는데 저렴하다는 생각은 안들지만 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "이제 세탁기도 깨끗해지길 기대해봅니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "396893",
+    "RawText": "OO 라서 믿고 구입했습니다. 세탁조를 분해해 봐야 청소 상태를 알 수 있어서 효과는 알 수 없지만 주기적으로 사용해 보려고요. 세탁기 안에서 나던 냄새는 많이 사라졌습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "25",
+    "RDate": "20211022",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁조를 분해해 봐야 청소 상태를 알 수 있어서 효과는 알 수 없지만",
+        "SentimentWord": "12",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁기 안에서 나던 냄새는 많이 사라졌습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "396897",
+    "RawText": "한두달에 한번씩 세탁기 통세척하는데 OOO제품이 편하고 좋아요. 가격도 저렴하고 만족하는데 냄새는 너무 독해서 환기는 세탁실 환기는 필수에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "17",
+    "RDate": "20211021",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "OOO제품이 편하고 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새는 너무 독해서 환기는 세탁실 환기는 필수에요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396898",
+    "RawText": "광고하고 있는 세탁조 세제 쿠폰 사용해서 저렴하게 잘 구매했습니다 성능도 좋았으면 하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20211021",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 사용해서 저렴하게 잘 구매했습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능도 좋았으면 하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "396901",
+    "RawText": "5년 동안 세탁기 그냥 썼었는데 옷에서 냄새가 나길래 구매했어요. 그런데 아무 효과가 없네요. 청소가 잘 안되는지 옷에서 나는 냄새도 그대로입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "20",
+    "RDate": "20211021",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 아무 효과가 없네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "청소가 잘 안되는지 옷에서 나는 냄새도 그대로입니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396904",
+    "RawText": "OOO를 세탁조에 넣고  6시간에 걸쳐 통세척을 하는데 어마어마하게 지저분한 찌꺼기가 엄청 나오네요.  자주 세탁조를 청소하고자 구입하게 되었어요. 효과가 좋은 것 같아요. 근데 냄새는 많이 독한편이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "114",
+    "Word": "25",
+    "RDate": "20211021",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "통세척을 하는데 어마어마하게 지저분한 찌꺼기가 엄청 나오네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과가 좋은 것 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새는 많이 독한편이에요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396912",
+    "RawText": "급하게 사느라 가격 비교 못하고 샀더니 생각보다 비싸네요. 그리고 용기 뚜껑이 너무 부실해서 샐 염려가 있어 보입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "17",
+    "RDate": "20211020",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 생각보다 비싸네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기 뚜껑이 너무 부실해서 샐 염려가 있어 보입니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396913",
+    "RawText": "세탁조 청소 위해 세제 엄청 검색하고 고민하다가 OO에서 나온게 있다해서 샀습니다. 일단 겉으론 반짝이는데 속은 알 수가 없으니 깨끗해졌을꺼라 믿습니다. 싸게 잘 사서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "4",
+    "Syllable": "99",
+    "Word": "24",
+    "RDate": "20211020",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "겉으론 반짝이는데 속은 알 수가 없으니 깨끗해졌을꺼라 믿습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 잘 사서 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "396922",
+    "RawText": "깨끗해졌는 지 육안으로 확인은 불가능하지만 기대가 됩니다. 냄새는 확실히 제거됐습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "10",
+    "RDate": "20211020",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "깨끗해졌는 지 육안으로 확인은 불가능하지만 기대가 됩니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "냄새는 확실히 제거됐습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "396937",
+    "RawText": "브랜드만 믿고 구매했는데 품질이 완전 꽝입니다. 세탁조 청소가 하나도 안 되는 느낌이고 다른 제품보다 비싸요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "4",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20211019",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 완전 꽝입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세탁조 청소가 하나도 안 되는 느낌이고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 제품보다 비싸요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396943",
+    "RawText": "세탁조 클리너로 청소를 했는데 여전히 찌꺼기가 세탁물에 붙어 나오네요. OO브랜드 품질이 이렇게 형편없을 줄 몰랐네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20211019",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 여전히 찌꺼기가 세탁물에 붙어 나오네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 이렇게 형편없을 줄 몰랐네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396951",
+    "RawText": "액상 클리너를 처음 써보는데 가루보다 효과가 약합니다. 세탁조에서 계속 찌꺼기가 나옵니다. 비추입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "12",
+    "RDate": "20211019",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "액상 클리너를 처음 써보는데 가루보다 효과가 약합니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세탁조에서 계속 찌꺼기가 나옵니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396956",
+    "RawText": "세탁조가 깨끗하게 변하길 기대했는데 전혀 아니네요.  4개씩이나 묶어서 파는 제품 구성이라 맘에 안 들고 가격도 비쌌어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20211019",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁조가 깨끗하게 변하길 기대했는데 전혀 아니네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 4개씩이나 묶어서 파는 제품 구성이라 맘에 안 들고 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비쌌어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396970",
+    "RawText": "저렴한 가격때문에 가루 클리너 쓰다가 다시 돌아왔습니다. 확실히 액체가 편하긴 하네요. 이번엔 할인도 많이되어서 더 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20211018",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "확실히 액체가 편하긴 하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이번엔 할인도 많이되어서 더 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "396974",
+    "RawText": "세탁조 클리너 처음 써봤어요. 하지만 드라마틱한 세정 효과는 없네요. 세탁기에서 나는 냄새도 그대로구요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20211018",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 드라마틱한 세정 효과는 없네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "세탁기에서 나는 냄새도 그대로구요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396990",
+    "RawText": "옷에 찌꺼기가 묻어나길래 청소해볼까 해서 구입했는데 여전히 찌꺼기가 묻어나와요. 품질이 완전 별로인 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "4",
+    "Syllable": "62",
+    "Word": "13",
+    "RDate": "20211018",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "여전히 찌꺼기가 묻어나와요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 완전 별로인 제품입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396994",
+    "RawText": "세탁조에 붙어 있는 더러운 찌꺼기 제거를 위해서 구입했으나 세정 효과를 전혀 모르겠네요. 비싼 가격에 왜 샀나 싶은 마음 뿐입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "19",
+    "RDate": "20211018",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정 효과를 전혀 모르겠네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싼 가격에 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396995",
+    "RawText": "OOO 제품들 만족하게 사용하고 있어서 세탁조 클리너도 사용해 봤는데 이건 품질 형편없어요. 세탁조 청소 깨끗하게 못합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20211018",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": " 품질 형편없어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁조 청소 깨끗하게 못합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396996",
+    "RawText": "세탁조에 가끔씩 넣고 돌리려고 구입했어요. 액상이라 조심해서 따르지 않으면 튀더라구요. 그래서 다음에는 가루로 구입해야 하겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "4",
+    "Syllable": "72",
+    "Word": "15",
+    "RDate": "20211018",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": " 액상이라 조심해서 따르지 않으면 튀더라구요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "다음에는 가루로 구입해야 하겠어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "396998",
+    "RawText": "저렴하게 구입해서 좋고 액체형이라 간편하게 세탁조 내부 청소하기에 좋아요. 단지 약간 OO 냄새 같은 게 나는데 그 부분은 호불호가 갈릴듯하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "4",
+    "Syllable": "81",
+    "Word": "20",
+    "RDate": "20211018",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입해서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "액체형이라 간편하게 세탁조 내부 청소하기에 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "약간 OO 냄새 같은 게 나는데 그 부분은 호불호가 갈릴듯하네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "397007",
+    "RawText": "여전히 세탁조 안에서 냄새가 나는 걸 보니 세탁조 청소가 완벽하게 되지 않는 것 같아요. 가격도 싸지 않았는데 잘못 구매했네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "19",
+    "RDate": "20211018",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁조 청소가 완벽하게 되지 않는 것 같아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격도 싸지 않았는데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "세탁조 안에서 냄새가 나는 걸 보니",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "397011",
+    "RawText": "받자마자 써봤는데 세탁기 안에서 곰팡이 냄새가 섞여 올라옵니다. 사용 후에도 문 쪽 바킹에 묻은 곰팡이들은 여전합니다. 세척이 잘 안되서 일일이 면봉같은 걸로 닦아내야 하나 싶습니다. 분리세척해서 재수없으면 세탁기 수명에 문제가 있을 수도 있다고 해서 그냥 이런 걸로 최대한 깨끗이 써봐야겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "166",
+    "Word": "40",
+    "RDate": "20211018",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "세탁기 안에서 곰팡이 냄새가 섞여 올라옵니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "사용 후에도 문 쪽 바킹에 묻은 곰팡이들은 여전합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척이 잘 안되서 일일이 면봉같은 걸로 닦아내야 하나 싶습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "397016",
+    "RawText": "착한 가격, 최근 제조일자, OO통돌이 사용 중인데 찌꺼기가 많이 안 나와서 세척력이 우수한지는 잘 모르겠네요. 어쨌든 OO 통돌이 제품 설명서에서 권장하는 제품이라서 구매했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "4",
+    "Syllable": "101",
+    "Word": "23",
+    "RDate": "20211017",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한 가격,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "찌꺼기가 많이 안 나와서 세척력이 우수한지는 잘 모르겠네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "397020",
+    "RawText": "잘 받았어요. OOO배송으로 빠르게 받았습니다. 가격은 너무나도 저렴하고 세탁조 청소도 너무 잘 되는 거 같아서 좋습니다. 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "17",
+    "RDate": "20211017",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 너무나도 저렴하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁조 청소도 너무 잘 되는 거 같아서 좋습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "397021",
+    "RawText": "세탁기 청소도 할 때가 되어서 찾아보던 중에 너무나도 저렴하여 구매해 보았습니다. 사용하기 편하고 효과도 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20211017",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "너무나도 저렴하여 구매해 보았습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "397033",
+    "RawText": "OOO 저렴히 잘 샀습니다. 좋은 퀄리티의 클리너 제품이기를 기대해 봅니다. 배송도 빨리 왔습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20211017",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "OOO 저렴히 잘 샀습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "좋은 퀄리티의 클리너 제품이기를 기대해 봅니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "397062",
+    "RawText": "이 제품 사용하고 세탁기의 쿰쿰한 냄새가 사라졌습니다. 한 달에 한번씩 사용 중입니다. 사용 시 OO 냄새가 나긴 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "18",
+    "RDate": "20211016",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "이 제품 사용하고 세탁기의 쿰쿰한 냄새가 사라졌습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "사용 시 OO 냄새가 나긴 합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "397078",
+    "RawText": "늘 사용하는 제품이라서 구매했습니다. 냄새는 좀 있지만 아주 저렴하게 잘 샀습니다. 배송도 제품이 안 새고 잘 도착했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20211015",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새는 좀 있지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "아주 저렴하게 잘 샀습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "397079",
+    "RawText": "빠른 배송으로 잘 받았어요. 세탁기 새로 사면서 일년동안 잘쓰고 있습니다. 한달에 한번씩 청소하니까 냄새도 안나고 통이 세척되니  때 찌꺼기도 안 나와서 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "22",
+    "RDate": "20211015",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "한달에 한번씩 청소하니까 냄새도 안나고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "통이 세척되니  때 찌꺼기도 안 나와서 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "397098",
+    "RawText": "양이 많아서 드럼 세탁기는 여러 번 사용할 수 있어서 좋습니다. 한번씩 사용하면 세탁조가 깨끗해져서 수건에서 냄새도 안 나고 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "19",
+    "RDate": "20211015",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아서 드럼 세탁기는 여러 번 사용할 수 있어서 좋습니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "한번씩 사용하면 세탁조가 깨끗해져서 수건에서 냄새도 안 나고 좋아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "397103",
+    "RawText": "효과는 있는 듯 하네요. 하지만 효과가 오래가지 않아서 주기적으로 해야할 것 같은데 가격이 만만치 않아 조금 부담이 되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "18",
+    "RDate": "20211015",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과는 있는 듯 하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": " 효과가 오래가지 않아서 주기적으로 해야할 것 같은데",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 만만치 않아 조금 부담이 되네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "397108",
+    "RawText": "가성비 별로입니다. 제품에 비해 가격은 비싼편이고 효과는 안쓰는 것과 별반 차이가 없는것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "3",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20211015",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 별로입니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "제품에 비해 가격은 비싼편이고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과는 안쓰는 것과 별반 차이가 없는것 같네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "397112",
+    "RawText": "세탁조 클리너인데 세척이 제대로 되긴 하는건지.. 효과가 다른 제품과 큰 차이가 없는 것 같아 아쉽네요. 왠지 믿음이 안가네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "4",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20211015",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁조 클리너인데 세척이 제대로 되긴 하는건지.. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과가 다른 제품과 큰 차이가 없는 것 같아 아쉽네요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "397114",
+    "RawText": "배송 진짜 빠르네요.  세탁조 청소 지금 하고있는데 깔끔하게 잘 됐음 좋겠습니다. OO 냄새가 나는게 살균소독도 될 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "4",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20211014",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁조 청소 지금 하고있는데 깔끔하게 잘 됐음 좋겠습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "OO 냄새가 나는게",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "살균소독도 될 것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "397117",
+    "RawText": "행사해서 싸게 구매하니 좋네요. 써보니 세탁조가 깨끗해져서 그런지 빨래에서도 냄새가 덜 나서 좋아요. 액체라 쓰기 편해서 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20211014",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "행사해서 싸게 구매하니 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "써보니 세탁조가 깨끗해져서 그런지",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "빨래에서도  냄새가 덜 나서 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "액체라 쓰기 편해서 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "397122",
+    "RawText": "시중에 저렴한 곳은 더 싼데 인터넷치고는 비싼편이네요. 배송도 느리고 품질도 그럭저럭.. 좋은지도 모르겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조 클리너 450ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20211013",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "인터넷치고는 비싼편이네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 그럭저럭.. 좋은지도 모르겠네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "397141",
+    "RawText": "본품도 아니고 리필인데 이정도면 가격이 비싼편이네요. 조금만 더 저렴히 나왔다면 좋을텐데 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 존** 유리세정제 리필 660ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20220707",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "리필인데 이정도면 가격이 비싼편이네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "조금만 더 저렴히 나왔다면 좋을텐데 아쉽네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "397145",
+    "RawText": "유리 세정엔 OOO가 유명해서 샀는데 기대했던 것 보다는 품질이 그냥 그렇습니다. 가성비 좋은지는 모르겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 존** 유리세정제 리필 660ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20220615",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "기대했던 것 보다는 품질이 그냥 그렇습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은지는 모르겠어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "397148",
+    "RawText": "세척력이 좋아 늘 열심히 닦고 있습니다. 행사로 조금 더 저렴하게 잘 구입했어요. 항상 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 존** 유리세정제 리필 660ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "14",
+    "RDate": "20220528",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력이 좋아",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "행사로 조금 더 저렴하게 잘 구입했어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "397153",
+    "RawText": "유리세정에 잘 사용하고 있습니다. 세정력이 좋아서 잘 닦입니다. 가격도 저렴하게 잘 샀어요. 유리 세정엔 강추입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 존** 유리세정제 리필 660ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20220518",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력이 좋아서 잘 닦입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격도 저렴하게 잘 샀어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "397160",
+    "RawText": "사무실에서 사용하기 좋은 제품입니다. 항상 이걸로 유리 닦는데 좀 더 큰 사이즈가 나오면 좋을 거 같아요.  좋은 상품 항상 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 존** 유리세정제 리필 660ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "20",
+    "RDate": "20220408",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사무실에서 사용하기 좋은 제품입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 좀 더 큰 사이즈가 나오면 좋을거 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "397192",
+    "RawText": "저렴하게 구매했습니다. 제품 포장 꼼꼼하게 해주셔서 잘 받았습니다. 세척력이 기대되네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 존** 유리세정제 리필 660ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "10",
+    "RDate": "20211227",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매했습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력이 기대되네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "397195",
+    "RawText": "배송 엄청 빠르고 사용해보니 냄새가 조금 심하게 납니다만 유리 청소 후 깨끗해졌어요. 사용감은 그럭저럭 쓸만한 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 존** 유리세정제 리필 660ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20211205",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 조금 심하게 납니다만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "유리 청소 후 깨끗해졌어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용감은 그럭저럭 쓸만한 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "397202",
+    "RawText": "어제 주문했는데 오늘 도착했네요 빠른 배송 감사합니다 이 제품은 가격이 비싸도 저렴한 유사 제품보다 성능에 있어서는 제일 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 존** 유리세정제 리필 660ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20211107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 제품은 가격이 비싸도",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능에 있어서는 제일 좋네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "397205",
+    "RawText": "저렴하게 구매했고 냄새는 조금 나지만 잘 닦여서 만족스럽습니다. 다음 행사에도 주문하려고요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 존** 유리세정제 리필 660ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "11",
+    "RDate": "20211028",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매했고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새는 조금 나지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "잘 닦여서 만족스럽습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "397226",
+    "RawText": "배송은 빠르니 좋습니다. 다른 제품에 비해 가격이 저렴하지 않지만 브랜드 믿고 구입했는데 사용해보니 얼룩이 남아서 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 존** 유리세정제 리필 660ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20210804",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하지 않지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "사용해보니 얼룩이 남아서 아쉽네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "397227",
+    "RawText": "OOO 배송으로 빨리 받았고 쿠폰으로 싸게 잘 샀습니다 근데 용량이 작아서 금방 다 쓸 거 같네요.  일단 사용해보고 세정력 괜찮으면 더 구매할 생각은 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 존** 유리세정제 리필 660ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "24",
+    "RDate": "20210728",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰으로 싸게 잘 샀습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 용량이 작아서 금방 다 쓸 거 같네요.  ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "사용해보고 세정력 괜찮으면 더 구매할 생각은 있어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "397229",
+    "RawText": "유리 세정에는 딱 인듯 해요. 얼룩 지지도 않고 좋아요. 근데 냄새가 독해서  마스크 쓰고 사용해야 하는게 좀 귀찮아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 존** 유리세정제 리필 660ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "18",
+    "RDate": "20210726",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "얼룩 지지도 않고 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 독해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "마스크 쓰고 사용해야 하는게 좀 귀찮아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "유리 세정에는 딱인 듯 해요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "397232",
+    "RawText": "우리집 화장실 유리 세정제 냄새가 상쾌해서 다용도로 사용할 수있어 좋아요. 가격도 저렴해서 늘 사용하는 제품이에요. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 존** 유리세정제 리필 660ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "16",
+    "RDate": "20210715",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "유리 세정제 냄새가 상쾌해서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 다용도로 사용할 수있어 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "397243",
+    "RawText": "창문 닦으려고 샀습니다. 리필용이라 더 저렴할 줄 알았는데 본품과 가격 차이가 거의 없어요. 저렴한 제품보다 품질이 더 낫다는 생각이 안들어서 재구매는 안할래요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 존** 유리세정제 리필 660ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "90",
+    "Word": "22",
+    "RDate": "20210609",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "더 저렴할 줄 알았는데 본품과 가격 차이가 거의 없어요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 더 낫다는 생각이 안들어서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  }
+]

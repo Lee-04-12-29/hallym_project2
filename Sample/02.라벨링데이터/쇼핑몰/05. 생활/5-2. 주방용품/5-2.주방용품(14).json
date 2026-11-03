@@ -1,0 +1,3272 @@
+[
+  {
+    "Index": "421007",
+    "RawText": "가볍고 디자인이 귀엽습니다. 쓸만하네요. 그런데 연마제 제거를 해야하는게 귀찮습니다. 잘 사용할께요. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "12",
+    "RDate": "20200102",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 귀엽습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "쓸만하네요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제 제거를 해야하는게 귀찮습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "421012",
+    "RawText": "크고 넉넉해서 삼계탕 등 탕 종류 요리에 좋습니다. 처음 씻을때 연마제 제거는 열심히 하셔야 할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "17",
+    "RDate": "20190910",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크고 넉넉해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 삼계탕 등 탕 종류 요리에 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": " 처음 씻을때 연마제 제거는 열심히 하셔야 할 것 같습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "421021",
+    "RawText": "큰 사이즈라 마음에 듭니다. 많이 쓰지는 않아도 꼭 있어야 하는 사이즈입니다. 저희 가족 삼계탕 끓여먹었는데 너무 맛있게 잘되네요. 스팀홀기능이 있어서 넘치지 않고 좋았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "23",
+    "RDate": "20190312",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "큰 사이즈라 마음에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "많이 쓰지는 않아도",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 꼭 있어야 하는 사이즈입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "저희 가족 삼계탕 끓여먹었는데 너무 맛있게 잘되네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "스팀홀기능이 있어서 넘치지 않고 좋았습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421024",
+    "RawText": "가성비 좋아서 정말 마음에 들어요. 좋은 제품 저렴하게 산것도 훌륭한데 문제 있다하니 교환도 바로 해주셨습니다. 응대도 너무 친절했고요. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "20",
+    "RDate": "20190108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋아서 정말 마음에 들어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 제품 저렴하게 산것도 훌륭한데 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421026",
+    "RawText": "가격도 저렴하고 배송도 빠르고 좋았습니다. 통5중 다른 사이즈도 쓰고 있는데 이 사이즈도 좋은거 같네요. 잘 사용할께요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20181030",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "이 사이즈도 좋은거 같네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421033",
+    "RawText": "역시 OO은 품질 하나는 정말 실망시키지 않아요. 토종닭죽해서 온가족이 맛있게 잘 먹을수 있었어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20171010",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "역시 OO은 품질 하나는 정말 실망시키지 않아요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "토종닭죽해서 온가족이 맛있게 잘 먹을수 있었어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421035",
+    "RawText": "손잡이 끝부분 마감처리 깨끗이 안되어 있네요. 잘못 만지면 베일 수 있을 정도로 날카롭습니다. 생각보다 튼튼하고 좋지만 마감은 실망스럽네요. 귀찮아 그냥 쓸 예정인지만 담엔 OO제품은 고려해 봐야겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "1",
+    "Syllable": "114",
+    "Word": "26",
+    "RDate": "20170829",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "손잡이 끝부분 마감처리 깨끗이 안되어 있네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 잘못 만지면 베일 수 있을 정도로 날카롭습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "생각보다 튼튼하고 좋지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감은 실망스럽네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "421036",
+    "RawText": "둥근 손잡이가 닦을 때 걸리지 않아 편합니다. 닭 큰놈으로 4마리는 충분히 삶을 수 있을 듯한 사이즈라 맘에 듭니다.  무게는 생각보다 무겁지 않고 잘 산 것 같습니다. 역시 OO 괜찮습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "29",
+    "RDate": "20170829",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "둥근 손잡이가 닦을 때 걸리지 않아 편합니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 닭 큰놈으로 4마리는 충분히 삶을 수 있을 듯한 사이즈라 맘에 듭니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게는 생각보다 무겁지 않고 잘 산 것 같습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421041",
+    "RawText": "싼 가격에 잘 산 것 같네요. 크기도 꽤 커서 쓸만하고 들고 내릴 때도 조심해서 다뤄야겠습니다. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "16",
+    "RDate": "20170310",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼 가격에 잘 산 것 같네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 꽤 커서 쓸만하고 들고 내릴 때도 조심해서 다뤄야겠습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421056",
+    "RawText": "아직 사용하지 않았지만 엄마가 좋아하시니 좋네요. 우선 두께나 무게감이 맘에 드신다고 하시네요. 그리고 원래 OO 제품은 믿고 쓰는 좋은 제품이니 이 냄비도 품질 나쁘지 않을 거라고 하십니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퓨** 통5중 곰솥냄비 28cm",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "27",
+    "RDate": "20160127",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "우선 두께나 무게감이 맘에 드신다고 하시네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 무게감이 맘에 드신다고 하시네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "냄비도 품질 나쁘지 않을 거라고 하십니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "421072",
+    "RawText": "생각보다 가볍습니다. 그런데 품질이 딱 그 가격만큼이네요. 디자인도 고급스럽지는 않습니다. 그냥 막 쓰기 좋은 정도입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 피** 통3중 편수냄비 16cm",
+    "ReviewScore": "3",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20200425",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각보다 가볍습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 딱 그 가격만큼이네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 고급스럽지는 않습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그냥 막 쓰기 좋은 정도입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "421075",
+    "RawText": "저 이거랑 똑같은 제품 오랬동안 사용했는데요. 어쩌다 태워먹어서 다시 구매했어요. 품질이 가격대비 참 좋네요. 사이즈도 적당합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 피** 통3중 편수냄비 16cm",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "16",
+    "RDate": "20200602",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 가격대비 참 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 적당합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421081",
+    "RawText": "스텐이라 위생적이고 통3중이라 튼튼합니다. 어떤 요리든 맛있게 조리할 거 같아요. 너무 잘산거 같아 만족스럽습니다. 감사해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 피** 통3중 편수냄비 16cm",
+    "ReviewScore": "4",
+    "Syllable": "70",
+    "Word": "15",
+    "RDate": "20210325",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "스텐이라 위생적이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 통3중이라 튼튼합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "어떤 요리든 맛있게 조리할 거 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421084",
+    "RawText": "OO 냄비 마음에 들어요. OOO 보다 좀 얇아서 아쉽네요. 라면 끓여먹을려고 산거라 이정도 사이즈면 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 피** 통3중 편수냄비 16cm",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20210913",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "OOO 보다 좀 얇아서 아쉽네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "라면 끓여먹을려고 산거라 이정도 사이즈면 만족합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421098",
+    "RawText": "주문하고 이틀만에 물건 받았습니다. 손잡이도 편하고 좋네요. 가격도 싸게 구매해서 만족합니다. 추천할 만한 제품이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 피** 통3중 편수냄비 16cm",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "14",
+    "RDate": "20171107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손잡이도 편하고 좋네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 싸게 구매해서 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421099",
+    "RawText": "바닥이 얇고 가벼운걸 사용하면 자주 타기 마련인데 이 제품은 바닥도 두껍고 너무 무겁지도 않고 적당한 무게라 사용하기 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 피** 통3중 편수냄비 16cm",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20191212",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "이 제품은 바닥도 두껍고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "너무 무겁지도 않고 적당한 무게라 사용하기 좋습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421104",
+    "RawText": "전에 쓰던 게 좋아서 같은 걸로 샀는데 좋습니다. 3중 바닥보다 통3중이 좋습니다. 단 연마제 작업하느라 힘들었는데 꼭 제거하고 사용하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 피** 통3중 편수냄비 16cm",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20190622",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "3중 바닥보다 통3중이 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "단 연마제 작업하느라 힘들었는데 꼭 제거하고 사용하세요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "421107",
+    "RawText": "깔끔한 디자인에 품질도 좋고 저렴하게 잘 산것 같습니다. 연마제 깨끗하게 씻어서 잘 쓰겠습니다. 감사해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 피** 통3중 편수냄비 16cm",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20171123",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔한 디자인에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 산것 같습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제 깨끗하게 씻어서 잘 쓰겠습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "421108",
+    "RawText": "비슷한 가격의 다른 저렴한 제품보다 훨씬 견고하고 좋아요. 약간의 무게감도 더 있고 사용하기 편리해요.  라면 2개 정도는 무리 없이 끓일 수 있는사이즈입니다. 1년 넘게 사용해도 튼튼하고 변색없고 벗겨지거나 이상한 거 없어서 한 개 더 구매했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 피** 통3중 편수냄비 16cm",
+    "ReviewScore": "5",
+    "Syllable": "139",
+    "Word": "35",
+    "RDate": "20190502",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "비슷한 가격의 다른 저렴한 제품보다 훨씬 견고하고 좋아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "약간의 무게감도 더 있고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 편리해요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "라면 2개 정도는 무리 없이 끓일 수 있는사이즈입니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "1년 넘게 사용해도 튼튼하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "변색없고 벗겨지거나 이상한 거 없어서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421115",
+    "RawText": "배송도 빠르고 좋습니다. 품질도 나쁘지 않네요. 간단한 요리를 위해 구입했는데 크기도 적당하고 마음에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 피** 통3중 편수냄비 16cm",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20200118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 나쁘지 않네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421119",
+    "RawText": "가스렌지에 화력 강하게 놓고 써도 냄비 타는것도 없고 블링블링하니 너무 예쁘네요. 편하게 쓰기에 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 피** 통3중 편수냄비 16cm",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20200728",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가스렌지에 화력 강하게 놓고 써도 냄비 타는것도 없고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "블링블링하니 너무 예쁘네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하게 쓰기에 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421132",
+    "RawText": "2인용으로 사용하기에 딱 적당한 사이즈네요.  가볍고 인덕션 사용도 가능해서 좋아요. 빠른 배송까지 만족스럽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 피** 통3중 편수냄비 16cm",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "13",
+    "RDate": "20210211",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "2인용으로 사용하기에 딱 적당한 사이즈네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션 사용도 가능해서 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421135",
+    "RawText": "확실히 통스텐이라 좀 무게가 있습니다. 설겆이할 때 약간 무거워서 자주 사용하는 건 가벼운 걸로 따로 구매해야 겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 피** 통3중 편수냄비 16cm",
+    "ReviewScore": "4",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20210605",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "통스텐이라 좀 무게가 있습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "설겆이할 때 약간 무거워서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "421137",
+    "RawText": "통 3중이라는 점이 제일 큰 장점입니다. 뚜껑도 스텐이라 유리 뚜껑처럼 사이에 음식물이 낄 염려가 없어 위생적이라 좋네요. 1인용으로 쓰기에는 제일 좋은 사이즈입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 피** 통3중 편수냄비 16cm",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "22",
+    "RDate": "20210802",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "통 3중이라는 점이 제일 큰 장점입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": " 뚜껑도 스텐이라 유리 뚜껑처럼 사이에 음식물이 낄 염려가 없어 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 1인용으로 쓰기에는 제일 좋은 사이즈입니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "위생적이라 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421138",
+    "RawText": "몇년전에 산 통3중 냄비보다 얇고 가볍습니다. 디자인도 깔끔해서 사진보다 마음에 드네요. 잘 쓰겠습니다. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 피** 통3중 편수냄비 16cm",
+    "ReviewScore": "4",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20210317",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "몇년전에 산 통3중 냄비보다 얇고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍습니다. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔해서 사진보다 마음에 드네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421139",
+    "RawText": "냄비가 너무 가볍고 튼튼해보이질 않아서 실망입니다. 많이 생각하고 고른건데 너무 맘에 안드네요. 배송이 빠른 것만 맘에 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 피** 통3중 편수냄비 16cm",
+    "ReviewScore": "3",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20210319",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "냄비가 너무 가볍고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해보이질 않아서 실망입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "421140",
+    "RawText": "10년 전 같은 냄비 구입해서 지금까지 잘 사용해서 라면 전용으로 하나 더 구입했네요. 3중이라 두께도 무게도 적당하고 편수라 사용하기도 편합니다. 스테인리스는 처음 연마제 닦는 게 귀찮지만 오래 사용할 수 있어 대만족입니다. 브랜드 비싼 스텐에 비해 가성비 나쁘지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 피** 통3중 편수냄비 16cm",
+    "ReviewScore": "4",
+    "Syllable": "154",
+    "Word": "38",
+    "RDate": "20210427",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "3중이라 두께도 무게도 적당하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편수라 사용하기도 편합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "스테인리스는 처음 연마제 닦는 게 귀찮지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오래 사용할 수 있어 대만족입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "브랜드 비싼 스텐에 비해 가성비 나쁘지 않습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "421141",
+    "RawText": "여자들이 사용하기에는 무게감이 있어서 힘들어요. 하지만 냄비가 튼튼하고 디자인은 예쁘네요. 잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 피** 통3중 편수냄비 16cm",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "12",
+    "RDate": "20210428",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "여자들이 사용하기에는 무게감이 있어서 힘들어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "냄비가 튼튼하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 예쁘네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421142",
+    "RawText": "통 5중은 무거워서 3중으로 샀는데 잘 산거 같습니다. 너무 얇지도 않고 적당합니다. 편수가 라면 끓여먹긴 딱 좋아서 요걸로 샀어요. 18 이 없어서 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 피** 통3중 편수냄비 16cm",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "23",
+    "RDate": "20220716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "통 5중은 무거워서 3중으로 샀는데 잘 산거 같습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "너무 얇지도 않고 적당합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421143",
+    "RawText": "무겁지 않아서 좋고 무난하게 잘 쓰고 있습니다. 여느 제품처럼 연마제 제거는 꼭 필요하니 힘들어도 해야합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 피** 통3중 편수냄비 16cm",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20220518",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁지 않아서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "무난하게 잘 쓰고 있습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "여느 제품처럼 연마제 제거는 꼭 필요하니 힘들어도 해야합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "421144",
+    "RawText": "스테인레스 프라이팬은 한번 실패한 경험이 있어서 구입을 망설였어요. 그런데 냄비는 너무 좋습니다. 사용하기도 편하고 깔끔하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 피** 통3중 편수냄비 16cm",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "15",
+    "RDate": "20200911",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기도 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔하네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421151",
+    "RawText": "구매한 상품은 제가 원하던 사이즈예요. 빠른 배송 좋은 상품 저렴한 가격 매우 만족하고 디자인이 너무 깔끔하니 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 튜** 곰국냄비 28cm",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20210105",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "구매한 상품은 제가 원하던 사이즈예요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴한 가격 매우 만족하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 너무 깔끔하니 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421156",
+    "RawText": "주문한지 이틀만에 배송되어 만족스럽네요. 원하던 사이즈에요. 사용 시 뚜껑 중간에 투명하게 안을 볼 수 있어서 사용하기 편하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 튜** 곰국냄비 28cm",
+    "ReviewScore": "4",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20190102",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "원하던 사이즈에요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용 시 뚜껑 중간에 투명하게 안을 볼 수 있어서 사용하기 편하네요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421168",
+    "RawText": "고가의 브랜드 냄비들 다 썼지만 그닥 맘에 들지 않았는데 친정언니가 써보라며 권유하여 구입했습니다. 언니 말 듣길 잘했어요. 정말 튼튼하고 단단하고 무게감 좋고 코팅도 완벽 그 자체입니다. 일단 다른 분들 한 번 써보시기 바랍니다. 리얼 짱이에요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 세라믹 IH 양수냄비 20cm",
+    "ReviewScore": "5",
+    "Syllable": "137",
+    "Word": "35",
+    "RDate": "20220803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "정말 튼튼하고 단단하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅도 완벽 그 자체입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421169",
+    "RawText": "이 제품이 최고네요. 종류별로 다시켰는데 너무 좋습니다. 밑바닥이 두껍고 무게감도 있고 저가의 제품과 질이 다릅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 세라믹 IH 양수냄비 20cm",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20220806",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "밑바닥이 두껍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감도 있고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "저가의 제품과 질이 다릅니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421172",
+    "RawText": "너무 마음에 들고 좋아요.  추천해요. 즉석으로 솥밥을 해서 먹었는데 밥맛도 좋습니다. 디자인도 너무 예뻐요. 하여튼 너무 잘 산 거 같아서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 아** 화이트 냄비 18cm",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "21",
+    "RDate": "20220102",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "즉석으로 솥밥을 해서 먹었는데 밥맛도 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 너무 예뻐요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421173",
+    "RawText": "귀엽네요. 국은 힘들고 찌개 끊이기 좋고 사이즈도 적당하네요. 들기에도 무리가 없습니다. 잘 산거같아요. 배송도 빨라서 좋았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 아** 화이트 냄비 18cm",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "16",
+    "RDate": "20210918",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "귀엽네요. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "국은 힘들고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "찌개 끊이기 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 적당하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "들기에도 무리가 없습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421174",
+    "RawText": "아주 튼튼해서 좋고 디자인도 무난해서 좋아요. 잘 사용하는 중이에요. 추천 받아서 구매했는데 정말 마음에 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스테인레스 잼팟 30cm",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20220408",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "아주 튼튼해서 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 무난해서 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "잘 사용하는 중이에요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421175",
+    "RawText": "빨래 삶기 딱 좋습니다. 흰색 수건과 속옷 삶을려고 샀습니다. 인덕션에 사용 가능하니까 너무너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스테인레스 잼팟 30cm",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20220327",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "빨래 삶기 딱 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션에 사용 가능하니까 너무너무 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421181",
+    "RawText": "사이즈가 커서 좋고 잼팟이지만 활용도가 정말 좋겠네요. 테두리 부분 연마제가 너무 많이 나와서 닦는데 좀 힘들었어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스테인레스 잼팟 30cm",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20210715",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 커서 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "잼팟이지만 활용도가 정말 좋겠네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "테두리 부분 연마제가 너무 많이 나와서 닦는데 좀 힘들었어요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "421183",
+    "RawText": "아기 젖병 열탕할 때 사용하고 있습니다. 용량이 커서 젖병 5개 정도 한꺼번에 들어가네요. 나중에는 캠핑가서 요리해 먹을때 사용해도 될 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스테인레스 잼팟 30cm",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "21",
+    "RDate": "20210515",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아기 젖병 열탕할 때 사용하고 있습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "용량이 커서 젖병 5개 정도 한꺼번에 들어가네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "캠핑가서 요리해 먹을때 사용해도 될 것 같습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421184",
+    "RawText": "큼직하니 좋습니다. 튼튼해 보입니다. 연마제 제거 위해 일단 식초물에 끓이고 기름으로 열심히 닦았더니 힘드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스테인레스 잼팟 30cm",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20210512",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "큼직하니 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해 보입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제 제거 위해 일단 식초물에 끓이고 기름으로 열심히 닦았더니 힘드네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "421185",
+    "RawText": "저는 행주 삶고 열탕 소독하고 그런 용도로 구매했습니다. 사이즈 딱 좋습니다. 연마제는 많이 나오니 꼭 여러 번 제거하시고 사용하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스테인레스 잼팟 30cm",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "19",
+    "RDate": "20210428",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈 딱 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제는 많이 나오니 꼭 여러 번 제거하시고 사용하세요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "421186",
+    "RawText": "OOOO 스텐 소독 냄비 매일매일 잘 사용하고 있네요.  열탕 소독 담당으로 사용하기 아주 딱이네요. 오랫동안 잘 사용할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스테인레스 잼팟 30cm",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "19",
+    "RDate": "20210403",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "OOOO 스텐 소독 냄비 매일매일 잘 사용하고 있네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "열탕 소독 담당으로 사용하기 아주 딱이네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오랫동안 잘 사용할 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421187",
+    "RawText": "믿고 쓰는 생산업체입니다.  가격 역시 좋아서 구매했습니다.  튼튼해서 제품이 맘에 듭니다.  만족스러워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스테인레스 잼팟 30cm",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "12",
+    "RDate": "20210225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 역시 좋아서 구매했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해서 제품이 맘에 듭니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421188",
+    "RawText": "배송 빠르고 좋네요. 크기도 딱 적당하면서 예쁩니다. 인덕션 사용 가능해서 빨래 삶고 유리병 소독용으로 쓰고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스테인레스 잼팟 30cm",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20210204",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 딱 적당하면서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 예쁩니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션 사용 가능해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "빨래 삶고 유리병 소독용으로 쓰고 있습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421191",
+    "RawText": "받자마자 스텐 제품 넣어 푹푹 삶았네요. 행주도 삶았어요. 덕분에 주방이 빛이나고 있습니다. 하나 더 구매해서 쨈이나 감자탕 등 조리용으로 사용할 예정입니다. 옆에 손잡이가 있어 더 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스테인레스 잼팟 30cm",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "26",
+    "RDate": "20210118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "받자마자 스텐 제품 넣어 푹푹 삶았네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "행주도 삶았어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "옆에 손잡이가 있어 더  좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421193",
+    "RawText": "젖병 열탕 소독 하려고 샀습니다.  박스가 찢어져 있고 열어 본 흔적이 있습니다. 교환할까하다 할인할 때 사서 그런가 귀찮아서 그냥 씁니다만 녹인지 약간 그런 흔적과 찌그러져 있어 좀 그렇네요. 확인 좀 하고 보내주셨음 좋았을 것 같습니다. 깊이가 깊은 냄비가 필요해서 산 것이라 사이즈는 크고 맘에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스테인레스 잼팟 30cm",
+    "ReviewScore": "1",
+    "Syllable": "172",
+    "Word": "45",
+    "RDate": "20201113",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "녹인지 약간 그런 흔적과 찌그러져 있어 좀 그렇네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "깊이가 깊은 냄비가 필요해서 산 것이라 사이즈는 크고 맘에 들어요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421196",
+    "RawText": "배송 빠르고 디자인이 예쁩니다. 사이즈가 큰 만큼 무게감이 있습니다. 스테인레스 제품이라 깨끗하고 오래 쓸 수 있을 것 같아 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스테인레스 잼팟 30cm",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "19",
+    "RDate": "20200825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 예쁩니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 큰 만큼",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감이 있습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "스테인레스 제품이라 깨끗하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오래 쓸 수 있을 것 같아 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421199",
+    "RawText": "젖병열탕소독 냄비로 쓰려고 구매했습니다. 사이즈가 생각보다 좀 크긴한데 나중에 식기 등 소독하는데에도 쓰려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스테인레스 잼팟 30cm",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20200615",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 생각보다 좀 크긴한데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "나중에 식기 등 소독하는데에도 쓰려고 합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421202",
+    "RawText": "생각보다 크고 튼튼해서 좋습니다.  빨래 삶으려고 샀는데 마음에 쏙 들고 좋습니다. 가격은 비싸지도 싸지도 않고 보통이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스테인레스 잼팟 30cm",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20200602",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "생각보다 크고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해서 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "빨래 삶으려고 샀는데 마음에 쏙 들고 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸지도 싸지도 않고 보통이네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "421203",
+    "RawText": "아직 젖병 소독 안 해봤지만 편리하게 사용할 수 있음 좋겠어요.  조만간 젖병 소독 할 때 열심히 닦고 씻어서 써보려고요. 사이즈는 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스테인레스 잼팟 30cm",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "22",
+    "RDate": "20200528",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아직 젖병 소독 안 해봤지만 편리하게 사용할 수 있음 좋겠어요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈는 마음에 듭니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421209",
+    "RawText": "커서 좋습니다. 스텐이라 깨끗하고 테라스에서 음식해먹을때 많이 쓸듯 합니다. 어묵탕 끓이기에도 요긴할 듯 하네요. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스테인레스 잼팟 30cm",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "15",
+    "RDate": "20200331",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "커서 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "스텐이라 깨끗하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "테라스에서 음식해먹을때 많이 쓸듯 합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "어묵탕 끓이기에도 요긴할 듯 하네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421223",
+    "RawText": "사이즈 크고 괜찮습니다. 젖병 말고 수건도 삶을 수 있겠습니다. 두루두루 잘 쓸 수 있을 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스테인레스 잼팟 30cm",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "16",
+    "RDate": "20191024",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈 크고 괜찮습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "젖병 말고 수건도 삶을 수 있겠습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "두루두루 잘 쓸 수 있을 것 같습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421224",
+    "RawText": "처음 사용 전 연마제 씻어내느라 남편 몸살 날뻔 했습니다. 열탕 소독용으로 사용중인데 커서 좋긴하지만 무거운건 어쩔수없네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스테인레스 잼팟 30cm",
+    "ReviewScore": "3",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20191008",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "처음 사용 전 연마제 씻어내느라 남편 몸살 날뻔 했습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "열탕 소독용으로 사용중인데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "커서 좋긴하지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거운건 어쩔수없네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "421225",
+    "RawText": "OOO 스테인레스 잼팟 9리터 오픈마켓 검색하여 가장 저렴히 잘 샀습니다. 사이즈 커서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스테인레스 잼팟 30cm",
+    "ReviewScore": "4",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20191005",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "오픈마켓 검색하여 가장 저렴히 잘 샀습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈 커서 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421227",
+    "RawText": "사이즈 크고 넉넉하니 잘 쓸 것 같습니다. 합리적인 가격으로 저렴하게 잘 샀습니다. 인덕션 사용은 덤이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스테인레스 잼팟 30cm",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20190716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈 크고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "넉넉하니 잘 쓸 것 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "합리적인 가격으로 저렴하게 잘 샀습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션 사용은 덤이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421232",
+    "RawText": "빨래삶는 인덕션용으로 살려고 이리저리 알아보다가 이걸 많이들 사용해서 이 제품으로 구매했습니다. 용량이 더 컸으면 좋겠지만 이것도 나쁘진 않습니다. 인덕션용으로 큰 용량은 많이 비싼데 이건 인덕션이 가능하면서도 가성비가 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스테인레스 잼팟 30cm",
+    "ReviewScore": "4",
+    "Syllable": "128",
+    "Word": "28",
+    "RDate": "20190617",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "용량이 더 컸으면 좋겠지만 이것도 나쁘진 않습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "이건 인덕션이 가능하면서도",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421236",
+    "RawText": "아가 젖병 소독 하려고 구매 했어요. 기존에 쓰던 것보다 엄청 크고 좋네요. 일단 설명서 보고 사용 전 소독 중입니다. 싼 가격에 크기랑 디자인 너무 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스테인레스 잼팟 30cm",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "26",
+    "RDate": "20190604",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "기존에 쓰던 것보다 엄청 크고 좋네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 싼 가격에 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기랑 디자인 너무 마음에 듭니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 너무 마음에 듭니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421243",
+    "RawText": "빠른 배송 정말 좋았습니다. 잼 졸이려고 구입해 봤는데 잘 될거같아 기대가 됩니다. 용량이 커서 많이 만들수 있어 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스테인레스 잼팟 30cm",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "18",
+    "RDate": "20181204",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "잼 졸이려고 구입해 봤는데 잘 될거같아 기대가 됩니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "용량이 커서 많이 만들수 있어 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421244",
+    "RawText": "빨래삶은 용도로 구매했는데 사이즈도 크고 튼튼해서 좋습니다. 손잡이가 있어 들기도 편합니다. 감사히 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스테인레스 잼팟 30cm",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "14",
+    "RDate": "20181107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 크고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해서 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손잡이가 있어 들기도 편합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421245",
+    "RawText": "출산 앞두고 구매했습니다.  소독기도 있긴 하지만 필요할 것 같아서 샀습니다. 유리로 된 거 사려다 스텐이 더 좋을 것 같아 샀는데 좋네요. 크기도 커서 젖병 여러 개 삶을 수 있어 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스테인레스 잼팟 30cm",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "30",
+    "RDate": "20181023",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "유리로 된 거 사려다 스텐이 더 좋을 것 같아 샀는데 좋네요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 커서 젖병 여러 개 삶을 수 있어 좋습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421247",
+    "RawText": "배송도 빠르고 가벼워 사용하기 좋네요. 24cm 인데 약간 크게 나온거 같아요. 브랜드를 믿고 구매했는데 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "3",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20220825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워 사용하기 좋네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "24cm 인데 약간 크게 나온거 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "421255",
+    "RawText": "상품 품질이 좋네요. 마음에 듭니다. 작은걸 산다고 샀는데 써보니 딱 맞는 사이즈네요. 잡채하고 면 삶기 딱 좋습니다. 잘 샀어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "19",
+    "RDate": "20220512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "작은걸 산다고 샀는데  써보니 딱 맞는 사이즈네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "잡채하고 면 삶기 딱 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421258",
+    "RawText": "좋은 가격에 잘 구매했어요. 인덕션에 되서 좋습니다. 조금 넉넉하게 국 끓일 때 적당한 사이즈여서 사용하기 편하고 좋으네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20220313",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 잘 구매했어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션에 되서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "조금 넉넉하게 국 끓일 때 적당한 사이즈여서  사용하기 편하고 좋으네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421269",
+    "RawText": "뚜껑이 유리라서 조금 불안하긴 하지만 디자인은 깔끔하고 예쁘네요. 편하게 막 쓰기 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20210719",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "뚜껑이 유리라서 조금 불안하긴 하지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 깔끔하고 예쁘네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하게 막 쓰기 좋겠네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421282",
+    "RawText": "사이즈가 넉넉하니 좋습니다. 4인가족이 쓰기에 적당할것 같네요. 개인적으로는 아기 젖병 열탕소독용으로 샀는데 240미리 젖병도 들어가서 잘쓰고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "17",
+    "RDate": "20210427",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 넉넉하니 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 4인가족이 쓰기에 적당할것 같네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 240미리 젖병도 들어가서 잘쓰고 있습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421283",
+    "RawText": "사이즈 큰 냄비가 부족해서 계속 옮겨 담는게 일이였는데 두개 사니 이제 넉넉합니다. 사이즈도 딱 좋고 예뻐서 마음에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "18",
+    "RDate": "20210425",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 딱 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "예뻐서 마음에 들어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421284",
+    "RawText": "유리재질로 된 뚜껑이라 음식 조리 상태를 뚜껑을 열지 않고 볼수 있어 좋습니다. 냄비도 스텐이라서 좋고요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "4",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20210422",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "유리재질로 된 뚜껑이라 음식 조리 상태를 뚜껑을 열지 않고 볼수 있어 좋습니다. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "냄비도 스텐이라서 좋고요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421299",
+    "RawText": "연마제 닦아내느라 한참을 고생했네요.  그래도 가볍고 예뻐서 닦은 후에 베이킹 소다로 마무리했습니다. 잘 사용할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20210310",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제 닦아내느라 한참을 고생했네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "예뻐서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421305",
+    "RawText": "가볍고 용량이 커서 좋으네요. 국이나 조리 양이 적을 때 찜솥 대용으로 사용하기 좋을 것 같아요. 배송도 빨라 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "18",
+    "RDate": "20210225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "용량이 커서 좋으네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "국이나 조리 양이 적을 때 찜솥 대용으로 사용하기 좋을 것 같아요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421321",
+    "RawText": "통주물이 아니라서 생각보다 가볍네요. 오래 끓이면 손잡이도 뜨거운 게 단점입니다. 인덕션 되는 큰 냄비이면서 가격도 저렴한 건 큰 장점입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20210209",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "통주물이 아니라서 생각보다 가볍네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "오래 끓이면 손잡이도 뜨거운 게 단점입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션 되는 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "큰 냄비이면서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴한 건 큰 장점입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421325",
+    "RawText": "생각보다 크네요. 25정도는 되는것 같아요. 그리고 높이도 높아서 많은 식구용 국 같은 것도 끓이기 적당합니다. 인덕션 사용가능하구요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "4",
+    "Syllable": "75",
+    "Word": "17",
+    "RDate": "20210207",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "생각보다 크네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "25정도는 되는것 같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "높이도 높아서 많은 식구용 국 같은 것도 끓이기 적당합니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 인덕션 사용가능하구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421332",
+    "RawText": "연마제 제거 꼭 해야 할 듯 합니다.  물로는 안닦이고 기름으로만 닦이네요. 10번이상 닦아도 계속 나와서 제거가 쉽지는 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "3",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20210128",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제 제거 꼭 해야 할 듯 합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "물로는 안닦이고 기름으로만 닦이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "10번이상 닦아도 계속 나와서 제거가 쉽지는 않네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "421333",
+    "RawText": "냄비 튼튼하고 좋아보이네요. 배송속도는 보통이었어요. OO이라 믿고 구매했는데 스테인레스라 쓰기 편하겠네요. 잘 사용할께요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "13",
+    "RDate": "20210127",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "냄비 튼튼하고 좋아보이네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "스테인레스라 쓰기 편하겠네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421339",
+    "RawText": "기존에 사용하던 타사 제품보다 두께가 얇습니다. 그래서 조리 시 눌어붙지 않을까 걱정했는데 다행히 음식이 잘 됩니다. 사이즈도 딱 원하던 사이즈입니다. 가벼워서 사용하기에 좋습니다. 굿이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "4",
+    "Syllable": "107",
+    "Word": "24",
+    "RDate": "20210115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "기존에 사용하던 타사 제품보다 두께가 얇습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "조리 시 눌어붙지 않을까 걱정했는데 다행히 음식이 잘 됩니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 딱 원하던 사이즈입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 사용하기에 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421340",
+    "RawText": "인덕션에 딱 맞고 크기도 적당하니 좋습니다. 팔팔 끓을 때 뚜껑이 덜덜하면서 물이 튀니 불 조절 적당히 하셔야 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "18",
+    "RDate": "20210105",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션에 딱 맞고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 적당하니 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "팔팔 끓을 때 뚜껑이 덜덜하면서 물이 튀니 불 조절 적당히 하셔야 합니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "421351",
+    "RawText": "연마제도 거의 없었고 깨끗했습니다. 깊어서 국 끓이기 참 좋네요. 포장도 꼼꼼했고 배송도 빠르고 좋았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20201126",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제도 거의 없었고 깨끗했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "깊어서 국 끓이기 참 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421352",
+    "RawText": "저렴한 가격으로 좋은 품질의 제품을 너무 잘 산것 같습니다. 주변 사람들에게 추천할께요. 재구매하러 올께요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20201122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격으로",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "좋은 품질의 제품을 너무 잘 산것 같습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421355",
+    "RawText": "5년 보증합니다. 이전에 같은 제품 20cm짜리 양수 쓰고 있어서 다 알고 샀습니다. 바닥은 3중이라서 좋은데 측면은 3중이 아니라서 좀 아쉽네요.  중국제입니다. 인덕션에서 잘 되네요. 코팅 벗겨질 일이 없으니 좋습니다.  3년 된 티타늄 포스코팅이 다 벗겨져서 대체용으로 구매했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "5",
+    "Syllable": "161",
+    "Word": "37",
+    "RDate": "20201115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "바닥은 3중이라서 좋은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "측면은 3중이 아니라서 좀 아쉽네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션에서 잘 되네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "코팅 벗겨질 일이 없으니 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421357",
+    "RawText": "OO냄비 예쁘고 품질도 괜찮은듯 합니다. 배송이 어찌나 느리던지 일주일만에 와서 기다리느라 힘들었네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "4",
+    "Syllable": "57",
+    "Word": "12",
+    "RDate": "20201114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "OO냄비 예쁘고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 괜찮은듯 합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421359",
+    "RawText": "일주일 기다려서 정말 힘들게 받았네요. 배송이 너무 느려요. 무거울줄 알았는데 생각보다 가벼워서 마음에 드네요. 자주 손이 갈거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20201114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각보다 가벼워서 마음에 드네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "자주 손이 갈거 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421362",
+    "RawText": "저렴한 가격이긴 하지만 OO 이라는 브랜드를 생각하고 구매했습니다. 그런데 냄비가 3중이라 하기엔 너무 얇고, 퀄리티도 안 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20201103",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격이긴 하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "냄비가 3중이라 하기엔 너무 얇고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "퀄리티도 안 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "421375",
+    "RawText": "외형만보고 OOOO 프로 통3중이라고 생각하고 주문했는데 너무 가벼워서 다시 확인하니 그냥 스틸 냄비라 많이 실망스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "15",
+    "RDate": "20200825",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "너무 가벼워서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "그냥 스틸 냄비라 많이 실망스럽습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "421379",
+    "RawText": "아직 개봉만하고 사용하지는 않았지만 OO제품이니 품질은 믿고 사용할수 있을거 같습니다. 가성비는 좋아보여요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "12",
+    "RDate": "20200701",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 믿고 사용할수 있을거 같습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비는 좋아보여요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421384",
+    "RawText": "크기는 원하는 사이즈이고 디자인은 예쁘고 좋습니다. 그런데 씻어 놓았는데 테두리에서 녹물 같은게 나오네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "2",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20200617",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기는 원하는 사이즈이고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 예쁘고 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "씻어 놓았는데 테두리에서 녹물 같은게 나오네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "421387",
+    "RawText": "가벼워서 너무 좋으네요. 그리고 손잡이가 뜨거워진다는 후기가 있어 걱정했는데, 인덕션에서 오랫동안 달여도 전혀 뜨겁지 않아 정말 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "17",
+    "RDate": "20200526",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 너무 좋으네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "인덕션에서 오랫동안 달여도 전혀 뜨겁지 않아 정말 만족스럽습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421388",
+    "RawText": "바닥은 삼중이라 좋습니다. 그런데  옆이 조금 많이 얇다는 느낌이 듭니다. 하지만 대체적으로 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "4",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20200513",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "바닥은 삼중이라 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "옆이 조금 많이 얇다는 느낌이 듭니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "421390",
+    "RawText": "제품 품질과 배송 다 좋습니다. 그런데 뚜껑을 포함하여 손잡이가 뜨거워져서 사용하기가 좀 불편하네요. 손잡이에 절연체가 있는 것을 살 걸 그랬다는 생각이 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "4",
+    "Syllable": "90",
+    "Word": "22",
+    "RDate": "20200424",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 품질과 배송 다 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "뚜껑을 포함하여 손잡이가 뜨거워져서 사용하기가 좀 불편하네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "손잡이에 절연체가 있는 것을 살 걸 그랬다는 생각이 드네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "421397",
+    "RawText": "인덕션 냄비 사려고 알아보다가 OO 인튜이션 20cm 냄비와 같이 주문했습니다. 인덕션 인식 잘 되고 품질 좋아서 오랫동안 잘 쓸 수 있을 것 같습니다. 저렴하게 잘 산 것 같아요. 많이 파십시오",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "30",
+    "RDate": "20200321",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션 인식 잘 되고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오랫동안 잘 쓸 수 있을 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 산 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421398",
+    "RawText": "상품 가격도 좋습니다. 배송도 빠릅니다. 가벼워서 좋은데 냄비가 열을 받으면 따닥 따닥 뭔가 찢어지는 소리가 나네요.  설마 스테인리스가 터지지는 않겠지 싶어 그냥 사용하는데 소리가 신경은 쓰입니다. 소리 나는 게 불량인 건지...",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "3",
+    "Syllable": "129",
+    "Word": "31",
+    "RDate": "20200319",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "상품 가격도 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 좋은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "냄비가 열을 받으면 따닥 따닥 뭔가 찢어지는 소리가 나네요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "설마 스테인리스가 터지지는 않겠지 싶어 그냥 사용하는데 소리가 신경은 쓰입니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "소리 나는 게 불량인 건지...",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "421404",
+    "RawText": "엄청 골라서 샀네요. 제 조건은 스테인리스, 뚜껑은 유리, 디자인은 심플할 것, 손잡이 마감이 냄비 안까지 연결되지 않은, 계량되어 있어서 쓰기 편할 것, 가격은 너무 비싸지 않은 것 등이었거든요. 의외로 다 만족시키는 게 쉽지 않아서 냄비 사기가 어려웠는데요. 그중에 OO 찾아보고 샀는데 진짜 만족합니다. 유일한 단점은 물이 끓으면 뚜껑이 많이 덜그럭거리는데 밀착력이 좀 더 좋으면 좋겠네요. 근데 다른 기능들이 좋아서 단점을 상쇄해 줘요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "5",
+    "Syllable": "248",
+    "Word": "62",
+    "RDate": "20200207",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "물이 끓으면 뚜껑이 많이 덜그럭거리는데 밀착력이 좀 더 좋으면 좋겠네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "근데 다른 기능들이 좋아서 단점을 상쇄해 줘요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421407",
+    "RawText": "손잡이가 뜨거워지지 않습니다. 무게도 적당해서 사용하기 편리해요. 가격은 좀 비싸지만  잘 쓸 거 같습니다. 감사해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "4",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20200128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "손잡이가 뜨거워지지 않습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 적당해서 사용하기 편리해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 좀 비싸지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "421410",
+    "RawText": "행사가로 싸게 샀습니다. 조금 얇은감이 있지만 가스불에 쓸거라 상관없습니다. 사이즈가 넉넉하니 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "12",
+    "RDate": "20200121",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "행사가로 싸게 샀습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "조금 얇은감이 있지만 가스불에 쓸거라 상관없습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 넉넉하니 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421416",
+    "RawText": "인덕션을 사서 냄비도 하나 샀습니다.  사이즈 가늠에 실패해서 엄청 큰 냄비가 왔습니다. 1인용 이어야 하는데 슬프네요.  어쨌든 냄비는 크고 튼튼해 보이니 잘 써 보겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "4",
+    "Syllable": "98",
+    "Word": "24",
+    "RDate": "20191116",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈 가늠에 실패해서 엄청 큰 냄비가 왔습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "1인용 이어야 하는데 슬프네요.  ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 냄비는 크고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해 보이니 잘 써 보겠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421417",
+    "RawText": "아주 이쁘고 좋으네요.  스텐으로 하나씩 바꾸고 있었는데 스텐이라 좋고 반짝반짝 이뻐서 맘에 드네요.  손잡이도 별로 안뜨거워 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "17",
+    "RDate": "20191106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "아주 이쁘고 좋으네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "스텐이라 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "반짝반짝 이뻐서 맘에 드네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "손잡이도 별로 안뜨거워 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421422",
+    "RawText": "찜쪄먹거나 나물 데칠때 딱 적당한 크기라 좋습니다. 인덕션에 쓰려고 구매했는데 마음에 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "4",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20191014",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "찜쪄먹거나 나물 데칠때 딱 적당한 크기라 좋습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션에 쓰려고 구매했는데 마음에 드네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421427",
+    "RawText": "너무 좋네요. 얇아서 그런지 빨리 끓고 냄비 타지도 않아서 좋습니다. 스텐이라 반짝반짝해서 좋고, 브랜드명도 이름있는 OO이라 새겨진 게 참 멋있네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "20",
+    "RDate": "20190807",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아서 그런지",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "빨리 끓고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "냄비 타지도 않아서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "스텐이라 반짝반짝해서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "브랜드명도 이름있는 OO이라 새겨진 게 참 멋있네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421445",
+    "RawText": "배송 빠릅니다. 이 제품은 OOO 보다 얇은데 가격은 더 비쌉니다. 그런대로 집에서 사용하기는 좋은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "4",
+    "Syllable": "63",
+    "Word": "16",
+    "RDate": "20190123",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "이 제품은 OOO 보다 얇은데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 더 비쌉니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그런대로 집에서 사용하기는 좋은 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421449",
+    "RawText": "어제 받아서 씻으려고 보니 냄비 옆면에 긁힌거 같이 줄이 몇개씩 쫙쫙 나가있어요. 교환하기 귀찮고 싸게 샀으니 그냥 쓰려고 합니다. 아마 배송 과정에서 문제가 있었던 것 같습니다. 품질은 써봐야 알 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 인덕션 스텐냄비 양수 24cm",
+    "ReviewScore": "3",
+    "Syllable": "117",
+    "Word": "31",
+    "RDate": "20190104",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 샀으니 그냥 쓰려고 합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 써봐야 알 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  }
+]

@@ -1,0 +1,3164 @@
+[
+  {
+    "Index": "441995",
+    "RawText": "가격 대비 성능 괜찮은 편이네요. 아직 많이 사용하진 않았지만 품질에 아직은 큰 불만 없어요. 배송도 빠른 편이라 금방 와서 좋았어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기",
+    "ReviewScore": "4",
+    "Syllable": "75",
+    "Word": "20",
+    "RDate": "20161013",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "가격 대비 성능 괜찮은 편이네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "아직 많이 사용하진 않았지만 품질에 아직은 큰 불만 없어요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442006",
+    "RawText": "간단한 도구치고는 가격은 좀 있지만 품질은 괜찮네요. 매실철이 지나서 사용은 아직 안 해봤지만 잘 되면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "16",
+    "RDate": "20160709",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "간단한 도구치고는 가격은 좀 있지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 품질은 괜찮네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": " 사용은 아직 안 해봤지만 잘 되면 좋겠어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "442010",
+    "RawText": "여자가 혼자하기에는 힘이 들어서 좀 무리 인 것 같습니다. 손목에 힘이 들어가서 너무 아픈데  신랑하고 같이 하니 그나마 수월합니다.  매실 깔 때 꼭 장갑을 끼고 하셔야지 아님 손 많이 비니까 주의하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기",
+    "ReviewScore": "2",
+    "Syllable": "115",
+    "Word": "31",
+    "RDate": "20160706",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여자가 혼자하기에는 힘이 들어서 좀 무리 인 것 같습니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손목에 힘이 들어가서 너무 아픈데  신랑하고 같이 하니 그나마 수월합니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "매실 깔 때 꼭 장갑을 끼고 하셔야지 아님 손 많이 비니까 주의하세요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "442014",
+    "RawText": "만족스러워요. 쿠폰써서 저렴하게 구입할 수 있어서 좋습니다. 품질도 마음에 들어서 오늘 추가 구매하였습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20160701",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰써서 저렴하게 구입할 수 있어서 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 마음에 들어서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442019",
+    "RawText": "배송은 보통입니다. 품질은 좋아보여요. 다만 손에 힘이 많이 들어가 손에 물집이 잡히네요. 그래도 깔끔히 씨만 빼니 보기 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20160630",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 좋아보여요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손에 힘이 많이 들어가 손에 물집이 잡히네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "깔끔히 씨만 빼니 보기 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442025",
+    "RawText": "오자마자 사용했는데 초보가 씨앗 50개 빼는데 7분밖에 안 걸립니다. 정말 사길 잘 했어요. 매년 씨앗 빼다가 다 못 빼고 포기 했었는데 올해는 성공이네요. 올 쇼핑 목록 중 최고입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기",
+    "ReviewScore": "5",
+    "Syllable": "104",
+    "Word": "28",
+    "RDate": "20160623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "초보가 씨앗 50개 빼는데 7분밖에 안 걸립니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "매년 씨앗 빼다가 다 못 빼고 포기 했었는데 올해는 성공이네요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442028",
+    "RawText": "매실작두를 살까 이걸 살까 고민했는데, 매실을 큰 사이즈를 사용하신다면 비춥니다. 사이즈를 조정해도 자꾸 튕겨서 잘 안 되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20160621",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "매실을 큰 사이즈를 사용하신다면 비춥니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "사이즈를 조정해도 자꾸 튕겨서 잘 안 되네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "442039",
+    "RawText": "매실을 매년 담그고 장아찌도 담가 먹어 매실까는 기계가 필요해 구입은 했습니다. 하지만 비싸고 가격 대비 품질은 별로입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기",
+    "ReviewScore": "2",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20160613",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격 대비 품질은 별로입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "442040",
+    "RawText": "기존에 칼로만 작업하다가 매실씨 분리기를 사용해 봤는데 너무 편해서 정말 신세계네요. 그렇다고 사용법이 엄청 쉽거나 그런건 아니지만 기존보다 훨씬 쉽게 씨제거를 할 수 있어서 강력추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "25",
+    "RDate": "20160613",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "너무 편해서 정말 신세계네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용법이 엄청 쉽거나 그런건 아니지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "기존보다 훨씬 쉽게 씨제거를 할 수 있어서 강력추천합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442044",
+    "RawText": "생각보다 힘을 많이 줘야돼서 아쉽네요. 어느정도 하고나니 감이 잡히네요. 그런데 앞부분이 좀 으깨집니다. 처음에 요령을 몰라서 손에 힘이 많이 들어가니 물집 잡히네요. 매실씨 제거 많이 하시는분들은 그럭저럭 쓸만할겁니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기",
+    "ReviewScore": "4",
+    "Syllable": "123",
+    "Word": "28",
+    "RDate": "20160612",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "생각보다 힘을 많이 줘야돼서 아쉽네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "앞부분이 좀 으깨집니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손에 힘이 많이 들어가니 물집 잡히네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "매실씨 제거 많이 하시는분들은 그럭저럭 쓸만할겁니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "442045",
+    "RawText": "기대를 가지고 주문했는데 생각했던 것 보다는 씨제거가 잘 안되네요. 칼날을 깊숙히 넣고 돌리라고 나오는데 잘 안되고 힘을 주다보니 손목과 손바닥이 너무 아파서 별로입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기",
+    "ReviewScore": "3",
+    "Syllable": "95",
+    "Word": "23",
+    "RDate": "20160612",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "생각했던 것 보다는 씨제거가 잘 안되네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "칼날을 깊숙히 넣고 돌리라고 나오는데 잘 안되고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "힘을 주다보니 손목과 손바닥이 너무 아파서 별로입니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "442049",
+    "RawText": "작년엔 칼로 잘라 하느라 힘들었는데 한결 수월하게 씨를 분리했습니다. 좋은 가격에 잘 샀습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20160609",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "한결 수월하게 씨를 분리했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 잘 샀습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442055",
+    "RawText": "어머니 쓰신다고 사드렸는데 좀 약해 보이긴 하지만 무게도 가벼워서 좋고 가성비 나쁘지 않은것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 원** 매실작두",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20200915",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "좀 약해 보이긴 하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 가벼워서 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 나쁘지 않은것 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "442056",
+    "RawText": "힘 많이 안 들어가고 금방 까집니다. 매실 10킬로 여자 혼자서 금세 처리했어요. 근래들어 제일 도움되고 만족스러운 소비였습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 원** 매실작두",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20200705",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "힘 많이 안 들어가고 금방 까집니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "매실 10킬로 여자 혼자서 금세 처리했어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442058",
+    "RawText": "매년 고생했던 매실 씨빼기 너무 쉽고 빠르게 진행돼서 너무 만족합니다. 씨 제거가 잘 되고 정말 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 원** 매실작두",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "16",
+    "RDate": "20200531",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "너무 쉽고 빠르게 진행돼서 너무 만족합니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨 제거가 잘 되고 정말 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442061",
+    "RawText": "쓰다보니 이음새가 튼튼하지 않고 얇은 못 세개 박힌거라 매실 몇 번 쪼개니 일그러졌습니다. as 할수도 없고 나무라 가벼운 장점이 있으나 반면 튼튼하지 않은 단점이 있습니다. 사용 불가능해서 그냥 망치로 했네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 원** 매실작두",
+    "ReviewScore": "4",
+    "Syllable": "118",
+    "Word": "30",
+    "RDate": "20170602",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "쓰다보니 이음새가 튼튼하지 않고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "얇은 못 세개 박힌거라 매실 몇 번 쪼개니 일그러졌습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "나무라 가벼운 장점이 있으나 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "반면 튼튼하지 않은 단점이 있습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용 불가능해서 그냥 망치로 했네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "442063",
+    "RawText": "OOOO를 통해 매실 작두를 샀습니다. 아주 유용하게 사용하고 있습니다. 너무 좋습니다. 매실도 잘 까집니다. 더덕도 잘 까지고 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 원** 매실작두",
+    "ReviewScore": "4",
+    "Syllable": "80",
+    "Word": "19",
+    "RDate": "20160711",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아주 유용하게 사용하고 있습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "매실도 잘 까집니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "더덕도 잘 까지고 너무 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442067",
+    "RawText": "나무향이 나서 마음에 듭니다. 완벽하지는 않지만 손으로 하는 것 보다는 나은 것 같습니다. 나사가 좀 헐거운 감이 있네요. 나무이기에 사용 후 관리가 필요하겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 원** 매실작두",
+    "ReviewScore": "3",
+    "Syllable": "91",
+    "Word": "23",
+    "RDate": "20160624",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "나무향이 나서 마음에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "완벽하지는 않지만 손으로 하는 것 보다는 나은 것 같습니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "나사가 좀 헐거운 감이 있네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "나무이기에 사용 후 관리가 필요하겠네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "442085",
+    "RawText": "배송 잘 받았어요. 모양은 이쁘게 나오는데 사용하는데 적응은 좀 필요할것 같습니다. 힘 조절이 어렵습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 만** 채칼",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20220216",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "모양은 이쁘게 나오는데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하는데 적응은 좀 필요할것 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "힘 조절이 어렵습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "442091",
+    "RawText": "묵직하지만, 마늘 잘 으깨지네요. 마늘이 쉽게 다져져서 순식간에 마늘 다 처리했네요. 스테인레스라서 위생적이고, 튼튼해서 파손 걱정도 없어 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 마늘다지기",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "18",
+    "RDate": "20220228",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직하지만",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 마늘 잘 으깨지네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": " 마늘이 쉽게 다져져서 순식간에 마늘 다 처리했네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "스테인레스라서 위생적이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해서 파손 걱정도 없어 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442094",
+    "RawText": "OOO 답게 튼튼해서 이제 더는 바꿀일 없을거 같아요. 독일산에 비해 중국산이라 저렴해서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 마늘다지기",
+    "ReviewScore": "4",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20220206",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "OOO 답게 튼튼해서 이제 더는 바꿀일 없을거 같아요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 만족합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442096",
+    "RawText": "다지기가 좀 무겁네요.  마늘 빻을 때  손에 힘이 들어가서 아프긴 하지만 칼로 다지는 거보다는 옆으로 튀지 않아서 편리합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 마늘다지기",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20220111",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "다지기가 좀 무겁네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "마늘 빻을 때  손에 힘이 들어가서 아프긴 하지만 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "칼로 다지는 거보다는 옆으로 튀지 않아서 편리합니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442097",
+    "RawText": "잘 다져서 나오고 좋습니다. 스탠 재질이라 위생상 좋고 세척하기도 좋아요. 근데 조금의 껍질이 안쪽에 남아서 깔끔하지 않아요. 그거 하나빼고는 맘에 듭니다. 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 마늘다지기",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "22",
+    "RDate": "20220110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잘 다져서 나오고 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "스탠 재질이라 위생상 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "세척하기도 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 조금의 껍질이 안쪽에 남아서 깔끔하지 않아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "442100",
+    "RawText": "튼튼하네요. 오래 오래 사용할 것 같아요. 순간의 선택이 10년을 좌우한다는 광고문구가 생각나네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 마늘다지기",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20210930",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오래 오래 사용할 것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442105",
+    "RawText": "마늘다지기인데 가격이 고가라서 그 이유가 궁금했는데, 상품 받고 나서 이해했어요. 묵직해서 마늘이 잘 다져질 것 같습니다. 아직 사용 전입니다만 마늘은 슬라이스보다는 다져야 한다고 하네요.  다만, 흠이라면 제품 정보 스티커가 손잡이 부분에 너무 철썩 붙어있어 끈끈이를 모두 제거하느라 매우 힘들었네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 마늘다지기",
+    "ReviewScore": "5",
+    "Syllable": "169",
+    "Word": "39",
+    "RDate": "20210324",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 고가라서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 묵직해서 마늘이 잘 다져질 것 같습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "제품 정보 스티커가 손잡이 부분에 너무 철썩 붙어있어 끈끈이를 모두 제거하느라 매우 힘들었네요.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "442106",
+    "RawText": "냉동실 까놓은 알마늘 꺼내 잠시 해동했다가 사용하면 마늘 향도 좋아요. 사용 방법도 간단하고 스텐 재질이라 튼튼합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 마늘다지기",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20201111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용 방법도 간단하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "스텐 재질이라 튼튼합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442107",
+    "RawText": "진작 살 걸 그랬네요. 외국인데 싼 거 몇번 알아보다가 말았는데 그랬음 후회했을 거 같네요. 튼튼하고 깔끔한 마무리가 맘에 들었어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 마늘다지기",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "19",
+    "RDate": "20200614",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "깔끔한 마무리가 맘에 들었어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442108",
+    "RawText": "화면에서 느껴지다시피 견고하고 묵직하고 크기도 조금 큰 것 같아 맘에 들어요. 마늘 잘 다져진다고 합니다. 전에 쓰다 고장  난 1만몇천원짜리 알루미늄 다지기보다 좋다고 아내가 말하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 마늘다지기",
+    "ReviewScore": "4",
+    "Syllable": "104",
+    "Word": "25",
+    "RDate": "20200529",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "견고하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 조금 큰 것 같아 맘에 들어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "마늘 잘 다져진다고 합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442110",
+    "RawText": "아주 무겁네요. 중국산이고 도구가 커서 손이 큰 저도 쓰기가 편하진 않았어요. 찐득거리는 스티커를 손잡이에 크게 붙여 놓아서 떼느라 애먹었구요. 브랜드 인지도가 아쉬운 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 마늘다지기",
+    "ReviewScore": "2",
+    "Syllable": "100",
+    "Word": "23",
+    "RDate": "20200412",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "아주 무겁네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "도구가 커서 손이 큰 저도 쓰기가 편하진 않았어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "찐득거리는 스티커를 손잡이에 크게 붙여 놓아서 떼느라 애먹었구요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "442111",
+    "RawText": "칼 뒤로 마늘을 찧고 생활하다가 마늘다지기 샀는데 분리도 되고 마늘 찧은 후 세척하기도 편하고 튼튼하게 잘 나왔네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 마늘다지기",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "17",
+    "RDate": "20200411",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "마늘 찧은 후 세척하기도 편하고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하게 잘 나왔네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442115",
+    "RawText": "구조가 좀 남 다릅니다. 아직 안써봤지만 묵직하네요. 마늘통 입구가 작아서 좀 그렇지만 그런대로 잘 빻아집니다. 암튼 잘 쓰면 좋겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 마늘다지기",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "19",
+    "RDate": "20200208",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "구조가 좀 남 다릅니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "아직 안써봤지만 묵직하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "마늘통 입구가 작아서 좀 그렇지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "그런대로 잘 빻아집니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442121",
+    "RawText": "사진에 나와 있는 것처럼 전체가 스테인레스 재질이라 튼튼하고, 사용 후 안쪽까지 깨끗이 씻을 수 있어 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 마늘다지기",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20190527",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "스테인레스 재질이라 튼튼하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "사용 후 안쪽까지 깨끗이 씻을 수 있어 좋습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442122",
+    "RawText": "지난번에 쓰던 마늘 다지기가 부서져서 구입했는데 굉장히 짱짱해서 만족합니다. 디자인도 마음에 들고 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 마늘다지기",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20190414",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "굉장히 짱짱해서 만족합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 마음에 들고 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442123",
+    "RawText": "튼튼하고  잘 다져지니 괜찮네요. 매번 씻는게 좀 번거로울 뿐 전체적으로 만족합니다. 마늘 다지기로 이 제품 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 마늘다지기",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20190326",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 튼튼하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잘 다져지니 괜찮네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": " 매번 씻는게 좀 번거로울 뿐",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "442127",
+    "RawText": "디자인 좋고 내구성 좋고 사용하기에도 편리해서 마음에 듭니다. 믿을 수 있는 브랜드라 더 만족스러운 느낌입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 마늘다지기",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20181031",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "내구성 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기에도 편리해서 마음에 듭니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442129",
+    "RawText": "아직 사용전이라 품질은 모르겠고  아래쪽 판과 누름판 다 움직여서 마늘이 깔끔하게 다져 나오네요. 세척이 편할듯 합니다. 다른 프레스랑 쫌 다른 점이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 프** 마늘다지기",
+    "ReviewScore": "4",
+    "Syllable": "86",
+    "Word": "21",
+    "RDate": "20181002",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": " 품질은 모르겠고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 아래쪽 판과 누름판 다 움직여서 마늘이 깔끔하게 다져 나오네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "세척이 편할듯 합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442131",
+    "RawText": "OOO이어서 샀는데 작동이 잘 안되네요. 원형 채칼은 돌아가지도 않고 바꿔가며 쓰는 채칼은 찌꺼기가 갈려 나오네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 원** 만능 슬라이서 세트",
+    "ReviewScore": "1",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20220405",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "OOO이어서 샀는데 작동이 잘 안되네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "원형 채칼은 돌아가지도 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "바꿔가며 쓰는 채칼은 찌꺼기가 갈려 나오네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "442134",
+    "RawText": "채소면 기능 때문에 샀는데, 다지는 기능을 더 많이 사용하게 됩니다. 호박이나 감자 다진 후 바로 계란 풀어서 사용할 수 있어서 편리하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 원** 만능 슬라이서 세트",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "21",
+    "RDate": "20210513",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "채소면 기능 때문에 샀는데, 다지는 기능을 더 많이 사용하게 됩니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "호박이나 감자 다진 후 바로 계란 풀어서 사용할 수 있어서 편리하네요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442138",
+    "RawText": "처음 사용 중 오른손 엄지 1센티미터 정도 비어서 피가 철철 났어요. 마감이나 잡는 부분 등이 위험성이 있습니다. 사용시에 두꺼운 면장갑 끼셔야 할 겁니다. 조립은 엄청 어려워서 결국 쓰레기통에 버리게 되었어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 원** 만능 슬라이서 세트",
+    "ReviewScore": "4",
+    "Syllable": "118",
+    "Word": "30",
+    "RDate": "20201009",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "처음 사용 중 오른손 엄지 1센티미터 정도 비어서 피가 철철 났어요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "마감이나 잡는 부분 등이 위험성이 있습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용시에 두꺼운 면장갑 끼셔야 할 겁니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "조립은 엄청 어려워서 결국 쓰레기통에 버리게 되었어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "442175",
+    "RawText": "드디어 잘 드는 가위 구매했습니다. 가볍고 크기도 많이 크지 않고 좋습니다. 슥슥 잘 잘린다고 엄마도 좋아하셨습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20220826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "드디어 잘 드는 가위 구매했습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 많이 크지 않고 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "슥슥 잘 잘린다고 엄마도 좋아하셨습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442176",
+    "RawText": "마트보다 싸게 샀습니다. 쓰던것 보다 조금 짧긴한데 잘 잘립니다. 그립감도 좋네요. 안전 배송되었어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20220826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트보다 싸게 샀습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "쓰던것 보다 조금 짧긴한데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "잘 잘립니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "그립감도 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442181",
+    "RawText": "OOO구매해봤습니다. 가위 저렴한것도 많이 파는데 비싼거 필요성을 못느껴왔었는데요. 저렴한걸 사서 써보니 가위 끝에 녹이 슬고 손잡이 아구 안맞고 마음에 안들더라고요. 주방용 가위니까 요번에 조금 비싼 돈주고 사봤습니다. 아직까진 잘 잘리고 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "141",
+    "Word": "31",
+    "RDate": "20220825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "조금 비싼 돈주고 사봤습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "아직까진 잘 잘리고 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442194",
+    "RawText": "주방 가위인데 사용한 지 한 달도 안 됐는데 가위날에 녹이 생깁니다. 그냥 드릴테니 색종이나 자르는데 쓰시길 권장합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "1",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20220822",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "주방 가위인데 사용한 지 한 달도 안 됐는데 가위날에 녹이 생깁니다. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그냥 드릴테니 색종이나 자르는데 쓰시길 권장합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "442290",
+    "RawText": "사이즈가 생각보다 좀 작긴한데 그럼에도 불구하고 정말 마음에 들어요. 절삭력도 좋고 역시 OOO네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20220726",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 생각보다 좀 작긴한데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442304",
+    "RawText": "주방가위로 구매했습니다. 기존 가위가 좀 무뎌지는 느낌이라 새 가위 사봤습니다. 무엇보다 고기 자를땐 가위가 잘 들어야 시원시원하거든요. 유명한 브랜드인만큼 날이 잘 들면 좋겠습니다. 저렴하게 잘 샀어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "3",
+    "Syllable": "114",
+    "Word": "26",
+    "RDate": "20220725",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "날이 잘 들면 좋겠습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 샀어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442305",
+    "RawText": "잘 안 들던 주방 가위 전부 교체했어요. 성능이 아주 좋네요.  유명한 브랜드 제품을 저렴하게 득템했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20220725",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능이 아주 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "유명한 브랜드 제품을 저렴하게 득템했어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442310",
+    "RawText": "어제 배송 받고 하루 지났는데 싱크대에 두었다가 오늘 씻으려고 봤더니 녹이 슬었네요. 가위에 녹스는 건 처음 봅니다. 뭐 이런 경우가 다 있는지 완전 비추네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "24",
+    "RDate": "20220724",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "싱크대에 두었다가 오늘 씻으려고 봤더니 녹이 슬었네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가위에 녹스는 건 처음 봅니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "442355",
+    "RawText": "좋은 제품이에요. 화면으로 보는 것보다 퀄리티가 뛰어나네요.  가위가 튼튼해 보이고 잘 잘리고 너무 좋네요.잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20220721",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "화면으로 보는 것보다 퀄리티가 뛰어나네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "가위가 튼튼해 보이고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "잘 잘리고 너무 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442366",
+    "RawText": "부엌 가위로 쓰기에는 조금 작아서 아쉽네요. 고기 구울때 쓰면 딱 맞을듯 하네요. 날이 잘 들면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "4",
+    "Syllable": "59",
+    "Word": "16",
+    "RDate": "20220717",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "부엌 가위로 쓰기에는 조금 작아서 아쉽네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "고기 구울때 쓰면 딱 맞을듯 하네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "날이 잘 들면 좋겠네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "442372",
+    "RawText": "뻑뻑하고 가위질 한 번 하려면 손아귀 손목 팔이 너무 아프네요. 두 손으로 잡고 사용할 수 도 없는 노릇이니 답답하네요. 싼게 비지떡이란 말이 딱 이 가위를 두고 하는 말인듯합니다. 다시 사야겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "111",
+    "Word": "30",
+    "RDate": "20220715",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "뻑뻑하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "가위질 한 번 하려면 손아귀 손목 팔이 너무 아프네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "두 손으로 잡고 사용할 수 도 없는 노릇이니 답답하네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "싼게 비지떡이란 말이 딱 이 가위를 두고 하는 말인듯합니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "442373",
+    "RawText": "새건데 녹이 있고 관리 신경썼는데도 녹이 금방 또 생기네요. 이런 하자제품 판매하지 마셨으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20220715",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "새건데 녹이 있고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "관리 신경썼는데도 녹이 금방 또 생기네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이런 하자제품 판매하지 마셨으면 좋겠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "442392",
+    "RawText": "손잡이 부분이 좀 거칠고 무겁습니다. 녹슨다는 후기 때문에 망설였는데 걍 샀습니다. 가격대비 절삭력은 아주 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20220708",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "재질/질감",
+        "SentimentText": "손잡이 부분이 좀 거칠고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁습니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "가격대비 절삭력은 아주 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442395",
+    "RawText": "크기가 좀 아쉽기는 합니다. 하지만 가위 본연의 기능은 만족스럽습니다. 가성비 좋은 제품 잘 산거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "4",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20220708",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기가 좀 아쉽기는 합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "가위 본연의 기능은 만족스럽습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은 제품 잘 산거 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442402",
+    "RawText": "절삭력 장난 아니게 좋습니다. 가격 행사로 저렴하게 구매해 대만족스럽네요. 정말 가성비가 좋은 제품이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20220706",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력 장난 아니게 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 행사로 저렴하게 구매해 대만족스럽네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "정말 가성비가 좋은 제품이에요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442407",
+    "RawText": "부드럽게 가위질이 잘 됩니다. OOO 알아주는 제품이라 얼른 구입했습니다. 가격도 저렴하고 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20220705",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "부드럽게 가위질이 잘 됩니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고 너무 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442422",
+    "RawText": "에누리때 사서 조금은 절약한듯 해서 만족스럽습니다. 가위는 잘드는데 겹치는곳이 금방 녹쓰네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "11",
+    "RDate": "20220702",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "에누리때 사서 조금은 절약한듯 해서 만족스럽습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "가위는 잘드는데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "겹치는곳이 금방 녹쓰네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "442454",
+    "RawText": "저렴하게 구입했어요. 일단 종이는 잘 잘립니다. 고기 한번 썰어봐야 알것 같네요. 배송처리 잘해 주셔서 감사해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "4",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20220629",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입했어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "종이는 잘 잘립니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442461",
+    "RawText": "가성비 좋은 제품입니다. 주방에서 잘 사용할것 같습니다. 덤으로 1개 더 주셔서 아주 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20220629",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은 제품입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "주방에서 잘 사용할것 같습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "덤으로 1개 더 주셔서 아주 마음에 듭니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442462",
+    "RawText": "OOO에서 저렴하게 판매하는 것 같아 구매했는데 가위가 잘 들어서 좋고 모양이 예뻐서 자주 사용하게 되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20220628",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 판매하는 것 같아 구매했는데 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "가위가 잘 들어서 좋고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "모양이 예뻐서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "자주 사용하게 되네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442473",
+    "RawText": "역시 국산은 굿입니다. 크기도 적당하고 부드럽게 잘 펴지고 잘 잘리고 역시 OO는 사랑입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20220628",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 적당하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 부드럽게 잘 펴지고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "잘 잘리고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442474",
+    "RawText": "집가위가 무뎌져 구입했습니다. OOO가 가격대비 잘 들고 가볍고 좋습니다. 디자인도 예쁘고 가위를 잡았을 때 그립감이 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20220627",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "OOO가 가격대비 잘 들고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "가위를 잡았을 때 그립감이 좋네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442511",
+    "RawText": "OOO만 쓰고 있는데 요건 기존 쓰고 있는 가위랑은 조금 차이가 있어요. 조금 짧습니다. 절삭력은 아주 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "16",
+    "RDate": "20220625",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": " 조금 짧습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력은 아주 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442563",
+    "RawText": "가위 날이 길고 커서 큰 음식을 자르기에도 좋습니다. 손잡이도 커서 더 편하니 아주 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "14",
+    "RDate": "20220606",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "가위 날이 길고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "커서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "큰 음식을 자르기에도 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "손잡이도 커서 더 편하니",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442592",
+    "RawText": "큰 김을 자를 때는 짧은 것 같아서 더 긴 가위날을 살 껄 하고 후회했네요. 그래도 가격 대비 품질은 좋습니다. 가위 날이 다양하니 구입하실 때 꼭 확인해 보세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "27",
+    "RDate": "20220530",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "큰 김을 자를 때는 짧은 것 같아서 더 긴 가위날을 살 껄 하고 후회했네요.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격 대비 품질은 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442610",
+    "RawText": "일반적인 식 가위 사이즈 보다 모든게 작습니다. 엄지구멍도 작고 큰구멍에는 두 손가락밖에 안들어가서 사용이 불편합니다. 직접 보고 구매했다면 좀 큰사이즈로 선택했을텐데요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "21",
+    "RDate": "20220520",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "일반적인 식 가위 사이즈 보다 모든게 작습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "엄지구멍도 작고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "큰구멍에는 두 손가락밖에 안들어가서 사용이 불편합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "442612",
+    "RawText": "전에 사용하던게 좋아서 사봤는데 가위가 너무 헐거운거 같아요. 불량인거 같은데 교환 불편해서 그냥 사용합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20220519",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가위가 너무 헐거운거 같아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "불량인거 같은데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "442627",
+    "RawText": "이 제품 사용 중인데 녹이 생겨서 새로 구입했습니다. 이번엔 오래 썼음 좋겠습니다. 가위를 잡았을 때 손이 편하고 가위가 잘 들어서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "21",
+    "RDate": "20220514",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "녹이 생겨서 새로 구입했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "이번엔 오래 썼음 좋겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "가위를 잡았을 때 손이 편하고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "가위가 잘 들어서 좋습니다.   ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442642",
+    "RawText": "집 가위를 4년 사용했더니 녹도 생기고 해서 바꾸려고 구매했습니다. 타 회사 것도 써 보고 동일 회사 다른 디자인도 써봤습니다. 그런데 저는 이 제품이 제일 잘 잘리는 거 같습니다. 사용하기도 제일 편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "116",
+    "Word": "31",
+    "RDate": "20220507",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "저는 이 제품이 제일 잘 잘리는 거 같습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기도 제일 편합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442653",
+    "RawText": "OOO 베이직 가위는 크기도 적당하고 그립감도 좋아 쓰기에 아주 좋아요. 가격도 무지 무지 착해서 더 좋고 튼튼합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "17",
+    "RDate": "20220503",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "OOO 베이직 가위는 크기도 적당하고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "그립감도 좋아 쓰기에 아주 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 무지 무지 착해서 더 좋고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼합니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442662",
+    "RawText": "OOO 마이셰프 베이직 가위는 절삭력이 아주 좋습니다. 영업점에선 더 비쌌던 것 같은데 인터넷에선 저렴해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20220501",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "OOO 마이셰프 베이직 가위는 절삭력이 아주 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "영업점에선 더 비쌌던 것 같은데 인터넷에선 저렴해서 좋습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442670",
+    "RawText": "가위 크기도 적당하고 잘 듭니다. 다만 손잡이 사이즈가 작은듯해서 손 큰  사람은 약간 불편 할 수 있겠다 싶습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "18",
+    "RDate": "20220501",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "가위 크기도 적당하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "잘 듭니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "손잡이 사이즈가 작은듯해서 손 큰  사람은 약간 불편 할 수 있겠다 싶습니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "442678",
+    "RawText": "음식 자를 때 힘줄 것도 없이 너무 잘 잘립니다. 일본 브랜드 같은 느낌인데 국내 브랜드였습니다. 좋은 가격에 좋은 제품 잘 구입했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "21",
+    "RDate": "20220426",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "음식 자를 때 힘줄 것도 없이 너무 잘 잘립니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 좋은 제품 잘 구입했어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442682",
+    "RawText": "받자마자 설거지하고 물기 바로 닦아 보관했는데도 처음부터 뻑뻑해요. 설거지하기 전엔 부드러웠거든요. 할인한다고 샀다가 뻑뻑한 가위 쓴다고 손목 아파서 몇 번 써보지도 못하고 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "23",
+    "RDate": "20220424",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": " 처음부터 뻑뻑해요. 설거지하기 전엔 부드러웠거든요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인한다고 샀다가 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "뻑뻑한 가위 쓴다고 손목 아파서 몇 번 써보지도 못하고 아쉬워요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "442685",
+    "RawText": "빠른 배송 잘 받았습니다. 길이가 짧은 단점이 있네요. 그래서 주방에서 사용할 시 조금 불편함이 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20220422",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이가 짧은 단점이 있네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그래서 주방에서 사용할 시 조금 불편함이 있습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "442691",
+    "RawText": "가위 하나 바꿨다고 주방에서 일하는 게 편해졌어요. 너무 잘 들고 좋습니다. 역시 국내산 제품이 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "15",
+    "RDate": "20220418",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "주방에서 일하는 게 편해졌어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": " 너무 잘 들고 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442722",
+    "RawText": "역시 OO입니다. 10년째 OO 가위만 쓰고 있는데 이 가위도 절삭력이 아주 베리굿입니다. 아주 튼튼합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20220406",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력이 아주 베리굿입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "아주 튼튼합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442741",
+    "RawText": "손잡이가 가볍고 가위날이 덜 날카로워서 사용하기 편하네요. 가위날이 매서운 제품이 있어 이 제품으로 대체했네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20220320",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "손잡이가 가볍고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "가위날이 덜 날카로워서 사용하기 편하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442759",
+    "RawText": "손이 작아서 그런지 이 제품이 제일 편합니다. 그리고 아주 잘 잘립니다. 가위 사이즈도 아담합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "14",
+    "RDate": "20220311",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "이 제품이 제일 편합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": " 아주 잘 잘립니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "가위 사이즈도 아담합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "442768",
+    "RawText": "오랜기간 써도 내구성 좋고 절삭력도 변함없이 좋습니다. 좋은제품 만들어줘서 감사드려요. 잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20220305",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오랜기간 써도 내구성 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력도 변함없이 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442806",
+    "RawText": "이거 녹이에요? 이거 어떻게 해야 할까요? 무슨 가위에 녹이 쓸까요? 교환받아야 할 것 같은데요.  아님 그냥 버려야 하는 건가요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "19",
+    "RDate": "20220204",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "이거 녹이에요?",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "무슨 가위에 녹이 쓸까요?",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "442807",
+    "RawText": "기존 집에서 사용하던 가위보다 살짝 짤뚱한 면이 있네요. 손가락 넣는 구멍도 작아서 여유있는 편은 아닌 거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "17",
+    "RDate": "20220204",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "살짝 짤뚱한 면이 있네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 손가락 넣는 구멍도 작아서 여유있는 편은 아닌 거 같습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "442821",
+    "RawText": "OOO 가위 무난하니 사용하기에 괜찮은 듯합니다. 녹이 조금씩 생겨서 잘 관리해야 할듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20220121",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "OOO 가위 무난하니 사용하기에 괜찮은 듯합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "녹이 조금씩 생겨서 잘 관리해야 할듯합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "442841",
+    "RawText": "OOO 가위 쓰고 부터는 다른 가위를 못 사용합니다. 절삭력도 좋고 튼튼해서 오래 쓸 수 있습니다.  식당용으로 쓰다 보니 가위들 수명이 짧지만 OOO는 장수하고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "24",
+    "RDate": "20220111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해서 오래 쓸 수 있습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "OOO는 장수하고 있습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442845",
+    "RawText": "OO 칼, 가위는 행사 때마다 저렴하게 구입하게 되니 좋네요.  고기 자를 때 편리하고 절삭력이 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20220110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "행사 때마다 저렴하게 구입하게 되니 좋네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 고기 자를 때 편리하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력이 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442854",
+    "RawText": "사용하던 가위가 많이 사용하니 잘 안 잘라져서 새로 주문했습니다. 새 제품이라 광택이 번쩍번쩍하고 절삭력도 아주 좋습니다. 사이즈는 전에 사용하던 거보단 조금 작아 아쉽습니다. 그래도 만족입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "25",
+    "RDate": "20220106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력도 아주 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈는 전에 사용하던 거보단 조금 작아 아쉽습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "재질/질감",
+        "SentimentText": "광택이 번쩍번쩍하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442902",
+    "RawText": "가성비 좋은 가위네요. 그립감은 호불호가 있을수 있는데 민감하지는 않아 사용하기는 좋아요. 품질은 무난합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20211218",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은 가위네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "그립감은 호불호가 있을수 있는데 민감하지는 않아 사용하기는 좋아요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 무난합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "442905",
+    "RawText": "예전부터 쓰던 건데 하나를 잃어버려 구매했습니다. 가격이 좀 비싸지만요. 오래 쓰고 잘 잘리고 좋습니다. .재구매 의사 엄청 많네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20211217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 비싸지만요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오래 쓰고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "잘 잘리고 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442914",
+    "RawText": "가위가 생각보다 작긴 한데 잘 잘리네요. 가볍기도 하고 맘에 드네요. OOO 배송이라 배송도 빠르고 좋습니다. OO 유명하니까 품질 좋겠죠.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20211214",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "가위가 생각보다 작긴 한데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "잘 잘리네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍기도 하고 맘에 드네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "OO 유명하니까 품질 좋겠죠.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "442958",
+    "RawText": "마트에서 몇 개 사서 써보고 절삭력이 좋아서 반값이길래 가격 싸게 더 구입했네요. 아쉬운 점은 수량 한정이라 두 개밖에 못 샀다는 거네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "21",
+    "RDate": "20211124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "마트에서 몇 개 사서 써보고 절삭력이 좋아서",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "반값이길래 가격 싸게 더 구입했네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442966",
+    "RawText": "한 20년 이상 OOO 식칼 가위만 사용하고 있습니다. 싸게 잘 구매했고 품질 좋은건 말할 필요도 없네요. 번창하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "17",
+    "RDate": "20211119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 잘 구매했고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 좋은건 말할 필요도 없네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "442971",
+    "RawText": "두번째 구매입니다. 쓰다 보면 나물류를 자를 때 서걱 느낌이 아니라 나물이 가위에 접힌다는 느낌이 들면서 잘 안 잘리네요. 나머지는 잘 잘립니다. 날이 길어서 고기 자를 때 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "101",
+    "Word": "27",
+    "RDate": "20211114",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "나물류를 자를 때 서걱 느낌이 아니라 나물이 가위에 접힌다는 느낌이 들면서 잘 안 잘리네요.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "나머지는 잘 잘립니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "날이 길어서 고기 자를 때 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443024",
+    "RawText": "좋습니다. 꼭 사셔야 하는 제품입니다. 연마제도 거의 안 묻어 나옵니다. 오른손, 왼손 구분 없이 사용 가능합니다. 가성비 갑입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20211023",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제도 거의 안 묻어 나옵니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "오른손, 왼손 구분 없이 사용 가능합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 갑입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443064",
+    "RawText": "절삭력도 좋고 사용감도 좋습니다. 사이즈가 너무 크지도 작지도 않아서 부엌 가위로 딱 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20211001",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용감도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 너무 크지도 작지도 않아서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "부엌 가위로 딱 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443085",
+    "RawText": "지인 선물용으로 가볍게 구입했네요. 우선 제품 견고해 보이고 좋습니다. 지인도 좋아하네요. 오프라인보다 저렴해서 좋습니다. 추후 칼날을 추가로 사서 꽂을 수 있어서 활용도가 좋군요. 지인이 선물 받은 것 중에 가위를 제일 좋아합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "130",
+    "Word": "31",
+    "RDate": "20210924",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "우선 제품 견고해 보이고 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "오프라인보다 저렴해서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "추후 칼날을 추가로 사서 꽂을 수 있어서 활용도가 좋군요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443098",
+    "RawText": "OO 제품을 잘 쓰고 있어 주방가위도 OO로 구입했습니다. 생각보다 작았지만 잘 잘라지고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20210915",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "생각보다 작았지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": " 잘 잘라지고 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443103",
+    "RawText": "OO 가위 쓰다가 물에 오래 담궈놨더니 녹이 슬었는지 뻑뻑해져서 맘 먹고 바꿨네요. 가볍고 잘 잘려서 잘 사용하고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "18",
+    "RDate": "20210913",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "잘 잘려서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "잘 사용하고 있습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443104",
+    "RawText": "품질은 말할 것도 없이 좋습니다. 몇년전 구입해서 쓰다 망가져서 다시 구매했습니다. 절삭력도 좋고 튼튼해서 정말 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20210912",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 말할 것도 없이 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해서 정말 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443111",
+    "RawText": "전에 OO 가위 쓰던 게 오래된 것 같아서 구입했습니다.  가위 소리가 부드럽지 않고 서걱서걱 거려서 거슬리네요. 전에 쓰던 가위보다 덜 튼튼해 보여요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 가위 1개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "22",
+    "RDate": "20210908",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가위 소리가 부드럽지 않고 서걱서걱 거려서 거슬리네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "전에 쓰던 가위보다 덜 튼튼해 보여요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "443148",
+    "RawText": "사과나 배나 아주 잘 깎이네요. 아이들하고 사과 배 깎으면서 놀면 좋네요. 껍질만 까지 않고 속살도 깎아서 사과 배 국수 만들어 먹으면 맛있어서 아이들이 아주 좋아하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다** 과일깍는기계",
+    "ReviewScore": "4",
+    "Syllable": "95",
+    "Word": "25",
+    "RDate": "20220426",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "사과나 배나 아주 잘 깎이네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아이들하고 사과 배 깎으면서 놀면 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "속살도 깎아서 사과 배 국수 만들어 먹으면 맛있어서 아이들이 아주 좋아하네요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "443162",
+    "RawText": "기계에 과일 끼우기가 쉽진 않네요. 복숭아를 끼워 깎는데 잘 깎이고 재미있어요. 하나쯤 가지고 있어도 될 물건인 것 같아 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다** 과일깍는기계",
+    "ReviewScore": "4",
+    "Syllable": "74",
+    "Word": "19",
+    "RDate": "20210831",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "기계에 과일 끼우기가 쉽진 않네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": " 복숭아를 끼워 깎는데 잘 깎이고 재미있어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

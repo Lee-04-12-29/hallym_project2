@@ -1,0 +1,2899 @@
+[
+  {
+    "Index": "328532",
+    "RawText": "세제가 필요하던 차에 저렴하게 구입하니 너무 좋습니다.  용량이 커서 꽤나 무거운데 배송해 주셔서 감사하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20210515",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴하게 구입하니 너무 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 커서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "꽤나 무거운데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "328534",
+    "RawText": "가루 세제 많이 써서 대용량으로 시켰는데 부피가 너무 커서 공간을 많이 차지하네요. 좀 비릿한 향이 나는 것도 맘에 안들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "19",
+    "RDate": "20210514",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 대용량으로 시켰는데 부피가 너무 커서 공간을 많이 차지하네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 좀 비릿한 향이 나는 것도 맘에 안들어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "328535",
+    "RawText": "세일 할 때마다 구매하는데 확실히 마트보다 더 저렴해서 좋네요. 세탁이 잘 되서 늘 쓰던 거라 구매했는데 배송도 빠르고 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "19",
+    "RDate": "20210514",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "확실히 마트보다 더 저렴해서 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁이 잘 되서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "328543",
+    "RawText": "잘샀어요 매일돌리는 세탁기 액체세제는 거품이 잘 안빠져서 가루세제가 필요해서 구매했어요. OO 용량이 커 두고두고 오래 사용 할수 있을듯 하네요~ 세정력도 좋길 기대해봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "22",
+    "RDate": "20210511",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 커 두고두고 오래 사용 할수 있을듯 하네요~",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력도 좋길 기대해봅니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "328546",
+    "RawText": "어린이 날 휴일 때문에 배송이 빠르진 않았는데 합리적인 가격에 잘 구매했습니다 세탁이 잘 되면 좋겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "15",
+    "RDate": "20210506",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "합리적인 가격에 잘 구매했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁이 잘 되면 좋겠네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "328567",
+    "RawText": "손 세탁시 먼저 살짝 담가 놓았다 세탁을 하면 때가 잘 빠지네요. 찬물에도 잘 녹아서 더욱 맘에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "4",
+    "Syllable": "58",
+    "Word": "17",
+    "RDate": "20210416",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "살짝 담가 놓았다 세탁을 하면 때가 잘 빠지네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "찬물에도 잘 녹아서 더욱 맘에 들어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "328568",
+    "RawText": "때가 쏙 잘 빠지고 냄새도 좋습니다. 세일할때 저렴하게 잘 구매한 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "12",
+    "RDate": "20210415",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "때가 쏙 잘 빠지고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 냄새도 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일할때 저렴하게 잘 구매한 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "328593",
+    "RawText": "가루 세제는 OO로 늘 사용하고 있습니다.  대용량으로 저렴하게 구매해서 아주 좋네요. 잘 사용하겠습니다. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "14",
+    "RDate": "20210325",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량으로",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매해서 아주 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "328594",
+    "RawText": "이 세제로 빨래를 하면 때가 잘 빠지고 헹굼도 잘되어 좋습니다. 대용량이라 오래도록 잘 쓸 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "16",
+    "RDate": "20210324",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "때가 잘 빠지고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 오래도록 잘 쓸 것 같네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "헹굼도 잘되어 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "328606",
+    "RawText": "환경도 생각할 겸 이번엔 리필용 대용량 10kg OO를 구매했어요. 용량이 많아서 한 동안 잘 사용할 것 같습니다. 때 잘 빠져서 세탁은 항상 OO만 사용합니다. 앞으로도 다양하고 좋은 제품 많이 공급해주세요~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "117",
+    "Word": "30",
+    "RDate": "20210314",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 많아서 한 동안 잘 사용할 것 같습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "때 잘 빠져서 세탁은 항상 OO만 사용합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "328615",
+    "RawText": "필요하던 차에 저렴하게 구입하니 너무 좋습니다. OO 세제가 얼룩도 잘 빠지고 정말 좋네요. 무거운데 배송해 주셔서 감사드립니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20210310",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입하니 너무 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "얼룩도 잘 빠지고 정말 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거운데 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "328623",
+    "RawText": "생각보다 저렴하게 산 것은 아닌 것 같습니다.  20Kg에 2만원 넘게 주었으니 오프라인에서랑 비슷한 가격으로 산 것 같아요.ㅜㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "3",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20210306",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "생각보다 저렴하게 산 것은 아닌 것 같습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "오프라인에서랑 비슷한 가격으로 산 것 같아요.ㅜㅜ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "328632",
+    "RawText": "우리집은 OO만 쓰는데 싸게 잘 샀어요. 다 쓰면 또다시 재구매 할게요. 다른 세제보다 OO가 세탁력이 더 좋은것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "3",
+    "Syllable": "68",
+    "Word": "18",
+    "RDate": "20210225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 싸게 잘 샀어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "다른 세제보다 OO가 세탁력이 더 좋은것 같아요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "328645",
+    "RawText": "좀더 저렴히 사보려 10키로 짜리로 샀어요. 넘나 무거워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "33",
+    "Word": "8",
+    "RDate": "20210210",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좀더 저렴히 사보려 10키로 짜리로 샀어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 넘나 무거워요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "328651",
+    "RawText": "항상 집에서 사용하는 제품이라 주문해서 사용하고 있어요. 드럼세탁기 돌리기 전 애벌 빨래용으로도 사용하는데 사용감 나름 괜찮네요. 찬물에도 잘 녹아 때가 쏙 잘 빠지는 것 같습니다. 가격대비 품질 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "114",
+    "Word": "28",
+    "RDate": "20210203",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 드럼세탁기 돌리기 전 애벌 빨래용으로도 사용하는데 사용감 나름 괜찮네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "찬물에도 잘 녹아",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 품질 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 때가 쏙 잘 빠지는 것 같습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "328652",
+    "RawText": "대용량이고 리필해서 사용할 수 있어 실용적이고 찬물에 잘 풀리고 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "40",
+    "Word": "10",
+    "RDate": "20201222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 리필해서 사용할 수 있어 실용적이고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "찬물에 잘 풀리고 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "328657",
+    "RawText": "저렴한 세제 사용하다가 갈아탔어요.  확실히 때는 잘 빠집니다. 가루라 양 조절도 쉬워요. 환경적인 문제는 살펴봐야 할 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "4",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20210207",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "확실히 때는 잘 빠집니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": " 가루라 양 조절도 쉬워요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "328679",
+    "RawText": "오랫동안 계속해서 사용하고 있는 제품이예요. 이 제품에 과탄산소다 조금 섞으면 때도 더 잘 빠지고 좋습니다. 싸게 잘 산 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "20",
+    "RDate": "20210203",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "이 제품에 과탄산소다 조금 섞으면 때도 더 잘 빠지고 좋습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 싸게 잘 산 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "328733",
+    "RawText": "엄마가 OO가 빨래가 잘 빨린다고 OO만 쓰시네요. 용량이 커서 가성비가 정말 좋습니다. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20201222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "빨래가 잘 빨린다고 OO만 쓰시네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 커서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가성비가 정말 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "328745",
+    "RawText": "넉넉한 양에 가격도 저렴하니 너무 좋습니다. 무거운 세제를 마트에서 사오기 힘든데 빠른 배송으로 문 앞까지 배송해 주셔서 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20201215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "넉넉한 양에 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하니 너무 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거운 세제를 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "328778",
+    "RawText": "OO 정말 좋습니다. 빨래가 깨끗하게 잘 돼서 좋고 양이 많아서 걱정없이 넉넉히 사용할 수 있으니 더 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "17",
+    "RDate": "20201113",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "빨래가 깨끗하게 잘 돼서 좋고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아서 걱정없이 넉넉히 사용할 수 있으니 더 좋습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "328823",
+    "RawText": "가격이 저렴하고 배송도 빠르네요.  제픔의 품질도 아주 좋습니다. 이 제품의 세탁력에 대만족입니다.  다른 분들에게 적극 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "16",
+    "RDate": "20200927",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 제픔의 품질도 아주 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 이 제품의 세탁력에 대만족입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "328852",
+    "RawText": "OO가루 세탁세제 대용량을 저렴하게 잘 구입한것 같아요. 근데 세제가루가 덩어리가 많이 져서 쓸때마다 불편하네요. 다음엔 가루가 아닌 액제세제를 구매해봐야겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "19",
+    "RDate": "20200916",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "OO가루 세탁세제 대용량을",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 구입한것 같아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "세제가루가 덩어리가 많이 져서 쓸때마다 불편하네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "다음엔 가루가 아닌 액제세제를 구매해봐야겠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "328899",
+    "RawText": "착한가격에 대용량을 구입할수 있어 좋아요. 양이 많아서 한동안 세제 걱정은 없이 잘 쓸 수 있을 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "17",
+    "RDate": "20200821",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한가격에 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량을 구입할수 있어 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아서 한동안 세제 걱정은 없이 잘 쓸 수 있을 것 같습니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "328909",
+    "RawText": "세탁세제로는 이곳이 가장 저렴하고 좋습니다.  빨래도 아주 깨끗하고 세척력이좋아서 항상 이제품만 사용해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "12",
+    "RDate": "20200811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세탁세제로는 이곳이 가장 저렴하고 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "빨래도 아주 깨끗하고 세척력이좋아서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "328941",
+    "RawText": "아무리 찾아도 제조일자가 보이지 않네요ㅜㅜ  이유없이 저렴하게 판매할 이유가 없을텐데 진짜 저렴하네요. 그래도 대용량을 저렴히 구매하게 되어 기쁩니다. 무거운데 배송해 주신 택배기사님 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "3",
+    "Syllable": "109",
+    "Word": "23",
+    "RDate": "20200722",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 이유없이 저렴하게 판매할 이유가 없을텐데 진짜 저렴하네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 대용량을",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴히 구매하게 되어 기쁩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 무거운데 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "328943",
+    "RawText": "중성세제 OO 사용하다 와이셔츠 목 때가 너무 안 빠져 OOO로 세탁해봤어요. 그랬더니 때가 엄청 잘 빠져 이번에 대용량으로 구매하게 되었습니다. 액체세제는 찌든 때가 너무 안빠져서 가루형인 OO가 정답인 듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "121",
+    "Word": "30",
+    "RDate": "20200721",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "그랬더니 때가 엄청 잘 빠져",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "이번에 대용량으로 구매하게 되었습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "액체세제는 찌든 때가 너무 안빠져서 가루형인 OO가 정답인 듯 합니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "328967",
+    "RawText": "6인 가구라 항상 세제 양을 많이 써야해서 비싸지만 대용량으로 잘 구매했습니다. 무거워서 배송 기사님에게 죄송하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20200706",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸지만",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량으로",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거워서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "328975",
+    "RawText": "항상 OOO를 사용합니다. 다른 세제보다 가격이 싸진 않지만 때가 잘 빠져서 좋습니다. 빠른 배송도 감사드립니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20200701",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 세제보다 가격이 싸진 않지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "때가 잘 빠져서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "328995",
+    "RawText": "여러 제품 써봤지만 OO처럼 빨래가 깨끗이 안되는 세제는 처음 봅니다. 향도 이상하고 정말 맘에 안드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20200613",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "빨래가 깨끗이 안되는 세제는 처음 봅니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 이상하고 정말 맘에 안드네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "329002",
+    "RawText": "빨래할때는 꼭 OO로만 세탁하다보니 다른거는 못사겠어요. 부모님도 요거만 쓰셔서 요번에 대용량으로 샀습니다. 양이 어마어마합니다. 올해는 요걸로 충분히 쓸듯해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "4",
+    "Syllable": "90",
+    "Word": "18",
+    "RDate": "20200608",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량으로 샀습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 어마어마합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "올해는 요걸로 충분히 쓸듯해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329012",
+    "RawText": "가격대비 대용량이라 정말 좋습니다.  착한 가격에 쿠폰 사용으로 더욱 저렴하게 잘 산 것 같아 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "16",
+    "RDate": "20200603",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "가격대비 대용량이라 정말 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한 가격에 쿠폰 사용으로 더욱 저렴하게 잘 산 것 같아 너무 좋습니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329025",
+    "RawText": "배송은 좀 걸렸지만 대형마트보다 저렴하게 무료배송으로 편하게 구입했습니다.  제일 좋아하는 세제라 빅세일기간에 더 저렴히 사게 되어 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "17",
+    "RDate": "20200526",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "대형마트보다 저렴하게 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 빅세일기간에 더 저렴히 사게 되어 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329026",
+    "RawText": "가루 세제는 항상 요걸로 쓰는데 저렴하게  잘 산 거 같습니다. 배송도 빠르고 받으신 분도 품질에 만족해 하십니다. 다행이 터지거나 그런 이상없이 잘 도착했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "4",
+    "Syllable": "90",
+    "Word": "23",
+    "RDate": "20200526",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게  잘 산 거 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질에 만족해 하십니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329036",
+    "RawText": "쿠폰써서 저렴하게 잘샀습니다, 찬물에도 세제가 잘 녹고 세탁도 잘 됩니다. 급하게 산건 아니니까 배송도 적당하구요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20200521",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰써서 저렴하게 잘샀습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "찬물에도 세제가 잘 녹고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세탁도 잘 됩니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329045",
+    "RawText": "빨래는 OO가 때가 가장 잘 빠지는것 같습니다.  찬물이나 더운물 상관없이 세탁이 잘되는게 가장 좋은거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20200513",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "OO가 때가 가장 잘 빠지는것 같습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "찬물이나 더운물 상관없이 세탁이 잘되는게 가장 좋은거 같습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329050",
+    "RawText": "용량이 넉넉해서 걱정없이 사용할 수 있어서 맘에 듭니다. 아직 사용 전인데 세척력도 맘에 들면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "15",
+    "RDate": "20200511",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 넉넉해서 걱정없이 사용할 수 있어서 맘에 듭니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "아직 사용 전인데 세척력도 맘에 들면 좋겠네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "329055",
+    "RawText": "이 상품만 구매하고 있습니다. 양도 많고 가격도 맘에 듭니다. 세탁도 깔끔하게 되구요. 믿고 쓰는 상품이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20200509",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 맘에 듭니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁도 깔끔하게 되구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329058",
+    "RawText": "배송 빠르고 좋습니다. 행사를 하고 있어서 덕분에 저렴하게 잘 샀어요. 대용량이라 좋네요. 포장도 깔끔하구요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20200508",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "행사를 하고 있어서 덕분에 저렴하게 잘 샀어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329071",
+    "RawText": "역시 OO는 OOO 밖에 없는 것 같습니다. OOO 성능을 따라올 OO는 없는 것 같습니다. 이 세제를 쓰면 OOOO을 따로 넣지 않아도 표백효과도 있어 세제를 절약 할 수 있어 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "5",
+    "Syllable": "105",
+    "Word": "29",
+    "RDate": "20200501",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " OOO 성능을 따라올 OO는 없는 것 같습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 이 세제를 쓰면 OOOO을 따로 넣지 않아도 표백효과도 있어",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "세제를 절약 할 수 있어 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329073",
+    "RawText": "시중 마트보다 싸게 구매한 건 아니네요. 사용해 봐야 알겠지만 빨래는 깨끗하게 잘되면 좋겠습니다. 문앞 배송 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "3",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20200429",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "시중 마트보다 싸게 구매한 건 아니네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "사용해 봐야 알겠지만 빨래는 깨끗하게 잘되면 좋겠습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "329087",
+    "RawText": "품질이 별로라서 안 써야하는데 엄마는 쓰시던 거라 이게 제일 좋다고 하시고 다른거 사드려도 이 제품으로 다시 주문하라고 하셔서 어쩔 수 없이 주문했습니다. 다른 제품들에 비해 싸지도 않고 세척력도 별로예요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 일반용 10kg 2개",
+    "ReviewScore": "4",
+    "Syllable": "115",
+    "Word": "29",
+    "RDate": "20200420",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 별로라서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸지도 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력도 별로예요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "329104",
+    "RawText": "배송도 매우 빠르고 안전하게 포장되어 도착했어요. 세척력도 뛰어나고 향도 좋고 무엇보다 타 온라인 구매 몰중엔 여기가 제일 가격도 착하고 가성비 짱인듯합니다. 정말 입소문난 이유가 있는거 같아서 저도 소문내야 될꺼같네요. 매우 만족하고 기회가 되면 또 구매할 예정이에요. 강추합니다. 고민하지마시고 구매하셔요~~~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "175",
+    "Word": "39",
+    "RDate": "20220724",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력도 뛰어나고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "타 온라인 구매 몰중엔 여기가 제일 가격도 착하고 가성비 짱인듯합니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329118",
+    "RawText": "배송 진짜 빠르네요. 하자 없이 잘와서 다행입니다. 향도 무난해서 부담없고 순해서 잘 사용중입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20220317",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 무난해서 부담없고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "순해서 잘 사용중입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329143",
+    "RawText": "배송이 빨라서 마음에 좋습니다. 급하게 구매하느라 가격을 비교 못하고 주문했는데 타 사이트보다 할인률이 적어서 비싸네요. 브랜드 명성만큼 세척력은 기대해 볼게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "20",
+    "RDate": "20211020",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "타 사이트보다 할인률이 적어서 비싸네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "브랜드 명성만큼 세척력은 기대해 볼게요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "329148",
+    "RawText": "빠른 배송 감사합니다. 비가 많이 내리는 시기라 실내 건조를 해야 해서 구입했는데  잘 안 마르는 빨래에서 나는 냄새를 잡을 수 있을지 아직은 모르겠네요.  할인까지 받으니 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "105",
+    "Word": "27",
+    "RDate": "20211014",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "잘 안 마르는 빨래에서 나는 냄새를 잡을 수 있을지 아직은 모르겠네요 ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인까지 받으니 너무 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329156",
+    "RawText": "평소에도 OO만 썼는데 이사하고 실내건조 할 경우가 많아져서 이번에는 실내건조용으로 샀어요.  잘 마르고 쿰쿰한 쉰 내도 나지 않아 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "4",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20211003",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잘 마르고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "쿰쿰한 쉰 내도 나지 않아 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329157",
+    "RawText": "실내건조해도 냄새 안나고좋습니다. 기대 이상이에요. 두번째 쓰고 있는데 또 재구매 할겁니다. 섬유유연제랑 같이 쓰면 효과가 더 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "17",
+    "RDate": "20211001",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "실내건조해도 냄새 안나고좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "섬유유연제랑 같이 쓰면 효과가 더 좋아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329159",
+    "RawText": "늘 사용하는 제품이라 세일 때마다 저렴하게 사요. 세탁 잘 되거든요. 이번엔 배송량이 많아서 그런지 세제가 다 세서 박스가 다 젖어서 왔어요. 앞으로는 신경써주세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "3",
+    "Syllable": "91",
+    "Word": "23",
+    "RDate": "20210930",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일 때마다 저렴하게 사요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세탁 잘 되거든요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329179",
+    "RawText": "깨끗하게 잘 빨리네요. 다른 기능들이야 피부로 느낄 수 없으니 평하기는 뭐합니다. 단지 이것만으로 빨래를 끝내기에는 향이 너무 약한 것 같습니다. 그래서 전 섬유유연제까지 써야 직성이 풀립니다. 좋은 향이 나지 않아 아쉽네요.   ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "4",
+    "Syllable": "129",
+    "Word": "31",
+    "RDate": "20210818",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "깨끗하게 잘 빨리네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "이것만으로 빨래를 끝내기에는 향이 너무 약한 것 같습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 좋은 향이 나지 않아 아쉽네요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "329181",
+    "RawText": "저렴하게 잘 샀습니다. 향도 좋습니다. 근데 포장이 문제네요. 다른 분들 리뷰처럼 세제가 샌 채로 배송됐어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20210816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 샀습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329186",
+    "RawText": "이것만 찾게 됩니다. 빨래가 깨끗하게 잘 되고 방안에서 말려도 꿉꿉한 냄새가 안 나서 좋아요. 강추합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20210805",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "빨래가 깨끗하게 잘 되고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "방안에서 말려도 꿉꿉한 냄새가 안 나서 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329187",
+    "RawText": "늘 쓰는 제품입니다. 세일때 저렴하게 잘 샀어요. 실내건조 많이 하는편인데 천연성분 들어있어 안심하고 사용하고 있어요. 많이 파십시요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "17",
+    "RDate": "20210805",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일때 저렴하게 잘 샀어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "실내건조 많이 하는편인데 천연성분 들어있어 안심하고 사용하고 있어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329200",
+    "RawText": "일단은 상품명에 실내건조가 들어가 있어서 냄새 안나고 좋을꺼 같습니다. 섬유유연제 사용하니까 향도 그닥 상관없지만 향도 괜찮아요. 투명한 뚜껑에 10단위로 50까지 선이 있어서 세탁량에 따라 맞춰서 넣기 좋아요.  다시 닫을때도 용기 밖으로 흘러내리지 않게 디자인 되어있어서 맘에 드네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "4",
+    "Syllable": "160",
+    "Word": "37",
+    "RDate": "20210723",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "상품명에 실내건조가 들어가 있어서 냄새 안나고 좋을꺼 같습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 섬유유연제 사용하니까 향도 그닥 상관없지만 향도 괜찮아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "투명한 뚜껑에 10단위로 50까지 선이 있어서 세탁량에 따라 맞춰서 넣기 좋아요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 다시 닫을때도 용기 밖으로 흘러내리지 않게 디자인 되어있어서 맘에 드네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329203",
+    "RawText": "액체 세제인 OO 실내건조는 장마철에 수건을 삶아도 나는 냄새를 잡을수 있다고 해서 구매했는데 효과 좋네요. 양도 많아 정말 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "4",
+    "Syllable": "74",
+    "Word": "19",
+    "RDate": "20210721",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "냄새를 잡을수 있다고 해서 구매했는데 효과 좋네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아 정말 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329204",
+    "RawText": "여러 제품을 사용해 봤는데 이 제품은 처음 구매해 봐서 기대가 됩니다. 여름에 유용할 듯 합니다. 세탁도 잘됐음 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "18",
+    "RDate": "20210721",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름에 유용할 듯 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁도 잘됐음 좋겠습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "329208",
+    "RawText": "작년부터 사용하고 있는 다른 제품이랑 크게 차이나는 효과는 모르겠지만 장마철이나 평소에도 실내 건조를 많이 하니까 구매해서 사용중이예요.적당한 점성으로 세제통에 찌꺼기가 남지 않고 향도 적당한 게 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "115",
+    "Word": "26",
+    "RDate": "20210717",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "다른 제품이랑 크게 차이나는 효과는 모르겠지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "적당한 점성으로 세제통에 찌꺼기가 남지 않고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 적당한 게 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329209",
+    "RawText": "용기 입구쪽이 휘어져 있어 사용하기 불편합니다. 내용물도 이상이 있을 거 같아서 반품 교환 요청합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "4",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20210717",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기 입구쪽이 휘어져 있어 사용하기 불편합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "내용물도 이상이 있을 거 같아서 반품 교환 요청합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "329221",
+    "RawText": "습한 장마철이라서 실내건조용으로 구입 했는데 온라인에서 제일 저렴하게 구입한 것 같아요. 빨래에서 좋은 냄새가 나기를 기대해 봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "17",
+    "RDate": "20210711",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "온라인에서 제일 저렴하게 구입한 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "빨래에서 좋은 냄새가 나기를 기대해 봅니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "329225",
+    "RawText": "배송이 엄청 빨라서 좋습니다. 기존에 사용하던 실내건조 세탁세제가 냄새가 나서 이 제품으로 바꿨습니다. 눅눅한 냄새가 안나고 향도 오래 지속되면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "20",
+    "RDate": "20210707",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "눅눅한 냄새가 안나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향도 오래 지속되면 좋겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "329233",
+    "RawText": "실내 건조를 할 수 밖에 없는 상황이라 빨래냄새가 덜 난다는 OO로 구매하게 됐습니다.  양이 많아서 한 해는 거뜬히 쓸수 있을것 같아요. 두 개 무게가 상당해서 택배기사님이 힘드셨을 듯요. 여튼 꿈꿈한 냄세가 신경쓰인다면 실내건조 세제로 쓰는게 맞는것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "147",
+    "Word": "37",
+    "RDate": "20210703",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아서 한 해는 거뜬히 쓸수 있을것 같아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "두 개 무게가 상당해서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": " 꿈꿈한 냄세가 신경쓰인다면 실내건조 세제로 쓰는게 맞는것 같습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329236",
+    "RawText": "장마라 실내건조 상품으로 구매했어요. 향은 나쁘지 않은거 같고 사용설명과 같이 세척력도 뛰어났으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20210703",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 나쁘지 않은거 같고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "사용설명과 같이 세척력도 뛰어났으면 좋겠습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "329247",
+    "RawText": "아무래도 실내건조를 많이 하다보니 실내건조용 제품을 구매하게 되는데 이 제품은 가성비가 좋은 건 아니예요. 가격대비 세척력도 별로네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "17",
+    "RDate": "20210627",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 제품은 가성비가 좋은 건 아니예요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "가격대비 세척력도 별로네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "329255",
+    "RawText": "일반쓰다 실내건조가 따로 있길래 주문해봤어요. 우선 향은 좋네요 근데 아직은 차이를 잘 모르겠지만 곧 장마철이니 효과가 나타날거라 기대해봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "18",
+    "RDate": "20210625",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "우선 향은 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "곧 장마철이니 효과가 나타날거라 기대해봅니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "329264",
+    "RawText": "용량이 많지만 무거워서 사용하기 어렵네요 드럼 세탁기 바꾸면서 드럼 용 세제는 처음 사용해보는 것 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "15",
+    "RDate": "20210622",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 많지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 무거워서 사용하기 어렵네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "329265",
+    "RawText": "요즘 비도 오고 그래서 빨래의 꿉꿉한 냄새 때문에 실내건조로 말리는것도 신경쓰였습니다. 세탁도 잘되고 꿉꿉한 냄새도 덜한게 괜찮은듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "17",
+    "RDate": "20210621",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁도 잘되고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "꿉꿉한 냄새도 덜한게 괜찮은듯합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329270",
+    "RawText": "실내 건조해도 냄새가 나지 않는다고 해서 구매했습니다 냄새가 나지 않는지는 사용해봐야 알 것 같네요  믿고 구매했어요. 일단 양은 많아서 오래 쓸 수 있을 것 같네요. 저렴하게 잘 구매한 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "112",
+    "Word": "30",
+    "RDate": "20210616",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양은 많아서 오래 쓸 수 있을 것 같네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 구매한 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "냄새가 나지 않는지는 사용해봐야 알 것 같네요 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "329292",
+    "RawText": "포장이 완벽하게 이중으로 와서 터지지도 않고 잘 받았습니다 실내 건조 용이라 조금 가격이 비싸지만 믿고 구입해봅니다 성능 좋으면 더 구매할 것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "22",
+    "RDate": "20210604",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "조금 가격이 비싸지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능 좋으면 더 구매할 것 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "329294",
+    "RawText": "품질 좋은 상품 좋은 가격에 보내 주셔서 너무 만족스럽습니다. 감사한 마음으로 잘 쓸 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "4",
+    "Syllable": "55",
+    "Word": "15",
+    "RDate": "20210602",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 좋은 상품",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329301",
+    "RawText": "배송 빠르긴해요. 특가로 만원 미만에 샀는데 세제가 새서 배송되었어요. 향은 나쁘지않은듯요. 반품하기 귀찮아서 그냥 쓰려구요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "2",
+    "Syllable": "70",
+    "Word": "15",
+    "RDate": "20210525",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "특가로 만원 미만에 샀는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 나쁘지않은듯요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "329318",
+    "RawText": "할인으로 싸게 구매 했어요. 세탁 후 옷에 꿉꿉함이 없어서 좋았고 배송도 정말 빨랐습니다. 단점을 찾을 수가 없네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "17",
+    "RDate": "20210519",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인으로 싸게 구매 했어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "세탁 후 옷에 꿉꿉함이 없어서 좋았고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329332",
+    "RawText": "살짝 묽은 느낌인데 향은 괜찮아요. 이전에 OOO 실내건조 세제의 반 가격이라 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20210515",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "살짝 묽은 느낌인데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 괜찮아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이전에 OOO 실내건조 세제의 반 가격이라 추천합니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329338",
+    "RawText": "처음 구매해보는 제품인데 향이 강하지 않아서 좋습니다. 미세 먼지 때문에 실내 건조를 많이 하는 이시기에 꼭 필요한 세제같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20210513",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 강하지 않아서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "미세 먼지 때문에 실내 건조를 많이 하는 이시기에 꼭 필요한 세제같습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329355",
+    "RawText": "미세먼지 때문에 실내건조하는경우가 많은데 건조 후 안좋은 냄새가 생겨서 실내건조용 세제로 주문해봤습니다. 쿰쿰한 냄새가 없어 만족하며 사용하고 있습니다. 용량도 많아 좋으네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "21",
+    "RDate": "20210506",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": " 쿰쿰한 냄새가 없어 만족하며 사용하고 있습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 용량도 많아 좋으네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329361",
+    "RawText": "배송은 보통입니다. 가격대비 그냥 쓰기에 무난해요. 추천드립니다. 향도 그냥 다른 세제랑 비슷한 정도입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "4",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20210501",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 그냥 쓰기에 무난해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 그냥 다른 세제랑 비슷한 정도입니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "329374",
+    "RawText": "실내 건조 세제 사용하니 정말 옷에서 냄새가 나지 않네요. 향도 좋구요. 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "12",
+    "RDate": "20210427",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "실내 건조 세제 사용하니 정말 옷에서 냄새가 나지 않네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329376",
+    "RawText": "배송 빠르네요 무사히 잘 도착했습니다 좋은 가격 만족합니다 효과 좋으면 더 구매할 것 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "14",
+    "RDate": "20210422",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격 만족합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과 좋으면 더 구매할 것 같습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "329383",
+    "RawText": "항상 액체 세제만 사용했는데 이 제품은 조금 묽은거 같아 마음에 들지 않네요. 향도 내가 선호하는 향이 아니었어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "17",
+    "RDate": "20210418",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "이 제품은 조금 묽은거 같아 마음에 들지 않네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향도 내가 선호하는 향이 아니었어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "329400",
+    "RawText": "무거운데도 배송이 되니 안시킬 이유 없었어요. 실내건조라 믿고 사용중입니다. 세탁후 확실히 냄새는 덜한듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "13",
+    "RDate": "20210403",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거운데도",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": " 세탁후 확실히 냄새는 덜한듯합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329412",
+    "RawText": "쿠폰 사용해서 좋은 제품 저렴하게 잘 구매했어요. 세탁기를 자주 돌리는 편인데 용량이 많아서 부담없이 사용하기 좋을것같습니다. 잘쓸께요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "17",
+    "RDate": "20210322",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 사용해서 좋은 제품 저렴하게 잘 구매했어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 용량이 많아서 부담없이 사용하기 좋을것같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329417",
+    "RawText": "배송은 조금 느립니다 드럼 세탁기 처음 써보게 되어서 구매했습니다 대용량을 싸게 잘 산 것 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "15",
+    "RDate": "20210317",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량을",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 잘 산 것 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329441",
+    "RawText": "배송은 빠르게 잘 왔어요. OO보다 통이 통통해서 틈새수납장에 꽉 낍니다. 사용해봐야 알겠지만 꿉꿉한 빨래 냄새가 나지 않았으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "18",
+    "RDate": "20210306",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "OO보다 통이 통통해서 틈새수납장에 꽉 낍니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "사용해봐야 알겠지만 꿉꿉한 빨래 냄새가 나지 않았으면 좋겠습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "329450",
+    "RawText": "박스가 젖어서 왔어요. 처음 구매했던것보다 더 비싸게 구입한듯해요. 2주정도 되는데 가격 차이 나네요. 세탁력은 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "1",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20210303",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "처음 구매했던것보다 더 비싸게 구입한듯해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁력은 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329483",
+    "RawText": "필요시 할인 쿠폰 써서 저렴히 구매해서 잘 사용하고 있습니다 향이 조금 빨리 사라지지만요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "13",
+    "RDate": "20210223",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴히 구매해서 잘 사용하고 있습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향이 조금 빨리 사라지지만요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "329488",
+    "RawText": "믿고 써보려구요. 향도 좋고 꿉꿉한 냄새걱정없이 실내건조에 효과가 있었음 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "4",
+    "Syllable": "47",
+    "Word": "10",
+    "RDate": "20210222",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "꿉꿉한 냄새걱정없이 실내건조에 효과가 있었음 좋겠습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "329501",
+    "RawText": "빠른 배송 감사합니다 정말 싸게 잘 샀어요. 실내 건조 세제 여기가 제일 저렴한 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "15",
+    "RDate": "20210220",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "정말 싸게 잘 샀어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 제일 저렴한 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329503",
+    "RawText": "실내 건조가 필요한 시기라서 구매했습니다. 가격도 저렴하게 많은 용량이라 만족스럽네요. 빠른 배송 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "4",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20210220",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "많은 용량이라 만족스럽네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329520",
+    "RawText": "넉넉한 대용량과 좋은 품질은 익히 알고 있었습니다. 실내 건조인데 쿱쿱한 냄새가 없어서 요즘에 딱입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20210219",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "넉넉한 대용량과 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "좋은 품질은 익히 알고 있었습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "실내 건조인데 쿱쿱한 냄새가 없어서 요즘에 딱입니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329536",
+    "RawText": "대용량이고 가격은 저렴합니다만 배송이 완전 짜증나게 합니다. 다 터져서 흘러내려서 난장판이 되었네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "3",
+    "Syllable": "56",
+    "Word": "12",
+    "RDate": "20210218",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴합니다만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329547",
+    "RawText": "아직 사용전이긴한데 우선 향이 진하지 않아서 좋습니다. 빨간색 OO를 사용하고 있는데 이 상품도 세척력은 좋을거라 기대합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "4",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20210211",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "우선 향이 진하지 않아서 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "이 상품도 세척력은 좋을거라 기대합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "329557",
+    "RawText": "실내 건조할 일이 많아서 이번에 바꿔봤습니다. 아직 사용전이라 정확한 후기는 못 남기지만 빨래 냄새도 확실히 빠지고 세탁도 잘되길 바래요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20210206",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "아직 사용전이라 정확한 후기는 못 남기지만 빨래 냄새도 확실히 빠지고",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁도 잘되길 바래요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "329576",
+    "RawText": "세제가 떨어졌는데 때 마침 추가 세일 들어가서 저렴하게 구매했습니다. 가격 대비 양 넉넉해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20210131",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 추가 세일 들어가서 저렴하게 구매했습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "가격 대비 양 넉넉해서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329580",
+    "RawText": "지난해 장마가 길어지면서 사용했던건데 실내 건조할 때 불쾌한 냄새도 없고 효과가 좋아서 계속 사게됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20210129",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "실내 건조할 때 불쾌한 냄새도 없고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과가 좋아서 계속 사게됩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329586",
+    "RawText": "안전하고 빠르게 배송 잘 받았습니다. 가격이 저렴하진 않지만 빨래 냄새 때문에 주문했습니다. 세탁 후 탈취 효과가 좋기를 바랍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20210128",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하진 않지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "세탁 후 탈취 효과가 좋기를 바랍니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "329587",
+    "RawText": "배송은 정말 빠르고 좋습니다. 그런데 가격도 저렴한 편이 아닌데 향도 너무 약해서 세탁한 기분이 안드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20210127",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴한 편이 아닌데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 너무 약해서 세탁한 기분이 안드네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "329600",
+    "RawText": "잘 받았습니다. 생각 보다 배송이 빨리 왔어요. 세제는 화면이랑 똑같습니다. 싸게 잘 구입한거 같습니다. 세척력도 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20201114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 잘 구입한거 같습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329604",
+    "RawText": "가성비 좋습니다. 쿠폰 사용해서 저렴하게 구매했습니다. 아직 사용해보지는 않았지만 세정력이 좋았으면 합니다. 배송도 빠르고 포장 상태도 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "17",
+    "RDate": "20200905",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 사용해서 저렴하게 구매했습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "아직 사용해보지는 않았지만 세정력이 좋았으면 합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "329607",
+    "RawText": "언제나 품질 믿고 사용하는 제품이네요. 무엇보다 세척력이 뛰어나서 좋습니다. 가격은 좀 센편이지만 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20200903",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "언제나 품질 믿고 사용하는 제품이네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "무엇보다 세척력이 뛰어나서 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 좀 센편이지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "329612",
+    "RawText": "장마때문에 날씨가 습해져서 빨래 좀 잘 말려보려고 구매했습니다. 뭔가 일반 세제보다는 잘 마르는 느낌은 있어요. 냄새도 확실히 덜 나는것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 드럼용 3.2L 2개",
+    "ReviewScore": "4",
+    "Syllable": "82",
+    "Word": "20",
+    "RDate": "20200714",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "뭔가 일반 세제보다는 잘 마르는 느낌은 있어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "냄새도 확실히 덜 나는것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "329618",
+    "RawText": "여기가 제일 저렴합니다. 배송도 빠르게 잘 받았구요. 근데 세제리필이 빠져서 왔습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 세탁세제 2.8L 2개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20220830",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 제일 저렴합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "근데 세제리필이 빠져서 왔습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  }
+]

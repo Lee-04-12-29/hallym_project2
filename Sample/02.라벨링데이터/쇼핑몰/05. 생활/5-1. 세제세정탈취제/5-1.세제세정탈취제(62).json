@@ -1,0 +1,3176 @@
+[
+  {
+    "Index": "360347",
+    "RawText": "가격 저렴히 구매했습니다. 향은 맡아보니 연한듯한데 미세플라스틱이 없어 안심하고 사용해요. 양이 대용량이라 가성비 좋은 제품인것 같아 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "17",
+    "RDate": "20211022",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 저렴히 구매했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 맡아보니 연한듯한데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "미세플라스틱이 없어 안심하고 사용해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 대용량이라",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가성비 좋은 제품인것 같아 만족합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360361",
+    "RawText": "다른 브랜드를 줄 곧 써 오다가 이 제품으로 바꿔서 구매했습니다. 향은 나쁘지 않은데 무거워도 너무 무거워 사용하기 힘드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "18",
+    "RDate": "20211013",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 나쁘지 않은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거워도 너무 무거워 사용하기 힘드네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "360380",
+    "RawText": "향이 좋아 항상 애용하고 있는 제품이에요. 향이 조금만 더 짙었으면 하고, 향이 오래갔으면 하는 아쉬움이 있긴합니다만 향이 좋아서 찾아쓰고 있답니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "4",
+    "Syllable": "83",
+    "Word": "20",
+    "RDate": "20210925",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋아 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 조금만 더 짙었으면 하고,",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향이 오래갔으면 하는 아쉬움이 있긴합니다만 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360381",
+    "RawText": "역시 OOO 아우라 초고농축이라 그런지 좋아요. 향도 오래 지속되고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "10",
+    "RDate": "20210923",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "초고농축이라 그런지 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향도 오래 지속되고 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360390",
+    "RawText": "향수 같은 향이라 좋아요.  향도 오래가서 맘에 들고 쿠폰 이용해서 저렴하게 구매했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20210911",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향수 같은 향이라 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향도 오래가서 맘에 들고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 이용해서 저렴하게 구매했습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360393",
+    "RawText": "매일 세탁기를 두번씩 돌리니 세제도 섬유유연제도 너무 빨리 사용하는것 같습니다. 정량만 넣어도 향이 은은하게 나서  참 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20210910",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "정량만 넣어도 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 은은하게 나서  참 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360399",
+    "RawText": "OO에서 OOO섬유유연제 OOOO 8L 대용량을 착한가격으로 판매하길래 구입하였습니다. 향은 무난해요. 잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "12",
+    "RDate": "20210907",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "8L 대용량을",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한가격으로 판매하길래",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 무난해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "360401",
+    "RawText": "쿠폰 사용해서 싸게 잘 샀습니다. 용량도 커서 오래 잘 쓸거 같아요. 스모키 머스크 향 마음에 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "16",
+    "RDate": "20210905",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 사용해서 싸게 잘 샀습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 커서 오래 잘 쓸거 같아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "스모키 머스크 향 마음에 드네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360403",
+    "RawText": "OOO의 핑크색을 사용하다가 다른 향도 궁금해서 이 제품을 주문했습니다. 향은 고급지고 좋은데 너무 무거워서 힘들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20210903",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 고급지고 좋은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "너무 무거워서 힘들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "360404",
+    "RawText": "타사 OO을 쓰다가 OOO로 바꾸면서 이 제품을 구매하게 되었습니다. 향은 나쁘지 않구요. 용량이 커서 오래 쓸 수 있을것 같습니다.  잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "21",
+    "RDate": "20210903",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 나쁘지 않구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 커서 오래 쓸 수 있을것 같습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360419",
+    "RawText": "대용량은 처음으로 사보는데 향기좋고 사진처럼 사용하니 편하고 좋네요. 향기가 다른것보다 오래가는 편이고 잔향이 은은해서 맘에 들어요. 잘 사용할꼐요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "18",
+    "RDate": "20210813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량은 처음으로 사보는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사진처럼 사용하니 편하고 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향기가 다른것보다 오래가는 편이고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "잔향이 은은해서 맘에 들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360421",
+    "RawText": "파손된 것이 와서 반품하고 재주문했는데 이번엔 잘 받았어요.  저렴하게 잘 산 것 같아 만족하고 있습니다. 향도 무난해서 쓸만 한 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "21",
+    "RDate": "20210810",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 산 것 같아 만족하고 있습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 무난해서 쓸만 한 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "360427",
+    "RawText": "OO는 늘 사용하는 제품인데 스모키향은 처음이에요. 향이 강하지 않아서 좋습니다. 어떤 외국산 제품보다 품질 좋은 것 같습니다. 강추입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "4",
+    "Syllable": "78",
+    "Word": "18",
+    "RDate": "20210803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 강하지 않아서 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "어떤 외국산 제품보다 품질 좋은 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360439",
+    "RawText": "잘 받았습니다 잘 쓸게요. 향도 진하지 않고 은은한 향이라 좋고 미세플라스틱도 없어서 안심하고 쓸 수 있어 더 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "18",
+    "RDate": "20210723",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 진하지 않고 은은한 향이라 좋고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "미세플라스틱도 없어서 안심하고 쓸 수 있어 더 좋네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360458",
+    "RawText": "좋아하지 않는 스모키향이라 별로라 생각했는데 머리도 안아프고 고급진 향이 나서 좋았어요. 양도 많아서 작은병에 덜어 사용해야할줄 알았는데 옆으로 뉘여놓고 정수기 물처럼 빼서 사용하니 편리하고 좋네요. 저렴하게 잘 구매했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "125",
+    "Word": "28",
+    "RDate": "20210707",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "머리도 안아프고 고급진 향이 나서 좋았어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "옆으로 뉘여놓고 정수기 물처럼 빼서 사용하니 편리하고 좋네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 구매했어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360475",
+    "RawText": "이것저것 다 써봤는데 이게 향이 제일 좋아요. 향도 정말 오래 가는 것 같아요. 계속 구매 예정입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "16",
+    "RDate": "20210622",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "이게 향이 제일 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향도 정말 오래 가는 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360481",
+    "RawText": "배송도 빠르고 물품 포장 상태도 좋네요. OOO 섬유유연제 저렴하게 잘 샀어요. 스모키머스크향 마음에 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20210615",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 샀어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "스모키머스크향 마음에 드네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360482",
+    "RawText": "전 이 제품의 이 향만 사용하고 있습니다. 사용도 간편해서 너무 좋거든요. 믿을수 있는 성분으로만 구성되 있어서 안심이에요. 대용량이라 좋고 저렴하게 구입해서 더 좋았어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "23",
+    "RDate": "20210612",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용도 간편해서 너무 좋거든요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "믿을수 있는 성분으로만 구성되 있어서 안심이에요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입해서 더 좋았어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360483",
+    "RawText": "항상 써왔던 거라 더 말할 것도 없이 향은 너무 너무 좋습니다. 유연제 사용량이 꽤 되는데 미세플라스틱 제로라니 품질에 더 믿음이 가네요. 좋은 제품 잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "25",
+    "RDate": "20210610",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향은 너무 너무 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "미세플라스틱 제로라니 품질에 더 믿음이 가네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360485",
+    "RawText": "진하지 않고 은은한 향이라 좋습니다. 대용량이라 오래 쓰기도 하고 다음엔 리필용을 사용해도 될 듯해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20210607",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "진하지 않고 은은한 향이라 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 오래 쓰기도 하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360486",
+    "RawText": "OOO 친구가 써보라고 해서 구매했네요. 처음 써보는데 향이 엄청 좋네요. 이 좋은 향이 오래 지속되길 바랍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "16",
+    "RDate": "20210607",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 엄청 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "이 좋은 향이 오래 지속되길 바랍니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "360488",
+    "RawText": "가격 저렴하게 잘 샀습니다. 늘 사용하던거라 대용량으로 샀는데 향이 참 좋아서 늘 만족스러워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20210605",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 저렴하게 잘 샀습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량으로 샀는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 참 좋아서 늘 만족스러워요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360490",
+    "RawText": "OO 대용량 중 이 제품은 은은한 향이 고급스럽네요. 대용량이라 오래 오래 사용 가능하구요. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20210604",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 이 제품은 은은한 향이 고급스럽네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 오래 오래 사용 가능하구요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360491",
+    "RawText": "매번 잘 사용하고 있네요. 은은한 향이 좋아서 매번 이 제품만 구매합니다. 향도 오래가고 좋아요. 좋은 제품 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20210603",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "은은한 향이 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향도 오래가고 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360506",
+    "RawText": "미세플라스틱도 없고 향 자체도 너무 부드럽고 좋습니다. 빠른 배송도 너무 만족하고 있어요. 다쓰면 또 구매하러 오겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20210526",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "미세플라스틱도 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향 자체도 너무 부드럽고 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360509",
+    "RawText": "쿠폰 쓰니 너무 저렴해서 좋았습니다. 미세 플라스틱도 없어 좋고 향도 은은해서 좋아요. 근데 잔향이 거의 안남아 많이 아쉬웠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20210524",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 쓰니 너무 저렴해서 좋았습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "미세 플라스틱도 없어 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 은은해서 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "잔향이 거의 안남아 많이 아쉬웠어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "360512",
+    "RawText": "다른 향만 사용하다가 세일 때 싸게 스모키머스크 향 구입해 봤습니다. 향이 굉장히 좋네요. 머스크향이 고급스러운 느낌이 나요. 다른 향으로 꾸준히 사용중이었는데 머스크랑 번갈아 사용하면 좋을 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "114",
+    "Word": "27",
+    "RDate": "20210523",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 굉장히 좋네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "머스크향이 고급스러운 느낌이 나요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일 때 싸게",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360516",
+    "RawText": "향기가 진짜 너무너무 좋아서 이번엔 아주 큰 용량으로 시켰습니다. 안 써보신분 꼭 써보셨음 좋겠네요. 진짜 향기가 질리지도 않고 고급스럽고 좋습니다. OO 핑크색 말고 민트색으로 꼭 사세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "26",
+    "RDate": "20210521",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기가 진짜 너무너무 좋아서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "이번엔 아주 큰 용량으로 시켰습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "진짜 향기가 질리지도 않고 고급스럽고 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360518",
+    "RawText": "이렇게 큰 줄 몰랐는데 생각보다 많이 큽니다. 그래도 넉넉하게 사용하면 좋습니다. 근데 무거워서 사용할때마다 조금 힘들긴해요. 다음엔 작은 용량으로 여러개 구매하려고요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "94",
+    "Word": "21",
+    "RDate": "20210520",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "이렇게 큰 줄 몰랐는데 생각보다 많이 큽니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 넉넉하게 사용하면 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 무거워서 사용할때마다 조금 힘들긴해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "360523",
+    "RawText": "5리터도 적게 느껴질 타임에 마침 8리터를 쓰게 되어서 너무 좋습니다. 향이며 양이며 다 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "14",
+    "RDate": "20210518",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "5리터도 적게 느껴질 타임에 마침 8리터를 쓰게 되어서 너무 좋습니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이며 양이며 다 만족해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이며 다 만족해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360529",
+    "RawText": "대용량이라 부담없이 쓰기 좋습니다. 향도 은은하니 좋고 원래는 OO 퍼플쓰다가 OOO로 바꾸었고 OOOO배송 가능한 이곳에 정착했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "16",
+    "RDate": "20210515",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 부담없이 쓰기 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 은은하니 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360535",
+    "RawText": "향은 매일 쓰는 걸로 주문했습니다. 정말 부드러운 향이라 맘에 드네요. 대용량이라 무거워서 사용하기는 조금 불편한 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20210511",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "정말 부드러운 향이라 맘에 드네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거워서 사용하기는 조금 불편한 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "360542",
+    "RawText": "언제나 사용해도 끝까지 한결같은 향기가 오래가네요. 가격도 저렴하고 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "42",
+    "Word": "9",
+    "RDate": "20210509",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "끝까지 한결같은 향기가 오래가네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360545",
+    "RawText": "포장도 꼼꼼히 잘 해서 보내주셨네요. 스모키향 넘 좋습니다. 양 많아서 오래 쓰겠어요.  게다가 고농축이라 금방 없어지지는 않을것 같아요. 그래서 더 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "21",
+    "RDate": "20210507",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "스모키향 넘 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양 많아서 오래 쓰겠어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": " 게다가 고농축이라 금방 없어지지는 않을것 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360560",
+    "RawText": "냄새는 괜찮습니다 처음엔 강한 향이 너무 진한가 했는데 빨고 나면 자연히 옅어져서 은은하게 퍼져서 좋으네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20210418",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새는 괜찮습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "처음엔 강한 향이 너무 진한가 했는데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "빨고 나면 자연히 옅어져서 은은하게 퍼져서 좋으네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360566",
+    "RawText": "늘 쓰던건데 향도 좋고 대용량이라 세탁 많이 하는 집인데도 오래 씁니다. 가성비 좋아서 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "14",
+    "RDate": "20210408",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 세탁 많이 하는 집인데도 오래 씁니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋아서 만족해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360567",
+    "RawText": "용량이 너무 커서 따르기 힘든거 빼면 다른거 다 좋습니다. 할인 쿠폰까지 받아서 싸게 구매했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "14",
+    "RDate": "20210407",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 너무 커서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "따르기 힘든거 빼면",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인 쿠폰까지 받아서 싸게 구매했어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360570",
+    "RawText": "향도 좋고 대용량이라 양도 많고 할인 받아서 가격도 저렴하니 좋네요. 지인들에게도 강력추천 했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20210406",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 양도 많고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인 받아서 가격도 저렴하니 좋네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360577",
+    "RawText": "총알배송이라 넘 좋았습니다.  향도 넘 맘에 듭니다. 사용전이라 알 수는 없지만 잔향이 오래 가기를 바래봅니다. OOO 썼는데 바꿔보고 좋으면 갈아타려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "21",
+    "RDate": "20210314",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 넘 맘에 듭니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "사용전이라 알 수는 없지만 잔향이 오래 가기를 바래봅니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "360579",
+    "RawText": "요즘엔 전보다 향도 덜 진하고 오래 가지도 않는것 같습니다  그래도 향이 좋아 계속 사용중이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "14",
+    "RDate": "20210312",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "요즘엔 전보다 향도 덜 진하고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋아",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "오래 가지도 않는것 같습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "360581",
+    "RawText": "항상 사용하는 제품입니다. 쿠폰이 있어 저렴하게 구매했습니다. 향기도 좋고 양도 많아서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20210312",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰이 있어 저렴하게 구매했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360584",
+    "RawText": "OOO는 다 향이 좋은거 같습니다. 세가지 향을 번갈아가며 사용하고 있습니다. 가족들도 향이 좋다고 하네요. 건조기 사용하면 빨래 향이 현저히 줄어드는 편인데 건조기용 OOO 사용하니까 건조후에도 향이 확 나지는 않지만 잔향이 은은하게 나서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "140",
+    "Word": "33",
+    "RDate": "20210312",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "가족들도 향이 좋다고 하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "건조후에도 향이 확 나지는 않지만 잔향이 은은하게 나서 좋습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360587",
+    "RawText": "냄새에 민감한 편인데 이 제품은 좋아하는 향이라 맘에 들어요. 맘이 편해지는 향이네요. 빠른 배송과 저렴한 가격 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20210308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "이 제품은 좋아하는 향이라 맘에 들어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "맘이 편해지는 향이네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360588",
+    "RawText": "향은 나쁘지 않은데 지속력은 약한거 같습니다. 고농축이라서 경제적이긴 합니다. 잘 쓸게요. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "12",
+    "RDate": "20210308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 나쁘지 않은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "지속력은 약한거 같습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "고농축이라서 경제적이긴 합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360591",
+    "RawText": "가성비 정말 압도적으로 좋네요. 향이 제가 좋아하지 않는 향이어서 안 맞으면 어쩌나 걱정했는데 너무 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20210308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 정말 압도적으로 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 제가 좋아하지 않는 향이어서 안 맞으면 어쩌나 걱정했는데 너무 좋네요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360592",
+    "RawText": "섬유유연제 유목민이다가 드디어 정착한 아이템입니다. 다 향이 좋지만 이건 정말 멋진 향입니다. 펌프가 있어서 쓰기도 편합니다. 강추입니다. 단종되지 않았으면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "20",
+    "RDate": "20210307",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "다 향이 좋지만 이건 정말 멋진 향입니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "펌프가 있어서 쓰기도 편합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360594",
+    "RawText": "고농축이라 그런지 조금만 넣어도 되어 좋습니다. 근데 향은 갠적으로 제 취향이 아니네요. 그래도 나쁘지는 않아 그냥 쓸려구요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20210307",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "고농축이라 그런지 조금만 넣어도 되어 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 갠적으로 제 취향이 아니네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "나쁘지는 않아 그냥 쓸려구요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "360600",
+    "RawText": "계속 이 제품만 쓰고 있습니다. 미세플라스틱도 없어서 안심하고 사용하고 있어요. 향도 무난하니 사용하기 괜찮은 듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20210302",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "미세플라스틱도 없어서 안심하고 사용하고 있어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 무난하니 사용하기 괜찮은 듯 합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360605",
+    "RawText": "편안한 향이 나서 좋습니다. 섬유유연제는 무엇보다 향이 좋아야 하는데 대중적으로 쓰기 좋은 향 인것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20210301",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "편안한 향이 나서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "대중적으로 쓰기 좋은 향 인것 같네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360621",
+    "RawText": "늘 사용하고 있는 제품이라 이번에는 대용량으로 주문했습니다. 쿠폰 써서 저렴히 잘 샀습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20210222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 이번에는 대용량으로 주문했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 써서 저렴히 잘 샀습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360629",
+    "RawText": "향이 좋습니다. OOO 특유의 냄새가 지겨워서 바꾼지 좀 됐는데 역시 OOOO 향이 좋아요. 대용량이라 무거워서 사용이 불편한 것만 빼면 다 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "21",
+    "RDate": "20210215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " OOOO 향이 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거워서 사용이 불편한 것만 빼면 다 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "360637",
+    "RawText": "여기가 제일 저렴해서 구매했습니다. 좋아하는 향이라 재구매하는거구요, 잔향도 오래남아 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "10",
+    "RDate": "20210204",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 제일 저렴해서 구매했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "좋아하는 향이라 재구매하는거구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "잔향도 오래남아 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360640",
+    "RawText": "품질도 좋고 배송도 만족스러워요. 쓰던 제품인데 대용량 있길래 구매 후 써보니 가성비 최고라서 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20210201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량 있길래",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 최고라서 만족스럽습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360660",
+    "RawText": "저렴한 가격으로 잘 샀습니다. 머스크 향이 너무 좋아서 이것만 쓰게 되네요. 가성비 좋아서 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20210109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격으로 잘 샀습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "머스크 향이 너무 좋아서 이것만 쓰게 되네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋아서 만족해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360666",
+    "RawText": "저렴한 가격에 구매할 수 있어서 좋았습니다.  향도 무난해서 사용하기 괜찮은 듯 합니다. 용기 뚜껑이 깨져 왔는데 사용하는데는 지장이 없어 그냥 사용하려 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "4",
+    "Syllable": "90",
+    "Word": "22",
+    "RDate": "20201231",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 구매할 수 있어서 좋았습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 무난해서 사용하기 괜찮은 듯 합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360676",
+    "RawText": "개인적으로 OOO보다 이 제품이 더 맘에 들어서 지속적으로 사용 중입니다.  향도 좋고 오래 가서 더욱 더 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "17",
+    "RDate": "20201221",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "오래 가서 더욱 더 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360677",
+    "RawText": "이 제품의 스모키향 제가 제일 좋아하는 향이에요. 어떤 사람들은 섬유린스향인데도 향수 너무 좋다고 할 정도로 향도 진해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20201220",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "이 제품의 스모키향 제가 제일 좋아하는 향이에요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "섬유린스향인데도 향수 너무 좋다고 할 정도로 향도 진해서 좋습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360679",
+    "RawText": "쟁여두고 쓰는 유연제입니다. 마침 이곳에서 세일하길래 망설임없이 얼릉 샀습니다. 향기 좋습니다. 잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20201220",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "마침 이곳에서 세일하길래 망설임없이 얼릉 샀습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360699",
+    "RawText": "온라인몰 비교해보고 최저가로 구입해서 좋습니다. 배송도 빠르고 향도 좋아서 만족합니다. 잘 사용하고 나서 재구매하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "14",
+    "RDate": "20201129",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "최저가로 구입해서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋아서 만족합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360707",
+    "RawText": "향기도 너무 좋은 것 같아요. 분홍색 써 보고 너무 좋아서 이것도 구매했는데 이 향도 너무 좋습니다. 향이 오래가는 것 같아 더 좋으네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "22",
+    "RDate": "20201122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 너무 좋은 것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향이 오래가는 것 같아 더 좋으네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "분홍색 써 보고 너무 좋아서 이것도 구매했는데 이 향도 너무 좋습니다",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360721",
+    "RawText": "무거운 제품을 손상없이 무사히 배송해 주셔서 감사드립니다. 안 써본 향이라 걱정했었는데 맘에 쏙 들어 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20201117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거운 제품을",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "안 써본 향이라 걱정했었는데 맘에 쏙 들어 좋습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360722",
+    "RawText": "늘 사용하는 제품인데 이번에는 좀 더 큰 걸로 주문했습니다. 빨래들이 좋은 향기가 나서 빨래 할 맛이 나네요. 근데 향이 지속되지 않아서 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "22",
+    "RDate": "20201117",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "좀 더 큰 걸로 주문했습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "좋은 향기가 나서 빨래 할 맛이 나네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향이 지속되지 않아서 아쉬워요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "360724",
+    "RawText": "대용량을  행사가로 저렴하게 살 수 있다니 득템했네요. 향도 너무 좋아서 이 제품만 계속 사용 중 입니다. 빠른 배송 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "19",
+    "RDate": "20201116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량을  ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "행사가로 저렴하게 살 수 있다니 득템했네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향도 너무 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360727",
+    "RawText": "고농축이라 적은 양으로 향기가 오래가니 좋아서 대용량으로 구매했어요. 양이 많아 좋은데 너무 무거워 사용하기가 힘은 좀 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20201116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "고농축이라 적은 양으로",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향기가 오래가니 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량으로 구매했어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아 좋은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 너무 무거워",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기가 힘은 좀 드네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "360728",
+    "RawText": "처음으로 구매한 제품입니다. 일단 향이 은은하니 맘에 듭니다. 쿠폰 사용해서 싸게 구매 할 수 있어서 좋았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "16",
+    "RDate": "20201115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 은은하니 맘에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 사용해서 싸게 구매 할 수 있어서 좋았습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360738",
+    "RawText": "항상 애용하는 제품이에요.향이 자극적이지 않아서 좋고 향이 오래 지속돼서 좋습니다. 할인받아 정말 저렴하게 구매해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "15",
+    "RDate": "20201113",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 자극적이지 않아서 좋고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향이 오래 지속돼서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인받아 정말 저렴하게 구매해서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360739",
+    "RawText": "제품이 무척 큽니다. 향은 그냥 그렇네요. 써 보고 품질이 맘에 들면 다른 향으로 구매하려고요. 포장은 커다란 박스에 왔는데 배송중 굴러 다녔는지 계량컵이 깨져서 집에 있는 다른 용기로 대체해서 써야겠네요.  배송에 좀 더 신경 써 주시면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "140",
+    "Word": "36",
+    "RDate": "20201113",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "제품이 무척 큽니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 그냥 그렇네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "써 보고 품질이 맘에 들면 다른 향으로 구매하려고요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "360742",
+    "RawText": "향 모르는 상태에서 구입했는데 향이 정말 만족스럽네요. 가격이 착하지는 않지만 양이 많아 가성비는 좋은 것 같아요. 뽁뽁이나 테이핑 없이 왔는데도 흐르거나 터지지 않고 안전하게 받아서 더 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "110",
+    "Word": "27",
+    "RDate": "20201112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 정말 만족스럽네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 착하지는 않지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비는 좋은 것 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360743",
+    "RawText": "OO는 괜히 거부감 드는데 이 제품은 향기 좋고 싸게 사서 좋습니다. 무거워서 사용하기는 불편하긴 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20201112",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "이 제품은 향기 좋고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 사서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거워서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기는 불편하긴 합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "360748",
+    "RawText": "용량이 많아서 오래 쓸 수 있으니 너무 좋습니다. 향도 좋아서 맘에 드는데 할인까지 받아서 저렴하게 사서 더 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "4",
+    "Syllable": "67",
+    "Word": "18",
+    "RDate": "20201111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 많아서 오래 쓸 수 있으니 너무 좋습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋아서 맘에 드는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인까지 받아서 저렴하게 사서 더 만족합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360756",
+    "RawText": "향이 좋아 계속 사용하는 제품인데 이번엔 동생네 집들이 선물로 주문 했습니다. 넉넉한 양에 향기가 너무 좋다고 좋아합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20201109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋아 계속 사용하는 제품인데 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "넉넉한 양에 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기가 너무 좋다고 좋아합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360759",
+    "RawText": "OO 쓰고 있는데 세일하길래 다른 향 써보고 싶어서 주문했습니다. OOO 향은 좋습니다. 건조 후 향이 오래 가면 더 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "19",
+    "RDate": "20201107",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일하길래",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "OOO 향은 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "건조 후 향이 오래 가면 더 좋겠습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "360763",
+    "RawText": "향이 너무 좋습니다. 민트색만 썼었는데 지속력도 이게 더 좋은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 스** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "42",
+    "Word": "11",
+    "RDate": "20201106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "지속력도 이게 더 좋은 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360766",
+    "RawText": "용량 엄청 많습니다. 향이 좀 진하면 용량보다 조금 적게 넣고 사용하면 되고 건조기를 사용할 땐 정량으로 사용하면 되서 좋아요. 향이 오래가고  아주 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 윌** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "23",
+    "RDate": "20220830",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량 엄청 많습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "건조기를 사용할 땐 정량으로 사용하면 되서 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "향이 좀 진하면 용량보다 조금 적게 넣고 사용하면 되고",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향이 오래가고  아주 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360769",
+    "RawText": "너무 무거워서 들기 힘듭니다. 사용하기 불편하고 처음 사용하는 향인데  맘에 드는 향이 아니네요. 빠른 배송은 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 윌** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20220830",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "너무 무거워서 들기 힘듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 불편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "처음 사용하는 향인데  맘에 드는 향이 아니네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "360772",
+    "RawText": "용량이 3~4리터 짜리가 적당한 거 같습니다. 8리터는 통이 많이 크고 너무 무겁습니다. 작은 통에 덜어 쓰기도 불편해서 비추합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 윌** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20220829",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "8리터는 통이 많이 크고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "너무 무겁습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "작은 통에 덜어 쓰기도 불편해서 비추합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 3~4리터 짜리가 적당한 거 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "360774",
+    "RawText": "계속 쓰던 제품입니다. 빨래 할때는 향기가 좀 나는데 마르고 나면 향이 별로 없어서 아쉬워요. 저렴하게 구입했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 윌** 섬유유연제 8L 1개",
+    "ReviewScore": "3",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20220828",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "빨래 할때는 향기가 좀 나는데 마르고 나면 향이 별로 없어서 아쉬워요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입했어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360775",
+    "RawText": "OOO 이름은 좀 그렇지만 향이 너무 좋아서 몇년째 잘 쓰고 있는 제품입니다. 대용량인데 브랜드쿠폰까지 적용되니 가격이 정말 저렴합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 윌** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20220828",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 좋아서 몇년째 잘 쓰고 있는 제품입니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량인데 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "브랜드쿠폰까지 적용되니 가격이 정말 저렴합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360780",
+    "RawText": "대용량이라 많이 저렴한 가격에 구매해서 득템입니다. 몇 년째 이 제품만 사용하고 있습니다. 향도 좋아서 기분이 좋아집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 윌** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20220826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "많이 저렴한 가격에 구매해서 득템입니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋아서 기분이 좋아집니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360782",
+    "RawText": "대용량이라 무겁지만 저렴하게 사용할 수 있어서 좋습니다. 향기가 좋아서 맘에 듭니다. 배송도 빠르고 만족입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 윌** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20220826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁지만",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 사용할 수 있어서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기가 좋아서 맘에 듭니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360797",
+    "RawText": "은은한 향이라 무난합니다. 이 제품들이 향기도 오래가서 좋은 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 윌** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "40",
+    "Word": "10",
+    "RDate": "20220825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "은은한 향이라 무난합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향기도 오래가서 좋은 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360805",
+    "RawText": "항상 사용하던 제품이라 이번에도 구입했습니다. 사용하기 편하고 대용량이라 자주 구매해야 하는 번거로움도 없어 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 윌** 섬유유연제 8L 1개",
+    "ReviewScore": "4",
+    "Syllable": "66",
+    "Word": "14",
+    "RDate": "20220823",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 편하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 자주 구매해야 하는 번거로움도 없어 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360810",
+    "RawText": "행사가에 잘 샀습니다. 일반 섬유유연제 3L×4짜리 만원주고 사봤자 콸콸부어도 향은 전혀 안나서 저렴하게 사도 결국 손해보는 느낌이더라구요. 고농축으로 브랜드별로 사고 있긴한데 이 제품은 대용량이라 오래 쓸수 있고, 은은한 잔향이 오래가요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 윌** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "134",
+    "Word": "30",
+    "RDate": "20220823",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 오래 쓸수 있고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "은은한 잔향이 오래가요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "행사가에 잘 샀습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360813",
+    "RawText": "향도 좋고 조금만 넣어도 향이 지속되니까 만족합니다. 안전한 성분이라 피부에도 안심하고 쓸 수 있어서 좋습니다. 용량도 커서 가격대비 너무 맘에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 윌** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "21",
+    "RDate": "20220820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "조금만 넣어도 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 지속되니까 만족합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "안전한 성분이라 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부(손)보호",
+        "SentimentText": "피부에도 안심하고 쓸 수 있어서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 커서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 너무 맘에 들어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360825",
+    "RawText": "친구가 추천해줘서 구매했습니다. 향이 너무 좋은데 건조기 돌리고 나서도 향이 계속 남아 있으니 더  만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 윌** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20220817",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 좋은데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "건조기 돌리고 나서도 향이 계속 남아 있으니 더  만족스럽습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360828",
+    "RawText": "이번엔 8리터 짜리 대용량으로 구매했습니다. 빨래도 하루 한 두번은 꼭 하고 팍팍 쓰다보니 금방 쓰거든요. 향은 최고입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 윌** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20220817",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "이번엔 8리터 짜리 대용량으로 구매했습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 최고입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360836",
+    "RawText": "향이 너무 좋아서 항상 사용하는 OO 이번에도 구입했습니다.  요번에는 좀 더 큰 용량으로 구매했는데 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 윌** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20220813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 좋아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "좀 더 큰 용량으로 구매했는데 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360840",
+    "RawText": "향기가 너무 좋습니다. 미세플라스틱 없는 안전한 성분이라 더 좋습니다. 가격도 적당하니 부담없어 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 윌** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20220811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기가 너무 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "미세플라스틱 없는 안전한 성분이라 더 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 적당하니 부담없어 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360846",
+    "RawText": "향이 달콤하고 좋습니다. 세탁 후에도 달콤한 향이 지속되니 기분이 좋습니다. 작은 통에 덜어 쓰기가 불편한 건 어쩔 수 없네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 윌** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "19",
+    "RDate": "20220807",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 달콤하고 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "세탁 후에도 달콤한 향이 지속되니 기분이 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "작은 통에 덜어 쓰기가 불편한 건 어쩔 수 없네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "360860",
+    "RawText": "항상 사용하는 OOO을 좀 넉넉한 용량으로 주문했네요. 작은 통에 덜어 놓고 사용하니 편하네요. 가격도 저렴하게 구입해서 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 윌** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20220801",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "넉넉한 용량으로 주문했네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "작은 통에 덜어 놓고 사용하니 편하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게 구입해서 만족해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360862",
+    "RawText": "OOO 대용량 섬유 유연제 구입해서 좋습니다. 지금까지 구매한 가격 중 가장 저렴하게 구입해서 더 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 윌** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20220730",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "OOO 대용량 섬유 유연제 구입해서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "지금까지 구매한 가격 중 가장 저렴하게 구입해서 더 만족스럽습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360872",
+    "RawText": "향이 좋아서  항상 이 향만 주문해서 사용합니다. 이번에는 쿠폰과 포인트까지 사용해서 아주 싸게 잘사서 기분 좋습니다. 배송도 빠르고 포장도 굿이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 윌** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "20",
+    "RDate": "20220725",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋아서  항상 이 향만 주문해서 사용합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰과 포인트까지 사용해서 아주 싸게 잘사서 기분 좋습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360874",
+    "RawText": "배송이 정말 빨라서 좋았습니다.  쿠폰 사용해서 저렴하게 잘 산 것 같아 좋습니다. 향도 무난하고 오래가는 것 같아 추천해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 윌** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "18",
+    "RDate": "20220724",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "  쿠폰 사용해서 저렴하게 잘 산 것 같아 좋습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 무난하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "오래가는 것 같아 추천해요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360877",
+    "RawText": "최근에는 스모키 머스크향 쓰다가 이번엔 섞어서 써 보려구요. 이 제품의 향도 써봤던거라 좋습니다. 양도 엄청 많아 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 윌** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20220723",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "이 제품의 향도 써봤던거라 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 엄청 많아 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360878",
+    "RawText": "가격이 저렴해서 좋습니다. 대용량이라서 떨어질 염려없이 오래 사용할 수 있어 좋은데 작은통에 따라 붓기가 힘들긴 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 윌** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20220723",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라서 떨어질 염려없이 오래 사용할 수있어 좋은데",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "작은통에 따라 붓기가 힘들긴 합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "360885",
+    "RawText": "잔향이 오래 남는다고 하고 특히 미세플라스틱 관련 성분이 없다고 해서 기대가 되어 구입해 봤습니다. 가장 인기있는 향이어서 구매해봤는데 향이 좋기를 기대해봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 윌** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "21",
+    "RDate": "20220721",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "특히 미세플라스틱 관련 성분이 없다고 해서 기대가 되어",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋기를 기대해봅니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "360892",
+    "RawText": "가격도 저렴하고 타제품보다 향이 진하고  지속력이 오래 가서 늘 잘 사용하고 있습니다^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 윌** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "12",
+    "RDate": "20220716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향이 진하고  ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "지속력이 오래가서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360897",
+    "RawText": "여러가지 제품 써보다 정착했습니다. 리필 써봤는데 향이 너무 좋아서 대용량으로 구매했어요. 사이즈가 엄청 커서 깜짝 놀랐지만 가성비 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 윌** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "18",
+    "RDate": "20220715",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 좋아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량으로",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "사이즈가 엄청 커서 깜짝 놀랐지만 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "360898",
+    "RawText": "생각보다 플로럴한 냄새나서 조금 아쉽네요. 과일 향을 더 좋아하긴 하지만 빨래 후 잔 향이 좀 나면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 윌** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "17",
+    "RDate": "20220715",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "생각보다 플로럴한 냄새나서 조금 아쉽네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "빨래 후 잔 향이 좀 나면 좋겠어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "360900",
+    "RawText": "상품 품질이 좋아요. 마음에 듭니다. 향이 진짜 좋고 지속력도 있습니다.  가격대도 저렴하고 배송도 빨라요.  많이 파십시오.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 윌** 섬유유연제 8L 1개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20220715",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 진짜 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "지속력도 있습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

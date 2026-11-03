@@ -1,0 +1,3242 @@
+[
+  {
+    "Index": "512415",
+    "RawText": "엄청 짱짱할줄 알앗는데 그렇게 짱짱하진 않아요 좀 부드러운 편입니다 근데 마감이 완벽하고 이쁘네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "3",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20211013",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "엄청 짱짱할줄 알앗는데 그렇게 짱짱하진 않아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "좀 부드러운 편입니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감이 완벽하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 이쁘네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512423",
+    "RawText": "욕실청소가 번거롭지 않게 한번에 다할수있어서 좋다 구석구석 솔질이 잘 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "10",
+    "RDate": "20211012",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "번거롭지 않게 한번에 다할수있어서 좋다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "구석구석 솔질이 잘 됩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512432",
+    "RawText": "우선 빗자루라 페인부분을 깔끔히 정리해 줍니다 그리고 머리카락이 안낍니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "40",
+    "Word": "9",
+    "RDate": "20211009",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "우선 빗자루라 페인부분을 깔끔히 정리해 줍니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "머리카락이 안낍니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512433",
+    "RawText": "너무 좋습니다 정품 찾았어요 모가 마니뻣뻣하지도않고 너무부드럽지도 않아서 화장실거품청소할때 유용할것같습니다 강추입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "11",
+    "RDate": "20211009",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "모가 마니뻣뻣하지도않고 너무부드럽지도 않아서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "화장실거품청소할때 유용할것같습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512436",
+    "RawText": "깔끔한 흰색이라 화장실에 걸어두어도 미관상 나쁘지 않습니다. 거친솔이라 바닥 빡빡 문지르기 좋습니다. 면적이 넓어서 청소가 간편하게 빨리 됩니다. 단 오래 잡기엔 손이 조금 아프네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "101",
+    "Word": "24",
+    "RDate": "20211008",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "깔끔한 흰색이라 화장실에 걸어두어도 미관상 나쁘지 않습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "거친솔이라 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 바닥 빡빡 문지르기 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "면적이 넓어서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "청소가 간편하게 빨리 됩니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "오래 잡기엔 손이 조금 아프네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "512438",
+    "RawText": "ㅇㅇㅇ 보고 샀는데 좋네요 방충망 털고 먼지는 물에 씻고 간편해요 오래 쓸수 있겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "13",
+    "RDate": "20211008",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "방충망 털고 먼지는 물에 씻고 간편해요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오래 쓸수 있겠습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512440",
+    "RawText": "청소하기 완전 편하고 좋네요 바닥, 변기 모두 두루두루 청소하고 있습니다 그런데 손잡이에 비눗물이 묻으면 엄청 미끄럽네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20211007",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "청소하기 완전 편하고 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "바닥, 변기 모두 두루두루 청소하고 있습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "손잡이에 비눗물이 묻으면 엄청 미끄럽네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "512447",
+    "RawText": "일단 2개 주문했는데 소문대로 엄청 튼튼합니다. 솔이 벌어지거나 변형이 없네요. 솔폭이 좁아서 욕실타일청소에 최고입니다. 방충망 한번쓸어주면 청소끝이네요 최곱니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "18",
+    "RDate": "20211006",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "소문대로 엄청 튼튼합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "솔이 벌어지거나 변형이 없네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "솔폭이 좁아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "욕실타일청소에 최고입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "방충망 한번쓸어주면 청소끝이네요 최곱니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512449",
+    "RawText": "화장실용으로 쓰려고 주문했습니다 소문난만큼 튼튼하고 좋을거라 기대해봅니다 청소가 편하고 쉽겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "10",
+    "RDate": "20211006",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "소문난만큼 튼튼하고 좋을거라 기대해봅니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "청소가 편하고 쉽겠네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512451",
+    "RawText": "사이즈가 넉넉하고 모가 튼튼한거 같습니다 잘쓸게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "27",
+    "Word": "6",
+    "RDate": "20211005",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈가 넉넉하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "모가 튼튼한거 같습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512464",
+    "RawText": "구매하고 아직까지 사용을 못해보고 있어요. 색상이 너무 맘에 듭니다 리뷰를 보고 선택 했는데 깨끗하게 청소가 되길 바래봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "3",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20210930",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 너무 맘에 듭니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "깨끗하게 청소가 되길 바래봅니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "512465",
+    "RawText": "생각보다 크기도 커서 좋네요 넓은 부위도 청소하기 편할 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "4",
+    "Syllable": "37",
+    "Word": "10",
+    "RDate": "20210930",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "생각보다 크기도 커서 좋네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "넓은 부위도 청소하기 편할 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512470",
+    "RawText": "솔이 길어서 청소할때 아주 편리하고 좋습니다. 유용하게 잘 쓰고 있습니다. 창틀 사용용으로 조금 더 얇은 것도 있으면 좋겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "18",
+    "RDate": "20210929",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "솔이 길어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "청소할때 아주 편리하고 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "유용하게 잘 쓰고 있습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512482",
+    "RawText": "ㅇㅇㅇ 청소솔 구매했는데 아주 만족해요. 솔이 부드럽고 깨끗하게 청소되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "42",
+    "Word": "9",
+    "RDate": "20210926",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "솔이 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "깨끗하게 청소되네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512507",
+    "RawText": "솔이 부드러우면서 탄력이 있습니다 오래 쓸수 있을거 같네요 그립감이 조금 안좋은것 같기도 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20210919",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "솔이 부드러우면서 탄력이 있습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오래 쓸수 있을거 같네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그립감이 조금 안좋은것 같기도 합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "512508",
+    "RawText": "편하고 좋아서 선물하려고 3개 더 샀네요. 솔도 짱짱하고 손잡이도 잡기 편하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "45",
+    "Word": "11",
+    "RDate": "20210919",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하고 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "솔도 짱짱하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손잡이도 잡기 편하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512512",
+    "RawText": "돈 좀 더 주고 흰색으로 구매한 보람이 있네요. 여러색상이 섞여있는 욕실에 흰색이라 깔끔해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20210918",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "돈 좀 더 주고 흰색으로 구매한 보람이 있네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "여러색상이 섞여있는 욕실에 흰색이라 깔끔해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512515",
+    "RawText": "ㅇㅇ에서 추천받아 사봤어요 모가 튼튼한게 오래 쓸것 같구요 사용하기 편리해서 아주 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20210917",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "모가 튼튼한게 오래 쓸것 같구요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 편리해서 아주 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512534",
+    "RawText": "욕실 청소용으로 구매했는데 힘이 많이 안들어서 좋네요 시원하게 청소할수 있습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20210914",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "힘이 많이 안들어서 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "시원하게 청소할수 있습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512555",
+    "RawText": "소개로 알게 된 청소 솔입니다 욕실 바닥, 벽, 틈새 다양하게 사용가능 해서 좋네요 게다가 이 솔이 단단하고 모양도 색깔도 고급스럽게 느껴지네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "21",
+    "RDate": "20210909",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "욕실 바닥, 벽, 틈새 다양하게 사용가능 해서 좋네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "이 솔이 단단하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "모양도 색깔도 고급스럽게 느껴지네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔도 고급스럽게 느껴지네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512556",
+    "RawText": "저희집엔 제일 고운 방충망 이라 먼지도 더 붙는것같은데 ㅇㅇㅇㅇ이 촘촘하고 뻣뻣해서 망에 구멍을 잘 뚤어서 사이에 끼어 있는것들을 없애주네요 최고입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "20",
+    "RDate": "20210909",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": " ㅇㅇㅇㅇ이 촘촘하고 뻣뻣해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "망에 구멍을 잘 뚤어서 사이에 끼어 있는것들을 없애주네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512561",
+    "RawText": "카페트의 고양이 털이 완전 깨끗이 쓸어져요 여러가지 다용도로 잘 쓸것 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "11",
+    "RDate": "20210908",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "카페트의 고양이 털이 완전 깨끗이 쓸어져요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여러가지 다용도로 잘 쓸것 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512573",
+    "RawText": "청소가 빠르고 쉬워졌습니다 아무리 문지르고 닦아도 솔이 처음쓸때처럼 그대로네요 마법에 솔 같네요 적극 추천합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20210907",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "청소가 빠르고 쉬워졌습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "아무리 문지르고 닦아도 솔이 처음쓸때처럼 그대로네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512576",
+    "RawText": "솔이 적당히 부드러우면서도 탄성이 있어서 물을 쓸어내려도 주변에 튀거나 하지않아요 머리카락이 붙어도 잘 빠지네요 여기저기 쓸고 닦기 적당해요 ㅇㅇㅇ가 왜 미디움을 추천했는지 이해감 다만 손잡이가 미끄러워서 약간 불편해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "122",
+    "Word": "28",
+    "RDate": "20210906",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "솔이 적당히 부드러우면서도",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "탄성이 있어서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "물을 쓸어내려도 주변에 튀거나 하지않아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "머리카락이 붙어도 잘 빠지네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여기저기 쓸고 닦기 적당해요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "손잡이가 미끄러워서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "약간 불편해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "512580",
+    "RawText": "솔면적이 넓네요 힘이 있어 타일 청소가 쉽습니다. 다양한 색상도 맘에 드네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "42",
+    "Word": "11",
+    "RDate": "20210905",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "솔면적이 넓네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "힘이 있어",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "타일 청소가 쉽습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "다양한 색상도 맘에 드네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512581",
+    "RawText": "써보니 튼튼해서 정말 좋아요 저가제품에 비해 차이가 확 나네요 날 잡아서 과탄산소다 써서 제대로 욕실청소 할 생각이네요 잘 사용하겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "19",
+    "RDate": "20210905",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "써보니 튼튼해서 정말 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "저가제품에 비해 차이가 확 나네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512585",
+    "RawText": "비싸지만 좋다고 해서 구매했어요 모가 탄탄하고 부드럽네요 청소하기 쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "42",
+    "Word": "9",
+    "RDate": "20210904",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸지만 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "모가 탄탄하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "부드럽네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "청소하기 쉽습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512588",
+    "RawText": "광고에서 좋다고 하길래 샀습니다. 일단 모가 부드러우면서 탄력이 좋네요 면적이 넓어서 청소도 편하구요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20210904",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "모가 부드러우면서 탄력이 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "면적이 넓어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "청소도 편하구요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512592",
+    "RawText": "ㅇㅇ 보고 따라 샀어요 욕실 바닥청소보다 샤워기 호스 때낀거 완전 잘 벗겨지네요 진즉 살걸 그동안 그 물때낀거 일일이 빼느라 고생햇는데 말이죠 길이감은 좀 짧아서 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "25",
+    "RDate": "20210904",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "욕실 바닥청소보다 샤워기 호스 때낀거 완전 잘 벗겨지네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": " 길이감은 좀 짧아서 아쉽네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "512594",
+    "RawText": "모가 매우 촘촘하고 견고해 보여요 사용전이라서 외관만 평가하면 손잡이나 틀이 아주 단단하고 튼튼하게 생겼네요 손잡이에 구멍이 있어서 걸어놓을 수 있어 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "21",
+    "RDate": "20210903",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "모가 매우 촘촘하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "견고해 보여요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "손잡이나 틀이 아주 단단하고 튼튼하게 생겼네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "손잡이에 구멍이 있어서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "걸어놓을 수 있어 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512595",
+    "RawText": "솔이 좀더 힘이있으면 좋을거 같네요 그냥 빗자루로 쓰는정도 효과입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "2",
+    "Syllable": "38",
+    "Word": "9",
+    "RDate": "20210903",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "솔이 좀더 힘이있으면 좋을거 같네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "빗자루로 쓰는정도 효과입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "512603",
+    "RawText": "마른 바닥 쓸어봤는데 잘 쓸리네요 화장실 청소용인데 편하게 잘 됩니다 그립감이 썩 좋지는 않습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "4",
+    "Syllable": "54",
+    "Word": "14",
+    "RDate": "20210902",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "마른 바닥 쓸어봤는데 잘 쓸리네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "화장실 청소용인데 편하게 잘 됩니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그립감이 썩 좋지는 않습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "512615",
+    "RawText": "모는 부드러워서 좋은데 딱히 욕실외에는 쓸 일이 많지 않아요. 가격대비 활용도는 별로입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "3",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20210831",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "모는 부드러워서 좋은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "욕실외에는 쓸 일이 많지 않아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "가격대비 활용도는 별로입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "512621",
+    "RawText": "ㅇㅇㅇ보다가 반해서 두개나 사버렸어요. 욕실에 깔아놓은 매트가 곰팡이에 넘 취약해서 ㅇㅇ뿌리고 닦을 때 솔이 필요했는데 이 제품이 딱입니다  솔에 힘이 있고 갈라지거나 벌어지질 않아요. 바닥도 뻑뻑 벽도 뻑뻑 힘있게 닦으니 스트레스도 같이 날아갑니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "139",
+    "Word": "33",
+    "RDate": "20210829",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "솔에 힘이 있고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "갈라지거나 벌어지질 않아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "바닥도 뻑뻑 벽도 뻑뻑 힘있게 닦으니 스트레스도 같이 날아갑니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512623",
+    "RawText": "틈새 닦기도 편하네요 모가 힘이 있어서 오래 사용할꺼같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "4",
+    "Syllable": "33",
+    "Word": "8",
+    "RDate": "20210828",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "틈새 닦기도 편하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "모가 힘이 있어서 오래 사용할꺼같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512626",
+    "RawText": "청소하기가 편하네요 솔도튼튼해서 모양이 그대로 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "29",
+    "Word": "6",
+    "RDate": "20210828",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "청소하기가 편하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "솔도튼튼해서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "모양이 그대로 있어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512633",
+    "RawText": "생각 보다 사이즈가 작아요.5cm 정도 컸으연 좋겠네요 그리고 손잡이가 미끄러워 청소시 손에 힘이 엄청 들어 가네요 손목과 손아귀가 아프네요 일반 청소솔보다 힘은 좋으나 청소 효과는 잘 모르겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "3",
+    "Syllable": "110",
+    "Word": "27",
+    "RDate": "20210827",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "생각 보다 사이즈가 작아요.5cm 정도 컸으연 좋겠네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "손잡이가 미끄러워",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "청소시 손에 힘이 엄청 들어 가네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "일반 청소솔보다 힘은 좋으나",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "청소 효과는 잘 모르겠습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "512638",
+    "RawText": "가격이 일반 솔과는 비교되네요 그래도 벌어지지 않고 잘 쓸립니다 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "40",
+    "Word": "10",
+    "RDate": "20210826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 일반 솔과는 비교되네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "벌어지지 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잘 쓸립니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512639",
+    "RawText": "청소할때 더 편하게 할수있습니다 단 생각보다 만능은 아닌것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "4",
+    "Syllable": "36",
+    "Word": "9",
+    "RDate": "20210826",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "청소할때 더 편하게 할수있습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "생각보다 만능은 아닌것 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "512644",
+    "RawText": "화장실 청소 영상 보고 구매했습니다. 변기 뒤쪽등 사이 사이 청소는 편한것 같습니다 한데 꼭필요한 솔은 아닌것 같다고 느껴지네요 참고하세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "4",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20210825",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "변기 뒤쪽등 사이 사이 청소는 편한것 같습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "꼭필요한 솔은 아닌것 같다고 느껴지네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "512661",
+    "RawText": "ㅇㅇㅇ에서 청소업체분께 추천 받아 구매했어요 방금 잠깐 사용해 보니 큰 힘 들이지 않고 편하네요 타일 사이 깨끗하게 청소됩니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "18",
+    "RDate": "20210820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용해 보니 큰 힘 들이지 않고 편하네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "타일 사이 깨끗하게 청소됩니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512670",
+    "RawText": "사용도 편리하고 좋아요 다른곳보다 저렴하지만 물건자체가 비쌉니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "35",
+    "Word": "7",
+    "RDate": "20210819",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용도 편리하고 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른곳보다 저렴하지만 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 비쌉니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "512683",
+    "RawText": "우연히 ㅇㅇㅇ에서 보고검색해서 사게됐네요 가격이 좀 잇긴해도 이 제품은 기대감이 잇엇는데 받아보니 ㅇㅇㅇ가 거짓말이 아니였어요 진짜 짱짱하니 좋습니다 써보니까 솔이 뻣뻣 하면서 청소가 너무 잘됩니다 쓰싹쓰싹 소리까지 경쾌해서 청소하는기분이 좋네요 아주 훌륭합니다  빨간색이 너무 예쁘네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "160",
+    "Word": "35",
+    "RDate": "20210817",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 잇긴해도",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "진짜 짱짱하니 좋습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": " 써보니까  솔이 뻣뻣 하면서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "청소가 너무 잘됩니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "쓰싹쓰싹 소리까지 경쾌해서  청소하는기분이 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": " 빨간색이 너무 예쁘네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512684",
+    "RawText": "ㅇㅇ쇼핑 보고 추천하길래 구입했어요 면적이 넓어서 청소가 쉽고 빠릅니다. 솔도 튼튼하고 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "4",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20210817",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "면적이 넓어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "청소가 쉽고 빠릅니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "솔도 튼튼하고 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512691",
+    "RawText": "ㅇㅇㅇ 보고 주문했어요. 청소솔이 좋아보여서 일단 방충망 한번 털어 봤는데 좋습니다 청소솔 치곤 비싼거 같네요 그래도 열심히 청소 해서 본전 뽑아야겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "21",
+    "RDate": "20210815",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "방충망 한번 털어 봤는데 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "청소솔 치곤 비싼거 같네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "512696",
+    "RawText": "화장실 청소하기에 편하고, 색상 디자인 다 좋아서 선물하려고 또 구입했네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "42",
+    "Word": "10",
+    "RDate": "20210814",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "화장실 청소하기에 편하고,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 디자인 다 좋아서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 다 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512699",
+    "RawText": "솔이 견고하고 단단해서 청소가 잘 됩니다 다만 너무 뜨거운 물에 솔을 담그면 솔 모양이변할 수도 있을거 같아요 주의 필요합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "19",
+    "RDate": "20210814",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "솔이 견고하고 단단해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "청소가 잘 됩니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "너무 뜨거운 물에 솔을 담그면 솔 모양이변할 수도 있을거 같아요 ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "512701",
+    "RawText": "가격 저렴하고 모두 만족해요 잘 배송되었구요 인터넷에서 저렴하게 구매했네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "41",
+    "Word": "9",
+    "RDate": "20210813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "인터넷에서 저렴하게 구매했네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512704",
+    "RawText": "ㅇㅇㅇ 보고 구입했습니다 화장실 바닥청소 깨끗하게 너무 잘되구요 편하게 잘 사용중입니다 솔은 튼튼한것 같지는 않네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20210813",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "화장실 바닥청소 깨끗하게 너무 잘되구요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하게 잘 사용중입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "솔은 튼튼한것 같지는 않네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "512730",
+    "RawText": "상품 받아보니 깔끔 하니 좋습니다 단 화장실 바닦청소용 용으로 구입했는대 바닦용은 아닌듯하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20210810",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔 하니 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "바닦용은 아닌듯하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "512734",
+    "RawText": "빳빳한정도가 예상보다 덜해 아쉽지만 바닥과 모서리 청소 한번에 할수있어서 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "4",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20210807",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "빳빳한정도가 예상보다 덜해 아쉽지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "바닥과 모서리 청소 한번에 할수있어서 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512745",
+    "RawText": "좋다는 얘기듣고 구매했는데 사이즈가 좀 크네요 손에 딱 맞는 느낌은 없구요 솔은 튼튼한것 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 미디움",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "14",
+    "RDate": "20210806",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈가 좀 크네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손에 딱 맞는 느낌은 없구요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 솔은 튼튼한것 같습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512765",
+    "RawText": "저렴한가격에 ㅇㅇㅇ꺼 쓰다가 바꿔봤어요 완전 좋네요 생각보다 빳빳하진 않지만 모서리부분 너무 잘닦입니다 손잡이 부분이 잡기가 편해요 강추합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "17",
+    "RDate": "20220823",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한가격에 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "생각보다 빳빳하진 않지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "모서리부분 너무 잘닦입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손잡이 부분이 잡기가 편해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512798",
+    "RawText": "ㅇㅇㅇ가 사용하는거 보고 따라 사서 해봤는데 좋은 제품 같아요. 튼튼해 보입니다 길이감도 적당해서 욕실 청소하는데 모서리 부분도 깨끗하게 잘 됩니다. 모가 탄탄하니 힘 있어서 오래쓸것같아요. 단지 손목도 안좋고 손아귀 힘이 별로라서 그런지 슥슥 세게 문지르지 않아도 꽤 힘들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "156",
+    "Word": "38",
+    "RDate": "20220725",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해 보입니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "길이감도 적당해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "욕실 청소하는데 모서리 부분도 깨끗하게 잘 됩니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "모가 탄탄하니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "힘 있어서 오래쓸것같아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "슥슥 세게 문지르지 않아도 꽤 힘들어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "512800",
+    "RawText": "사람들이 하도 좋다고 해서 구매해 봤는데 소프트는 너무 부드러워서 빗자루 용도로 사용이 가능할것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20220723",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "소프트는 너무 부드러워서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "빗자루 용도로 사용이 가능할것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512816",
+    "RawText": "사용 잘 하고 있습니다 사용하다보니 솔이 조금 부드러웠으면 하는 아쉬움이 있어요. 가격이 비싸서 아껴서 사용해야 할듯함",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "4",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20220713",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "솔이 조금 부드러웠으면 하는 아쉬움이 있어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싸서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "512817",
+    "RawText": "솔 가격으로는 조금 비싸긴합니다 그런데 확실히 일반 솔과 다르긴해요 부드럽지만 탄력있는 소재라 청소가 잘되는거 같습니다 청소 좋아하시는 분들께 적극 추천합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "4",
+    "Syllable": "88",
+    "Word": "20",
+    "RDate": "20220713",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "조금 비싸긴합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "부드럽지만 탄력있는 소재라",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "청소가 잘되는거 같습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "확실히 일반 솔과 다르긴해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512818",
+    "RawText": "부드러운 모와 함께 구입했습니다 부드러운 모와 비교했을때 2배정도 강한거 같네요 전체적으로 봤을때 품질 마음에 듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "4",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20220713",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "부드러운 모와 비교했을때 2배정도 강한거 같네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 마음에 듭니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512821",
+    "RawText": "흰색주문후 품절로 녹색으로 변경했어요 적당히 탄탄하고 솔질이 사용하기 편하네요 추천합니다 ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "4",
+    "Syllable": "50",
+    "Word": "10",
+    "RDate": "20220710",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "적당히 탄탄하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "솔질이 사용하기 편하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512844",
+    "RawText": "청소솔계의 명품이라더니 가격이 비싸지만 품질이 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "30",
+    "Word": "6",
+    "RDate": "20220705",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싸지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512849",
+    "RawText": "바닥닦기가 편해졌네요 생각보다 바닥줄눈이 잘 닦이진 않습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "33",
+    "Word": "7",
+    "RDate": "20220702",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "바닥닦기가 편해졌네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "생각보다 바닥줄눈이 잘 닦이진 않습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "512864",
+    "RawText": "모길이가 너무 길어요 사용하기 불편하네요. 대체적으로 탄력은 좋아서 괜찮네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "42",
+    "Word": "9",
+    "RDate": "20220426",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "모길이가 너무 길어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 불편하네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "탄력은 좋아서 괜찮네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512876",
+    "RawText": "저렴한 중국산도 있던데 믿덥지않아 오리지널로 구매했네요 손잡이가 편하고 구석구석 힘 안들이고 청소하기가 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "13",
+    "RDate": "20220329",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손잡이가 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "구석구석 힘 안들이고 청소하기가 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512885",
+    "RawText": "실제보다 어둡게 찍혔네요. 튼튼하고 색상이 예뻐요. 소프트도 구입하고 싶어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "42",
+    "Word": "9",
+    "RDate": "20220318",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 예뻐요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512886",
+    "RawText": "ㅇㅇㅇ보고 구입했어요 솔이 탄탄하면서 탄력이 있네요 구석진 곳도 잘 닦겨서 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "45",
+    "Word": "11",
+    "RDate": "20220316",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "솔이 탄탄하면서 탄력이 있네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "구석진 곳도 잘 닦겨서 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512899",
+    "RawText": "솔이 부드러워서 맘에 듭니다. 아무래도 청소할 때 힘주고 바닥 청소를 하면 솔이 빨리 망가질지는 모르겠지만 일단은 잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "4",
+    "Syllable": "70",
+    "Word": "18",
+    "RDate": "20220209",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "솔이 부드러워서 맘에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "솔이 빨리 망가질지는 모르겠지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "512928",
+    "RawText": "생각보다 모가 단단하진 않네요 그래도 잘 닦이구요 색상도 맘에 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "38",
+    "Word": "10",
+    "RDate": "20211125",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "생각보다 모가 단단하진 않네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "잘 닦이구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 맘에 들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512929",
+    "RawText": "생각보다 모가 단단하진 않아요 그렇지만 잘닦여요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "26",
+    "Word": "6",
+    "RDate": "20211125",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "생각보다 모가 단단하진 않아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "잘닦여요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512936",
+    "RawText": "네덜란드산 청소솔이라서 그런지 빳빳하고 비닥 청소가 잘 될 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "4",
+    "Syllable": "39",
+    "Word": "10",
+    "RDate": "20211113",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "네덜란드산 청소솔이라서 그런지 빳빳하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "비닥 청소가 잘 될 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512961",
+    "RawText": "배송 너무 느립니다 청소해보니 일반적인 곳은 되는데 줄눈의 곰팡이 제거는 전혀 안되네요 그리고 세제가 좀 튀어요 청소시간이 단축되고 좀 편하긴 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "4",
+    "Syllable": "83",
+    "Word": "21",
+    "RDate": "20211016",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "청소해보니 일반적인 곳은 되는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "줄눈의 곰팡이 제거는 전혀 안되네요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "세제가 좀 튀어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "청소시간이 단축되고 좀 편하긴 합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "512969",
+    "RawText": "청소업체 ㅇㅇㅇ보고 구매 했습니다 생각보다 부드러워서 별로인것 같아요. 가격만 비싼것 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "3",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20211012",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "생각보다 부드러워서 별로인것 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격만 비싼것 같네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "513006",
+    "RawText": "익히듣어왔던 ㅇㅇㅇ 솔이라 아주 저렴하게 할인된가격으로 득템했습니다 편하게 잘쓰고있네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "9",
+    "RDate": "20210914",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "아주 저렴하게 할인된가격으로 득템했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하게 잘쓰고있네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "513014",
+    "RawText": "ㅇㅇㅇ보고 샀는데 튼튼하고 좋네요 흰색 샀는데 맘에 들구요 디자인도 훌륭합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "10",
+    "RDate": "20210907",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "흰색 샀는데 맘에 들구요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 훌륭합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "513018",
+    "RawText": "부드러운모와 단단한모 모두 틈새청소할때 차이점을 모르겠습니다 그냥 시중 빗자루 거친모 중간모 느낌이네요 사용시 구분하기 어렵습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "3",
+    "Syllable": "72",
+    "Word": "15",
+    "RDate": "20210905",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "부드러운모와 단단한모 모두 틈새청소할때 차이점을 모르겠습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "시중 빗자루 거친모 중간모 느낌이네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용시 구분하기 어렵습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "513019",
+    "RawText": "일반 빗자루랑 비슷한 솔입니다 구석진데 일반빗자루 사용한것과 똑같은 효과에요 손잡이 길이가 짧아서 오래 사용하면 허리아픕니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "3",
+    "Syllable": "69",
+    "Word": "15",
+    "RDate": "20210905",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "일반 빗자루랑 비슷한 솔입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "구석진데 일반빗자루 사용한것과 똑같은 효과에요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "손잡이 길이가 짧아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "오래 사용하면 허리아픕니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "513103",
+    "RawText": "ㅇㅇㅇ보고 화장실 청소용으로 샀는데 너무 좋네요 휘거나 구부러지지도 않고 오래 쓸듯합니다 ㅇㅇ에도 색빠짐 없네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20210802",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "휘거나 구부러지지도 않고 오래 쓸듯합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "ㅇㅇ에도 색빠짐 없네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "513106",
+    "RawText": "제품 자체는 좋네요. 그리고 튼튼하고 색깔도 싼 티 안나요 욕실에 두어도 확 튀어서 괜찮네요 색깔이나 재질은 좋습니다 단지.좀 비싸다는 생각은 드네요 저는 이것 말고도 다양한 사이즈를 여러 개 샀어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "4",
+    "Syllable": "111",
+    "Word": "29",
+    "RDate": "20210731",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔도 싼 티 안나요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "욕실에 두어도 확 튀어서 괜찮네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": " 색깔이나 재질은 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "재질은 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좀 비싸다는 생각은 드네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "513110",
+    "RawText": "솔 청소하기 편하네요 구석구석 깨끗하게 청소 잘됩니다 강추",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "32",
+    "Word": "8",
+    "RDate": "20210731",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "솔 청소하기 편하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "구석구석 깨끗하게 청소 잘됩니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "513111",
+    "RawText": "실제로 받으니 크고 묵직해요 ㅇㅇㅇ 저렴한 솔 여러개 살바에 이거 사서 오래 쓰는게 나은것 같습니다 배송도 빨라서 좋은데 청소솔도 튼튼합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "20",
+    "RDate": "20210731",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "실제로 받으니 크고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직해요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "저렴한 솔 여러개 살바에 이거 사서 오래 쓰는게 나은것 같습니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "청소솔도 튼튼합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "513114",
+    "RawText": "많은 청소솔을 써봤거든요 마음에 쏙 듭니다 자루가 튼튼하고 솔이 빡빡하니 목욕탕 바닥을 청소할때 유용하네요 마룻바닥에 머리카락이 굴러다닐때 쓱쓱쓸어주기도 합니다 ㅇㅇㅇ 청소솔은 몇개를 사서 여기저기 잘 쓰고있어요 잘쓸게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "123",
+    "Word": "27",
+    "RDate": "20210730",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "자루가 튼튼하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "솔이 빡빡하니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "목욕탕 바닥을 청소할때 유용하네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "마룻바닥에 머리카락이 굴러다닐때 쓱쓱쓸어주기도 합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "513125",
+    "RawText": "손잡이가 있어 손에 힘도 덜 들어갑니다 구석구석 청소하기 편하네요 여러달 사용했는데 브러쉬 벌어짐도 없어서 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20210726",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손잡이가 있어 손에 힘도 덜 들어갑니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "구석구석 청소하기 편하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "여러달 사용했는데 브러쉬 벌어짐도 없어서 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "513131",
+    "RawText": "확실히 튼튼하고 좋습니다. 욕실 청소용으로 샀는데 잡는 게 좀 손이 불편해요. 디자인도 깔끔하고 좋네요. 가성비가 떨어지는 건 흠이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "4",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20210726",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "확실히 튼튼하고 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "잡는 게 좀 손이 불편해요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔하고 좋네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 떨어지는 건 흠이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "513136",
+    "RawText": "배송이 엄청 빠르고 배송상태도 좋습니다. 솔은 아주 튼튼하고 청소할때 바닥에 기스도 안 나네요. 오래 쓸 수 있을 것 같아서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "20",
+    "RDate": "20210725",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "솔은 아주 튼튼하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "청소할때 바닥에 기스도 안 나네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오래 쓸 수 있을 것 같아서 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "513138",
+    "RawText": "배송 빨라요 창문틀 청소하니 깨끗하게 먼지가 제거되네요 욕실 바닥 청소하니 일반솔보다 깨끗하게 되요 방충망 청소하니 먼지가 잘 털리구요 감사해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "19",
+    "RDate": "20210725",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "창문틀 청소하니 깨끗하게 먼지가 제거되네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "욕실 바닥 청소하니 일반솔보다 깨끗하게 되요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "방충망 청소하니 먼지가 잘 털리구요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "513143",
+    "RawText": "청소 핫템이라고 해서 구매했습니다 생각보다 가격은 비싸요. 내구성은 튼튼해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "9",
+    "RDate": "20210724",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "생각보다 가격은 비싸요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "내구성은 튼튼해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "513154",
+    "RawText": "ㅇㅇㅇ에서 추천하신거 보고 구매했는데 요리조리 쓰기 좋습니다. 화장실 청소가 쉬워져서 자주하고싶어집니다. 길이감도 그렇고  막 쓰기 딱 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "17",
+    "RDate": "20210720",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "요리조리 쓰기 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "화장실 청소가 쉬워져서 자주하고싶어집니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "길이감도 그렇고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "막 쓰기 딱 좋네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "513166",
+    "RawText": "상품 배송받아 사용해보니 생각보다 튼튼하고 좋습니다 적극 추천합니다. 청소하기 편해서 좋은데 가격이 좀 비싸요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20210718",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "생각보다 튼튼하고 좋습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "청소하기 편해서 좋은데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 비싸요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "513167",
+    "RawText": "ㅇㅇㅇ 보다가 ㅇㅇ이 좋다기에 주문했어요. 색상도 예쁘고 싸이즈도 딱좋은거 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "4",
+    "Syllable": "46",
+    "Word": "10",
+    "RDate": "20210718",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "싸이즈도 딱좋은거 같네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "513168",
+    "RawText": "아직 청소전입니다 ㅇㅇㅇ보다가 이솔이 튼튼하고 청소하기에도 편해보이고 이곳저곳 활용도가 많아 보여서 주문했네요 사이즈는 생각보단 작아요 그래도 청소할때에는 딱 좋은 사이즈 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "4",
+    "Syllable": "100",
+    "Word": "21",
+    "RDate": "20210718",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈는 생각보단 작아요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "청소할때에는 딱 좋은 사이즈 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "513172",
+    "RawText": "청소하기 너무 수월해요. 모양도 색상도 크기도 다 맘에 들구요. 더 구매해서 안방 욕실에도 둬야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20210716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "청소하기 너무 수월해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "모양도 색상도 크기도 다 맘에 들구요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 크기도 다 맘에 들구요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기도 다 맘에 들구요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "513178",
+    "RawText": "부드러워요 잘 닦이고 잘 쓸리네요. ㅇㅇㅇ도 구입해보고 싶습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "35",
+    "Word": "8",
+    "RDate": "20210716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "부드러워요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "잘 닦이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잘 쓸리네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "513179",
+    "RawText": "소문 듣고 장만했어요 원래는 화장실 청소 용도로 쓰려고 구입했는데 가구 먼지 털이로 써도 모길이가 기니까 잘 쓸립니다 소프트로 하나 더 구입하려구 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "22",
+    "RDate": "20210716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "모길이가 기니까",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "잘 쓸립니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "513180",
+    "RawText": "화장실 청소용으로 주문했습니다 부드럽고 사용하기 편리하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "32",
+    "Word": "6",
+    "RDate": "20210716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "부드럽고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 편리하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "513185",
+    "RawText": "욕실 청소때마다 손잡이 작은 솔이 불편해 구매했어요. 아직 사용전인데 솔은 큼직하니 좋네요. 사용하기에 편해보이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20210715",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "솔은 큼직하니 좋네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기에 편해보이네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "513186",
+    "RawText": "진짜 좋네요 청소도 잘 됩니다 강아지 미용시키고 털 쓸어봤는데 털도 잘 쓸리네요 머리카락 같은거 끼여도 잘빠져서 관리도 잘 될 것 같습니다 ㅇㅇㅇ에서 추천하는 거 보고 구매했는데 좋네요 디자인도 예쁩니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "113",
+    "Word": "29",
+    "RDate": "20210715",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "청소도 잘 됩니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "털도 잘 쓸리네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "머리카락 같은거 끼여도 잘빠져서 관리도 잘 될 것 같습니다 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인도 예쁩니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "513191",
+    "RawText": "비싸서 망설였는데 그동안 썼던 여러제품보다 활용도가 좋기는 합니다. 얇아서 구석구석 잘닦이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "11",
+    "RDate": "20210714",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸서 망설였는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그동안 썼던 여러제품보다 활용도가 좋기는 합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "얇아서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "구석구석 잘닦이네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "513196",
+    "RawText": "컴퓨터 청소할 때 쓸려고 샀는데 솔이 부드럽지 않아서 그냥 방바닥 쓸기에 딱인듯해요. 완전 빳빳해서 사용하기 힘들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20210713",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "솔이 부드럽지 않아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그냥 방바닥 쓸기에 딱인듯해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "완전 빳빳해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 힘들어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "513197",
+    "RawText": "솔이 탄탄해서 잘 안휘어지는 솔입니다. 방충망청소를 먼저 해봤는데 굉장히 잘 닦이네요. 여기저기 활용도가 높을것 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20210713",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "솔이 탄탄해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "잘 안휘어지는 솔입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "방충망청소를 먼저 해봤는데 굉장히 잘 닦이네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여기저기 활용도가 높을것 같습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "513202",
+    "RawText": "방이나 거실 청소에 유용할듯합니다 솔이 빳빳해요 초록색은 딸 줬는데 사용 안하는듯 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "3",
+    "Syllable": "49",
+    "Word": "12",
+    "RDate": "20210712",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "방이나 거실 청소에 유용할듯합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "솔이 빳빳해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "초록색은 딸 줬는데 사용 안하는듯 하네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "513205",
+    "RawText": "ㅇㅇ보고 샀는데 배송도 빠르네요 아주 굿입니다 초록색 굉장히 예쁘네요 솔은 좀 약한것 같아 보여요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 테이블솔 소프트",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "14",
+    "RDate": "20210711",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "초록색 굉장히 예쁘네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "솔은 좀 약한것 같아 보여요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  }
+]

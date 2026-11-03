@@ -1,0 +1,3230 @@
+[
+  {
+    "Index": "421939",
+    "RawText": "할인 받아 알뜰하게 구매했어요. 배송은 좀 늦었지만 급한 물건이 아니라 괜찮았습니다. 아직 사용 전인데 코팅력이 기대됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20220828",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인 받아 알뜰하게 구매했어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": " 아직 사용 전인데 코팅력이 기대됩니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "421941",
+    "RawText": "꼼꼼하게 잘 포장되어 안전하게 왔습니다. 쿠폰 써서  저렴하게 잘 샀어요. 구성도 너무 알차고 좋습니다. 감사드립니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20220828",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 써서  저렴하게 잘 샀어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 너무 알차고 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421948",
+    "RawText": "OOO 행사 덕분에 특특가로 구매 잘 했어요.  사용해 보니 제품 품질이 마음에 듭니다. 포장이 좀 아쉽기는 했지만 배송도 빨라 좋았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "20",
+    "RDate": "20220828",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "OOO 행사 덕분에 특특가로 구매 잘 했어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "사용해 보니 제품 품질이 마음에 듭니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421951",
+    "RawText": "빅 세일 기간이라 싸게 구매했고 가벼워서  좋습니다. 하지만 뽁뽁이라도 해주지 비닐로 대충 싸여서 3개 포개져 왔습니다. 포장이 별로네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "4",
+    "Syllable": "77",
+    "Word": "18",
+    "RDate": "20220828",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "빅 세일 기간이라 싸게 구매했고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서  좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421971",
+    "RawText": "프라이팬이 필요하던 차에 원하는 사이즈, 원하는 구성을 선택할 수 있어 좋았습니다. 코팅팬은 당연히 코팅력이 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20220827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 원하는 사이즈, 원하는 구성을 선택할 수 있어 좋았습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 원하는 구성을 선택할 수 있어 좋았습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅팬은 당연히 코팅력이 너무 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421973",
+    "RawText": "저렴한 가격으로 완전 득템했습니다. 아직 사용전이긴 하지만 그닥 무겁지도 않고 하자 부분도 없네요. 잘 산듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20220827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격으로 완전 득템했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "그닥 무겁지도 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "하자 부분도 없네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421975",
+    "RawText": "아직 사용전이지만 디자인도 깔끔하고 무게도 적당합니다. 많은 후라이팬을 사용해 보고 아주 고가나 저가의 제품도 사용해 봤는데 아주 저렴한 제품은 내구성이 약해서 못 쓰고 적당한 가격의 팬을 사서 사용하고 교체를 해야 한다는 결론을 내렸습니다. 열심히 관리하다 조금만 소홀하면 기름때도 끼고 그러니 사용하다 적당한 시점이 되면 바꾸는 게 낫습니다. 이 제품은 견고하니 한동안 잘 사용할 수 있겠습니다. 가격도 부담없고 디자인도 깔끔하니 괜찮습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "249",
+    "Word": "60",
+    "RDate": "20220827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 적당합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "이 제품은 견고하니 한동안 잘 사용할 수 있겠습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 부담없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔하니 괜찮습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421976",
+    "RawText": "후라이팬을 자주 바꿔 줘야하기에 이번에는 작은 사이즈로 주문했는데 사이즈가 딱 좋네요.  OOOO 품질도 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20220827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "작은 사이즈로 주문했는데  사이즈가 딱 좋네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "OOOO 품질도 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "421980",
+    "RawText": "빅세일 기간에 저렴하게 득템했네요. 후라이팬 코팅이 잘 되어 있어 좋습니다. 가격도 너무 좋고 손잡이 그립감도 나쁘지않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20220827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "빅세일 기간에 저렴하게 득템했네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "후라이팬 코팅이 잘 되어 있어 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 너무 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "손잡이 그립감도 나쁘지않아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "421996",
+    "RawText": "사실 발송 자체는 느렸습니다. 하지만 가격이 저렴해서 주문이 많으니 배송이 느렸을 거라 생각했네요. 내구성도 나쁘지 않아 보입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20220827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "내구성도 나쁘지 않아 보입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "422002",
+    "RawText": "사용전이지만 좋겠죠? 사이즈 다양해서 좋습니다. 무엇보다 가벼워서 손목에 무리는 안갈것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "11",
+    "RDate": "20220827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈 다양해서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무엇보다 가벼워서 손목에 무리는 안갈것 같습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422009",
+    "RawText": "마음에 드는 구성으로 골라도 단품 가격은 동일하니 만족스럽습니다. 받아보니 가벼워서 사용하기 편할듯합니다. 파티웍 좋아요. 잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "16",
+    "RDate": "20220827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "마음에 드는 구성으로 골라도",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "단품 가격은 동일하니 만족스럽습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 편할듯합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422014",
+    "RawText": "가성비는 좋아요. 후라이팬은 싼걸로 자주 갈아주는게 좋다고 하여 저렴한 제품으로 구매했어요. 동일 지름인데 타 제품에 비해 약간 가벼워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "18",
+    "RDate": "20220827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비는 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴한 제품으로 구매했어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "동일 지름인데 타 제품에 비해 약간 가벼워요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422030",
+    "RawText": "사이즈 크고 좋네요. OOO가 제일 사용하기 만만하고 막 쓰기 좋네요. 행사할때 저렴하게 미리 미리 구매해 놓고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20220827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈 크고 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "OOO가 제일 사용하기 만만하고 막 쓰기 좋네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "행사할때 저렴하게 미리 미리 구매해 놓고 있습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422034",
+    "RawText": "정말 비싸고 좋은 물건 당연히 많지만 넘 좋은건 나도 모르게 자꾸 아껴쓰게 되고 계속 예전에 쓰던것만 쓰게 되더라구요. 그래서 요즘은 가성비 좋은 제품을 자주 바꾸면서 쓰고 있습니다. 가성비도 좋고 팔목이 별로 안좋은 저에겐 가벼워서 딱 좋습니다.  판매자님, 좋은 물품 좋은 가격에 자주 올려주시길 부탁드려요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "4",
+    "Syllable": "174",
+    "Word": "44",
+    "RDate": "20220827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "팔목이 별로 안좋은 저에겐 가벼워서 딱 좋습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422039",
+    "RawText": "적당한 무게감이 좋습니다. 궁중 볶음팬은 깊이가 사용하던 거보다 낮습니다. 구성에 뚜껑이 없어서 너무 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "4",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20220827",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "적당한 무게감이 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "궁중 볶음팬은 깊이가 사용하던 거보다 낮습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성에 뚜껑이 없어서 너무 아쉽습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "422043",
+    "RawText": "제품 구성이 세가지 사이즈별 구매라 만족하고 받았어요. 자주 바꿔주는 게 나을 것 같아 저렴한 가격에 구매했습니다. 품질이 생각보다 나쁘지 않고 괜찮네요. 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "4",
+    "Syllable": "93",
+    "Word": "22",
+    "RDate": "20220827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "제품 구성이 세가지 사이즈별 구매라 만족하고 받았어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴한 가격에 구매했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 생각보다 나쁘지 않고 괜찮네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422049",
+    "RawText": "웍이 편해서 자주 사용하고 있어요. 기존 쓰던것보다 가볍고 가성비도 좋습니다. 두둑히 사두고 자주자주 교체해줘요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20220827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "웍이 편해서 자주 사용하고 있어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "기존 쓰던것보다 가볍고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비도 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422073",
+    "RawText": "가벼워서 막 사용하기 편하고 좋아서 계속 재주문해서 사용하고 있습니다. 다만 팬 안쪽 코팅은 좀 거친부분들이 있어서 금방 벗겨질 것 같긴 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "4",
+    "Syllable": "81",
+    "Word": "21",
+    "RDate": "20220826",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 막 사용하기 편하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "팬 안쪽 코팅은 좀 거친부분들이 있어서 금방 벗겨질 것 같긴 합니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "422075",
+    "RawText": "궁중팬은 자주 써서 2개와 후라이팬 1개를 구매했습니다. 저렴하게 구매해서 자주 바꾸니 좋습니다. 28사이즈가 기존 뚜껑에도 잘 맞아 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "18",
+    "RDate": "20220826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "28사이즈가 기존 뚜껑에도 잘 맞아 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422077",
+    "RawText": "눌러 붙지않고 코팅도 좋습니다. 싼 가격이니 조금만 긁혀도 부담없이 또 살 수 있겠습니다. 빠른 배송 감사합니다. 또 사러 올게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "19",
+    "RDate": "20220826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "눌러 붙지않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅도 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 싼 가격이니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422078",
+    "RawText": "배송이 엄청 느립니다. 쿠폰 사용해서 저렴한 가격에 구매해서 좋습니다. 후라이팬 바닥이 얇은것 같아서 요리할 때 센열이 가해지면 안 될 듯 합니다. 무게는 가벼워서 좋고 손잡이도 그립감이 괜찮습니다. 28cm인데 제법 커서 막 쓰기 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "4",
+    "Syllable": "135",
+    "Word": "33",
+    "RDate": "20220826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 사용해서 저렴한 가격에 구매해서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "후라이팬 바닥이 얇은것 같아서 요리할 때 센열이 가해지면 안 될 듯 합니다. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게는 가벼워서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "손잡이도 그립감이 괜찮습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "28cm인데 제법 커서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "막 쓰기 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422095",
+    "RawText": "이 가격에 3종이라니 잘 산거 같습니다. 표면은 내측은 매끈, 외측은 일부분 살짝 거칠기는 하네요. 그냥 후다닥 쓰고 코딩 벗겨지면 과감히 교체해서 사용하면 좋을듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "3",
+    "Syllable": "96",
+    "Word": "24",
+    "RDate": "20220826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "이 가격에 3종이라니 잘 산거 같습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/질감",
+        "SentimentText": "표면은 내측은 매끈, 외측은 일부분 살짝 거칠기는 하네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "422096",
+    "RawText": "20센티 프라이팬 궁중팬 구입하려 던 중 OOO데이 할인으로 저렴하게 구입했습니다. 편하게 쓸 용도라 가볍고 저렴한 것으로 사고싶었는데 딱이었습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "4",
+    "Syllable": "83",
+    "Word": "18",
+    "RDate": "20220826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "OOO데이 할인으로 저렴하게 구입했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하게 쓸 용도라 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 것으로 사고싶었는데 딱이었습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422106",
+    "RawText": "제품 구성이 너무 좋네요. 가격도 저렴하고요. 그런데 상품 배송이 많이 부족해요. 안전 포장지도 사용하지 않고 달랑 비닐에 싸서 보냈네요.  당연히 하나에는 스크래치가 생겼네요. 귀찮아서 그냥 쓰려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "4",
+    "Syllable": "116",
+    "Word": "27",
+    "RDate": "20220826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "제품 구성이 너무 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422113",
+    "RawText": "비싼거 오래 사용보다 저는 저렴하게 자주 바꾸는거 편이거든요. 저렴하게 구매했네요. 눌어 붙지 않아 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20220826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매했네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": " 눌어 붙지 않아 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422127",
+    "RawText": "디자인 깔끔하고 좋은데 웍은 깊이가 다른 제품보다 낮아서 아쉽습니다. 프라이팬은 다른 제품보다 높아서 사용하기 더 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "4",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20220826",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 깔끔하고 좋은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "웍은 깊이가 다른 제품보다 낮아서 아쉽습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "프라이팬은 다른 제품보다 높아서 사용하기 더 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422129",
+    "RawText": "OOO는 가격도 저렴해서 좋고 품질도 좋습니다. 꼼꼼하게 잘 포장되어 빠르게 배송해 주셔서 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20220826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "OOO는 가격도 저렴해서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422148",
+    "RawText": "가격 아주 저렴합니다. 28프라이팬 3개 구매해서 엄마, 시댁에 하나씩 드렸네요. 사용감이 편해서 만족하셨으면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "4",
+    "Syllable": "67",
+    "Word": "14",
+    "RDate": "20220825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 아주 저렴합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용감이 편해서 만족하셨으면 좋겠네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "422159",
+    "RawText": "구성에 30 후라이팬이 2개면 더 좋았을 거 같습니다. 저렴히 잘 구입했네요. 전에 사용하던 후라이팬보다 살짝 더 묵직해서 좋습니다. 써 봐야 알겠지만 휘지만 않으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "24",
+    "RDate": "20220825",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성에 30 후라이팬이 2개면 더 좋았을 거 같습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴히 잘 구입했네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "전에 사용하던 후라이팬보다 살짝 더 묵직해서 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "써 봐야 알겠지만 휘지만 않으면 좋겠습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "422162",
+    "RawText": "사각팬 보고 산건데 나머지 기본 2개는 멀쩡한데 사각팬은 사진처럼 표면이 매끄럽지 않네요. 싸니까 그냥 쓰려고요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "3",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20220825",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "재질/질감",
+        "SentimentText": "사각팬은 사진처럼 표면이 매끄럽지 않네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸니까 그냥 쓰려고요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422168",
+    "RawText": "성능 대만족하고 있습니다. 자주 쓰는 용품들이라 편하게 쓰기 너무 좋아요. 제품 구성이 대박 좋아요. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20220825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능 대만족하고 있습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하게 쓰기 너무 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "제품 구성이 대박 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422173",
+    "RawText": "쿠폰 할인으로 저렴하게 구매 했습니다. 품질은 그 가격대 그 값정도 하는 듯 합니다. 한두달 쓰면 이 제품은 눌러 붙어서 자주 교체 하는 편입니다.어차피 비싼 타 제품도 쓰는 기간이 좀 길어질 뿐이라 주로 OOO 후라이팬 사용하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "4",
+    "Syllable": "130",
+    "Word": "35",
+    "RDate": "20220825",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 할인으로 저렴하게 구매 했습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 그 가격대 그 값정도 하는 듯 합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "한두달 쓰면 이 제품은 눌러 붙어서 자주 교체 하는 편입니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "422177",
+    "RawText": "웍 크기도 원하는 사이즈라 좋습니다. 궁중팬이랑 후라이팬 가격도 저렴하고 가벼워서 마음에 듭니다. 감사히 잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20220825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "웍 크기도 원하는 사이즈라 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "궁중팬이랑 후라이팬 가격도 저렴하고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 마음에 듭니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422182",
+    "RawText": "싸게 잘 샀습니다. 구성이 좋아 이 구성으로 두번째 구입한건데 싸게 사서 자주 바꿔주면서 사용합니다. 배송도 빠릅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20220825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 잘 샀습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 좋아 이 구성으로 두번째 구입한건데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 사서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422184",
+    "RawText": "배송도 괜찮았고 궁중팬도 좋은 가격에 잘 샀습니다. 가벼워서 사용하기 수월합니다. 구성을 내맘 대로 골라서 할 수 있어서 더 좋습니다. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "21",
+    "RDate": "20220825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "궁중팬도 좋은 가격에 잘 샀습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 사용하기 수월합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성을 내맘 대로 골라서 할 수 있어서 더 좋습니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422191",
+    "RawText": "가격이 저렴해서 별기대 안하고 샀는데 반전입니다. 코팅도 잘 되어서 좋고 사이즈도 골라 담기해서 용도에 맞게 쓸 수 있어서 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "20",
+    "RDate": "20220825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅도 잘 되어서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 사이즈도 골라 담기해서 용도에 맞게 쓸 수 있어서 너무 좋습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422195",
+    "RawText": "궁중팬과 팬사이에 완충제라도 하나씩 깔아서 배송해 주셨으면 좋았을 텐데요. 품질이 약간 허접한 느낌이 나지만 저렴히 샀으니 그러려니 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "18",
+    "RDate": "20220825",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 약간 허접한 느낌이 나지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴히 샀으니 그러려니 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422201",
+    "RawText": "저렴하게 잘 구입했습니다. 가격이 저렴해서 그런지 많이 얇아서 금방 바꾸게 될 거 같습니다. 배송은 빠르고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "3",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20220825",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 구입했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서 그런지",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "많이 얇아서 금방 바꾸게 될 거 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "422202",
+    "RawText": "싼 가격에 잘 구매해서 좋습니다. 프라이팬은 자주 교체해야 하니 싼 걸로 마련했네요. 빠른 배송 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20220825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼 가격에 잘 구매해서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "프라이팬은 자주 교체해야 하니 싼 걸로 마련했네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422213",
+    "RawText": "궁중팬이랑 후라이팬 싼 거 사서 잘 쓰고 자주 바꾸 줍니다. 가볍고 좋습니다. 궁중팬 깨끗히 씻어서 닭넣고 김치 지져서 맛있게 먹었습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "20",
+    "RDate": "20220825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "닭넣고 김치 지져서 맛있게 먹었습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422217",
+    "RawText": "가볍고 사용이 편해서 좋습니다. 프라이팬은 자주 교체 하는 편이라서 세일할 때 구매하는데 이번에도 저렴하게 구입해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "4",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20220825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용이 편해서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이번에도 저렴하게 구입해서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422229",
+    "RawText": "OO 다른 제품 사용중인데 이번에 구매해 봤네요. OO는 가격도 싸고 품질도 무난해서 자주 구매합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20220824",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "OO는 가격도 싸고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 무난해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "422231",
+    "RawText": "저렴한 가격에 프라이팬이 3개라서 좋습니다. 손잡이가 엠보싱이라 그립감이 괜찮습니다. 바닥 두껍지 않아서 조리시간이 단축되니 좋습니다. 가성비 최고입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "17",
+    "RDate": "20220824",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "프라이팬이 3개라서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "손잡이가 엠보싱이라 그립감이 괜찮습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "바닥 두껍지 않아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "조리시간이 단축되니 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 최고입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422234",
+    "RawText": "비싼 제품 써 봤지만 얼마 못 가서 코팅 벗겨져서 싼 제품으로 구매해서 자주 바꾸고 있습니다. 아직 써보진 않았지만 팬이 더 두꺼워진거 같아서 좋습니다. 가격도 저렴합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "25",
+    "RDate": "20220824",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "팬이 더 두꺼워진거 같아서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422240",
+    "RawText": "식구 수 없어서 28센티 구매했는데 족히 30센티는 됩니다. 이럴 줄 알았음 26센티로 할 걸 후회 중이네요. 상세 설명에 내경이 28센티라는 걸 뒤늦게 봤습니다. 프라이팬은 두께도 있고 괜찮습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "111",
+    "Word": "27",
+    "RDate": "20220824",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "식구 수 없어서 28센티 구매했는데 족히 30센티는 됩니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "이럴 줄 알았음 26센티로 할 걸 후회 중이네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "프라이팬은 두께도 있고 괜찮습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422244",
+    "RawText": "전에도 똑같은 구성품으로 사서 쓰고 있는데 조리도구를 나무로 된 것만 썼는데도 코팅 많이 벗겨 졌습니다. 그래서 지금은 내열성 높은 실리콘 조리도구로 바꿨으니 좀 더 오래 쓸 것 같습니다. 이 제품 코팅이 오래가진 않지만 조금이라도 자주 바꾸시는 분들에겐 가격대비 완전 추천이예요. 추가 구성품으로 뚜껑도 판매 했으면 하는 바람이 듭니다.  이 제품은 다른 후라이팬 보다 많이 가벼운 것이 가장 큰 장점인거 같습니다.  전에 구매했을때 보다 가격은 조금 올라 좀 슬프네요. 앞으로 더 오를까봐 미리 구매 했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "4",
+    "Syllable": "287",
+    "Word": "74",
+    "RDate": "20220824",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "내열성 높은 실리콘 조리도구로 바꿨으니 좀 더 오래 쓸 것 같습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "이 제품 코팅이 오래가진 않지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 조금이라도 자주 바꾸시는 분들에겐 가격대비 완전 추천이예요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "추가 구성품으로 뚜껑도 판매 했으면 하는 바람이 듭니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "다른 후라이팬 보다 많이 가벼운 것이 가장 큰 장점인거 같습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "전에 구매했을때 보다 가격은 조금 올라 좀 슬프네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "422254",
+    "RawText": "좋아서 재구매했습니다. 어차피 후라이팬은 막쓰고 자주 바꾸는게 최선인데 제품 품질도 괜찮고 사이즈도 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20220824",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 품질도 괜찮고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422255",
+    "RawText": "품질이 딱 가격 만큼이네요. 잘 구입했는지는 모르겠습니다. 너무 가벼워서 별로네요. 품질이 한달 사용하면 버려야 할 듯 하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "3",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20220824",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 딱 가격 만큼이네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 너무 가벼워서 별로네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 한달 사용하면 버려야 할 듯 하네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "422262",
+    "RawText": "많이 가벼운 편이긴한데 코팅력은 좋습니다. 기존에 쓰고 있었는데 오래 쓰다보니 가운데가 볼록 나와서 균형이 안 잡혔어요. 자주 바꿔가며 쓰기 좋아서 재주문했습니다. 30센티라도 후라이팬은 넓고 궁중팬은 좀 낮아서 작아 보여요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "4",
+    "Syllable": "126",
+    "Word": "29",
+    "RDate": "20220824",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "많이 가벼운 편이긴한데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅력은 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "30센티라도 후라이팬은 넓고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "궁중팬은 좀 낮아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "작아 보여요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "422279",
+    "RawText": "저는 가스불을 사용하기에 비싼거 사봤자 오래 못 써요. 그래서 막 쓰기 좋은 OOOO 사서 쓰고 있습니다. 저렴한 가격이지만 프라이팬 품질은 좋네요. 받자마자 씻고 동영상 찍었는데 반짝반짝합니다.  26, 28 사이즈가 딱 좋아요. 저번에 30짜리 샀더니 집에 있는 프라이팬 뚜껑이 안 맞아서 난감했었어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "171",
+    "Word": "41",
+    "RDate": "20220823",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격이지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "프라이팬 품질은 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "26, 28 사이즈가 딱 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422282",
+    "RawText": "사이즈도 적당하고 좋습니다. 코팅팬은 이 제품처럼 저렴이들 사서 사용 후 자주 교환하는 게 좋은 듯합니다. 자주 사용중입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20220823",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 적당하고 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "코팅팬은 이 제품처럼 저렴이들 사서 사용 후 자주 교환하는 게 좋은 듯합니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "자주 사용중입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422290",
+    "RawText": "제품 구성이 다양해서 좋습니다. 닭볶음탕 할 때는 30짜리가 좋고 26은 1인 볶음밥에 딱 맞는 사이즈네요. 한세트 더 구매해야겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20220823",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "제품 구성이 다양해서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "닭볶음탕 할 때는 30짜리가 좋고 26은 1인 볶음밥에 딱 맞는 사이즈네요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422298",
+    "RawText": "OOO후라이팬은 코팅도 잘 돼 있고 손잡이도 사용하기 편리하고 좋습니다. 그런데 배송이 너무 늦네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20220822",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "OOO후라이팬은 코팅도 잘 돼 있고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손잡이도 사용하기 편리하고 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422299",
+    "RawText": "배송이 너무 늦어서 속이 상했어요. 조금만 빨리 해주시지. 프라이팬 궁중팬은 품질이 너무 좋네요. 또 저렴합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20220822",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "프라이팬 궁중팬은 품질이 너무 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "또 저렴합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422300",
+    "RawText": "코팅이 잘 돼 있어 좋고 가볍지도 무겁지도 않아서 좋습니다. 손잡이가 요리하기 편리해서 만족입니다. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20220822",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅이 잘 돼 있어 좋고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍지도 무겁지도 않아서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손잡이가 요리하기 편리해서 만족입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422307",
+    "RawText": "프라이팬 바꿔봤는데 좋습니다. 가격도 할인 받아 저렴하게 구입했네요. 내구성도 나쁘지 않아 보입니다. 재주문할 겁니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "14",
+    "RDate": "20220822",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 할인 받아 저렴하게 구입했네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 내구성도 나쁘지 않아 보입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "422316",
+    "RawText": "일단 가격이 부담스럽지 않아서 주문했습니다. 현재 쓰고 있는 궁중팬이 무거워서 가벼운 걸로 주문했는데 상품 받아보니 가벼워서 좋습니다. 잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "4",
+    "Syllable": "82",
+    "Word": "19",
+    "RDate": "20220821",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 부담스럽지 않아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "현재 쓰고 있는 궁중팬이 무거워서 가벼운 걸로 주문했는데 상품 받아보니 가벼워서 좋습니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422318",
+    "RawText": "큰 후라이팬이 필요했는데 싸게 잘 구매해서 좋습니다. 사이즈가 커서 좋고 가볍고 사용하기도 편해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "4",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20220821",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 잘 구매해서 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 커서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기도 편해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422324",
+    "RawText": "스크래치가 많이 나면 자주 바꿔줘야해서 저렴한 걸로 구매하고 있습니다. 두께가 좀 더 두꺼웠으면 하는 아쉬움이 있네요. 얇으면 고기 구울 때 겉만 쉽게 타서 좋지 않거든요. 암튼 새 거라 달라붙지 않고 좋은 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "122",
+    "Word": "33",
+    "RDate": "20220820",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께가 좀 더 두꺼웠으면 하는 아쉬움이 있네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "암튼 새 거라 달라붙지 않고 좋은 것 같아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422331",
+    "RawText": "가격이 비싸지 않아서 좋습니다. 제품 품질도 좋아 보이네요. 가성비 좋습니다. 사용한 후에 다시 후기 남기겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20220820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싸지 않아서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 품질도 좋아 보이네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422334",
+    "RawText": "OO 제품들이 가격도 착하고 제품 품질도 괜찮아서 자주 구매해서 써요.  잘 쓸게요. 또 주문할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20220820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격도 착하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 품질도 괜찮아서 자주 구매해서 써요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422336",
+    "RawText": "가격이 저렴하면서 품질도 괜찮습니다. 3종 세트 구성이라 좋습니다. 디자인도 이쁩니다. 빠른 배송 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "4",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20220820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하면서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 괜찮습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "3종 세트 구성이라 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 이쁩니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422359",
+    "RawText": "저렴하게 잘 샀습니다. 박스 터져서 비닐 안씌워진 손잡이 부분 노출되어 왔네요.  사이즈는 쓰기 무난한 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20220819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 샀습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈는 쓰기 무난한 것 같네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "422360",
+    "RawText": "배송이 너무 느립니다. 출고도 늦게 됐지만 택배사에서도 이틀이나 가지고 있다 보내줬습니다 .물량이 많았나봅니다. 항상 쓰던건데 전에 잘못 주문해서 28센티써보니 작아서 다시 30센티 쓰니 좋네요. 싸고 쓰기에도 좋습니다. 행사해서 저렴하게 잘 샀네요. 코팅도 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "150",
+    "Word": "33",
+    "RDate": "20220819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "28센티써보니 작아서 다시 30센티 쓰니 좋네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "쓰기에도 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "행사해서 저렴하게 잘 샀네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅도 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422361",
+    "RawText": "배송도 빠르고 프라이팬도 좋습니다. 무게감도 좀 있어 좋습니다. 가격이 저렴해서 잘 샀어요. 빠른 배송 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20220819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감도 좀 있어 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서 잘 샀어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422362",
+    "RawText": "가성비 좋고 크기가 소량을 요리 할 때 너무 좋습니다. OOOO 덕에 요리가 즐거워졌어요. 배송도 빨라 무지 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "4",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20220819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기가 소량을 요리 할 때 너무 좋습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "OOOO 덕에 요리가 즐거워졌어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422366",
+    "RawText": "연휴가 끼여 있긴 했지만 배송이 엄청 느립니다. 박스도 다 찌그러지고 엄청 던진 듯 하네요.뽁뽁이 포장 하나없이 비닐에만 담겨 배송 됐네요. 제품 품질은 딱 가격만큼 입니다. 손잡이 부분에 미끄럼방지 효과가 있어 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "2",
+    "Syllable": "124",
+    "Word": "31",
+    "RDate": "20220819",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 품질은 딱 가격만큼 입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "손잡이 부분에 미끄럼방지 효과가 있어 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422369",
+    "RawText": "정말 이 가격에 너무 잘 샀습니다. 가볍고 좋습니다. 코팅이 잘 되어 있어서 눌러 붙는 것도 없고 좋아요.감사드립니다. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "19",
+    "RDate": "20220819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "정말 이 가격에 너무 잘 샀습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅이 잘 되어 있어서 눌러 붙는 것도 없고 좋아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422370",
+    "RawText": "후라이팬 크기가 사용하기 편한 사이즈입니다. 이 제품처럼 저렴한 제품 구입해서 자주교체해서 사용합니다. 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "14",
+    "RDate": "20220819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "후라이팬 크기가 사용하기 편한 사이즈입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 제품처럼 저렴한 제품 구입해서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422376",
+    "RawText": "마침 프라이팬 바꿀 때가 되어서 찾아 보던 중에 착한 가격에 구매했습니다. 구성도 너무 좋고 올 명절에 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "18",
+    "RDate": "20220819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한 가격에 구매했습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 너무 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422377",
+    "RawText": "다가오는 명절에 음식하려고 착한 가격에 3개씩이나 미리 장만했습니다. 기존에 쓰던거 있지만 일단 1개 먼저 써 봤습니다. 아주 비싼 후라이팬이랑 비교가 안될만큼 고급지고 묵직하고 코팅이 잘되어있어 너무 만족해요. 색상도 블랙으로 오래써도 오염에 강할것 같습니다. 최근에 구입한거 중 최고에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "163",
+    "Word": "37",
+    "RDate": "20220819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "3개씩이나",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "아주 비싼 후라이팬이랑 비교가 안될만큼 고급지고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅이 잘되어있어 너무 만족해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 블랙으로 오래써도 오염에 강할것 같습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422387",
+    "RawText": "사용하고 있는 후라이팬을 교체할 때가 돼서 사려고 했는데 저렴한 가격으로 구매할 수 있어서 좋았습니다. 구성도 맘에 듭니다. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20220818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격으로 구매할 수 있어서 좋았습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 맘에 듭니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422388",
+    "RawText": "어차피 유명 고가 브랜드도 수명이 동일해서 전에 사용해 본 가성비 좋은 후라이팬을 재구매했어요. 재구매 이유는 대단히 좋다기보다는 자주 교체해도 부담 안가고 교체시기까지 쓰는 데 큰 문제점이 없어서입니다. 두께는 고가 그릴팬보다는 조금 얇은 편이고, 저가 그릴팬보다는 조금 두꺼운 편입니다. 손잡이 부분은 안정감 있어서 편합니다. 팬이 넓은 편은 아니니, 2인 가족 스테이크랑 야채 구우면 딱 맞는 사이즈입니다. 저희 집은 고기를 자주 구어먹어서 그릴팬을 특히 금방 교체하게 되다보니, 그릴팬으로만 주문했습니다. 배송은  찌그러짐없이 왔는데, 박스안 내부에 뽁뽁이 하나 없이, 겉 테이프 처리도 너무 성의없이 포장되어 배송되었어요. 안찌러지고 온 게 신기합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "3",
+    "Syllable": "370",
+    "Word": "86",
+    "RDate": "20220818",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은 후라이팬을 재구매했어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께는 고가 그릴팬보다는 조금 얇은 편이고, 저가 그릴팬보다는 조금 두꺼운 편입니다",
+        "SentimentWord": "11",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손잡이 부분은 안정감 있어서 편합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "팬이 넓은 편은 아니니",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "2인 가족 스테이크랑 야채 구우면 딱 맞는 사이즈입니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422390",
+    "RawText": "28 26 26 주문했는데 셋다 똑같이 26인 듯하네요 반품 귀찮아 그냥 써요. 자주 교체해야하는데 저렴한 가격에 잘 샀어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "4",
+    "Syllable": "70",
+    "Word": "18",
+    "RDate": "20220818",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "28 26 26 주문했는데 셋다 똑같이 26인 듯하네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 잘 샀어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422395",
+    "RawText": "편하게 쓰기 좋습니다. 많이 무겁지 않습니다. 받자마자 세척해두었습니다. 저렴해서 막 쓰고 자주 자주 바꿔주면 좋을 거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20220818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하게 쓰기 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "많이 무겁지 않습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422397",
+    "RawText": "제품이 좋습니다. 추천해요. 가격 저렴하게 잘 산 것 같고 사용하기 정말 편한 프라이팬이라서 추천해요. 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "4",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20220818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 저렴하게 잘 산 것 같고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 정말 편한 프라이팬이라서 추천해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422399",
+    "RawText": "좋은 가격에 득템 했습니다. 프라이팬들은 이 제품처럼 저렴한 거 사서 자주 바꿔주는 게 최고인 거 같습니다. 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20220818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 득템 했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "프라이팬들은 이 제품처럼 저렴한 거 사서 자주 바꿔주는 게 최고인 거 같습니다. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422401",
+    "RawText": "3가지 구성이 좋고 저렴한 가격으로 살 수 있어서 더 좋습니다. 오늘 도착했는데 깨끗하게 세척하고 사용해 봐야겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "4",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20220818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "3가지 구성이 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격으로 살 수 있어서 더 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422402",
+    "RawText": "주기적으로 후라이팬을 교체하는데 이 제품은 가격대비 만족합니다. 착한가격에 막쓰기 좋아서 또 재구매하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "12",
+    "RDate": "20220818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 제품은 가격대비 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한가격에 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "막쓰기 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422405",
+    "RawText": "이 가격에 세 개나 살 수 있다는 것이 너무 가성비가 좋네요.  후라이팬 코팅 때문에 자주 바꿔야 한다는 것을 알지만 잘 버려지지가 않습니다. 근데 이것 딜을 보고 바로 구매해서 빠르게 받았습니다.  위아래가 같은 블랙이라서 좋네요.  전에 쓰던 것보다 가벼워서 더 좋아요. 손잡이 그립감도 좋고  들어보니 미끄럽지 않게 엠보라 손에 감겨서 좋으네요. 간만에 가성비가 좋은 제품을 만났네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "218",
+    "Word": "55",
+    "RDate": "20220818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 가격에 세 개나 살 수 있다는 것이 너무 가성비가 좋네요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "  위아래가 같은 블랙이라서 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "전에 쓰던 것보다 가벼워서 더 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "손잡이 그립감도 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/질감",
+        "SentimentText": " 들어보니 미끄럽지 않게 엠보라 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가성비가 좋은 제품을 만났네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "손에 감겨서 좋으네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422410",
+    "RawText": "추석 앞두고 바꿨습니다. 가성비 좋습니다. 마음에 드는 제품 3개를 선택할 수 있는 구성이 너무 좋고 여기저기 막 쓰기 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "19",
+    "RDate": "20220818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "마음에 드는 제품 3개를 선택할 수 있는 구성이 너무 좋고",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여기저기 막 쓰기 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422412",
+    "RawText": "프라이팬은 자주 갈아줘야 하는 소모품입니다. 그래서 가격이 저렴하면서 코팅력이 좋은 블랙 프라이팬이 딱 막 쓰기 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20220817",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하면서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅력이 좋은 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "블랙 프라이팬이 딱 막 쓰기 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422413",
+    "RawText": "한번 써보고 좋아서 두번째 구입했습니다. 쓰기 가벼워서 좋고 가격도 착하고 좋아서 구입하게 되었습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "4",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20220817",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "쓰기 가벼워서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착하고 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422429",
+    "RawText": "코팅팬은 자주자주 바꿔주는게 좋다고 생각합니다. 그래서 굳이 비싼 거 필요 없다고 생각하는 사람입니다.  가격 대비 저렴해서 좋고 3개의 구성도 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "21",
+    "RDate": "20220816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 대비 저렴해서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "3개의 구성도 너무 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422430",
+    "RawText": "궁중팬이 다 기스가 나서 바꾸려고 구매한 상품이에요. 도착하여 확인해 보니 상품에 잔 기스 없이 단단해 보이고 여러모로 쓰임새가 많을 거 같아 기대됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "22",
+    "RDate": "20220816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "단단해 보이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여러모로 쓰임새가 많을 거 같아 기대됩니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "422436",
+    "RawText": "세일 하는 것보단 일단 싸게 사서 좋습니다. 새 거라 그런지 안 눌러 붙어서 좋습니다. 잘 사용하겠습니다. 많이 파세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "4",
+    "Syllable": "67",
+    "Word": "18",
+    "RDate": "20220815",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일 하는 것보단 일단 싸게 사서 좋습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "새 거라 그런지 안 눌러 붙어서 좋습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422438",
+    "RawText": "제품이 사이즈가 크고 튼튼합니다. 만족해요. 쟁여 놓고 쓰고 있습니다. 오래 쓰진 못하지만 싼 맛에 쓸만해요. 재 구매하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "4",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20220815",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "제품이 사이즈가 크고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼합니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오래 쓰진 못하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼 맛에 쓸만해요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422440",
+    "RawText": "저렴한 가격에 구매해서 좋네요. 예전 OO는 바닥이 평편하지 않아서 가스렌지에서 중심이 잘 안 맞던데 이번 제품은 어떤지 모르겠습니다. 무엇보다 불 쓰는 도구이니 안전하게 만들어졌으면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "108",
+    "Word": "25",
+    "RDate": "20220815",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 구매해서 좋네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "예전 OO는 바닥이 평편하지 않아서 가스렌지에서 중심이 잘 안 맞던데 이번 제품은 어떤지 모르겠습니다",
+        "SentimentWord": "14",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "무엇보다 불 쓰는 도구이니 안전하게 만들어졌으면 좋겠네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "422441",
+    "RawText": "필요한 사이즈로 선택할 수 있는 구성이라서 더 좋습니다. 프라이팬은 자주 바꿔 줘야 합니다. 가성비 정말 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20220815",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "필요한 사이즈로 선택할 수 있는 구성이라서 더 좋습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 정말 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422455",
+    "RawText": "오랜만에 프라이팬을구매했습니다. 일단 새 거라 너무 좋아요. 오자마자 깨끗하게 닦고 짜장 맛나게 만들어 먹었습니다. 가성비 정말 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "17",
+    "RDate": "20220813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "짜장 맛나게 만들어 먹었습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 정말 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422459",
+    "RawText": "배송 꼼꼼하고 안전하게 빠르게 왔습니다. 무게감도 좋아요. 단  가격이 너무 저렴해서 인지 코팅이 어떨지 좀 걱정 반 기대 반입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "4",
+    "Syllable": "74",
+    "Word": "19",
+    "RDate": "20220812",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감도 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "단  가격이 너무 저렴해서 인지",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅이 어떨지 좀 걱정 반 기대 반입니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "422461",
+    "RawText": "OOOO 블랙 프라이팬 너무 마음에 듭니다. 뒤쪽이 블랙이라 얼룩져도 상관없고 좋습니다. 무겁지는 않습니다. 잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20220812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "뒤쪽이 블랙이라 얼룩져도 상관없고 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁지는 않습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "422467",
+    "RawText": "제가 이 상품을 한달 전에 주문하여 지금 쓰고 있는데 처음에는 엄청 단단해 보이고 새 제품이라 그런지 무척 좋았네요. 그런데 프라이팬은 열에 강해야 하고 특히 다이아몬드 코팅이라고 프라이팬 바닥에 글자가 새겨져 있어서 절대 칠이 벗겨 지지 않을 줄 알았는데 별로 쓰지도 않았는데 안쪽 동그란면 일부가 열에 의해 벗겨졌습니다. 이렇게 벗겨지면 음식하는 도중에 칠이 떨어져 나가 음식과 섞여서 우리 가족 입으로 들어 갈텐데 너무 무섭네요. 세 개 중에 한개가 품질이 그러니 다른 제품을 쓰기가 찝찝해서 다른 제품을 구매해야겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "1",
+    "Syllable": "295",
+    "Word": "76",
+    "RDate": "20220812",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "처음에는 엄청 단단해 보이고 새 제품이라 그런지 무척 좋았네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "별로 쓰지도 않았는데 안쪽 동그란면 일부가 열에 의해 벗겨졌습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "이렇게 벗겨지면 음식하는 도중에 칠이 떨어져 나가 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "세 개 중에 한개가 품질이 그러니 다른 제품을 쓰기가 찝찝해서",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "422477",
+    "RawText": "OOO 3종 세트를 저렴한 가격에 샀습니다. 가격, 품질 만족입니다. 적당한 무게감이 있어 좋습니다.  블랙이라 때 타지않고 잘 사용할 거 같습니다. 빠른 배송 감사드립니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "4",
+    "Syllable": "97",
+    "Word": "23",
+    "RDate": "20220811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "OOO 3종 세트를",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 샀습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격, 품질 만족입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 만족입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "적당한 무게감이 있어 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "블랙이라 때 타지않고 잘 사용할 거 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422480",
+    "RawText": "약간 꼼꼼하게 이런 제품 보는편이라 물건은 좀 실망스러웠어요. 교환하고 싶었는데 전에 주문했던걸 교환 여러번 하다보니 피곤해져서 스크레치는 없으니까 괜찮겠지하고 썼어요. 그런데 울퉁불퉁한 표면이 먼저 닳아서 코팅벗겨지고, 긁히네요. 내구성도 그리 좋지는 않은 느낌입니다. 또 주문해야되는데, 걱정입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "3",
+    "Syllable": "169",
+    "Word": "35",
+    "RDate": "20220811",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "울퉁불퉁한 표면이 먼저 닳아서 코팅벗겨지고, 긁히네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "내구성도 그리 좋지는 않은 느낌입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "422481",
+    "RawText": "무게가 적당하고 가격도 합리적이라 사용하기 편하네요. 전에 쓰던 OOO 몇번 쓰지도 않았는데 붙어서 사용 못합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20220811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게가 적당하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 합리적이라 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 편하네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422499",
+    "RawText": "묵직해서 좋습니다. 새거라 코팅은 좋은데 열전도가 빠른지 재료가 빠르게 타네요. 온도를 낮춰서 조리하고 있어요. 올블랙이라 맘에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "4",
+    "Syllable": "76",
+    "Word": "17",
+    "RDate": "20220811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직해서 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅은 좋은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "열전도가 빠른지 재료가 빠르게 타네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "올블랙이라 맘에 들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "422502",
+    "RawText": "깔끔하게 잘 왔네요. 상품 또한 맘에 들고 가격까지 저렴합니다. 한 동안 잘 쓰겠어요. 코팅 좀 덜 벗겨지면 하는 바람입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "19",
+    "RDate": "20220811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격까지 저렴합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "한 동안 잘 쓰겠어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅 좀 덜 벗겨지면 하는 바람입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "422503",
+    "RawText": "금액 대비 팬이 괜찮습니다. 사용해보니 코팅이 좋아서 눌러 붙지 않고 좋습니다. 배송도 빠르고 포장도 꼼꼼해서 완전 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 심** 블랙 프라이팬 3종세트 (구성선택)",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20220810",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "금액 대비 팬이 괜찮습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅이 좋아서 눌러 붙지 않고 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

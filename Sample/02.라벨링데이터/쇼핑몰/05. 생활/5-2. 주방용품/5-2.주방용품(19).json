@@ -1,0 +1,3314 @@
+[
+  {
+    "Index": "423527",
+    "RawText": "가성비가 좋습니다.  OO 제품으로 전에도 세트상품 사용했는데 늘 오래 사용했고 이 상품도 눌러 붙지 않아서 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20210512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좋습니다.  ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "눌러 붙지 않아서 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423538",
+    "RawText": "제품 구성이 좋습니다. 웍 손잡이가 보관할 때 좀 신경 쓰이지만 그래도 코팅이 좋아서 자주 막 쓰고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "17",
+    "RDate": "20210516",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "제품 구성이 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅이 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 자주 막 쓰고 있어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423549",
+    "RawText": "OO 잘 쓰고 있고 아직 미개봉 제품도 있긴한데 구성이 좋아 또 샀습니다. 마침 필요했던 거였는데 딱맞춰 구성이 되서 딜로 정말 저렴하게 샀어요. 하나 아쉬운건 이번건 메이드인 차이나더군요. OO꺼 차이나는 첨 사보는데 세척시 보니깐 한부분 살짝 코팅이 매끄럽지 못한 부분이 있긴 하더군요. 크게 신경쓸 부분은 아니어서 가성비 만족입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "189",
+    "Word": "47",
+    "RDate": "20211105",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "딜로 정말 저렴하게 샀어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "세척시 보니깐 한부분 살짝 코팅이 매끄럽지 못한 부분이 있긴 하더군요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 만족입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 좋아 또 샀습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423579",
+    "RawText": "품질이 좋은 것 같습니다.  작은 프라이팬은 겨우 달걀프라이 한 개 할 수 있는 사이즈입니다. 나머지는 사이즈가 괜찮은 듯요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "18",
+    "RDate": "20211225",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋은 것 같습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "작은 프라이팬은 겨우 달걀프라이 한 개 할 수 있는 사이즈입니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "나머지는 사이즈가 괜찮은 듯요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423592",
+    "RawText": "OO이라 믿고 주문했습니다. 개인적으로 웍 팬에 긴 손잡이 였으면 하는 아쉬움이 있네요. 구성은 나쁘지 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20211230",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "웍 팬에 긴 손잡이 였으면 하는 아쉬움이 있네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성은 나쁘지 않네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "423623",
+    "RawText": "프라이팬 바꿀 때가 되서 보다가 할인 많이 하길래 구매했습니다. 저희는 인덕션이 아니어서 이 제품 샀습니다. 제품 구성이 크기별로 있어서 좋아요. 사은품으로 주신 우드스틱도 잘 쓸게요. 집에 있는 OO 프라이팬은 무거운데 이건 가벼워서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "137",
+    "Word": "33",
+    "RDate": "20220525",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인 많이 하길래 구매했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "제품 구성이  크기별로 있어서 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 사은품으로 주신 우드스틱도 잘 쓸게요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "이건 가벼워서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423624",
+    "RawText": "기존 OO 후라이팬(무쇠처럼 무겁고 두꺼움) 모두 버리고 새로 장만했어요. 기존 거보다 훨씬 가벼운데 아직 어떤 게 좋은지 판단이 안되지만 쓰기 편했으면 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "22",
+    "RDate": "20220525",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "기존 거보다 훨씬 가벼운데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "쓰기 편했으면 합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "423628",
+    "RawText": "구성이 아주 마음에 드네요. 프라이용 미니팬과 볶음요리에 좋은 양수 깊은 팬 그리고 넓은 프라이팬 유리 뚜껑까지 딱 좋은 3종세트인 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "21",
+    "RDate": "20220525",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 아주 마음에 드네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "프라이용 미니팬과 볶음요리에 좋은 양수 깊은 팬 그리고 넓은 프라이팬 유리 뚜껑까지 딱 좋은 3종세트인 것 같아요.",
+        "SentimentWord": "17",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423632",
+    "RawText": "세일가에 너무 잘 샀습니다. 코팅력도 나쁘지 않아요. 기존에 사용하던 OO 제품 버리고 새로 산건데 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20220525",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일가에 너무 잘 샀습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅력도 나쁘지 않아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "423642",
+    "RawText": "쿠폰 이용해서 저렴하게 구입해서 좋습니다. 후라이팬 하나가 조금 작아 아쉽네요. 다른 건 사이즈 무난해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20220527",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 이용해서 저렴하게 구입해서 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "후라이팬 하나가 조금 작아 아쉽네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "다른 건 사이즈 무난해서 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423646",
+    "RawText": "선물주려고 한 세트를 더 샀습니다. 사용해 보니 사용감이 좋습니다. 열전도도 좋은 편인 듯 합니다. 배송도 빨라 좋았어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20220527",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용해 보니 사용감이 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "열전도도 좋은 편인 듯 합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423652",
+    "RawText": "4종 세트라서 맘에 들고 저렴하게 구매했습니다. 작아 보여서 재어보니 28센티미터가 맞았어요. 사이즈 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "4",
+    "Syllable": "62",
+    "Word": "13",
+    "RDate": "20220528",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "4종 세트라서 맘에 들고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴하게 구매했습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "작아 보여서 재어보니 28센티미터가 맞았어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423667",
+    "RawText": "후라이팬 세일해서 싸게 팔기에 미리 구매해 두었어요. OO은 품질이 좋아서 지금도 잘 쓰고 있어요. 그래서 이렇게 세일하면 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20220531",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일해서 싸게 팔기에 미리 구매해 두었어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "OO은 품질이 좋아서 지금도 잘 쓰고 있어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423669",
+    "RawText": "빅세일로 OO을 져렴한 가격대에 구매해서 너무 좋습니다. 4종 세트라서 더욱 맘에 듭니다. 많이 파세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20220531",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "빅세일로 OO을 져렴한 가격대에 구매해서 너무 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "4종 세트라서 더욱 맘에 듭니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423679",
+    "RawText": "할인 이벤트 할 때 4만원대로 구매했으니 가격이 저렴해서 최고입니다. 감사합니다. 묵직하니 맘에 들었습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20220603",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인 이벤트 할 때 4만원대로 구매했으니 가격이 저렴해서 최고입니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직하니 맘에 들었습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423685",
+    "RawText": "쿠폰으로 싸게 잘 샀네요. 그런데 후라이팬이 작아서 계란 후라이 정도만 될 사이즈라서 아쉽네요. 작은 후라이팬이 얼마나 작은지 보여 드리려고 후라이팬에 젓가락을 올린 사진 찍어보았어요. 올OO 제품 품질은 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "121",
+    "Word": "28",
+    "RDate": "20220608",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰으로 싸게 잘 샀네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "후라이팬이 작아서 계란 후라이 정도만 될 사이즈라서 아쉽네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 작은 후라이팬이 얼마나 작은지 보여 드리려고 후라이팬에 젓가락을 올린 사진 찍어보았어요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 올 OO 제품 품질은 만족합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423689",
+    "RawText": "저렴하게 구입 했습니다. 근데 별루입니다. 내구성이 약해서 1년도 못 사용할 것 같습니다. 일단 코팅이 별로네요. 품질이 가격 만큼인 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "20",
+    "RDate": "20220610",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입 했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "내구성이 약해서 1년도 못 사용할 것 같습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "일단 코팅이 별로네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 가격 만큼인 것 같습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "423692",
+    "RawText": "OO 치고는 좀 떨어지는 듯한 느낌이지만 가성비는 좋은 듯하네요. 사은품은 그저 그렇습니다. 배송은 빠른 편입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "4",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20220613",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비는 좋은 듯하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품은 그저 그렇습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "423693",
+    "RawText": "계란 후라이용팬은 작아서 넘어지면 어쩌나했는데 묵직해서 넘어지지 않네요. 계란후라이도 잘 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "11",
+    "RDate": "20220613",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직해서 넘어지지 않네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "계란후라이도 잘 됩니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423704",
+    "RawText": "OOO에 2종 보다 나은거 같아 구매했는데 사이즈가 작네요. 길이도 안보고 덜컥 사버린 제 탓이니까 어쩔 수 없지만 저렴하게 구매했으니 그냥 써 보려구요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "22",
+    "RDate": "20210514",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 작네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매했으니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423705",
+    "RawText": "재포장 된 것이 와서 반품됐던건가 했더니 역시나 궁중팬 테두리가 찍혀있고 바닥은 스크레치가 있습니다. 코팅면은 괜찮아보이고 교환하기 번거로워 그냥 쓸려구요. 작은 것은 너무 작아 계란후라이 하나 겨우 하겠네요. 큰 것은 사이즈 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "3",
+    "Syllable": "131",
+    "Word": "31",
+    "RDate": "20210514",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "작은 것은 너무 작아 계란후라이 하나 겨우 하겠네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "큰 것은 사이즈 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅면은 괜찮아보이고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423710",
+    "RawText": "구성도 좋고 품질도 좋은 제품이라 마음에 듭니다. 잘 쓰겠습니다. 그런데 사은품이 뒤집개 한개만 와서 조금 실망했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "4",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20210514",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋은 제품이라 마음에 듭니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품이 뒤집개 한개만 와서 조금 실망했어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "423714",
+    "RawText": "이미지때문에 사은품4종으로 잘못보고 구매했더니 1종이 왔네요. 작은팬 예상은 했지만 계란후라이 한두개 정도 겨우 부칠 사이즈네요. 뚜껑은 필요없는데 짐만 되네요. 들어보니 완전 가벼워서 별로. 두께도 너무 얇네요. 재포장 의심스러운 박스에 반품 여러모로 귀찮아서 그냥 씁니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "3",
+    "Syllable": "154",
+    "Word": "34",
+    "RDate": "20210515",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "작은팬 예상은 했지만 계란후라이 한두개 정도 겨우 부칠 사이즈네요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "뚜껑은 필요없는데 짐만 되네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "들어보니 완전 가벼워서 별로. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께도 너무 얇네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "423718",
+    "RawText": "안쪽은 괜찮은데 테두리쪽에 연마제가 많이 묻어나오네요. 코팅도 좋고 다 좋은데 무게가 좀 무거워서 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20210515",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "테두리쪽에 연마제가 많이 묻어나오네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게가 좀 무거워서 아쉽네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "423722",
+    "RawText": "쿠폰으로 할인이 많이 되는것 같아서 구매했어요. OO 좋아해서 기회를 놓칠수없단 생각이 들어서요. 받아보니 엄청 좋은 물품은 아니었고 가격값정도 하는 품질입니다. 내구성이 다른 OO 종류에 비해 오래 가진 않을듯하나 가볍고 두껍지 않아 매일매일 쓰기엔 편합니다. 생산지도 중국산 일거같아 보니 정말 그렇더라구요. 그래도 믿고 쓰는 OO이니 데일리로 잘 써야겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "4",
+    "Syllable": "204",
+    "Word": "47",
+    "RDate": "20210515",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰으로 할인이 많이 되는것 같아서 구매했어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "받아보니 엄청 좋은 물품은 아니었고 가격값정도 하는 품질입니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "내구성이 다른 OO 종류에 비해 오래 가진 않을듯하나",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두껍지 않아",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "매일매일 쓰기엔 편합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그래도 믿고 쓰는 OO이니 데일리로 잘 써야겠습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423723",
+    "RawText": "받자마자 까만 얼룩이 있어 새 제품이 아닌듯하여 기분 상했습니다. 어떻게 이렇게 하자있는 제품을 보낼수 있습니까?  후라이팬 2개도 약간씩 스크래치가 있던데 그정도는 그냥 참고 쓰겠습니다.  그런데 이 까만 얼룩은 심하지 않습니까? 정말 새제품인지 아니면 반품 들어온 거 보낸 건지 의심이 됩니다. 반품할까 교환할까도 생각했지만 귀찮아서 그냥 사용합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "3",
+    "Syllable": "198",
+    "Word": "46",
+    "RDate": "20210515",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "받자마자 까만 얼룩이 있어 새 제품이 아닌듯하여 기분 상했습니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "어떻게 이렇게 하자있는 제품을 보낼수 있습니까?",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이 까만 얼룩은 심하지 않습니까? ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "정말 새제품인지 아니면 반품 들어온 거 보낸 건지 의심이 됩니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "후라이팬 2개도 약간씩 스크래치가 있던데 그정도는 그냥 참고 쓰겠습니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "423728",
+    "RawText": "배송 빠르고 저렴하게 구매했어요. 그런데 후라이팬이 좀 두께가 얇고 작네요. 구입하시는 분들 참고하시면 좋을듯해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20210515",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매했어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "후라이팬이 좀 두께가 얇고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "작네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "423731",
+    "RawText": "배송 잘 받았어요. 쿠폰 쓰고 저렴하게 잘 사서 좋아요. 사은품으로 온 뒤집개도 예쁘네요. 제품은 말할것도 없이 좋구요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20210516",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 쓰고 저렴하게 잘 사서 좋아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "사은품으로 온 뒤집개도 예쁘네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423738",
+    "RawText": "박스 개봉된 건 아마 사은품 넣기 위해 뜯었는 거 같고 사이즈가 좀 작아 보이지만 나름 OO이라 사용해야겠어요. 제품은 중국산이네요. 안 벗겨지고 오래버텨주길 바랍니다. 쿠폰 써서 저렴하게 샀어요. 같이 주신 뒤집게도  좋아보이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "130",
+    "Word": "31",
+    "RDate": "20210516",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 사이즈가 좀 작아 보이지만 나름 OO이라 사용해야겠어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": " 안 벗겨지고 오래버텨주길 바랍니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 써서 저렴하게 샀어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "같이 주신 뒤집게도  좋아보이네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423739",
+    "RawText": "작은 후라이팬, 큰 후라이팬, 냄비 사이즈 원하던건데 완벽하네요. OO 진짜 잘 산거 같네요. 코팅 벗겨짐 없이 오래 쓰고 싶어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "19",
+    "RDate": "20210516",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "작은 후라이팬, 큰 후라이팬, 냄비 사이즈 원하던건데 완벽하네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅 벗겨짐 없이 오래 쓰고 싶어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "423749",
+    "RawText": "OO후라이팬만 사용하는데 이번 팬은 코팅이 별로인거 같은게 그동안 쓰던거와는 다른거 같네요. 품질이 정품이 맞는지 의심스러워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "15",
+    "RDate": "20210517",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "이번 팬은 코팅이 별로인거 같은게",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 정품이 맞는지 의심스러워요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "423751",
+    "RawText": "OOO 브라운 4종세트와 사은품으로 부침개 뒤집개가 왔네요. 가볍고 좋습니다. 잘 사용해보겠습니다. 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "4",
+    "Syllable": "62",
+    "Word": "12",
+    "RDate": "20210517",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "OOO 브라운 4종세트와 사은품으로 부침개 뒤집개가 왔네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423756",
+    "RawText": "OO 퍼펙트 브라운 4종 세트 구성이 마음에 들어요. 배송도 빨라서 좋았구요. 가격도 저렴하고 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "4",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20210518",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "OO 퍼펙트 브라운 4종 세트 구성이 마음에 들어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고 너무 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423758",
+    "RawText": "사고 싶어서 할인행사 기다렸다가 저렴하게 구입한 보람 있습니다. 사은품까지 보내주셔서 감사합니다. 잘 사용할께요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "13",
+    "RDate": "20210518",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인행사 기다렸다가 저렴하게 구입한 보람 있습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품까지 보내주셔서 감사합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423775",
+    "RawText": "쿠폰써서 저렴하게 잘 샀어요. 후라이팬 크기도 제가 자주 쓰는 사이즈라 좋아요. 웍은 손잡이가 양쪽이라 편하고 볶음이나 국물요리에도 활용할수 있겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "19",
+    "RDate": "20210520",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰써서 저렴하게 잘 샀어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "후라이팬 크기도 제가 자주 쓰는 사이즈라 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "웍은 손잡이가 양쪽이라 편하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "볶음이나 국물요리에도 활용할수 있겠네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423776",
+    "RawText": "가격은 착하지만 후라이팬 20cm 너무 작습니다. 양수웍도 생각보다 작아서 많이 아쉽습니다. 큰 사이즈가 필요해서 산건데 다른걸 추가로 사야할지 고민입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "4",
+    "Syllable": "87",
+    "Word": "19",
+    "RDate": "20210520",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 착하지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "후라이팬 20cm 너무 작습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "양수웍도 생각보다 작아서 많이 아쉽습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "큰 사이즈가 필요해서 산건데 다른걸 추가로 사야할지 고민입니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "423777",
+    "RawText": "가성비가 아주 뛰어나네요. 생각보다 가볍고 코팅도 잘 되어 있어 좋습니다. 평소에 자주 사용하고 있어요. 강력 추천해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20210521",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 아주 뛰어나네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각보다 가볍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅도 잘 되어 있어 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "평소에 자주 사용하고 있어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423778",
+    "RawText": "기스도 있고, 팬 바닥에 미세한 벗겨짐이 있었으나 교환 반품 번거로워서 그냥 사용하려해요.  구성은 마음에 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "3",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20210521",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "팬 바닥에 미세한 벗겨짐이 있었으나",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 구성은 마음에 드네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423785",
+    "RawText": "가장 많이 사용하는 후라이팬 사이즈와 궁중팬이라 실용적으로 잘 사용하고 있습니다.  양쪽 손잡이가 있어서 찜요리할 때 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "17",
+    "RDate": "20210521",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "가장 많이 사용하는 후라이팬 사이즈와 궁중팬이라",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 실용적으로 잘 사용하고 있습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "양쪽 손잡이가 있어서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "찜요리할 때 너무 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423788",
+    "RawText": "뒤집개까지 포함해서 저렴하게 잘 구입했습니다. 구성은 만족하고 아직 꺼내진 않았어요. 쓰던거 버릴때 꺼내 쓸 예정입니다. 구성대비 가격좋아서 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "18",
+    "RDate": "20210522",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "뒤집개까지 포함해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 구입했습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성은 만족하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "구성대비 가격좋아서 만족해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423793",
+    "RawText": "휴일이 껴서 배송은 느렸지만 가성비 좋게 싸게 잘 샀어요. 맛있는 음식 많이 요리해서 먹을수 있겠네요. 감사드려요. 수고하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "4",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20210522",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋게 싸게 잘 샀어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "맛있는 음식 많이 요리해서 먹을수 있겠네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423806",
+    "RawText": "유명한 브랜드라 그런지 역시 좋습니다. 무게도 가벼워서 좋고 설거지도 쉽네요. 뜨거운 것 옮길때도 손잡이가 뜨겁지 않아 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20210524",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 가벼워서 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "설거지도 쉽네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "뜨거운 것 옮길때도 손잡이가 뜨겁지 않아 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423821",
+    "RawText": "행사가격이라 싸게는 구입했어요. 문의글을 보니 18일 주문이라 저도 사은품은 없었네요. 근데 유리뚜껑 안쪽 테두리 스텐 2군데가 휘어져 있었어요. 이건 배송의 문제가 아니라 불량제품입니다. 문의글 보니 교환하려면 전체를 다 반납해야하니 경비실에 맡기고 하는 번거로움으로 고민하다 그냥 사용하기로 했어요. 뚜껑이 안닫히는건 아니니 그냥 사용하려고요. 이래서 저렴히 파는가 봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "1",
+    "Syllable": "211",
+    "Word": "46",
+    "RDate": "20210528",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "행사가격이라 싸게는 구입했어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "저도 사은품은 없었네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "유리뚜껑 안쪽 테두리 스텐 2군데가 휘어져 있었어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이건 배송의 문제가 아니라 불량제품입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "뚜껑이 안닫히는건 아니니 그냥 사용하려고요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이래서 저렴히 파는가 봅니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423826",
+    "RawText": "사은품 4종을 준다고해서 샀는데 안주시네요. 후라이팬은 생각보다 너무 작아서 아쉽네요. 활용도가 떨어지네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "1",
+    "Syllable": "60",
+    "Word": "12",
+    "RDate": "20210529",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품 4종을 준다고해서 샀는데 안주시네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "후라이팬은 생각보다 너무 작아서 아쉽네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "활용도가 떨어지네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "423830",
+    "RawText": "가볍고 코팅력 나쁘지않고 구성까지 든든하네요. 쿠폰 이용해서 저렵하게 구매했습니다. 사이즈도 적당하고 디자인도 예뻐요. 모처럼 좋은 주방용품 득템하고 편리하게 잘 쓰고 있습니다. 좋은 상품 감사드려요. 망설이지말고 구매하시길 추천합니다. 펜이 크고 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "143",
+    "Word": "30",
+    "RDate": "20210530",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅력 나쁘지않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성까지 든든하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 이용해서 저렵하게 구매했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편리하게 잘 쓰고 있습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "펜이 크고 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423831",
+    "RawText": "사이즈가 생각보다 크진 않아서 아쉽네요. 먹는 양이 많은 저희집에는 팬이 좀 작은 느낌이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "4",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20210531",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 생각보다 크진 않아서 아쉽네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "팬이 좀 작은 느낌이에요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "423847",
+    "RawText": "코팅팬에 기름을 뿌리고 구웠는데 달라 붙는 건 처음입니다. 내 것만 달라붙는 하자인 걸까요? 싸게 샀다고 좋아했습니다.  하지만 프라이도 달라붙고 해서 한 달이나 쓸까 싶습니다. 그냥 그 돈 주고 품질이 제대로 된 상품을 살 걸 하는 생각이 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "1",
+    "Syllable": "139",
+    "Word": "37",
+    "RDate": "20210605",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅팬에 기름을 뿌리고 구웠는데 달라 붙는 건 처음입니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "내 것만 달라붙는 하자인 걸까요?",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 샀다고 좋아했습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "프라이도 달라붙고 해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "한 달이나 쓸까 싶습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "그냥 그 돈 주고 품질이 제대로 된 상품을 살 걸 하는 생각이 듭니다.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "423851",
+    "RawText": "행사기간에 맞추어서 저렴하게 구매하게 되었어요. 추가로 볶음 주걱도 받아서 너무 좋아요. OOOOO에 저렴하게 구매한게 더 만족스럽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "4",
+    "Syllable": "76",
+    "Word": "16",
+    "RDate": "20210607",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "행사기간에 맞추어서 저렴하게 구매하게 되었어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "추가로 볶음 주걱도 받아서 너무 좋아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "OOOOO에 저렴하게 구매한게 더 만족스럽네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423854",
+    "RawText": "지인 줄 선물로 구매했습니다. 그런데 후라이팬 하나가 너무 작아서 아쉽네요. 구성이 큰 후라이팬 두개면 더 좋았을것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "4",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20210609",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "후라이팬 하나가 너무 작아서 아쉽네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 큰 후라이팬 두개면 더 좋았을것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "423863",
+    "RawText": "받자마자 씻어서 사용하고 있는데 사용감이 너무 좋습니다. 부침개를 해도 들러 붙지 않고 아주 좋은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "4",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20210611",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용감이 너무 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "부침개를 해도 들러 붙지 않고 아주 좋은 것 같습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423869",
+    "RawText": "4종이지만 실제 후라이팬은 세개인 구성입니다. 구성이 나쁘지 않은거 같아요. 브랜드 믿고 구매했는데 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "4",
+    "Syllable": "66",
+    "Word": "14",
+    "RDate": "20210618",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "4종이지만 실제 후라이팬은 세개인 구성입니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 나쁘지 않은거 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "423874",
+    "RawText": "저렴하게 잘 사긴했어요. 그런데 마감이 좋지 않아 보입니다. 손 다칠거 같은 마감처리네요. 상품평은 더 써보고 수정할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20210623",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 사긴했어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감이 좋지 않아 보입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "손 다칠거 같은 마감처리네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "423885",
+    "RawText": "비싼 만큼 뭔가 아껴 써야겠다는 생각이 드네요.  조리온도를 색깔로 알 수 있어서 너무 좋으네요. 배송도 빨라 좋았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20210709",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싼 만큼 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "조리온도를 색깔로 알 수 있어서 너무 좋으네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423886",
+    "RawText": "행사일 때 싸게 잘 산 것 같아 좋으네요.  배송도 빨리 왔고 기스 하나 없이 잘 와서 더 좋았습니다. 성능은 사용전이라 잘 모르겠지만 평이 좋아 기대가 됩니다.  잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "28",
+    "RDate": "20210710",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "행사일 때 싸게 잘 산 것 같아 좋으네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능은 사용전이라 잘 모르겠지만 평이 좋아 기대가 됩니다.  ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "423889",
+    "RawText": "후라이팬 교체 시기가 되서 찾아보다가 구성이 맘에 들어서 구매했는데 아주 좋습니다. 배송도 빠르고 잘 사용하고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20210713",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 맘에 들어서 구매했는데 아주 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "잘 사용하고 있습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423892",
+    "RawText": "딱 필요한 사이즈라서 좋아요. 큰 후라이팬 하나 가격에 세트라서 좋아요. 뚜껑까지 있으니 더 만족스러워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20210714",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "딱 필요한 사이즈라서 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "큰 후라이팬 하나 가격에 세트라서 좋아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "뚜껑까지 있으니 더 만족스러워요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423897",
+    "RawText": "상품평대로 견고하지는 않지만 유용하게 잘 쓸 것 같습니다. OO을 좋아해서 잘 사용할 것 같습니다. 배송도 빨라 좋았어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20210727",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "상품평대로 견고하지는 않지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "유용하게 잘 쓸 것 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "잘 사용할 것 같습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423898",
+    "RawText": "제일 작은 후라이팬은 계란후라이 하나 겨우 부칠 정도로 너무 작습니다.  나머지는 사용하기 좋은 크기 같아요. 구성이 나쁘지는 않은 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "20",
+    "RDate": "20210805",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "제일 작은 후라이팬은 계란후라이 하나 겨우 부칠 정도로 너무 작습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "나머지는 사용하기 좋은 크기 같아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 나쁘지는 않은 것 같네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "423920",
+    "RawText": "저렴하게 잘 구매했습니다. 3세트에 이 가격이라니 정말 만족스럽습니다. 서비스로 뒤집개도 와서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "12",
+    "RDate": "20210907",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 구매했습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "3세트에 이 가격이라니 정말 만족스럽습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "서비스로 뒤집개도 와서 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423922",
+    "RawText": "명절 쿠폰써서 잘 산것 같네요. 쿠폰덕에 저렴하게 프라이팬 쇼핑했네요. 믿고 사는 OO 좋습니다. 주변에 많이 추천해줬네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20210907",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "명절 쿠폰써서 잘 산것 같네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰덕에 저렴하게 프라이팬 쇼핑했네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423937",
+    "RawText": "포장도 꼼꼼하게 해서 잘 보내주셨네요. 제품 구성도 맘에 들어 좋고 무게감도 적당하니 좋습니다. 빠른 배송도 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20210908",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "제품 구성도 맘에 들어 좋고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감도 적당하니 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423945",
+    "RawText": "프라이팬 깊이가 너무 얕습니다. 작은 프라이팬은 계란프라이 하나 하는 사이즈라 잘 안쓸거 같고요. 웍은 생각보다 바닥이 좁은 감이 있어서 이번 구매는 별로 마음에 안 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "3",
+    "Syllable": "97",
+    "Word": "25",
+    "RDate": "20210909",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "프라이팬 깊이가 너무 얕습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "작은 프라이팬은 계란프라이 하나 하는 사이즈라  잘 안쓸거 같고요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "웍은 생각보다 바닥이 좁은 감이 있어서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "423948",
+    "RawText": "쿠폰 써서 5만원도 안되게 저렴하게 샀네요. 사이즈는 생각보다 작아서 그렇지만 요리할 때 많은 양을 하는 편이 아니라 전 괜찮은 것 같아요. 큰사이즈 원하시는 분들은 사이즈 체크해서 사셔야 할 듯 합니다. 맨 위에 둥근부분이 좀 날카로운 것 같습니다. 그래도 이 정도면 많이 무겁지도 않고 편하게 사용하기 딱 좋습니다. 배송도 엄청 빠르네요. 사은품 조리 도구가 2종인 줄 알았더니 랜덤이여서 아쉽네요. 그나마 필요할 것이 와서 다행이라고 생각이 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "254",
+    "Word": "65",
+    "RDate": "20210910",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 써서 5만원도 안되게 저렴하게 샀네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 사이즈는 생각보다 작아서 그렇지만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "요리할 때 많은 양을 하는 편이 아니라 전 괜찮은 것 같아요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "큰사이즈 원하시는 분들은 사이즈 체크해서 사셔야 할 듯 합니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "맨 위에 둥근부분이 좀 날카로운 것 같습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "많이 무겁지도 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하게 사용하기 딱 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품 조리 도구가 2종인 줄 알았더니 랜덤이여서 아쉽네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "필요할 것이 와서 다행이라고 생각이 됩니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423952",
+    "RawText": "웍이나 후라이팬을 깊은걸 계속 사용했는데 이거는 둘다 얕은거에요.  깊이가 너무 얕아서 어떻게 써야할지 모르겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "3",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20210913",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "웍이나 후라이팬을 깊은걸 계속 사용했는데 이거는 둘다 얕은거에요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "깊이가 너무 얕아서 어떻게 써야할지 모르겠어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "423953",
+    "RawText": "프라이팬이 있음에도 가격 행사해서 저렴하게 구입했습니다. 뚜껑이 있는 구성도 좋은데  사은품으로 뒤집개까지 왔어요. 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "14",
+    "RDate": "20210913",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "프라이팬이 있음에도 가격 행사해서 저렴하게 구입했습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "뚜껑이 있는 구성도 좋은데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 사은품으로 뒤집개까지 왔어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423957",
+    "RawText": "정말 좋은가격으로 구매해서 만족해요. 사은품까지 주셔서 좋아요. 웍의 쓰임새가 정말 좋네요. 사이즈도 적당한 크기에 많이 무겁지 않아 손목 부담없네요. 구성도 좋아서 만족스러운 구매였습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "23",
+    "RDate": "20210914",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "정말 좋은가격으로 구매해서 만족해요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품까지 주셔서 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "웍의 쓰임새가 정말 좋네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 적당한 크기에",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "많이 무겁지 않아 손목 부담없네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 좋아서 만족스러운 구매였습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423964",
+    "RawText": "OO인데 품질에 대해서는 설명이 필요가 없죠. 항상 사용하는 제품이고 할인 많이 받고 구매해서 더 좋습니다. 배송도 빨랐어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20210915",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "OO인데 품질에 대해서는 설명이 필요가 없죠",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 할인 많이 받고 구매해서 더 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423972",
+    "RawText": "OO만 쓰는데 이번에 새거로 바꾸고 싶어서 구매했습니다. 쿠폰 사용해서 저렴하게 샀고 사은품은 뒤집개가 왔습니다. 요리할때 잘 쓰일것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "4",
+    "Syllable": "79",
+    "Word": "18",
+    "RDate": "20210916",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 사용해서 저렴하게 샀고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품은 뒤집개가 왔습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "요리할때 잘 쓰일것 같아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423975",
+    "RawText": "이 가격에 4종세트 너무 좋습니다. 이럴 줄 알았으면 선물용으로 더 살껄 후회가 됩니다. 요리할때 주로 사용하는 사이즈라 마음에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "4",
+    "Syllable": "76",
+    "Word": "19",
+    "RDate": "20210917",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "이 가격에 4종세트 너무 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "요리할때 주로 사용하는 사이즈라 마음에 들어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423980",
+    "RawText": "웍이 조금 작은 감은 있지만 괜찮습니다. 다른 브랜드 쓰다 바꿨는데 워낙 유명한 제품이니 좋을 거 같습니다. 사은품은 국자가 왔습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "19",
+    "RDate": "20210917",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "웍이 조금 작은 감은 있지만 괜찮습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품은 국자가 왔습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423983",
+    "RawText": "싸게 잘사서 좋네요. 전에 쓰던 티타늄 후라이팬은 두껍고 무거웠는데 이 후라이팬은 너무 얇고 무게도 가볍습니다. 좋은건지 아쉬운건는 더 써봐야 판단이 되겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "4",
+    "Syllable": "89",
+    "Word": "21",
+    "RDate": "20210920",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 잘사서 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "이 후라이팬은 너무 얇고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 가볍습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "423992",
+    "RawText": "OO은 상품 좋은거 누구나 인정하잖아요. 쿠폰 사용해서 저렴하게 잘 구매했네요. 명절때 잘 사용했네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20210923",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 사용해서 저렴하게 잘 구매했네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "명절때 잘 사용했네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "423993",
+    "RawText": "너무 싸게 잘사서 좋은데 메인 후라이팬 28이 품질이 제일 별로입니다. 낮아서 뭘 담기 힘들어요. 부침개나 부칠 용도 밖에 안되요. 볶음밥이라도 할라치면 다 넘치네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "23",
+    "RDate": "20210924",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "너무 싸게 잘사서 좋은데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "메인 후라이팬 28이 품질이 제일 별로입니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "낮아서 뭘 담기 힘들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "부침개나 부칠 용도 밖에 안되요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "볶음밥이라도 할라치면 다 넘치네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424004",
+    "RawText": "부모님 선물 드렸는데 너무 좋아하시더라고요.  오프라인보다 훨씬 싸게 사서 가심비 좋았습니다. 잘 쓰실 것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20210930",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "오프라인보다 훨씬 싸게 사서 가심비 좋았습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 잘 쓰실 것 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424008",
+    "RawText": "할인된 가격으로 싸게 샀습니다. 주로 OO을 사용하는데 기존에 사용하던거에 비하면 품질이 영 별로입니다. 이건 중국제조이고 밑바닥이 너무 얇아요. 딱 봐도 전체적으로 얇고 가벼운 느낌이라 별로입니다. 기존의 것은 가격이 비싸고 프랑스에서 제조했고 밑바닥이 두툼하거든요. 전체적으로 두툼하니 무직했어요. 그런데 이 제품은 생각보다 좀 얇아서 요리하다 타지 않을까 싶어요. 고민좀 하다가 싼맛에 그냥 쓰지 싶어 쓰고 있긴 한데 썩 마음에 들지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "3",
+    "Syllable": "251",
+    "Word": "59",
+    "RDate": "20211002",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인된 가격으로 싸게 샀습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "기존에 사용하던거에 비하면 품질이 영 별로입니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "밑바닥이 너무 얇아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼운 느낌이라 별로입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "이 제품은 생각보다 좀 얇아서 요리하다 타지 않을까 싶어요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼맛에 그냥 쓰지 싶어 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "딱 봐도 전체적으로 얇고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424025",
+    "RawText": "행사로 상품 저렴하게 구입했네요. 팬20은 생각했던거보다 너무 작긴 하지만 단단해서 오래사용 할 수 있을것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "4",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20211007",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "행사로 상품 저렴하게 구입했네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "팬20은 생각했던거보다 너무 작긴 하지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "단단해서 오래사용 할 수 있을것 같네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424028",
+    "RawText": "추석때 아주 잘사용했네요. 전에 쓰던 후라이팬 코팅이 벗겨져 새것을 구입해야지 했었는데 아주 좋은 기회에  저렴하게 잘 구입했습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20211010",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "추석때 아주 잘사용했네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "아주 좋은 기회에  저렴하게 잘 구입했습니다 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424038",
+    "RawText": "타 사이트보다 저렴히 샀습니다. 아주 예전에 OO 써보고 별로였었는데 확실히 품질도 더 좋아지고 가격도 저렴해졌어요. 잘 사용하고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "18",
+    "RDate": "20211019",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "타 사이트보다 저렴히 샀습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 더 좋아지고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해졌어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "잘 사용하고 있어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424041",
+    "RawText": "기존 스텐 제품 쓰다 사용하려니 엄청 얇아 실망이에요. 대신 가볍긴 하네요. 그렇지만 너무 저렴한 품질의 제품 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "1",
+    "Syllable": "66",
+    "Word": "17",
+    "RDate": "20211022",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "엄청 얇아 실망이에요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍긴 하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "너무 저렴한 품질의 제품 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424047",
+    "RawText": "꼭 필요한 세트를 쿠폰으로 정말 저렴하게 구입했습니다. 무게감도 적당해서 맘에 들어요. 빠른 배송 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20220113",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰으로 정말 저렴하게 구입했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감도 적당해서 맘에 들어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424048",
+    "RawText": "프라이팬 교체할 때가 된 것 같아 쿠폰 사용해서 너무 저렴하게 잘샀네요. 구성도 너무 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "15",
+    "RDate": "20220114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 사용해서 너무 저렴하게 잘샀네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 너무 맘에 듭니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424050",
+    "RawText": "큰 거 두 개는 평소 사용하던 사이즈라서 좋습니다. 그런데 제일 작은 팬 20cm가 생각보다 더 아담한데 약간 더 컸으면 좋았을 거 같습니다. 그래도 저렴하게 잘 구매했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "4",
+    "Syllable": "97",
+    "Word": "26",
+    "RDate": "20220114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "큰 거 두 개는 평소 사용하던 사이즈라서 좋습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "제일 작은 팬 20cm가 생각보다 더 아담한데 약간 더 컸으면 좋았을 거 같습니다. ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "그래도 저렴하게 잘 구매했어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424060",
+    "RawText": "빅세일 할인쿠폰으로 웍 1개 가격으로 후라이팬 까지 구입한거 같아요. OO이 후라이팬은 가장 좋아요. 막 쓰기 딱입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20220118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "빅세일 할인쿠폰으로 웍 1개 가격으로 후라이팬 까지 구입한거 같아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "막 쓰기 딱입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424073",
+    "RawText": "세가지 제품을 저렴하게 잘 구입한 것 같습니다. 맛있는 요리 해 먹을수 있을 것 같아요. 좋은 품질의 제품 감사해요. 배송도 빨라 좋았어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "21",
+    "RDate": "20220120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세가지 제품을 저렴하게 잘 구입한 것 같습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "맛있는 요리 해 먹을수 있을 것 같아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 좋은 품질의 제품 감사해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424078",
+    "RawText": "프라이팬 두개 20Cm 28Cm 그리고 웍 28Cm한개 유리뚜껑28Cm까지 구성 마음에 들어요. 근데 높이가 약간 낮아서 그게 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "17",
+    "RDate": "20220121",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "프라이팬 두개 20Cm 28Cm 그리고 웍 28Cm한개 유리뚜껑28Cm까지 구성 마음에 들어요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "높이가 약간 낮아서 그게 아쉽네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424087",
+    "RawText": "좀 얇은감이 있어 아쉽네요. 가장자리 테두리가 너무 얇고 날카로워 손 베일거 같아 조심해야겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20220125",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "좀 얇은감이 있어 아쉽네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "가장자리 테두리가 너무 얇고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "날카로워 손 베일거 같아 조심해야겠네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424093",
+    "RawText": "후라이팬이 생명을 다할 때쯤 저렴한 가격으로 구매했습니다. 믿고 쓰는 OO이라 좋습니다. 사이즈 모두 쓰기 무난합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "4",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20220128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴한 가격으로 구매했습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈 모두 쓰기 무난합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "424113",
+    "RawText": "좋은 가격에 잘 구매했습니다. 작은건 계란 하나 하기 좋은 크기라 귀엽네요. 사이즈가 생각보다는 작게 느껴지는게 좀 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20220217",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 잘 구매했습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "작은건 계란 하나 하기 좋은 크기라 귀엽네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 생각보다는 작게 느껴지는게 좀 아쉬워요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424124",
+    "RawText": "잘 받았습니다. 후라이팬 바꿀 때가 돼서 쿠폰 사용해서 저렴하게 구매했네요. 어찌나 쓰기 좋은지 언니한테도 추천해줬습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20220302",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 사용해서 저렴하게 구매했네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "어찌나 쓰기 좋은지",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424132",
+    "RawText": "배송 빨라서 좋아요. 쿠폰 사용해서 싸게 구매 한거 같아서 정말 좋습니다. 구성이 마음에 들고요. OO은 역시 최고예요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20220413",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 사용해서 싸게 구매 한거 같아서 정말 좋습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 마음에 들고요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424139",
+    "RawText": "과거에 사용 해 본 적 있습니다. 구성이 좋아서 재구매했어요. 가볍고 사용하기 편해요. 스크래치에 강하지 않아 그게 좀 아쉬워요. 가격대비 강추입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "3",
+    "Syllable": "84",
+    "Word": "20",
+    "RDate": "20220417",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 편해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "스크래치에 강하지 않아 그게 좀 아쉬워요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 강추입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424140",
+    "RawText": "집에서 사용하던거랑 같은 사이즈인데 바닥이 좁아서 그런건지 더 작아보이네요. 같은 28사이즈로 똑같이 샀는데 왜 더 작을까요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "4",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20220418",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "바닥이 좁아서 그런건지 더 작아보이네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "같은 28사이즈로 똑같이 샀는데 왜 더 작을까요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424145",
+    "RawText": "역시 OO 너무 좋습니다. 튼튼하니 묵직하고 마음에 드네요. 알찬 구성품 너무 좋고 가격을 싸게 잘 산 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "18",
+    "RDate": "20220424",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하니",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직하고 마음에 드네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "알찬 구성품 너무 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격을 싸게 잘 산 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424150",
+    "RawText": "깔끔하고 코팅력 나쁘지않고 가벼워서 만족합니다. 그러나 너무 미니 사이즈의 팬이 포함되어 있어서 좀 아쉬웠어요.  좀 더 가격이 저렴했으면 해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "3",
+    "Syllable": "81",
+    "Word": "19",
+    "RDate": "20220430",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅력 나쁘지않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 만족합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "너무 미니 사이즈의 팬이 포함되어 있어서 좀 아쉬웠어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좀 더 가격이 저렴했으면 해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "424155",
+    "RawText": "이사하면서 할인행사로 저렴하게 잘 샀습니다. OO인데 말해 뭘 할까요? 유용하게 잘 사용할 것 같아요. 배송도 빨라 더 좋았네요. 번창하십시오.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "19",
+    "RDate": "20220625",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 할인행사로 저렴하게 잘 샀습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 유용하게 잘 사용할 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424166",
+    "RawText": "믿고 쓰는 제품인 OO 제품을 이번에 좋은 가격으로 구매를 하게 되었네요. 편하게 아주 잘 사용할 것 같아요. 맘에 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "19",
+    "RDate": "20210515",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격으로 구매를 하게 되었네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하게 아주 잘 사용할 것 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424172",
+    "RawText": "후라이팬 작은거 큰거 양수웍까지 다 많이 사용하는 사이즈라 좋습니다. 저렴한 가격에 빠른 배송까지 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20210615",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "후라이팬 작은거 큰거 양수웍까지 다 많이 사용하는 사이즈라 좋습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424173",
+    "RawText": "팔 힘이 없는 친정 엄마가 쓰기에 가벼워서 좋습니다. 뚜껑까지 있어서 좋습니다. 가격까지 저렴해서 엄마가 좋아하시네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "4",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20210805",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "팔 힘이 없는 친정 엄마가 쓰기에 가벼워서 좋습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "뚜껑까지 있어서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격까지 저렴해서 엄마가 좋아하시네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424181",
+    "RawText": "OO제품 지난 번에 써보니 괜찮아서 4종 세트로 구매했습니다. 무겁지 않고 적당한 무게라서 좋습니다. 뚜껑까지 있어서 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트 (팬20,28+양수웍28+뚜껑28)",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20211005",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁지 않고 적당한 무게라서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "뚜껑까지 있어서 맘에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "4종 세트로 구매했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "424188",
+    "RawText": "통3중 냄비 사봤는데 괜찮은 것 같아요. 연마제도 많지 않은 것 같아 쉽게 닦았어요.  메이드 인 차이나라서 아쉽지만 대표적인 브랜드 OO이므로 잘 쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 인** 스테인리스 스틸 통3중 냄비 4P 세트 (편수16+양수20,24+전골24)",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "22",
+    "RDate": "20220830",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "통3중 냄비 사봤는데 괜찮은 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제도 많지 않은 것 같아 쉽게 닦았어요.  ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

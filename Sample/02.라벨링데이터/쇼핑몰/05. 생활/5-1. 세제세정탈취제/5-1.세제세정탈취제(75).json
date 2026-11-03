@@ -1,0 +1,3169 @@
+[
+  {
+    "Index": "370344",
+    "RawText": "배송도 빠릅니다. 오프라인보다 할인된 가격으로 구매해서 좋아요. 양도 많고 세정력도 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 주방세제 베이킹소다 3L 4개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20200321",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "오프라인보다 할인된 가격으로 구매해서 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력도 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370370",
+    "RawText": "가성비가 뛰어난 제품이에요. 품질도 아주 좋아서 계속 이용하고 싶은 세제입니다. 무거운데 집 앞까지 갖다 주신 택배 아저씨 감사드립니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 주방세제 베이킹소다 3L 4개",
+    "ReviewScore": "4",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20200401",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 뛰어난 제품이에요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 품질도 아주 좋아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 무거운데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "370381",
+    "RawText": "세제는 늘 이것만 사용하고 있어요. 다른것들도 써봤지만 이제품이 깨끗하게 잘 닦이고 참 좋아요. 저렴한 가격에 구매할수 있어서 좋았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 주방세제 베이킹소다 3L 4개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "18",
+    "RDate": "20200424",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "이제품이 깨끗하게 잘 닦이고 참 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 구매할수 있어서 좋았습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370384",
+    "RawText": "저렴하게 구매햇어요. 양이 많아서 한동안 걱정없이 쓸듯해요. 근데 거품양이 적고 뽀득뽀득 닦이는 느낌이 안드네요. 그래서 양을 많이 쓰게 되요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 주방세제 베이킹소다 3L 4개",
+    "ReviewScore": "4",
+    "Syllable": "80",
+    "Word": "19",
+    "RDate": "20200506",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매햇어요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아서 한동안 걱정없이 쓸듯해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "거품양이 적고 뽀득뽀득 닦이는 느낌이 안드네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "양을 많이 쓰게 되요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "370386",
+    "RawText": "무거운데  빠른 배송까지 해주셔서 잘 받고 감사드립니다. 마트보다 더 저렴하게 구매했어요.  얼마나 오래 쓸 수 있는 양인지는 써봐야 알겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 주방세제 베이킹소다 3L 4개",
+    "ReviewScore": "4",
+    "Syllable": "80",
+    "Word": "19",
+    "RDate": "20200507",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거운데  ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트보다 더 저렴하게 구매했어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "얼마나 오래 쓸 수 있는 양인지는 써봐야 알겠네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "370393",
+    "RawText": "무엇보다 베이킹소다 성분이 있어서 좀 더 깨끗하게 잘 씻기는 느낌이라 이걸로만 구매해서 쓰고 있어요. 배송도 빠르고 가격 너무 저렴하게 사서 좋네요. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 주방세제 베이킹소다 3L 4개",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "22",
+    "RDate": "20200513",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "베이킹소다 성분이 있어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 너무 저렴하게 사서 좋네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 좀 더 깨끗하게 잘 씻기는 느낌이라",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370406",
+    "RawText": "마트보다 저렴하게 잘 사서 잘 쓰고 있습니다. 거품 잘 나고 OOOO에서 만든 거라 믿고 쓰네요. 근데 세제향은 식기에 사용하기에 너무 진해서 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 주방세제 베이킹소다 3L 4개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "22",
+    "RDate": "20200521",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트보다 저렴하게 잘 사서 잘 쓰고 있습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "거품 잘 나고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "세제향은 식기에 사용하기에 너무 진해서 아쉽네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "370408",
+    "RawText": "용량도 큰 데  이 가격이면 가성비 갑입니다. 대신 좀 무겁습니다.  참고 하시고 구매하시는 게 좋을 것 같습니다. 아직 써보기 전이라 세정력이 좋은지는 아직 모르겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 주방세제 베이킹소다 3L 4개",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "24",
+    "RDate": "20200523",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 큰 데  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "좀 무겁습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세정력이 좋은지는 아직 모르겠네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 가격이면 가성비 갑입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370424",
+    "RawText": "가성비 갑이라 좋아요. 세정력도 좋고 거품도 많고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 주방세제 베이킹소다 3L 4개",
+    "ReviewScore": "4",
+    "Syllable": "33",
+    "Word": "8",
+    "RDate": "20200528",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 갑이라 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력도 좋고 거품도 많고 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370436",
+    "RawText": "용기 색상이 일단 마음에 들고 양도 많아서 든든해요. 배송도 빨라서 좋았어요. 근데 가격이 싼만큼 기름때가 잘 안진다고 해야하나요. 세척력이 많이 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 주방세제 베이킹소다 3L 4개",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "21",
+    "RDate": "20200603",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "용기 색상이 일단 마음에 들고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아서 든든해요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 싼만큼",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "기름때가 잘 안진다고 해야하나요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력이 많이 아쉽네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "370465",
+    "RawText": "쿠폰까지 써서 사니 너무 저렴합니다. 대용량이라 한참 쓸것 같아 좋네요. 직접 사오면 엄청 무거웠을텐데 배송해주셔서 감사드려요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 주방세제 베이킹소다 3L 4개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "16",
+    "RDate": "20200717",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰까지 써서 사니 너무 저렴합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 한참 쓸것 같아 좋네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "직접 사오면 엄청 무거웠을텐데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "370492",
+    "RawText": "전에 2개짜리 구매해서 사용했는데 이번에 4개짜리가 할인을 해 가격이 저렴해서 구입했습니다. 2개는 어머니랑 언니 나눠주려고 합니다.  거품도 잘 나고 깨끗하게 닦여서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 주방세제 베이킹소다 3L 4개",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "22",
+    "RDate": "20200903",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인을 해 가격이 저렴해서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "거품도 잘 나고 깨끗하게 닦여서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370502",
+    "RawText": "제가 세일 기간을 잘 못 맞추는 건지 가격이 조금씩 오르는군요.  청소할 때도 사용하면 좋습니다. 그리고 세정력이 좋아 설거지하면 정말로 깨끗하고 맘에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 주방세제 베이킹소다 3L 4개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "22",
+    "RDate": "20200906",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격이 조금씩 오르는군요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "청소할 때도 사용하면 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력이 좋아 설거지하면 정말로 깨끗하고 맘에 들어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370506",
+    "RawText": "여기가 아주 저렴한 곳인 거 같네요. 자주 쓰는 것이라 망설이지 않고 구매했어요. 포장도 깔끔하게 왔습니다. 근데 늘 쓰던 제품인데 이번에 받은것은 느낌상 좀더 묽은거 같아요. 좀 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 주방세제 베이킹소다 3L 4개",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "27",
+    "RDate": "20200907",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 아주 저렴한 곳인 거 같네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "이번에 받은것은 느낌상 좀더 묽은거 같아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "370523",
+    "RawText": "가격이 좋아서 구매하면서 걱정했는데 제조일도 최근이고 배송도 엄청 빨랐네요. 연휴에 설거지 할일 많은데 양이 많아서 걱정없네요. 근데 설거지 하고 나면 손이 너무 거칠어져요. 꼭 장갑을 끼고 해야 할듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 주방세제 베이킹소다 3L 4개",
+    "ReviewScore": "5",
+    "Syllable": "116",
+    "Word": "28",
+    "RDate": "20200918",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아서 걱정없네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부(손)보호",
+        "SentimentText": "설거지 하고 나면 손이 너무 거칠어져요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "피부(손)보호",
+        "SentimentText": "꼭 장갑을 끼고 해야 할듯합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "370526",
+    "RawText": "저렴한 가격으로 오랜 기간 사용할 수 있는 많은 양을 얻을 수 있어서 좋습니다. 사용 전이라 성분이 좋다고 하는데  아직 어떤지 모르겠네요.  사용해보고 성분이 안심되고 마음에 들면 재구매하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 주방세제 베이킹소다 3L 4개",
+    "ReviewScore": "5",
+    "Syllable": "111",
+    "Word": "27",
+    "RDate": "20200918",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격으로",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "오랜 기간 사용할 수 있는 많은 양을 얻을 수 있어서 좋습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "성분이 좋다고 하는데  아직 어떤지 모르겠네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": " 성분이 안심되고 마음에 들면 재구매하겠습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "370548",
+    "RawText": "주방세제는 이게 가장 좋은거 같습니다. 잘 닦이고 가격도 저렴합니다. 근데 무겁고 따라쓰기가 불편하네요. 작은용량으로 구매할걸 그랬나봐요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 주방세제 베이킹소다 3L 4개",
+    "ReviewScore": "4",
+    "Syllable": "77",
+    "Word": "16",
+    "RDate": "20200919",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 잘 닦이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격도 저렴합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "따라쓰기가 불편하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "370562",
+    "RawText": "몇년째 계속 이용중입니다. 거품도 잘나고 기름기도 잘 닦여서 너무 좋습니다. 근데 손이 정말 건조해져요. 세정력은 좋지만 꼭 장갑끼고 써야 할듯해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 주방세제 베이킹소다 3L 4개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "20",
+    "RDate": "20200921",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "거품도 잘나고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "기름기도 잘 닦여서 너무 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부(손)보호",
+        "SentimentText": "손이 정말 건조해져요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력은 좋지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부(손)보호",
+        "SentimentText": "꼭 장갑끼고 써야 할듯해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "370568",
+    "RawText": "올 한해 주방 세제 살 일은 없을 만큼  양이 어마어마 하게 많네요.  양으로는 든든하니 만족한 느낌이 들어요. 전용 용기 포함된 구성이 있거나 서비스로 주셔도 좋을 것 같아요. 무거운데 집 앞까지 배송해주셔서 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 주방세제 베이킹소다 3L 4개",
+    "ReviewScore": "5",
+    "Syllable": "124",
+    "Word": "32",
+    "RDate": "20200921",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "올 한해 주방 세제 살 일은 없을 만큼  양이 어마어마 하게 많네요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양으로는 든든하니 만족한 느낌이 들어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "전용 용기 포함된 구성이 있거나 서비스로 주셔도 좋을것 같아요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거운데 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "370597",
+    "RawText": "소량으로도 거품이 잘 나긴하는데 상당히 묽네요. 버릇처럼 몇번 펌핑을 해서 쓰다보니 금방 쓰게 되요.좀 더 끈끈함이 있으면 좋을듯하네요. 많이 아쉬운 제품이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 주방세제 베이킹소다 3L 4개",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "21",
+    "RDate": "20200924",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "소량으로도 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "거품이 잘 나긴하는데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "상당히 묽네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "몇번 펌핑을 해서 쓰다보니 금방 쓰게 되요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "좀 더 끈끈함이 있으면 좋을듯하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "370607",
+    "RawText": "늘 사용하는 제품인데 쿠폰 사용해서 3개 가격으로 4개나 구입할 수 있어서 좋습니다. 기름때도 깨끗하게 씻깁니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 주방세제 베이킹소다 3L 4개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20200925",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 사용해서 3개 가격으로 4개나 구입할 수 있어서 좋습니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "기름때도 깨끗하게 씻깁니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370617",
+    "RawText": "OO 사두면 쓰겠지 하고 네개짜리 샀는데 생각보다 크고 양이 많아요. 오래오래 두고두고 쓸듯애요. 근데 몇번이나 닦아도 미끌미끌하네요. 기름기가 많은 그릇은 여러번 닦아야해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 주방세제 베이킹소다 3L 4개",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "22",
+    "RDate": "20200926",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "생각보다 크고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "오래오래 두고두고 쓸듯애요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "몇번이나 닦아도 미끌미끌하네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "기름기가 많은 그릇은 여러번 닦아야해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "370646",
+    "RawText": "평소에 애용하는 제품이에요. 저렴한 가격에 이 무거운걸 집에서 받아보니 너무 좋네요. 근데 진짜 무겁긴하네요. 그대로 두고 쓰긴 불편해서 작은 용기로 소분해서 써야해서 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 주방세제 베이킹소다 3L 4개",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "23",
+    "RDate": "20200930",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "이 무거운걸 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "진짜 무겁긴하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그대로 두고 쓰긴 불편해서 작은 용기로 소분해서 써야해서 아쉽네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "370652",
+    "RawText": "주방세제 베이킹소다 4개 배송 잘 되었습니다. 무거운데 집 앞까지 가져다주시느라 애쓰셨습니다. 설거지 할 때 맨손으로 사용해도 괜찮아서 계속 사용하는 주방 세제에요. 명절 쿠폰으로 저렴하게 구매했어요. 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 주방세제 베이킹소다 3L 4개",
+    "ReviewScore": "5",
+    "Syllable": "119",
+    "Word": "26",
+    "RDate": "20201001",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거운데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "피부(손)보호",
+        "SentimentText": " 설거지 할 때 맨손으로 사용해도 괜찮아서 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "명절 쿠폰으로 저렴하게 구매했어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370661",
+    "RawText": "세정력은 엄청 좋습니다. 사람에 따라 향은 호불호가 갈릴듯하지만, 개인적으로는 향 엄청 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20220806",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력은 엄청 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "사람에 따라 향은 호불호가 갈릴듯하지만, ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "개인적으로는 향 엄청 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370662",
+    "RawText": "이 제품은 품질이 너무 좋아서 만족합니다. 설거지 아주 깔끔하게 잘돼서 좋아요. 다 쓰면 재구매 할 예정입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20220726",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "이 제품은 품질이 너무 좋아서 만족합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "설거지 아주 깔끔하게 잘돼서 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370664",
+    "RawText": "가격이 있어서 고민했는데 세척력은 아주 좋네요. 향기도 좋고요! 세척 후 향기가 남아 있진 않으니 괜찮아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20220714",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 있어서 고민했는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력은 아주 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 좋고요!",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "세척 후 향기가 남아 있진 않으니 괜찮아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370667",
+    "RawText": "세척 후 불쾌한 약 냄새가 아주 아주 심합니다. 세척기에서 다 씻고 나와도 꼭 손으로 한번 더 행궈줘야 되요. OOO 보고 구매했는데 엄청 후회 합니다.  그릇에 밴 약 냄새 없애기 위해서 또 설겆이 해야 하니 정말 불편해요. 딱 한번 식기세척기에 사용하고 그냥 세탁기 세척용으로 쓰고 있네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "1",
+    "Syllable": "164",
+    "Word": "45",
+    "RDate": "20220628",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "세척 후 불쾌한 약 냄새가 아주 아주 심합니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": " 세척기에서 다 씻고 나와도 꼭 손으로 한번 더 행궈줘야 되요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 그릇에 밴 약 냄새 없애기 위해서 또 설겆이 해야 하니 정말 불편해요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "딱 한번 식기세척기에 사용하고 그냥 세탁기 세척용으로 쓰고 있네요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "370668",
+    "RawText": "말해뭐해요. 유리그릇 스텐냄비 너무반짝반짝 물얼룩없이 좋아요. 또 요건 케이스있는 타입이라 보관하기 편해서 좋습니다.  단 냄새가 심해서 항상 헹굼추가하고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "19",
+    "RDate": "20220628",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "유리그릇 스텐냄비 너무반짝반짝 물얼룩없이 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "케이스있는 타입이라 보관하기 편해서 좋습니다.  ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 심해서 항상 헹굼추가하고 있어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "370669",
+    "RawText": "역시 식기세척기 세제 중 품질로는 최고인것 같습니다. 와이프가 성능보고 마음에 든다며 매우 좋아했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20220617",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "식기세척기 세제 중 품질로는 최고인것 같습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "와이프가 성능보고 마음에 든다며 매우 좋아했습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370670",
+    "RawText": "강력한 세정력을 원하는 스텐제품세척을위해서 구매했습니다. 저렴하게 잘 산거같고 세척력은 정말 강력하네요. 밥그릇은 좀더 순한 제품으로 사용하고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "17",
+    "RDate": "20220614",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 산거같고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력은 정말 강력하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370673",
+    "RawText": "신세계를 경험하세요. 이렇게 편할 줄 몰랐네요. 그동안 여러가지 세제를 사용해봤으나 이것처럼 깨끗하게 되는 제품은 처음입니다. 설거지의 압박에서 벗어나세요. 삶이 편해집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "20",
+    "RDate": "20220609",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "이렇게 편할 줄 몰랐네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "이것처럼 깨끗하게 되는 제품은 처음입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370676",
+    "RawText": "완전 좋습니다. 지금까지 써 본 세제 중에 세정력 최고에요. 물 얼룩도 안 생기고 깔끔해서 기분이 좋아져요. 강추합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20220601",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 써 본 세제 중에 세정력 최고에요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 물 얼룩도 안 생기고 깔끔해서 기분이 좋아져요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370678",
+    "RawText": "써 본 식기세척기 세제 중 가장 세척력이 좋았습니다.  따로 린스를 넣지 않아도 얼룩 없이 나오니 정말 맘에 드는 세제네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "19",
+    "RDate": "20220529",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "써 본 식기세척기 세제 중 가장 세척력이 좋았습니다.  ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "따로 린스를 넣지 않아도",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "얼룩 없이 나오니 정말 맘에 드는 세제네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370680",
+    "RawText": "다른 사이트보다 저렴하고 해외 배송인데도 빠르네요.  식세기에는 OOOOO가 최고죠. 깔끔하고 튼튼하게 포장되어 왔어요. 일단 세척력 인정이고  완전 만족이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "18",
+    "RDate": "20220528",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 사이트보다 저렴하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "일단 세척력 인정이고  완전 만족이네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370686",
+    "RawText": "세척력 좋습니다. 향이 진해서 조금 아쉽지만  배송도 빠르고 제품도 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "10",
+    "RDate": "20220522",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 진해서 조금 아쉽지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "370687",
+    "RawText": "배송 빨리 와서 좋았어요. 세척력은 좋은데 세제 자체에서 나는 향이 너무 강해서 꺼내서 다시 씻었네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "15",
+    "RDate": "20220521",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력은 좋은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "세제 자체에서 나는 향이 너무 강해서 꺼내서 다시 씻었네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "370691",
+    "RawText": "외국에서 판매하는 식기세척기 세제라 기대감이 있었고  좋은 사용 후기들처럼 쓰던 세제보다 더 나은 세척력을 보여주어서 만족했습니다. 다만 소분 하기에는 까다로워 사용감이 불편하다는 생각이 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "24",
+    "RDate": "20220516",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 쓰던 세제보다 더 나은 세척력을 보여주어서 만족했습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 소분 하기에는 까다로워 사용감이 불편하다는 생각이 드네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "370692",
+    "RawText": "강력한 세정효과와 물때 흔적이 없기로 유명해서 구입했습니다. 녹는 비닐이라 자기들끼리 붙어서 비닐이 뜯겨져 있었던 게 살짝 아쉽습니다. 세정력은 정말 좋은 것 같습니다.  세척기 작동 후 꺼내보면 정말 물때없이 깔끔합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "4",
+    "Syllable": "124",
+    "Word": "29",
+    "RDate": "20220511",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "녹는 비닐이라 자기들끼리 붙어서 비닐이 뜯겨져 있었던 게 살짝 아쉽습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력은 정말 좋은 것 같습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척기 작동 후 꺼내보면 정말 물때없이 깔끔합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370698",
+    "RawText": "직구라 배송이 오래 걸린다고 했는데 금방와서 잘 사용하고 있어요. 테스트겸 기름기 짱 많은 가스후드 사용해보니 만족해요. 항상 가스후드 청소때마다 스트레스 받았는데 식기세척세제로 해결했네요. OO 짱!!! 세제냄새가 많이 강해서 염려스럽긴 하지만 그래도 세척력 우수함에 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "157",
+    "Word": "34",
+    "RDate": "20220505",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "세제냄새가 많이 강해서 염려스럽긴 하지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력 우수함에 만족합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "기름기 짱 많은 가스후드 사용해보니 만족해요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370703",
+    "RawText": "이 세제 정말 짱입니다. 다른 세제들 쓰다가 한번씩 이걸로 쓰면 식기세척기가 광이 날 정도로 깨끗해집니다. 세척력은 정말 최곱니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20220422",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "식기세척기가 광이 날 정도로 깨끗해집니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력은 정말 최곱니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370718",
+    "RawText": "통으로 쓸때는 습기에 약해서 변형이 생기거나 쉽게 터져서 아쉬웠습니다. 지금 제품은 진공포장에 분리형이라 보관이 더 편하고 좋은것 같네요. 세정력은 여전히 좋구요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "21",
+    "RDate": "20220409",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "진공포장에 분리형이라 보관이 더 편하고 좋은것 같네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력은 여전히 좋구요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370722",
+    "RawText": "완전히 깨끗해졌어요.  에어프라이어에 있던 묵은 기름때도 두어 번 돌리니 은색 새 스텐처럼 깨끗해졌어요. 심지어 식기 세척기 안까지 세척해주네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "18",
+    "RDate": "20220403",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "완전히 깨끗해졌어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "묵은 기름때도 두어 번 돌리니 은색 새 스텐처럼 깨끗해졌어요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "식기 세척기 안까지 세척해주네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370723",
+    "RawText": "처음에는 OOO를 썼는데 물때가 많이 남는 것 같아 바꿨어요. 주변의 추천만큼 세척력이 강했으면 좋겠습니다. 양도 많아 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "3",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20220403",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "주변의 추천만큼 세척력이 강했으면 좋겠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370729",
+    "RawText": "진짜 마음에 들어요. 린스를 따로  쓰지 않아도  린스 기능이 있고 잘 마르고 그릇이 반짝반짝 해지고 특히  스텐레스가  세척 후에 깨끗해져서 나오니 대박이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "22",
+    "RDate": "20220325",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 린스를 따로  쓰지 않아도 린스 기능이 있고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 잘 마르고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "특히 스텐레스가  세척 후에 깨끗해져서 나오니 대박이네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 그릇이 반짝반짝 해지고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370731",
+    "RawText": "지금까지 사용했던 세제 중에 최고네요. 얼룩없이 반짝반짝 하네요. 향이 엄청 강해서 호불호가 갈릴 듯 하지만 저는 괜찮네요. 번창하시길.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "4",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20220324",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "얼룩없이 반짝반짝 하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 엄청 강해서 호불호가 갈릴 듯 하지만 저는 괜찮네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370739",
+    "RawText": "다들 많이 쓰는 다른 식기세척기 세제 쓰다가 인터넷 리뷰보고 주문했는데 확실히 세척력 최고네요. 물때 없이 건조도 잘 돼요. 배송도 5일만에 왔어요. 수분에 약하다고해서 따로 패킹보관 하려구요!",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "108",
+    "Word": "26",
+    "RDate": "20220314",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "확실히 세척력 최고네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "물때 없이 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "건조도 잘 돼요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370747",
+    "RawText": "상세 페이지와 구성이 달라 기분 나빠요. 상품 자체 품질에 문제가 있을 것 같네요. 세척력도 별로입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "4",
+    "Syllable": "58",
+    "Word": "15",
+    "RDate": "20220310",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "상세페이지와 구성이 달라 기분 나빠요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 자체 품질에 문제가 있을 것 같네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력도 별로입니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "370748",
+    "RawText": "누가 뭐래도 세척력이 가장 우수한 식기세척기 세제입니다. 스텐제품에 사용하면 새것같이 되는것을 느낄수 있을겁니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "4",
+    "Syllable": "63",
+    "Word": "13",
+    "RDate": "20220310",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "누가 뭐래도 세척력이 가장 우수한 식기세척기 세제입니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "스텐제품에 사용하면 새것같이 되는것을 느낄수 있을겁니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370751",
+    "RawText": "잘 포장되어 터진것 없이 배송되었네요. 식세기 들이고 편리함에 넘 만족하게 되어 설치때 주셨던 세제 다 쓸때쯤 이것저것 알아보고 OO 먼저 써보고 OOO가 식세기 세제 끝판왕이라고 소문듣고 또 사게 되었습니다. 냄새에 대한 후기가 좀 있어 샀다가 안쓰게 되면 어떻할까 고민도 했었는데 일단 세척력 인정되고 냄새도 저한테는 괜찮은거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "189",
+    "Word": "47",
+    "RDate": "20220308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력 인정되고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 저한테는 괜찮은거 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370766",
+    "RawText": "OOO에서 좋다고 하길래 구매해 봤네요. 세제가 물에 잘 안 녹네요. 소량으로 그릇을 넣었더니 찌꺼기가 붙어서 나오네요. 그릇 많이 넣고 헹굼 기능 한 번 더 하며 사용해야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "100",
+    "Word": "26",
+    "RDate": "20220226",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "세제가 물에 잘 안 녹네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "소량으로 그릇을 넣었더니 찌꺼기가 붙어서 나오네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "그릇 많이 넣고 헹굼 기능 한 번 더 하며 사용해야겠어요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "370781",
+    "RawText": "저희 지역이 파업지역이라 걱정했는데 다행히 잘 받았습니다. 성능이야 뭐 정말 좋죠. 전 재구매하는 것입니다. 미리 사놓는 거예요. 품질 좋아서 이거 쓰면 다른 거 못 쓰죠. 유리제품의 흰색 얼룩도 깔끔하게 싹 닦입니다. 그리고  식기세척기 상태도 반질반질져서 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "152",
+    "Word": "37",
+    "RDate": "20220215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능이야 뭐 정말 좋죠.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 좋아서 이거 쓰면 다른 거 못 쓰죠.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "유리제품의 흰색 얼룩도 깔끔하게 싹 닦입니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 식기세척기 상태도 반질반질져서 맘에 듭니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370783",
+    "RawText": "엄청 빨리 마르고 수저 식기들 등등 넣은 모든 물건들에게서 광이 나서 좋아요. 진짜 대박입니다. 식세기 있는 분들 꼭 한번 써보세요. 강추.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "21",
+    "RDate": "20220214",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "엄청 빨리 마르고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "수저 식기들 등등 넣은 모든 물건들에게서 광이 나서 좋아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370796",
+    "RawText": "세척력은 최고라고 추천받아서 구매했습니다. 향이 좀 독한 것 같아요. 성분이 좋은건 아닌것같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20220125",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향이 좀 독한 것 같아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "성분이 좋은건 아닌것같네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "370800",
+    "RawText": "역시 냄새에 너무 코가 아프지만 세척력이 좋아 설거지 결과에 아주 만족스럽습니다. 계속 사용하고 싶은 제품이네요.  또 구매할게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20220118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 냄새에 너무 코가 아프지만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력이 좋아 설거지 결과에 아주 만족스럽습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370806",
+    "RawText": "세척이 잘 되서 아주 좋습니다. 근데 향은 제 취향이 아니네요. 해외 배송에다 택배 파업 등등 더 오래 걸릴 줄 알았는데 생각 보다 빨리 도착해서 감사하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "4",
+    "Syllable": "88",
+    "Word": "25",
+    "RDate": "20220110",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척이 잘 되서 아주 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향은 제 취향이 아니네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "370817",
+    "RawText": "세척력 우수하고 좋아요. OO 사용하면 식기세척기 내부도 깨끗해지고 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "9",
+    "RDate": "20211227",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력 우수하고 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "식기세척기 내부도 깨끗해지고 만족해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370818",
+    "RawText": "기존 세제는 사진처럼 얼룩이 많았거든요. 이 세제는 식세기 내부까지 깨끗해져서 좋아요. 물론 그릇상태도 깔끔하죠.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20211225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "식세기 내부까지 깨끗해져서 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "그릇상태도 깔끔하죠",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370821",
+    "RawText": "완전 만족합니다. 모든 그릇이 엄청 반짝거려서 너무 좋습니다. 하얀 물때도 한방에 해결됐습니다. 하나 터졌는데 그거 제외하고도 92개 딱 맞습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "19",
+    "RDate": "20211218",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "모든 그릇이 엄청 반짝거려서 너무 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "하얀 물때도 한방에 해결됐습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370822",
+    "RawText": "23개짜리 4개 리필팩이네요. 생각했던 것과는 다르지만 전에 쓰던 통에 채워가며 쓰는 것도 나쁘지 않아 보입니다. 이거 쓰고부턴 다른 건 못 쓰겠어요. 사용하기 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "4",
+    "Syllable": "98",
+    "Word": "24",
+    "RDate": "20211216",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "전에 쓰던 통에 채워가며 쓰는 것도 나쁘지 않아 보입니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 너무 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370826",
+    "RawText": "배송이 늦네요 그리고 가격이 좀더 저렴하면 좋겠습니다. 세척력은 짱입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "3",
+    "Syllable": "41",
+    "Word": "9",
+    "RDate": "20211213",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀더 저렴하면 좋겠습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력은 짱입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370827",
+    "RawText": "정말 식세기 안의 모든 곳들까지 반짝거려서 기분이 좋아요. 기분 좋은 향은 덤이네요. 너무 기분 좋게 잘 사용하고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "18",
+    "RDate": "20211212",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 식세기 안의 모든 곳들까지 반짝거려서 기분이 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "기분 좋은 향은 덤이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370830",
+    "RawText": "세척력이 강력한 식세기 세제입니다. 냄새도 좀 독하네요. 그릇은 깨끗하게 씻겨지기는 하지만 향이 독해서 무향의 세제랑 번갈아가며 쓰는 편입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "18",
+    "RDate": "20211211",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력이 강력한 식세기 세제입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 좀 독하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "그릇은 깨끗하게 씻겨지기는 하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 독해서 무향의 세제랑 번갈아가며 쓰는 편입니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "370832",
+    "RawText": "사용하면서 냄새가 나서 좀 신경 쓰였지만  스텐팬 등은 정말 깨끗하게 씻겨서 좋네요. 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20211210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "사용하면서 냄새가 나서 좀 신경 쓰였지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "스텐팬 등은 정말 깨끗하게 씻겨서 좋네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370834",
+    "RawText": "타 판매처 대비 가장 저렴한 가격에 구매해서 정말 좋네요. 배송은 2주 정도 걸렸네요. 성능도 기대해 봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "16",
+    "RDate": "20211209",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "타 판매처 대비 가장 저렴한 가격에 구매해서 정말 좋네요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능도 기대해 봅니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "370837",
+    "RawText": "식세기 사용 후에  깨끗해지는 건 너무 좋은데 세탁 세제 냄새 짱 심하고  그림이 지워지는데 세탁력이 좋아서 그런 건 지 알 수가 없다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "4",
+    "Syllable": "76",
+    "Word": "22",
+    "RDate": "20211208",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 깨끗해지는 건 너무 좋은데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "세탁 세제 냄새 짱 심하고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "그림이 지워지는데 세탁력이 좋아서 그런 건 지 알 수가 없다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "370838",
+    "RawText": "뽁뽁이 빵빵합니다. 본가에 보냈는데 잘 도착했다고 하네요. 물 비린내도 안나고 물자국 안 남아서 좋습니다. 안 좋은 성분이 없길 기대해 봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "20",
+    "RDate": "20211207",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "물 비린내도 안나고 물자국 안 남아서 좋습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "안 좋은 성분이 없길 기대해 봅니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "370841",
+    "RawText": "해외 구매인데 배송이 빠르고 좋습니다. 향이 좀 강해서 부담스럽긴 하지만 세척력은 굿입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20211207",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좀 강해서 부담스럽긴 하지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력은 굿입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370844",
+    "RawText": "주기적으로 구매 할 의사가 있는 제품입니다. 가끔 써주면 식기세척기가 반짝반짝 광이 나서 좋습니다.  물비린내도 나지 않아 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "17",
+    "RDate": "20211204",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "가끔 써주면 식기세척기가 반짝반짝 광이 나서 좋습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "물비린내도 나지 않아 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370846",
+    "RawText": "세정력도 훌륭하고 물때 남김없이 깔끔하고 뽀도독하게 건조도 잘 되는 것 같아요.  이것저것 사용해 봤는데 이만한 제품이 없는 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "4",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20211201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세정력도 훌륭하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "물때 남김없이 깔끔하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "뽀도독하게 건조도 잘 되는 것 같아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370847",
+    "RawText": "세척력은 좋아요. 그런데 이 세제를 쓰고나면 그릇에 고여있는 물이 빨간빛이 나서 성분이 의심스러워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "4",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20211201",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력은 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "이 세제를 쓰고나면 그릇에 고여있는 물이 빨간빛이 나서 성분이 의심스러워요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "370859",
+    "RawText": "해외배송인데 생각보다 엄청 빨라서 좋네요. 향이 좋아서 매일 써도 부담이 없어요. 세정력도 괜찮습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20211121",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋아서 매일 써도 부담이 없어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력도 괜찮습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370862",
+    "RawText": "써 본 사람들마다 리뷰가 좋고 판매 1위 라고 해서 구매해봤습니다.  플라스틱 통으로 보관하기에도 좋고 사용하기도 편리한데 저에게는 향이  별로네요. 특유의 향이 너무 강해서 호불호가 많이 갈릴 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "4",
+    "Syllable": "115",
+    "Word": "28",
+    "RDate": "20211118",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "플라스틱 통으로 보관하기에도 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 사용하기도 편리한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이  별로네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 특유의 향이 너무 강해서 호불호가 많이 갈릴 것 같아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "370879",
+    "RawText": "해외배송인데 생각보다 빨리와서 좋아요. 스텐 종류 세척할때 세정력이 이 세제만한게 없는것 같아요. 품질에 아주 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20211104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "스텐 종류 세척할때 세정력이 이 세제만한게 없는것 같아요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질에 아주 만족합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370881",
+    "RawText": "세척력이 좋은지는 모르겠어요. 향도 너무 진하네요. 확실히 건조는 더 뽀송하게 잘 되는 것 같아요. 배송은 매우 느렸습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "4",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20211103",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력이 좋은지는 모르겠어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향도 너무 진하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "확실히 건조는 더 뽀송하게 잘 되는 것 같아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370884",
+    "RawText": "말끔하게 잘 닦여요. 향이 좀 강해서 처음에는 적응 못 했네요. 그래도 기름기 많은 그릇 있을 때는 정말 잘 사용해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "19",
+    "RDate": "20211028",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "말끔하게 잘 닦여요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좀 강해서 처음에는 적응 못 했네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 기름기 많은 그릇 있을 때는 정말 잘 사용해요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370890",
+    "RawText": "기름기가 많고 빨간 양념이 잔뜩 묻은  배달 음식 용기를 세척해보니 깔끔해졌어요.   특이한 향은 열린 상태로 담 날 아침 되니 싹 사라졌구요.  저는 앞으로도  잘 쓸 거 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "101",
+    "Word": "27",
+    "RDate": "20211024",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 기름기가 많고 빨간 양념이 잔뜩 묻은  배달 음식 용기를 세척해보니 깔끔해졌어요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "특이한 향은 열린 상태로 담 날 아침 되니 싹 사라졌구요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370892",
+    "RawText": "해외 배송이라 굉장히 오래 걸려 받았네요. 처음 개봉했을 때에는 향이 본드 냄새 같아서 걱정했는데 식기세척기에 사용해보니 향이 그리 강하지 않아서 거북하지는 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "4",
+    "Syllable": "93",
+    "Word": "22",
+    "RDate": "20211023",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "처음 개봉했을 때에는 향이 본드 냄새 같아서 걱정했는데",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "식기세척기에 사용해보니 향이 그리 강하지 않아서 거북하지는 않습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "370899",
+    "RawText": "사용하려고 샀어요. 세척력 좋습니다. 냄새가 좀 이상해요. 냄새만 안 좋고 다 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "4",
+    "Syllable": "48",
+    "Word": "12",
+    "RDate": "20211018",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 좀 이상해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 냄새만 안 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "370904",
+    "RawText": "세일할 때 아주 저렴하게 잘 샀어요.  세정력 정말 끝내줍니다~~^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "38",
+    "Word": "9",
+    "RDate": "20211015",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일할 때 아주 저렴하게 잘 샀어요.  ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력 정말 끝내줍니다~~^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370906",
+    "RawText": "세척력 좋아요. 특유의 냄새가 약간 나긴하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "4",
+    "Syllable": "26",
+    "Word": "6",
+    "RDate": "20211013",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "특유의 냄새가 약간 나긴하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "370908",
+    "RawText": "세척력이 좋다니까 기대하고 있어요. 후드 알미늄 필터 세척해 볼 생각입니다. 가격이 비쌌지만 품질이 좋았으면 하는 바람입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20211013",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력이 좋다니까 기대하고 있어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격이 비쌌지만 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋았으면 하는 바람입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "370909",
+    "RawText": "가성비가 좋고 성능도 뛰어나게 좋습니다. 다만 향이 너무 강해서 좀 부담스럽기는 하나 세척 후에는 향이 거의 없어 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "18",
+    "RDate": "20211012",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능도 뛰어나게 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 강해서 좀 부담스럽기는 하나",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "세척 후에는 향이 거의 없어 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370912",
+    "RawText": "기존에 쓰던 세제로는 잘 닦이지 않던 곳까지 깨끗하게 닦여서 만족스럽습니다. 가격만 더 저렴하면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "4",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20211008",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "기존에 쓰던 세제로는 잘 닦이지 않던 곳까지 깨끗하게 닦여서 만족스럽습니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격만 더 저렴하면 좋겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "370913",
+    "RawText": "배송은 느렸지만 세척은 깨끗하게 잘 되어서 좋네요. 세제에서 약간 독한 냄새가 나서 거북하기는 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "4",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20211006",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척은 깨끗하게 잘 되어서 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "세제에서 약간 독한 냄새가 나서 거북하기는 합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "370926",
+    "RawText": "좋다는 소문 듣고 주문했네요. 세척력이 갑이라 마음에 들어요. 그런데 향은 좀 거슬려요. 배송은 일주일 걸렸어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20210928",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력이 갑이라 마음에 들어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 좀 거슬려요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "370928",
+    "RawText": "타사 가루세제 써보고 이 제품 써보는거라 많은 비교 대상은 없지만 세정력이 아주 좋습니다. 물얼룩도 없어서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20210923",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력이 아주 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 물얼룩도 없어서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370929",
+    "RawText": "린스와 세제 따로 썼었는데 이 제품이 좋다해서 구매해봤습니다. 올인원이라서 진짜 좋습니다. 식세기와 그릇에 얼룩이 남지 않아서 더 좋구요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "18",
+    "RDate": "20210923",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "올인원이라서 진짜 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "식세기와 그릇에 얼룩이 남지 않아서 더 좋구요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370930",
+    "RawText": "식기세척기 구입하면서 OOO 냄새가 너무 역해서 이 제품 구매하게 되었습니다. 세척력 좋고 향도 아주 좋아요.  린스 기능이 되는 제품이 맞는데도 식기세척기가 인식을 못해 린스 넣으라고 하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "108",
+    "Word": "26",
+    "RDate": "20210921",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 아주 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370932",
+    "RawText": "물때 싹 제거되고 냄새도 참 좋네요. 세척력 물론 좋습니다. 향도 심하다고 하눈데 마르고 나면 없어지고 그리 심하지도 않아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "18",
+    "RDate": "20210921",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "물때 싹 제거되고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 참 좋네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력 물론 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 심하다고 하눈데 마르고 나면 없어지고 그리 심하지도 않아요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "370935",
+    "RawText": "가격이 다른 제품에 비해 높지만 성능은 괜찮네요. 식기세척기 새로 사서 하나 넣어서 돌렸는데 스텐이 광이 나서 만족했네요. 기름기 심할 때는 좀 덜 닦여서 애벌 세척이 필요하긴 하네요. 특유의 향이 있어서 호불호가 있을 듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "129",
+    "Word": "34",
+    "RDate": "20210915",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 다른 제품에 비해 높지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능은 괜찮네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "하나 넣어서 돌렸는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "스텐이 광이 나서 만족했네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "기름기 심할 때는 좀 덜 닦여서 애벌 세척이 필요하긴 하네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "특유의 향이 있어서 호불호가 있을 듯 합니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "370942",
+    "RawText": "종류 여러가지 써봤는데 이 제품이 물때가 제일 작게 생기는거 같네요. 물때가 아예 생기지 않는 건 아니라 아쉽지만 일단 더 사용해보려구요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "20",
+    "RDate": "20210913",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "이 제품이 물때가 제일 작게 생기는거 같네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "물때가 아예 생기지 않는 건 아니라 아쉽지만 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "370955",
+    "RawText": "해외 배송이라 시간이 좀 걸려서 시킨 걸 잊어버리고 있었는데 어제 받았네요. 일단 잘 닦여서 좋은데 냄새는 좋지 않네요. 가격은 저렴하게 구입했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "21",
+    "RDate": "20210903",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "잘 닦여서 좋은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새는 좋지 않네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴하게 구입했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370958",
+    "RawText": "식기 세척기 돌리고 난 후 두번 손 갈 일 없이 참 잘 닦입니다. 물 얼룩도 거의 안 생기고 물 비린내도 없습니다. 특유의 향이 엄청 강해서 호불호가 많이 갈릴 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "30",
+    "RDate": "20210831",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "식기 세척기 돌리고 난 후 두번 손 갈 일 없이 참 잘 닦입니다.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "물 얼룩도 거의 안 생기고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "물 비린내도 없습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "특유의 향이 엄청 강해서 호불호가 많이 갈릴 것 같네요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "370959",
+    "RawText": "용기가 없이 와서 당황했습니다. 세척 후 반짝반짝하니 기분은 좋은데 향이 너무 진해서 부담스럽습니다. 매일 사용은 어렵고 가끔 사용해야 할 듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "21",
+    "RDate": "20210830",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기가 없이 와서 당황했습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세척 후 반짝반짝하니 기분은 좋은데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 진해서 부담스럽습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 매일 사용은 어렵고 가끔 사용해야 할 듯 합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "370960",
+    "RawText": "배송 빨랐습니다.. 다만 세제향이 너무 많이 나네요ㅠㅠ  지퍼백에 넣어서 보관했는데도 근처에 가면 향이 나네요. 헹굼 추가해서 써야겠습니다. 세정력이 좋다고 해서 샀는데 실제 세정력은 써봐야 알겠어요. 저렴하게 잘사긴 했는데 습기에 약하다고 해서 지퍼백 보관중이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "3",
+    "Syllable": "149",
+    "Word": "33",
+    "RDate": "20210830",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "세제향이 너무 많이 나네요ㅠㅠ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "지퍼백에 넣어서 보관했는데도 근처에 가면 향이 나네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "실제 세정력은 써봐야 알겠어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘사긴 했는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370961",
+    "RawText": "사진에서 오른쪽 컵이 비포 왼쪽 컵이 애프터랍니다. 세척력 좋은 게 확실하지요. 물비린내 안나서 좋습니다. 참고로 주문 후 2주만에 도착했으니 배송은 오래 걸립니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "22",
+    "RDate": "20210830",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력 좋은 게 확실하지요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "물비린내 안나서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370967",
+    "RawText": "상품이 케이스에 담겨 오는줄 알았는데 리필팩이네요. 성능은 아직 사용전이라 잘모르겠구요~향은 좀 강한것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "4",
+    "Syllable": "63",
+    "Word": "13",
+    "RDate": "20210819",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "케이스에 담겨 오는줄 알았는데 리필팩이네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 좀 강한것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능은 아직 사용전이라 잘모르겠구요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "370970",
+    "RawText": "해외배송인데 빨리 왔네요. 세정력은 식기세척기 세제 중 최고봉인 듯해요. 근데 세제냄새는 강한편이라 좀 불편합니다. 기름때 많은 설거지 땐 이만한 것이 없지요~ㅋ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "21",
+    "RDate": "20210811",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력은 식기세척기 세제 중 최고봉인 듯해요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "세제냄새는 강한편이라 좀 불편합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "기름때 많은 설거지 땐 이만한 것이 없지요~ㅋ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "370978",
+    "RawText": "세척력 비교해 놓은 정보를 보고 애벌이 불필요한 세제이면서 식기세척기 내부 세척도 된다고 해서 샀어요. 한번 써 봤는데 생각보다 세제 냄새도 많이 안나고 세척력도 엄청 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플** 식기세척기 세제 92개입 1개",
+    "ReviewScore": "4",
+    "Syllable": "98",
+    "Word": "25",
+    "RDate": "20210804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 생각보다 세제 냄새도 많이 안나고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력도 엄청 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,3068 @@
+[
+  {
+    "Index": "405197",
+    "RawText": "딸아이가 좋아할 향이라 생각했는데 너무 달콤해서 뿌리면 별로입니다. 이불에 뿌렸는데 향도 너무 금방 사라지네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20220304",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "딸아이가 좋아할 향이라 생각했는데 너무 달콤해서 뿌리면 별로입니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "이불에 뿌렸는데 향도 너무 금방 사라지네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405206",
+    "RawText": "향이 너무 약해서 맘에 들지 않습니다. 가격이 높아 기대치가 높았는데 품질이 별로입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "4",
+    "Syllable": "49",
+    "Word": "12",
+    "RDate": "20220221",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 약해서 맘에 들지 않습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격이 높아 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 별로입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405207",
+    "RawText": "뿌리고 금방 향이 사라집니다. 냄새 나는 신발에 뿌렸는데 탈취 효과도 없는지 발 냄새도 그대로입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20220221",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "뿌리고 금방 향이 사라집니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": " 탈취 효과도 없는지 발 냄새도 그대로입니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405209",
+    "RawText": "향이 너무 강해서 뿌리고 창문 열어야 하네요.  뿌릴 때 샥샥 분사가 제대로 되지 않고 자꾸 물방울처럼 나와서 짜증나요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "4",
+    "Syllable": "67",
+    "Word": "18",
+    "RDate": "20220220",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 강해서 뿌리고 창문 열어야 하네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "분사력",
+        "SentimentText": "뿌릴 때 샥샥 분사가 제대로 되지 않고 자꾸 물방울처럼 나와서 짜증나요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405217",
+    "RawText": "OOO는 세제만 써봤는데 OO로는 처음 사용하네요. 세제나 유연제로 사용할 때도 OOO 향은  오래가고 좋았는데  역시  OO로 쓰는 것도 향도 좋고 은은함이 오래 가니 잘 산듯 하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "104",
+    "Word": "26",
+    "RDate": "20220211",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "은은함이 오래 가니",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "405219",
+    "RawText": "하루만에 받았는데 향이 진해서 머리가 아프네요. 향이 제 스타일은 아닌것 같아요. 포장은 깔끔하고 뽁뽁이로 안전하게 해서 보내 주셨어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20220211",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 진해서 머리가 아프네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 제 스타일은 아닌것 같아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405229",
+    "RawText": "향이 정말 별로입니다.  강아지 오줌 냄새 제거 하려고 샀는데 뿌리고 5분 지나면 다시 오줌 냄새가 나는 걸 보니 지속력이 현저히 떨어지는 느낌입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "22",
+    "RDate": "20220207",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 정말 별로입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "뿌리고 5분 지나면 다시 오줌 냄새가 나는 걸 보니 지속력이 현저히 떨어지는 느낌입니다.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405235",
+    "RawText": "OOOO 섬유탈취제 OOO향 920ml 2개 양은 맘에 들어요. 그런데 조금만 더 저렴했으면 좋겠습니다. 배송은 빨라서 좋았어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "4",
+    "Syllable": "72",
+    "Word": "16",
+    "RDate": "20220127",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양은 맘에 들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 조금만 더 저렴했으면 좋겠습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405239",
+    "RawText": "용량이 너무 커서 들고 뿌리기 힘들어요. 내가 생각했던 향이 아니고 너무 단 향이 나서 마음에 들지 않고요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "17",
+    "RDate": "20220121",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 너무 커서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "내가 생각했던 향이 아니고 너무 단 향이 나서 마음에 들지 않고요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "들고 뿌리기 힘들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405243",
+    "RawText": "확실히 예전보다 OOOO 가격이 많이 올랐네요. 그래도 이 브랜드만한게 없어서 구매했는데 가격이 좀만 더 저렴하면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "4",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20220118",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "예전보다 OOOO 가격이 많이 올랐네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀만 더 저렴하면 좋겠어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405247",
+    "RawText": "기본만 쓰다 이번에 바꿨는데 신세계 같습니다.  지속력도 긴 것 같고 향이 참 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "13",
+    "RDate": "20220114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "지속력도 긴 것 같고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 참 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "405249",
+    "RawText": "재고 없데서 늦을까봐 걱정했는데 빨리 왔어요  에어는 처음 사용해 보는데 효과가 좋지는 않네요. 냄새가 적어지긴 하는데 그래도 나네요.  큰 효과가 없어서 임시방편으로나 사용해야죠. 담에는 화장실용 쎈거로 사야겠어요. 옆집 음식냄새가 환풍기로 역류하는데 너무 괴롭네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "3",
+    "Syllable": "149",
+    "Word": "33",
+    "RDate": "20220112",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 에어는 처음 사용해 보는데 효과가 좋지는 않네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "냄새가 적어지긴 하는데 그래도 나네요.  ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "큰 효과가 없어서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "임시방편으로나 사용해야죠.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405256",
+    "RawText": "OO 무향 쓰다가 바꿔 봤네요.  처음에는 좀 독해서 그냥 그랬는데 계속 맡으니 향 나쁘지 않네요. 배송도 빠르고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "18",
+    "RDate": "20220101",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "처음에는 좀 독해서 그냥 그랬는데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "계속 맡으니 향 나쁘지 않네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "405261",
+    "RawText": "꾸준히 주문해서 쓰고 있는데 향이 너무 좋네요.  옷에 밴 고기냄새도 다음날되면 말끔하게 사라져서 좋습니다. 그런데 뿌릴때 분무기 부분이 약한지 줄줄 세서 손에 다 묻어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "24",
+    "RDate": "20211222",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 좋네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": " 옷에 밴 고기냄새도 다음날되면 말끔하게 사라져서 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "뿌릴때 분무기 부분이 약한지 줄줄 세서 손에 다 묻어요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405263",
+    "RawText": "이 향기는 대용량 리필 제품이 없어서 아쉬워요 그래도 용량대비  가격은 적당해서 구매했어요.  향은 이 제품이 더 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20211217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "용량대비  가격은 적당해서 구매했어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 이 제품이 더 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량 리필 제품이 없어서 아쉬워요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405268",
+    "RawText": "아들옷이나 내옷에 늘 잘 씁니다. 꽃향이 은은하니 좋아요. 오래 가지는 않아요. 탈취력도 나쁘지 않아요. 만족해서 또 주문할게요~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20211203",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아들옷이나 내옷에 늘 잘 씁니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 꽃향이 은은하니 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "오래 가지는 않아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "탈취력도 나쁘지 않아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "405269",
+    "RawText": "워낙 잘 쓰던건데 요즘 이 제품은 사기가 어렵네요. 가격이 전보다 많이 올랐어요. 가격이 좀 내렸으면 좋겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "4",
+    "Syllable": "61",
+    "Word": "16",
+    "RDate": "20211202",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 전보다 많이 올랐어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 내렸으면 좋겠어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405271",
+    "RawText": "무료 배송인데 빠르기까지해서 좋았습니다. 다만 가격이 다른 탈취제에 비해 너무 비싸고 향이 제 취향이 아니라 재구매는 하지 않을것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20211125",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 다른 탈취제에 비해 너무 비싸고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 제 취향이 아니라 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405279",
+    "RawText": "해외 수입된 제품인지 스티커 자체가 다른데 가격도 좀 비싼듯한 느낌이네요. 늘 사용하던 향을 고른건데 해외제품이라 그런지 향이 좀 더 센 것 같아서 별로네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "23",
+    "RDate": "20211110",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좀 비싼듯한 느낌이네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "사용하던 향을 고른건데 해외제품이라 그런지 향이 좀 더 센 것 같아서 별로네요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405280",
+    "RawText": "늘 쓰던 제품입니다. 오프보다 온라인이 더 싸길래 구입했네요. 향이 오래가진 않지만 탈취력은 좋아서 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20211109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "오프보다 온라인이 더 싸길래 구입했네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향이 오래가진 않지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "탈취력은 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "405288",
+    "RawText": "휴대용으로 가지고 다니려고 구매했는데 제가 원했던거보다 크기가 너무 커서 안되겠네요. 창고형마트보다 가격도 더 비싸서 재구매는 안할듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "17",
+    "RDate": "20211028",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "제가 원했던거보다 크기가 너무 커서 안되겠네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "창고형마트보다 가격도 더 비싸서 재구매는 안할듯 합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405291",
+    "RawText": "향기도 좋고 배송도 빠르고 가격도 저렴해서 좋습니다. 주변 지인들한테 추천했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "10",
+    "RDate": "20211023",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "405299",
+    "RawText": "꽃향기 나는 섬유유연제 같은 향이 나서 좋습니다. 우리 집 남자들 땀냄새 때문에 상쾌한향 써 봤는데 그 보다는 꽃향이 그냥 더 나은 듯 합니다. 2통이나 되어 아주 넉넉하니 한동안 걱정없이 사용할 듯 해서 기쁘네요. 이불, 옷 등등 가리지 않고 팍팍 뿌려서 좋은 향이 가득하기를 기대합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "162",
+    "Word": "44",
+    "RDate": "20211006",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "꽃향기 나는 섬유유연제 같은 향이 나서 좋습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 상쾌한향 써 봤는데 그 보다는 꽃향이 그냥 더 나은 듯 합니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "2통이나 되어 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "아주 넉넉하니 한동안 걱정없이 사용할 듯 해서 기쁘네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 이불, 옷 등등 가리지 않고 팍팍 뿌려서 좋은 향이 가득하기를 기대합니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "405300",
+    "RawText": "타 사이트보다 비싸게 산것 같아요. 향도 생각보다 너무 독해서 다 쓰면 재구매 하지는 않을것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "15",
+    "RDate": "20211005",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "타 사이트보다 비싸게 산것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 생각보다 너무 독해서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405301",
+    "RawText": "OOO 향이 생각보다 연해서 아쉽습니다. 외출후 뿌려주려고 구매했는데 탈취효과가 안좋아서 하나마나네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "4",
+    "Syllable": "57",
+    "Word": "11",
+    "RDate": "20211001",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "OOO 향이 생각보다 연해서 아쉽습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "탈취효과가 안좋아서 하나마나네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405304",
+    "RawText": "생각보다 품질도 별로고 가성비도 안좋은것 같습니다. 온가족이 사용하려고 구매했는데 향이 독해서 가족들도 싫어하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "13",
+    "RDate": "20210927",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "생각보다 품질도 별로고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비도 안좋은것 같습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 독해서 가족들도 싫어하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405307",
+    "RawText": "항상 사용하는 향이고 좋아하는 향이에요. 그래서 구매했습니다. 용량이 많고 착한 가격이라 더 좋습니다. 항상 만족하며 사용합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "4",
+    "Syllable": "72",
+    "Word": "16",
+    "RDate": "20210926",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "항상 사용하는 향이고 좋아하는 향이에요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한 가격이라 더 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "405309",
+    "RawText": "기대했던것보다 탈취력이 떨어지네요. 제품에 비해 가격이 너무 비싼거 같습니다. 리필이 같이 구성되어 있으면 좋았을텐데 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "15",
+    "RDate": "20210923",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "기대했던것보다 탈취력이 떨어지네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "제품에 비해 가격이 너무 비싼거 같습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "리필이 같이 구성되어 있으면 좋았을텐데 아쉽네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405358",
+    "RawText": "탈취력 향 모두 좋습니다. 착한가격에 좋은제품 잘구매했네요 감사해요~~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "39",
+    "Word": "8",
+    "RDate": "20210626",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "탈취력 향 모두 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향 모두 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한가격에 좋은제품 잘구매했네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "405364",
+    "RawText": "향도 좋고 분무시 적당량 뿌려지고 냄새도 잘 잡아줍니다. 지속력도 만족스러워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20210612",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "분사력",
+        "SentimentText": " 분무시 적당량 뿌려지고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": " 냄새도 잘 잡아줍니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": " 지속력도 만족스러워요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "405371",
+    "RawText": "가격이 타사이트보다 비싼편이네요. 항상 이용하는 상품인데 비싸게 산것 같아 아쉽습니다. 재구매는 여기서는 안할거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "14",
+    "RDate": "20210524",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 타사이트보다 비싼편이네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸게 산것 같아 아쉽습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405373",
+    "RawText": "OOOO의 OOO향을 타 사이트보다 더 비싸게 산것 같아 아쉽습니다. 작은용량으로도 판매하면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "12",
+    "RDate": "20210516",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "타 사이트보다 더 비싸게 산것 같아 아쉽습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "작은용량으로도 판매하면 좋겠습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "405374",
+    "RawText": "배송은 빠릅니다. 급히 필요해서 구매했으나 마트보다 더 비싼 가격이라 여기서 재구매하진 않을듯 합니다. 가격조정이 필요할듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "16",
+    "RDate": "20210515",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트보다 더 비싼 가격이라 여기서 재구매하진 않을듯 합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격조정이 필요할듯 합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405381",
+    "RawText": "항상 쓰는 제품이라 새로운 향으로 구매해 봤습니다. 향이 생각보다 너무 약해서 아쉽습니다. 다음에는 다른 향으로 구매해야 할 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "19",
+    "RDate": "20210429",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 생각보다 너무 약해서 아쉽습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "다음에는 다른 향으로 구매해야 할 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405384",
+    "RawText": "향은 생각했던 거랑 좀 달랐지만 나쁘지 않아요. 용량도 많고  저희 온 가족이 쓰기에 향이 진하지 않고 무난해요. 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "18",
+    "RDate": "20210427",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 생각했던 거랑 좀 달랐지만 나쁘지 않아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 많고  ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 진하지 않고 무난해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "405385",
+    "RawText": "매번 구매하는 제품입니다. 급히 필요해서 비교해보지 않고 샀더니 다른 곳보다 훨씬 비싸게 구매했네요. 좀 더 저렴하게 살 수 있으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "20",
+    "RDate": "20210427",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 곳보다 훨씬 비싸게 구매했네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좀 더 저렴하게 살 수 있으면 좋겠습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405393",
+    "RawText": "대용량이라 좋습니다. 1+1 이라서 좋고 차량 비치용과 집에 두고 사용하기 편하네요.  가성비도 너무 좋은데 향도 좀 오래 갔으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "4",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20210410",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "1+1 이라서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "차량 비치용과 집에 두고 사용하기 편하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비도 너무 좋은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향도 좀 오래 갔으면 좋겠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "405406",
+    "RawText": "OOOO는 OOO향이 좋아요. 향도 좋구요 탈취력도 좋네요. 언제나 이것만 사용하고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20210321",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋구요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "탈취력도 좋네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "405410",
+    "RawText": "혹시 파손될까 걱정했는데 다행히 잘 도착했네요. 분사할때마다 액체가 조금씩 밑으로 흘러서 안좋네요. 용기 개선이 필요할것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "16",
+    "RDate": "20210317",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "분사할때마다 액체가 조금씩 밑으로 흘러서 안좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기 개선이 필요할것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405411",
+    "RawText": "배송 빠르게 잘 받았습니다. 타 사이트보다 비싸게 구매해서 아쉽네요. 다음번엔 이곳 말고 더 저렴한 곳에서 구매하려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20210311",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "타 사이트보다 비싸게 구매해서 아쉽네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "다음번엔 이곳 말고 더 저렴한 곳에서 구매하려고 합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405424",
+    "RawText": "용량도 많아서 좋긴 합니다. 스프레이 뿌릴 때 분무 쪽에서 줄줄 세서 손에 다 묻어요. 이거 뿌릴 때마다 장갑 껴야 하는 불편함이 있습니다. 향은 나쁘지 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "4",
+    "Syllable": "90",
+    "Word": "25",
+    "RDate": "20210208",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 많아서 좋긴 합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "스프레이 뿌릴 때 분무 쪽에서 줄줄 세서 손에 다 묻어요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "이거 뿌릴 때마다 장갑 껴야 하는 불편함이 있습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 나쁘지 않네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "405437",
+    "RawText": "배송은 빠르게 잘 도착했어요. 사용해보니 향이 제 취향이 아니라 아쉽네요. 타 탈취제보다 가격도 비싼 편이라 재구매는 안할듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20210120",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "사용해보니 향이 제 취향이 아니라 아쉽네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "타 탈취제보다 가격도 비싼 편이라 재구매는 안할듯 합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405453",
+    "RawText": "향도 좋고 오래 가고 이거  뿌리고 나가면 사람들이 향수 뭐 쓰냐고 꼬옥 물어보네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "13",
+    "RDate": "20201107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "오래 가고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "이거  뿌리고 나가면 사람들이 향수 뭐 쓰냐고 꼬옥 물어보네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "405459",
+    "RawText": "용량은 많아서 좋지만 솔직히 제가 좋아하는향은 아닙니다~ 다만 용도가 섬유탈취제이니까 탈취기능에 충실하다면 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "3",
+    "Syllable": "65",
+    "Word": "13",
+    "RDate": "20200916",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량은 많아서 좋지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "제가 좋아하는향은 아닙니다~ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "탈취기능에 충실하다면 만족해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "405476",
+    "RawText": "용기가 핑크색인데 투명하지 않아서 내용물이 얼마나 남았는지 볼 수가 없어서 좀 별로네요. 배송이 좀 오래 걸려요. 가격은 여기가 제일 저렴해요. 향은 보통이에요. 잘 쓸께요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 다** 섬유탈취제 920ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "24",
+    "RDate": "20200609",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기가 핑크색인데 투명하지 않아서 내용물이 얼마나 남았는지 볼 수가 없어서 좀 별로네요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 여기가 제일 저렴해요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 보통이에요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "405487",
+    "RawText": "생각보다 사이즈가 너무 작아서 아쉽습니다. 제습도 잘 안되는거 같아서 재구매는 안할듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20220830",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "생각보다 사이즈가 너무 작아서 아쉽습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "제습도 잘 안되는거 같아서 재구매는 안할듯 합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405488",
+    "RawText": "장마 시작하기 전에 여기저기 비치해두려고 구매했어요. 사용하기 편리하고, 성능이 적당하고, 작은 구슬 모양으로 참 예쁘네요.  최고네요.~~^ 보통보다 조금 비싼 게 흠입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "21",
+    "RDate": "20220830",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 편리하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능이 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "작은 구슬 모양으로 참 예쁘네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "보통보다 조금 비싼 게 흠입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405498",
+    "RawText": "빨리 배송되었습니다. 여름 장마철 습하고 더워서 구매했는데 제습력이 떨어집니다. 효과가 너무 떨어져 집안 곳곳 두개씩 넣어두었습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "4",
+    "Syllable": "74",
+    "Word": "16",
+    "RDate": "20220809",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "제습력이 떨어집니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과가 너무 떨어져 집안 곳곳 두개씩 넣어두었습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405500",
+    "RawText": "여름대비해서 급하게 샀더니 가격이 제일 비쌀때 샀습니다. 아직 사용해보진 않았지만 제습효과라도 좋길 바래봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "13",
+    "RDate": "20220806",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 제일 비쌀때 샀습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "제습효과라도 좋길 바래봅니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "405503",
+    "RawText": "급하게 샀더니 너무 비싼 가격으로 샀네요. 가성비가 떨어져요. 기대했던것보다 제습효과가 떨어져서 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "12",
+    "RDate": "20220803",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "너무 비싼 가격으로 샀네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 떨어져요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "기대했던것보다 제습효과가 떨어져서 아쉽습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405508",
+    "RawText": "적립금을 이용해 산걸 감안해도 비싼편이네요. 가성비 별로입니다. 제습력도 생각보다 안좋아서 재구매는 안할듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "13",
+    "RDate": "20220726",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금을 이용해 산걸 감안해도 비싼편이네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 별로입니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "제습력도 생각보다 안좋아서 재구매는 안할듯 합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405509",
+    "RawText": "제습력이 떨어져 두개씩 사용하니 가성비가 안나옵니다. 가격대비 품질이 떨어져서 재구매는 안할듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "4",
+    "Syllable": "57",
+    "Word": "12",
+    "RDate": "20220723",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "제습력이 떨어져 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "두개씩 사용하니 가성비가 안나옵니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 품질이 떨어져서 재구매는 안할듯 합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405510",
+    "RawText": "여기저기 놓아두기에 무난할거 같아 구매했는데 색상이 생각보다 칙칙합니다. 차라리 밝은 색상이면 저희집에는 더 좋았을것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "15",
+    "RDate": "20220722",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 생각보다 칙칙합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "차라리 밝은 색상이면 저희집에는 더 좋았을것 같네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405517",
+    "RawText": "요즘같은 장마철에 습기제거제 필수라 구매했어요. 장마철에는 제습력이 좋아야하는데 이 제품은 생각보다 제습력이 안좋네요. 가성비 별로입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "4",
+    "Syllable": "77",
+    "Word": "15",
+    "RDate": "20220715",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "이 제품은 생각보다 제습력이 안좋네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 별로입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405523",
+    "RawText": "장마철을 맞이하여 가성비 좋은 제습제를 구매했네요. 습기도 금방 흡수해서 좋습니다. 빠른 배송해 주셔서 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20220627",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은 제습제를 구매했네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "습기도 금방 흡수해서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "405524",
+    "RawText": "정말 빠르게 배송되었습니다. 처음 사용해보는 상품이라 상품평 믿고 바로 구매했는데 타 사이트보다 너무 비싸게 구매했네요. 기대했는데 제습이 생각보다 빨리 되지 않네요. 받자마자 바로 집안 곳곳에 배치했는데도 제습력이 너무 떨어집니다. 가성비 별로인듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "143",
+    "Word": "31",
+    "RDate": "20220624",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "타 사이트보다 너무 비싸게 구매했네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "제습이 생각보다 빨리 되지 않네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "받자마자 바로 집안 곳곳에 배치했는데도 제습력이 너무 떨어집니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 별로인듯합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405529",
+    "RawText": "배송 잘 받았습니다. 항상 OOOOO 제품만 써서 구매했습니다. 그런데 이번에는 불량이 너무 많네요. 교환하기 귀찮아 새로 주문했는데 가성비 안나오는 느낌입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "20",
+    "RDate": "20220516",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "이번에는 불량이 너무 많네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 안나오는 느낌입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405545",
+    "RawText": "배송 빠르게 잘 받았습니다. 다만 타 사이트보다 비교적 비싸게 구매한것 같아서 가격면에서 아쉽네요. 가성비가 안나옵니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20220301",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "타 사이트보다 비교적 비싸게 구매한것 같아서 가격면에서 아쉽네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 안나옵니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405550",
+    "RawText": "처음 구매해보는 제품이네요. 습기 제거도 잘 되면 좋겠고 안에있는 제형도 잘 녹아서 분리수거가 쉽게 되면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20220111",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "습기 제거도 잘 되면 좋겠고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "제형도 잘 녹아서 분리수거가 쉽게 되면 좋겠네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "405562",
+    "RawText": "기대했던것 보다 품질이 좋지 않은거 같아서 아쉽습니다. 제습력이 생각보다 떨어지네요. 가성비가 안좋은 느낌이에요. 배송은 빠릅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "15",
+    "RDate": "20211206",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "기대했던것 보다 품질이 좋지 않은거 같아서 아쉽습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "제습력이 생각보다 떨어지네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 안좋은 느낌이에요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405564",
+    "RawText": "가격도 타 사이트보다 비싸고 구성도 너무 많아서 부담스럽네요. 집이 좁아서 소량인 구성도 판매하면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20211203",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 타 사이트보다 비싸고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 너무 많아서 부담스럽네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "집이 좁아서 소량인 구성도 판매하면 좋겠습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "405569",
+    "RawText": "재구매해서 사용중입니다. 가성비도 좋고 배송도 빨랐어요. 무엇보다도 성능이 정말 좋네요. 물 차는거 보면 제습이 제대로 되는거 같아서 안심이 됩니다. 또 재구매예정이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "21",
+    "RDate": "20211114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "무엇보다도 성능이 정말 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "물 차는거 보면 제습이 제대로 되는거 같아서 안심이 됩니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "405574",
+    "RawText": "가격대비 구성된 수량이 많은것 같진 않습니다. 저희집은 24개 구성으로는 턱없이 부족하네요. 배송은 빠르고 하자없이 안전하게 잘 받았지만 배송 이외에 가성비로는 별로인듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "22",
+    "RDate": "20211110",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "가격대비 구성된 수량이 많은것 같진 않습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "24개 구성으로는 턱없이 부족하네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비로는 별로인듯 합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405583",
+    "RawText": "1년에 2번씩 구입하고 있습니다. 저희집에는 24개 구성이 아무래도 모자라서 더 구입해야겠습니다. 가성비 별로인 느낌입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "14",
+    "RDate": "20211025",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "24개 구성이 아무래도 모자라서 더 구입해야겠습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 별로인 느낌입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405586",
+    "RawText": "상품 품질은 좋네요. 향도 마음에 듭니다. 그러나 배송이 좀 별로예요. 배송 날짜 문자도 안오고 너무 도착을 안해서 전화 해봐야 하나 하고 있는데 엉뚱한 곳에서 택배 찾아가라고 연락이 와서 황당했네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "112",
+    "Word": "29",
+    "RDate": "20211023",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질은 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 마음에 듭니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "405589",
+    "RawText": "가격은 비싼 편인것 같고 배송은 빠릅니다. 집앞까지 편하게 배송해주니 비싸지만 구매했습니다. 처음 사용해보는데 옷장과 이불장에서 생각하는것 보다는 습기제거가 잘 안되는 것 같습니다. 보송보송 하게 해주길 기대했는데 그렇지 않네요. 용기가 분리수거도 귀찮은감이 좀 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "4",
+    "Syllable": "152",
+    "Word": "33",
+    "RDate": "20211020",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싼 편인것 같고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸지만 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "옷장과 이불장에서 생각하는것 보다는 습기제거가 잘 안되는 것 같습니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "보송보송 하게 해주길 기대했는데 그렇지 않네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기가 분리수거도 귀찮은감이 좀 있습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405592",
+    "RawText": "가격 성능 모두 기대했던것보다 불만족스럽네요. 주기적으로 사야하는데 이 제품은 가성비가 별로여서 재구매는 안할듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "13",
+    "RDate": "20211018",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 성능 모두 기대했던것보다 불만족스럽네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능 모두 기대했던것보다 불만족스럽네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 제품은 가성비가 별로여서 재구매는 안할듯합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405593",
+    "RawText": "배송이 너무 빨리 도착해서 잘 받았어요. OO 제습제 제품은 지금도 사용하고 있는데요. 비드형이 제습력이 더 좋다고 하더라고요. 가격 비싼 게 흠이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "21",
+    "RDate": "20211017",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "비드형이 제습력이 더 좋다고 하더라고요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 비싼 게 흠이에요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405607",
+    "RawText": "배송 빠르고, 상품은 잘 받았어요. 아직 사용 전이기는 한데 비드형이라 맘에 들어요. 가격은 비싸네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20211005",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "아직 사용 전이기는 한데 비드형이라 맘에 들어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405614",
+    "RawText": "일반형 쓰다가 이번에 비드형 처음시켜봤는데 습기 잘 빨았으면 좋겠네요. 가격은 좀 비싸다는 게 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20210916",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "습기 잘 빨았으면 좋겠네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 좀 비싸다는 게 아쉽네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405619",
+    "RawText": "제습제는 항상 OO 꺼 사용합니다. 매번 재구매합니다. 제형이 깔끔하고 알록달록 하지 않아서 좋아요. 신제품인 것 같은데 제습력 좋으면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "19",
+    "RDate": "20210908",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 깔끔하고 알록달록 하지 않아서 좋아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "신제품인 것 같은데 제습력 좋으면 좋겠네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "405624",
+    "RawText": "한번 사용했는데 지속력 좋은 것 같아요. 한 달 만에 교체한 것 같아요. 제습력도 나쁘지 않고요. 가격만 좀 싸면 좋을 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "3",
+    "Syllable": "73",
+    "Word": "21",
+    "RDate": "20210904",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "한번 사용했는데 지속력 좋은 것 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "제습력도 나쁘지 않고요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격만 좀 싸면 좋을 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405629",
+    "RawText": "제습제는 비슷해서 가성비 좋은 것으로 구매합니다. 비드형 구입했는데 맘에 들어요.  보통 제습제보다 흡습력 월등히 좋길 바랍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "16",
+    "RDate": "20210830",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가성비 좋은 것으로 구매합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "비드형 구입했는데 맘에 들어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "보통 제습제보다 흡습력 월등히 좋길 바랍니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "405630",
+    "RawText": "처음 사용하는건데 습기가 많아서 그런지는 몰라도 생각보다 빨리 물이 차서 당황스럽네요. 지속력이 별로인 것 같아요. 괜히 비싼 거 샀나 싶네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "20",
+    "RDate": "20210826",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "습기가 많아서 그런지는 몰라도 생각보다 빨리 물이 차서 당황스럽네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "지속력이 별로인 것 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "괜히 비싼 거 샀나 싶네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405634",
+    "RawText": "어마어마한 양을 저렴한 가격에 구입했습니다. 그래도 일반 제품보다는 좀 비싼 편이라 품질도 기대되네요. 배송도 빠르고 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20210822",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "어마어마한 양을 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 구입했습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "그래도 일반 제품보다는 좀 비싼 편이라",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 품질도 기대되네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "405641",
+    "RawText": "아직 사용해 보지는 않았지만 저렴한 가격에 구매해서 좋습니다. 집안 곳곳 여기저기 습기 제거하는데 활용하기 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20210820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 구매해서 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "집안 곳곳 여기저기 습기 제거하는데 활용하기 좋아요 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "405650",
+    "RawText": "OO 제습제만 사용하는데 이번에 구입하게 됐어요. 완전 총알배송이네요. 장마철 시작되니까 여기저기 꿉꿉해지기 시작하는데 구석진 곳에 두면 제습 효과가 좋아요. 우리집 습기 다 가져가는 도둑이 되면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "115",
+    "Word": "26",
+    "RDate": "20210819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "구석진 곳에 두면 제습 효과가 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "우리집 습기 다 가져가는 도둑이 되면 좋겠네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "405652",
+    "RawText": "OOO 제습제만 사용합니다. 이번에도 구입했는데 총알배송해 주셔 감사합니다. 가격도 저렴하고 제습력도 좋아서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "13",
+    "RDate": "20210819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "제습력도 좋아서 만족합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "405656",
+    "RawText": "배송료 부담해도 할인율이 크길래 저렴하게 샀어요. 비드형 저는 좋아합니다. 좀 비싼 게 흠이에요. 엄마하고 나눠 쓰려고요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20210817",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인율이 크길래 저렴하게 샀어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "비드형 저는 좋아합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 좀 비싼 게 흠이에요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405664",
+    "RawText": "타제품보다 평균 용량 50ml 정도 적게 들어 있네요. 비드형 맘에 들어요. 다 쓰고 또 구입할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "15",
+    "RDate": "20210813",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "타제품보다 평균 용량 50ml 정도 적게 들어 있네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": " 비드형 맘에 들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "405666",
+    "RawText": "자주 애용하는 제습제입니다. 비드형은 처음인데 좋네요.  제습력도 월등하기를 기대해요. 친구한테 추천해야 되겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "4",
+    "Syllable": "64",
+    "Word": "12",
+    "RDate": "20210813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "비드형은 처음인데 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "제습력도 월등하기를 기대해요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "405669",
+    "RawText": "세일도 해서 저렴하게 샀습니다. 습기 제거력 나쁘지 않아요. 용기도 심플하니 좋네요  효과 기대됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일도 해서 저렴하게 샀습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": " 습기 제거력 나쁘지 않아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기도 심플하니 좋네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과 기대됩니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "405695",
+    "RawText": "2박스 이상 무배라 두 박스 사서 구석구석 넣으니 거의 한 박스 다 썼네요.  제습력 좋은지 벌써 물이 많이 찼어요. 비드형 나쁘지 않은 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "24",
+    "RDate": "20210806",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "제습력 좋은지 벌써 물이 많이 찼어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "비드형 나쁘지 않은 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "405700",
+    "RawText": "장마철 시작되어서 주문했네요. 배송 빨라요.  OO 제습제 품질 나쁘지 않아요.  제습력도 가장 좋은 것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20210805",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "OO 제습제 품질 나쁘지 않아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": " 제습력도 가장 좋은 것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "405703",
+    "RawText": "품질 나쁘지 않아요. 제습력도 무난해요. 마음에 쏙 듭니다. 제습제들 가격도 많이 오르던데 이 제품 가격은 안 오르면 좋겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "18",
+    "RDate": "20210804",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 나쁘지 않아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "제습력도 무난해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 제품 가격은 안 오르면 좋겠어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "405704",
+    "RawText": "습기가 많은 집인데 넉넉한 양이 있으니 이곳 저곳에 둘 수 있어 마음이 든든합니다. 제습력도 좋았으면 하고 기대해 봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "18",
+    "RDate": "20210804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "넉넉한 양이 있으니 이곳 저곳에 둘 수 있어 마음이 든든합니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "제습력도 좋았으면 하고 기대해 봅니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "405706",
+    "RawText": "구슬형이라 훨씬 효과가 좋은것 같아요. 습기 다 흡수해서  우리집 보송보송해지면 좋겠어요. 이제부터 이 상품만 쭈욱 구매하려구요. 옷장이랑 서랍에 두면 올 여름철 습기 걱정 없겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "24",
+    "RDate": "20210804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "구슬형이라 훨씬 효과가 좋은것 같아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "습기 다 흡수해서  우리집 보송보송해지면 좋겠어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "옷장이랑 서랍에 두면 올 여름철 습기 걱정 없겠어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "405721",
+    "RawText": "작년에 대용량 제습제 사서 일년동안 잘 사용하였습니다. 이번에 옷장 정리하며 구매하려고 보니 비드형이라고 있어서 주문해 보았습니다. 옷장의 습기를 금방 흡수합니다. 용기의 색상이 검정, 회색이라서 무난합니다. 일단은 흡수율이 좋아 만족해요.  사용이 완료된 것 처리하는 게 상당히 번거로운데  비닐 팩에 든 제품이 새로 나왔다는 데 그 제품이 더 편한지 주문해 봐야겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "209",
+    "Word": "49",
+    "RDate": "20210802",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "옷장의 습기를 금방 흡수합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "용기의 색상이 검정, 회색이라서 무난합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "일단은 흡수율이 좋아 만족해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용이 완료된 것 처리하는 게 상당히 번거로운데",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405724",
+    "RawText": "날씨가 습해서 바로 구매했어요. 비드형이라 맘에 들어요. 비오는 날 써봤는데 제습력 나쁘지 않네요. 일반 제습제보다 약간 비쌉니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20210801",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "비드형이라 맘에 들어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "비오는 날 써봤는데 제습력 나쁘지 않네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 일반 제습제보다 약간 비쌉니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405734",
+    "RawText": "장마라고 구석구석 넣어두었는데 비가 많이 내리질 않네요. 좋아해야 되는 건지 어째야 되는 건지 당황스러워요. 일반형보다 비싸게 주고 샀으니  습기 잘 먹어주길 기다려 봐야죠.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "23",
+    "RDate": "20210801",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "일반형보다 비싸게 주고 샀으니",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "습기 잘 먹어주길 기다려 봐야죠",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "장마라고 구석구석 넣어두었는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "405738",
+    "RawText": "여름엔 제습제를 많이 쓰게 되는데 한꺼번에 넉넉히 사놓으니 좋네요. 구슬 모양 마음에 들어서 샀는데 제습력 좋으면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20210731",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "한꺼번에 넉넉히 사 놓으니 좋네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "구슬 모양 마음에 들어서 샀는데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "제습력 좋으면 좋겠어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "405739",
+    "RawText": "늘 쓰던 제품인데 여기가 배송 포함 가장 쌉니다. 양이 너무 많아서 부담스럽긴 하네요. 집안 곳곳에 사용하면 좋을 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "19",
+    "RDate": "20210731",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 배송 포함 가장 쌉니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 너무 많아서 부담스럽긴 하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "집안 곳곳에 사용하면 좋을 것 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "405748",
+    "RawText": "장롱속 신발장 등 여러곳에 눅눅해서 활용하고 있어요. 넣어 놓은지 얼마 안되서 효과가 있는지 아직은 눈에 보이질 않지만 효과가 있으리라 기대해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "20",
+    "RDate": "20210729",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "장롱속 신발장 등 여러곳에 눅눅해서 활용하고 있어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과가 있는지 아직은 눈에 보이질 않지만 효과가 있으리라 기대해요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "405750",
+    "RawText": "디자인이 문제입니다. 사용 전이라 습기 제거는 잘 모르겠지만 집안 인테리어를 망칠 것 같아서 반품합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20210729",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 문제입니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "습기 제거는 잘 모르겠지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "집안 인테리어를 망칠 것 같아서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405754",
+    "RawText": "꿉꿉한 곳은 어디든지 편리하게 둘수 있어서 너무 좋습니다. 구슬형 사봤는데  나쁘지 않아요. 올 여름 습기는 이 구슬이 다 먹어 주기를 기대합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "21",
+    "RDate": "20210727",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "꿉꿉한 곳은 어디든지 편리하게 둘수 있어서 너무 좋습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "구슬형 사봤는데 나쁘지 않아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": " 올 여름 습기는 이 구슬이 다 먹어 주기를 기대합니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "405757",
+    "RawText": "사시사철 사용하는 제품이지만 여름에는 습기 때문에 교체 주기가 짧아지는 것 같습니다. 습기 제거가 잘 안되면 옷에 곰팡이와 옷에서 냄새가 나기 때문에 습기 제거제와 방향제는 필수 제품이더라구요. 가격도 저렴하고 제습도 빨리되고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "132",
+    "Word": "31",
+    "RDate": "20210727",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "제습도 빨리되고 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "405758",
+    "RawText": "매번 사는 제품입니다. 항상 만족해요. 사용성 무난합니다. 이제 제습력만 기다리면 될 듯 합니다. 제조일자도 좋고 배송도 안전하고 빠르게 잘 왔어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "20",
+    "RDate": "20210726",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용성 무난합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "이제 제습력만 기다리면 될 듯 합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "405762",
+    "RawText": "OOOOO 제습제 처음 주문했는데 양은 넉넉해서 좋아요. 그런데 뚜껑이 잘 안 열리고 내용물도 벌써 끈적거리는 게 몇 개 보여서 아쉽네요. 다음에는  다른 제품 구매하려고요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "24",
+    "RDate": "20210723",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양은 넉넉해서 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "뚜껑이 잘 안 열리고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "내용물도 벌써 끈적거리는 게 몇 개 보여서 아쉽네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "405763",
+    "RawText": "품질 나쁘지 않아 보이고 가격 저렴하게 잘 구매 한 것 같습니다. 친구가 써보고 추천해서 구매했네요. 내년에 또 구매할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "18",
+    "RDate": "20210723",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 나쁘지 않아 보이고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격 저렴하게 잘 구매 한 것 같습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "405764",
+    "RawText": "안방, 아이들방.신발장, 드레스룸. 창고에 골고루 넣어놓고 사용하기 좋아요. 제습력 좋기를 기대합니다. 다음에 또 구매해야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 제습제 비드형 520ml 24개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "14",
+    "RDate": "20210723",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "안방, 아이들방.신발장, 드레스룸. 창고에 골고루 넣어놓고 사용하기 좋아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "제습력 좋기를 기대합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  }
+]

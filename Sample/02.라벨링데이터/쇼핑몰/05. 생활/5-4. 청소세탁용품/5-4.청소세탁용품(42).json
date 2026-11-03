@@ -1,0 +1,3218 @@
+[
+  {
+    "Index": "527599",
+    "RawText": "흔들림있다는 평 있어서 살짝 걱정했는데 괜찮습니다  생각보다 빨래가 많이 들어가지는 않아요 자주 세탁기 돌려야겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20220413",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "흔들림있다는 평 있어서 살짝 걱정했는데 괜찮습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "생각보다 빨래가 많이 들어가지는 않아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "527601",
+    "RawText": "조립도 쉽고 사용하기도 좋을거 같네요 바구니별로 구분되고 수납도 가능해서 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20220412",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립도 쉽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기도 좋을거 같네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "바구니별로 구분되고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "수납도 가능해서 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527603",
+    "RawText": "이 상품 나오기를 기다렸어요. 빨래를 종류별로 구분하기 위해서 눈여겨보고 있었던건데 드디어 상품으로 나왔더라구요. 바로 구매했습니다.  조립도 너무 쉽고, 사이즈도 1인가족용이라 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "104",
+    "Word": "21",
+    "RDate": "20220412",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립도 너무 쉽고,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈도 1인가족용이라 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527605",
+    "RawText": "좀 허술해보이긴 하네요 그래도 정리박스로는 괜찮아요 참 바스켓이 생각보다 작아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "3",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20220412",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "좀 허술해보이긴 하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "정리박스로는 괜찮아요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "바스켓이 생각보다 작아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "527606",
+    "RawText": "한달정도 사용했는데 제품에 이상은 없네요 조립은 많이 쉽습니다. 근데 설명서 꼼꼼히 읽어야합니다 윗부분 조립 틀려 빼느라 진땀흘렸어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "17",
+    "RDate": "20220411",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품에 이상은 없네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립은 많이 쉽습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "윗부분 조립 틀려 빼느라 진땀흘렸어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "527611",
+    "RawText": "천천히 설명서 보면서 조립하면 간단하게 잘 됩니다. 맨 아래 기둥만 잘 보고 조립하면 쉽게 되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "15",
+    "RDate": "20220407",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "천천히 설명서 보면서 조립하면 간단하게 잘 됩니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "기둥만 잘 보고 조립하면 쉽게 되네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527614",
+    "RawText": "가격대비좋습니다. 생각보다 많이크진않네요  소가족 기준에 수납공간은 괜찮아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "7",
+    "RDate": "20220405",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비좋습니다. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "생각보다 많이크진않네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "소가족 기준에 수납공간은 괜찮아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527616",
+    "RawText": "고민하다 구입했네요 자리도 많이 차지하지않아서 좋고 아이들옷 색깔옷 따로 구분해서 넣을수있어서 편하네요 맨위칸 세제는 놓기에는 조금 흔들거립니다 작고 가벼운 물건 놓기에는 좋구요 맨 아래칸은 빨래를 다하고 꺼낼때 주로 사용하고 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "130",
+    "Word": "30",
+    "RDate": "20220403",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "자리도 많이 차지하지않아서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아이들옷 색깔옷 따로 구분해서 넣을수있어서 편하네요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "맨위칸 세제는 놓기에는 조금 흔들거립니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "작고 가벼운 물건 놓기에는 좋구요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 맨 아래칸은 빨래를 다하고 꺼낼때 주로 사용하고 있어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527621",
+    "RawText": "조립이 쉬워 맘에 듭니다 바구니는 더 큰게 좋았을것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "32",
+    "Word": "9",
+    "RDate": "20220330",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립이 쉬워 맘에 듭니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "바구니는 더 큰게 좋았을것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "527624",
+    "RawText": "마음에 드네요 2단3단이 기울어져 있어 너무 좋아요 생각보다 가볍고 생각보다 튼튼해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20220327",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "2단3단이 기울어져 있어 너무 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각보다 가볍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "생각보다 튼튼해요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527631",
+    "RawText": "재활용 정리용으로 구매했습니다. 빠른 배송 고맙습니다. 조립하기도 쉬워요. 바퀴가 있어서 이동이 편리해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "12",
+    "RDate": "20220322",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립하기도 쉬워요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "바퀴가 있어서 이동이 편리해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527639",
+    "RawText": "색갈별로 분류해서 세탁물을 나눠서 쓰기 좋습니다 상단에 손소독제 등 올려두고 쓰니 편합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20220318",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "색갈별로 분류해서 세탁물을 나눠서 쓰기 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "상단에 손소독제 등 올려두고 쓰니 편합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527643",
+    "RawText": "많이 가벼워 맨위에 세재 올리긴 부담됩니다 그래도 빨래구분하긴 딱 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "40",
+    "Word": "10",
+    "RDate": "20220316",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "많이 가벼워",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "맨위에 세재 올리긴 부담됩니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "빨래구분하긴 딱 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527644",
+    "RawText": "세탁바구니 2개로 사용하다가 3단으로 2개 구매해서 바꿨는데 종류별로 분류도 하고 세탁하기 더 편해져서 좋네요 생각보다 튼튼한거 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "17",
+    "RDate": "20220315",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "종류별로 분류도 하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "세탁하기 더 편해져서 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "생각보다 튼튼한거 같습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527646",
+    "RawText": "쿠폰 써써 저렴하게 주문했어요 아주 튼튼하지 않지만 적당히 튼튼합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "38",
+    "Word": "9",
+    "RDate": "20220315",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 써써 저렴하게 주문했어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "아주 튼튼하지 않지만 적당히 튼튼합니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "527653",
+    "RawText": "디자인 좋고 활용성 가격 다 좋습니다. 조립도 간단하네요. 세탁실이 깔끔하게 정리되어 아주 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20220315",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "활용성 가격 다 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 다 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립도 간단하네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "세탁실이 깔끔하게 정리되어 아주 만족합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527657",
+    "RawText": "공간이좁아서 고민하다가 샀어요. 맨밑칸에는 그냥 올려두는 형식이라 빨래꺼내기 더 편합니다. 세일해서 가격도 저렴하게 사서 맘에 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "16",
+    "RDate": "20220314",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "맨밑칸에는 그냥 올려두는 형식이라 빨래꺼내기 더 편합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일해서 가격도 저렴하게 사서 맘에 들어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527669",
+    "RawText": "조립하는데 크게 어렵진 않았어요 사용하기도 나름 괜찮구요 힘이 좀 약해보이기는 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20220311",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립하는데 크게 어렵진 않았어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기도 나름 괜찮구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "힘이 좀 약해보이기는 하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "527672",
+    "RawText": "사길 잘했네요 정리가 되니 화장실이 깔끔해졌습니다. 견고성이 조금 떨어지지만 그것빼곤 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "11",
+    "RDate": "20220310",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "정리가 되니 화장실이 깔끔해졌습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "견고성이 조금 떨어지지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "527675",
+    "RawText": "생각보다 배송이 빠르네요. 세워졌을때 생각보다 가벼운 느낌입니다 흔들거려서 살짝 건드리면 넘어질거 같아요. 그래서 아래거 빼서 위로 비스듬이 올리고 아래에 세제들 세워 안정성있게 쓰고 있어요. 이정도면 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "119",
+    "Word": "26",
+    "RDate": "20220309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각보다 가벼운 느낌입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "흔들거려서 살짝 건드리면 넘어질거 같아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "527681",
+    "RawText": "맘에 듭니다. 배송도 빠르네여 설명서 보고 조립 하니 쉽고 완성하니 만족스럽습니다. 마감이 조금 거칠어 칼로 땄습니다. 맨 위, 중간은 스윙이라 빨래넣는 각도가 좋은데 맨 밑 바구니는 수평이라 빨래를 던질수 없어 아쉬움이 있네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "128",
+    "Word": "32",
+    "RDate": "20220306",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "설명서 보고 조립 하니 쉽고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감이 조금 거칠어 칼로 땄습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "맨 위, 중간은 스윙이라 빨래넣는 각도가 좋은데",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "맨 밑 바구니는 수평이라 빨래를 던질수 없어 아쉬움이 있네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "527685",
+    "RawText": "친정엄마한테 선물로 보내드렸는데 사용하기 편리하다고 정말 좋아하시네요. 조립도 쉽고 ㅇㅇㅇㅇ이라 배송도 빨라서 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "13",
+    "RDate": "20220304",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 편리하다고 정말 좋아하시네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립도 쉽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527691",
+    "RawText": "조립도 간편하고 세탁기 옆에 놓으니 깔끔해 보입니다 빨래를 분류해 넣어도 되고 살때 고민했는데 사용해보니 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20220303",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립도 간편하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "세탁기 옆에 놓으니 깔끔해 보입니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "빨래를 분류해 넣어도 되고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용해보니 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527700",
+    "RawText": "디자인이 너무 마음에 드네요. 다만 위에 바구니를 뺄수 없는게 너무 불편합니다. 생각보다 약해보이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20220301",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 너무 마음에 드네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "위에 바구니를 뺄수 없는게 너무 불편합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "생각보다 약해보이네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "527705",
+    "RawText": "다용도실이 비좁아서 걱정했는데 사이즈가 다행히 딱 맞아서 좋네요. 생각보다 약해보입니다. 그래도 잘 쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20220227",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈가 다행히 딱 맞아서 좋네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "생각보다 약해보입니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "527706",
+    "RawText": "날짜 챙겨서 쿠폰 잘 받아 만오천원 정도에 구매했습니다. 조립도 쉽고 완성품도 깔끔하고 이쁩니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20220226",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 잘 받아 만오천원 정도에 구매했습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립도 쉽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "완성품도 깔끔하고 이쁩니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527707",
+    "RawText": "조립이 너무 쉽구요 사이즈가 넉넉해요 바퀴가 잘 안굴러가 살짝 아쉽지만 만족해요. 집이 한결 더 깨끗해진것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20220226",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립이 너무 쉽구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈가 넉넉해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "바퀴가 잘 안굴러가 살짝 아쉽지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "527708",
+    "RawText": "가성비 제품이네요  튼튼하고 안정감이 있는건 아니지만 편하고 가볍게 쓸 수 있어요 빈 공간에 딱 맞아떨어져 잘 쓸 수 있을거 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "73",
+    "Word": "20",
+    "RDate": "20220226",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 제품이네요  ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고 안정감이 있는건 아니지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하고 가볍게 쓸 수 있어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "빈 공간에 딱 맞아떨어져 잘 쓸 수 있을거 같아요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527723",
+    "RawText": "아이보리색상 3단빨래통이 깨끗하고 실용성도 좋네요 요가격에 정말 잘 샀어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "42",
+    "Word": "9",
+    "RDate": "20220221",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깨끗하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "실용성도 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "요가격에 정말 잘 샀어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527726",
+    "RawText": "작은 바구니가 약간 작은듯하지만  조립이 간단하고 실용성있어 보여 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "41",
+    "Word": "9",
+    "RDate": "20220220",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "작은 바구니가 약간 작은듯하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립이 간단하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "실용성있어 보여 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527740",
+    "RawText": "저렴하게잘구매했습니다 약간검은게묻긴했지만 닦아서 잘사용하겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "35",
+    "Word": "4",
+    "RDate": "20220216",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게잘구매했습니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 약간검은게묻긴했지만",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "527741",
+    "RawText": "이동식 스윙 3단 빨래바구니를 몇 차례 보다가 구매했어요 설치하니 흰색이 고급져보이네요 그런데 좀 불편합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20220216",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "흰색이 고급져보이네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 좀 불편합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "527749",
+    "RawText": "덕분에 세탁실 베란다 청소중이네요. 조립이 생각보다 쉽네요. 사이즈도 이정도면 적당하고요. 잘 쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "12",
+    "RDate": "20220215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립이 생각보다 쉽네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈도 이정도면 적당하고요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527754",
+    "RawText": "조립이 간단해서 좋아요 상품은 완전 만족합니다 다만 바구니 하나 끝쪽이 깨져서 왔네요  안보이는 곳이라서 그냥 쓰긴할건데 꼼꼼한 검수 부탁드려요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "80",
+    "Word": "19",
+    "RDate": "20220211",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립이 간단해서 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "바구니 하나 끝쪽이 깨져서 왔네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "527756",
+    "RawText": "깔끔하게 종류별로 구분할수 있어서 좋아요  드럼세탁기 옆에 두고 쓰면 좋을것 같구요 크기도 아주 적당합니다. 보기에는 괜찮은데 불량만 아니길 바래봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "19",
+    "RDate": "20220208",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "깔끔하게 종류별로 구분할수 있어서 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "드럼세탁기 옆에 두고 쓰면 좋을것 같구요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기도 아주 적당합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "보기에는 괜찮은데 불량만 아니길 바래봅니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "527758",
+    "RawText": "분리수거 물품을 보관하기에 공간이 협소해 분리형 바구니가 필요해서 구입했다. 좀 더 큰 대용량으로 살걸 그랬네요 바퀴도 마구 움직이지않고 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "81",
+    "Word": "19",
+    "RDate": "20220207",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "좀 더 큰 대용량으로 살걸 그랬네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "바퀴도 마구 움직이지않고 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527764",
+    "RawText": "빨래감을 구분해서 놓으니 편하네요. 부피도 많이 차지 하지 않습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "37",
+    "Word": "9",
+    "RDate": "20220131",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "빨래감을 구분해서 놓으니 편하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 부피도 많이 차지 하지 않습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527771",
+    "RawText": "조립은 간단한데 기둥 끼울때 부러질까봐 걱정했어요 3단인데도 높이가 꽤 높아 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20220127",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립은 간단한데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "기둥 끼울때 부러질까봐 걱정했어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "3단인데도 높이가 꽤 높아 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527773",
+    "RawText": "색상과 디자인도 괜찮구요. 조립도 간단하고 플라스틱 냄새도 없고 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "39",
+    "Word": "9",
+    "RDate": "20220127",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상과 디자인도 괜찮구요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 괜찮구요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립도 간단하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "플라스틱 냄새도 없고 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527774",
+    "RawText": "세번째 구매했습니다. 이번은 지인부탁으로 구매했는데 튼튼하다고 좋아하네요. 바퀴가 예전보다 세련되어졌네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "59",
+    "Word": "10",
+    "RDate": "20220126",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하다고 좋아하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "바퀴가 예전보다 세련되어졌네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527777",
+    "RawText": "사용하기 편해요 근데 약해요 조금만 더 튼튼했으면 좋았겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "34",
+    "Word": "8",
+    "RDate": "20220124",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 편해요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "약해요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 조금만 더 튼튼했으면 좋았겠습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "527798",
+    "RawText": "사진상으로 보는 것보다 실제로 사용해보니 빨래바구니가 작아도 너무 작습니다 빨래가 얼마 안 들어가요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "3",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20211231",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "빨래바구니가 작아도 너무 작습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "빨래가 얼마 안 들어가요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "527806",
+    "RawText": "너무 좋네요 단점이 있다면 잘못 끼웠을 때 기둥이 부셔지지 않는이상 뺄수 없다는 거 아래 큰 바구니와 가운데 바구니 사이 간격 높이가 조금 더 높으면 큰 바구니에 빨래 넣기가 더 편하다는 생각을 해봤네요 다른 건 다 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "124",
+    "Word": "36",
+    "RDate": "20211225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "잘못 끼웠을 때 기둥이 부셔지지 않는이상 뺄수 없다는 거",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이/폭/두께",
+        "SentimentText": "바구니 사이 간격 높이가 조금 더 높으면",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "큰 바구니에 빨래 넣기가 더 편하다는 생각을 해봤네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "527810",
+    "RawText": "바구니 사이즈 넉넉하고 3개나 있어서 실용적이네요 화이트라 색상 좋고 조립 5분만에 했어요 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20211222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "바구니 사이즈 넉넉하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "3개나 있어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "실용적이네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "화이트라 색상 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립 5분만에 했어요 만족합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527828",
+    "RawText": "현관에 놓고 아이 학교갈 때 가져갈 간식거리 쟁겨놓으려고 샀는데 사용하기 아주 편하네요. 다만 플라스틱이라서 높이가 있어서 기둥이 앞쪽으로 휘어요 쓰러지진 않겠지만 마치쓰러지거나 부러질 것 같아 신경쓰이긴 해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "117",
+    "Word": "27",
+    "RDate": "20211211",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 아주 편하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/소재",
+        "SentimentText": "플라스틱이라서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "높이가 있어서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "기둥이 앞쪽으로 휘어요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 쓰러지진 않겠지만 마치쓰러지거나 부러질 것 같아 신경쓰이긴 해요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "527832",
+    "RawText": "배송은 엄청 빨라요 만원정도 저렴해서 좋네요 조립이 쉽네요 맘에 꼭 듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "41",
+    "Word": "11",
+    "RDate": "20211210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "만원정도 저렴해서 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립이 쉽네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527833",
+    "RawText": "조립할때 기둥봉을 잘못 끼워서 빼는데 엄청 고생했어요. 많이 부셔져서 힘들었어요. 부서진곳은 마스킹 테이프로 발랐어요. 사용하다 다시 재구매해야겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "3",
+    "Syllable": "83",
+    "Word": "17",
+    "RDate": "20211210",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립할때 기둥봉을 잘못 끼워서 빼는데 엄청 고생했어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "많이 부셔져서 힘들었어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "부서진곳은 마스킹 테이프로 발랐어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "527843",
+    "RawText": "조립하기 쉽습니다 힘을 줘서 해야하는 부분도 있긴하지만 가성비좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "38",
+    "Word": "8",
+    "RDate": "20211205",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립하기 쉽습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "힘을 줘서 해야하는 부분도 있긴하지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비좋습니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527846",
+    "RawText": "마지막 바구니에 넣기가 좀 힘드네요 공간차지 많이 안해서 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "36",
+    "Word": "9",
+    "RDate": "20211204",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "마지막 바구니에 넣기가 좀 힘드네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "공간차지 많이 안해서 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527849",
+    "RawText": "기둥 힘이 약하고 바구니가 좀 더 컸으면 좋겠어요. 겨울옷 두꺼운거 넣으니 몇개 넣으니 꽉 차네요. 대신 바구니가 여러개라 빨래 분리도 쉽고 디자인이 깨끗해서 보기는 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "97",
+    "Word": "25",
+    "RDate": "20211203",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "기둥 힘이 약하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "바구니가 좀 더 컸으면 좋겠어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "겨울옷 두꺼운거 넣으니 몇개 넣으니 꽉 차네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "바구니가 여러개라 빨래 분리도 쉽고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 깨끗해서 보기는 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527856",
+    "RawText": "조립은 정말 쉽습니다 비좁던 부분을 치우고 수직형으로 설치하니 공간활용도 너무 좋구요 바구니도 따로 이용할 수 있어서 더 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20211201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립은 정말 쉽습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "공간활용도 너무 좋구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "바구니도 따로 이용할 수 있어서 더 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527861",
+    "RawText": "깔끔하니 빨래가 정리됩니다 윗쪽 두개통은 생각보다 작습니다 맨아래쪽 통은 이동이 용이해서 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20211130",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "깔끔하니 빨래가 정리됩니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "윗쪽 두개통은 생각보다 작습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "맨아래쪽 통은 이동이 용이해서 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527863",
+    "RawText": "생각보다 기둥이 너무 견고해서 끼우는게 진짜 힘들었습니다 끼우는데 힘이 진짜 많이 들었네요 왠만한 여자분들은 혼자 못끼우실듯 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20211129",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "생각보다 기둥이 너무 견고해서 끼우는게 진짜 힘들었습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "끼우는데 힘이 진짜 많이 들었네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "왠만한 여자분들은 혼자 못끼우실듯 하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "527869",
+    "RawText": "세탁실 정리 깔끔하게 됐어요  설명서 잘읽어보면 조립 쉽게 가능합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "38",
+    "Word": "9",
+    "RDate": "20211126",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "세탁실 정리 깔끔하게 됐어요  ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "설명서 잘읽어보면 조립 쉽게 가능합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527870",
+    "RawText": "플라스틱 마무리가 5%로 부족하게 좀 빡세요. 가격은 착합니다 나름 정리가 되서 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "12",
+    "RDate": "20211126",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "플라스틱 마무리가 5%로 부족하게 좀 빡세요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 착합니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "나름 정리가 되서 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527873",
+    "RawText": "빨래를 분류해서 담아놓을수 있어서 편해요 빨래돌릴때마다 색깔별로 뒤적거리지 않아도 되니 너무 좋아요 근데 위에 두칸 바구니가좀작긴합니다 매일빨면괜찮지만 며칠씩 묶혀두고빨면 불편하겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "20",
+    "RDate": "20211126",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "빨래를 분류해서 담아놓을수 있어서 편해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "빨래돌릴때마다 색깔별로 뒤적거리지 않아도 되니 너무 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "두칸 바구니가좀작긴합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "매일빨면괜찮지만 며칠씩 묶혀두고빨면 불편하겠네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "527892",
+    "RawText": "조립하기도 쉽고 빨래 구분해서 넣을수 있어서 좋네요 맨 밑에 바퀴는 안달고 써도 될듯합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "13",
+    "RDate": "20211121",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립하기도 쉽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "빨래 구분해서 넣을수 있어서 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527895",
+    "RawText": "정리가 잘되서 깔끔하게 보기도 좋다 한개더 구입해서 세탁기 옆을 정리해도 좋을것 같네요. 사이즈도 딱 알맞다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20211120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "정리가 잘되서 깔끔하게 보기도 좋다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈도 딱 알맞다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527904",
+    "RawText": "생각보다는 작습니다 약해서 세제 맨 위에 올렸더니 불안 그래도 이동 빨래 바구니 있어 세탁물 널기 편해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "3",
+    "Syllable": "58",
+    "Word": "16",
+    "RDate": "20211118",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "생각보다는 작습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "약해서 세제 맨 위에 올렸더니 불안",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "이동 빨래 바구니 있어 세탁물 널기 편해요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527905",
+    "RawText": "조립하는것도 쉽고 공간차지도 별로 안해서 좋아요 바구니에 액상세제 올려놓으니 흔드리는게 힘이 약하다는 생각이 드네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20211117",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립하는것도 쉽고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "공간차지도 별로 안해서 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "바구니에 액상세제 올려놓으니 흔드리는게 힘이 약하다는 생각이 드네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "527909",
+    "RawText": "진짜 저렴하게 잘 샀네요. ㅇㅇㅇ 쇼핑에서 가장 저렴한게 2만원대였는데 여기가 훨씬 저렴해요. 가볍고 세탁물 나눔해서 넣으니까 훨씬 깔끔해보이고 많이 담을 수 있어서 좋습니다. 너무 가벼워서 무너지거나 그러지 않을까 걱정했는데 튼튼합니다 움직이면 위에 덜렁거릴까봐 걱정했는데 위에 내용물은 중심 잘 잡고 있어서 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "177",
+    "Word": "41",
+    "RDate": "20211116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "진짜 저렴하게 잘 샀네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 훨씬 저렴해요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": " 많이 담을 수 있어서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "너무 가벼워서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "내용물은 중심 잘 잡고 있어서 좋네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "세탁물 나눔해서 넣으니까 훨씬 깔끔해보이고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527910",
+    "RawText": "빨래 바구니가 생각보다는 약간 작은 느낌이 있네요. 저렴하게 2개를 구입할 수 있어서 좋다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "13",
+    "RDate": "20211116",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "빨래 바구니가 생각보다는 약간 작은 느낌이 있네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 2개를 구입할 수 있어서 좋다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527911",
+    "RawText": "손녀 장난감 바구니로 사용하기 딱 좋습니다. 조립이 어렵지 않고 쉬워요. 배송도 빨라서 참 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "55",
+    "Word": "14",
+    "RDate": "20211116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손녀 장난감 바구니로 사용하기 딱 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립이 어렵지 않고 쉬워요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527923",
+    "RawText": "휘청거리네요 기둥에 힘이 별로 없습니다 선반위는 활용도가 별로입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "37",
+    "Word": "8",
+    "RDate": "20211111",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "휘청거리네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "기둥에 힘이 별로 없습니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "선반위는 활용도가 별로입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "527924",
+    "RawText": "제품은 무사히 잘 왔어요. 조립할때 잘못 끼웠다가 뺄때가 더 힘듬. 빨래감 분리 굳~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "47",
+    "Word": "13",
+    "RDate": "20211111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립할때 잘못 끼웠다가 뺄때가 더 힘듬. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "빨래감 분리 굳~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527927",
+    "RawText": "내구성이 그렇게 좋아보이지 않습니다실용적이긴 하네요.조립할때 설명서 잘보고 하셔야 되세요.잘못 끼워 뺄때 힘들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "64",
+    "Word": "12",
+    "RDate": "20211111",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "내구성이 그렇게 좋아보이지 않습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "실용적이긴 하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립할때 설명서 잘보고 하셔야 되세요. 잘못 끼워 뺄때 힘들어요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "527930",
+    "RawText": "가격대비 좋습니다 분리수거용으로 구입했어요. 설명서만 잘 따라하면 조립은 정말 쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "10",
+    "RDate": "20211110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "설명서만 잘 따라하면 조립은 정말 쉽네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527933",
+    "RawText": "가성비 최고인 제품이네요 조립하기가 좀 힘들긴 합니다 맘에 들어서 하나 더 주문했어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "12",
+    "RDate": "20211109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 최고인 제품이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립하기가 좀 힘들긴 합니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "527941",
+    "RawText": "제품 조립은 힘이 약간 필요했지만 쉬운 편이라 금방 했어요 깔끔하고 쓰기 좋은 것 같네요. 약간 작은감이 있지만 애들꺼, 아빠꺼 따로 담아 놓기 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "23",
+    "RDate": "20211107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "제품 조립은 힘이 약간 필요했지만 쉬운 편이라 금방 했어요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "약간 작은감이 있지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "애들꺼, 아빠꺼 따로 담아 놓기 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "쓰기 좋은 것 같네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527965",
+    "RawText": "빨래를 분리해서 보관후 세탁하니 위생에도 정말 좋구요 인테리어에도 환해보이고 너무 좋네요 조립도 저혼자 하기 쉬웠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20211103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "빨래를 분리해서 보관후 세탁하니 위생에도 정말 좋구요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "인테리어에도 환해보이고 너무 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립도 저혼자 하기 쉬웠어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527970",
+    "RawText": "상품 품질도 매우 만족스럽고 가격도 저렴해서 아주 만족스럽습니다. 잘 사용할게요 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "11",
+    "RDate": "20211102",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질도 매우 만족스럽고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527975",
+    "RawText": "튼튼하네요 조립도 정말 쉬워요 가격도 착해서 잘 산것 같습니다 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "40",
+    "Word": "10",
+    "RDate": "20211030",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립도 정말 쉬워요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527976",
+    "RawText": "마감이 날카로운 부분이 있어서 손다치지 않게 조심해야 하네요. 조립하기엔 쉬웠어요 조금씩 아쉬운 부분은 있지만 잘 사용중입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20211030",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감이 날카로운 부분이 있어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "손다치지 않게 조심해야 하네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립하기엔 쉬웠어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527979",
+    "RawText": "세탁기 옆에 놨는데 사이즈 딱이네요 칸칸에 색대로 수건도 따로 분류해서 세탁하기 너무 편해졌습니다 진작 구입할걸 후회됩니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20211028",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈 딱이네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "칸칸에 색대로 수건도 따로 분류해서 세탁하기 너무 편해졌습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527983",
+    "RawText": "조립다하고 맨윗부분 보니 깨져있어요.번거로워서 그냥 쓰기는 하는데 기분은 쫌. 상품은 절개부분이 깔끔하지는 않지만 쓸만해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "69",
+    "Word": "14",
+    "RDate": "20211027",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "조립다하고 맨윗부분 보니 깨져있어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품은 절개부분이 깔끔하지는 않지만 쓸만해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "527984",
+    "RawText": "조립할때 끼우는게 너무 빡빡해서 힘들어요 다하고 나니 깔끔해보여 좋긴 하네요 처음에 잘못끼우는 바람에 빼는게 힘들었네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20211027",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립할때 끼우는게 너무 빡빡해서 힘들어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔해보여 좋긴 하네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "처음에 잘못끼우는 바람에 빼는게 힘들었네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "527985",
+    "RawText": "틈세 끼우기가 조금힘들었네요 그것외에는 가격에 가성비 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "34",
+    "Word": "7",
+    "RDate": "20211027",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "틈세 끼우기가 조금힘들었네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격에 가성비 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "527995",
+    "RawText": "조립하는게 약간 뻑뻑 했지만 좋습니다. 다만 통풍 구멍이 여럿 있으면 하는 아쉬움은 있어요. 생각보다 약한것 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20211025",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립하는게 약간 뻑뻑 했지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "생각보다 약한것 같네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "528003",
+    "RawText": "튼튼합니다 조립도 간단해서 좋습니다 다만 분리할때는 너무 힘들어서 설명서 꼭 읽고 조립하세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20211023",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립도 간단해서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "분리할때는 너무 힘들어서 설명서 꼭 읽고 조립하세요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "528010",
+    "RawText": "분류해 담을 수 있고 큰 바구니는 빨래 널때도 쓰고 좋습니다 깨진부분있었는데 바로 교환해주네요. 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20211020",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "분류해 담을 수 있고 큰 바구니는 빨래 널때도 쓰고 좋습니다 ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "깨진부분있었는데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "528018",
+    "RawText": "조금 약한듯 보이네요 그래도 색깔별로 빨래구분하기 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "32",
+    "Word": "7",
+    "RDate": "20211019",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "조금 약한듯 보이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "색깔별로 빨래구분하기 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "528020",
+    "RawText": "수납공간도 알맞게 구성되어있네요. 칸칸별로 분리가 됩니다 3단 구성이라 좋네요 이 가격에 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20211018",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "수납공간도 알맞게 구성되어있네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "칸칸별로 분리가 됩니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 3단 구성이라 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 가격에 만족해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "528021",
+    "RawText": "조립하는건 정말 쉽네요 디자인도 깔끔해서 좋습니다 다만 해체할때 부서지는 약한 내구성이 아쉽네요 바구니를 잘못 꼽아서 억지로 빼는 도중 금이 가 버렸어요 다행이 조립에는 지장없어 잘 마무리는 지었습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "112",
+    "Word": "27",
+    "RDate": "20211018",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립하는건 정말 쉽네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔해서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "해체할때 부서지는 약한 내구성이 아쉽네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "바구니를 잘못 꼽아서 억지로 빼는 도중 금이 가 버렸어요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "528024",
+    "RawText": "설치하기 간단하고 크기도 적당합니다 디자인도 깔끔해서 다용도로 쓸모있군요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "40",
+    "Word": "8",
+    "RDate": "20211017",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "설치하기 간단하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기도 적당합니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 다용도로 쓸모있군요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "528026",
+    "RawText": "배송이 너무늦어요 한 일주일정도 걸린 것 같네요. 바구니 조립하는건 쉬워요. 세워두니 디자인이 깔끔해서 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "3",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20211017",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "바구니 조립하는건 쉬워요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 깔끔해서 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "528034",
+    "RawText": "조립하기 쉬워서 금방 했어요~ 빨래할때마다 옷, 수건, 속옷, 양말 분리하면서 빨기 번거로웠는데 이 빨래바구니로 나눠서 빨래감 넣을수 있으니 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "19",
+    "RDate": "20211014",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립하기 쉬워서 금방 했어요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "빨래바구니로 나눠서 빨래감 넣을수 있으니 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "528041",
+    "RawText": "색상 디자인 좋습니다 조립도 정말 간편하네요 위 2개의 바구니가 조금 더 컸으면 하는 마음도 살짝 있네요 바구니 채로 분리가 가능해 분리수거함으로도 좋을것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "23",
+    "RDate": "20211012",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 디자인 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립도 정말 간편하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "위 2개의 바구니가 조금 더 컸으면 하는 마음도 살짝 있네요 ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "바구니 채로 분리가 가능해 분리수거함으로도 좋을것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "528047",
+    "RawText": "생각보다 밑에 바퀴가 있어 중심이 약합니다 빨래감도 많이는 넣을수 없어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "3",
+    "Syllable": "40",
+    "Word": "10",
+    "RDate": "20211009",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "생각보다 밑에 바퀴가 있어 중심이 약합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "빨래감도 많이는 넣을수 없어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "528051",
+    "RawText": "생각보다작습니다 혼자 써야할 정도의 사이즈입니다 제일큰통에청바지두세개들어가네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "3",
+    "Syllable": "43",
+    "Word": "6",
+    "RDate": "20211007",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "생각보다작습니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "혼자 써야할 정도의 사이즈입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "제일큰통에청바지두세개들어가네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "528060",
+    "RawText": "조립할때 조금의 힘이 들어가네요 그래도 그정도면 깔끔하고 좋아요 맨아래 바구니빼고 위두칸은 사이즈가 좀 작아서 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20211006",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립할때 조금의 힘이 들어가네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔하고 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "위두칸은 사이즈가 좀 작아서 아쉽네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "528061",
+    "RawText": "윗쪽은 좀 힘이 없는느낌입니다 주로 아래통만 따로 사용합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "33",
+    "Word": "8",
+    "RDate": "20211006",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "윗쪽은 좀 힘이 없는느낌입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "주로 아래통만 따로 사용합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "528069",
+    "RawText": "바퀴가 그렇게 짱짱하진 않아요 조립은 쉬운편이고 다용도로 잘 쓸것 같네요 다만 첫번째 두번째 바구니는 생각보다 유용하게 쓰이진 않아 보입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20211004",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "바퀴가 그렇게 짱짱하진 않아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "조립은 쉬운편이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "다용도로 잘 쓸것 같네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "첫번째 두번째 바구니는 생각보다 유용하게 쓰이진 않아 보입니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "528070",
+    "RawText": "사이즈도 좋구요 가격에비해 품질도 괜찮아요 상품설명서보면서 순서대로 잘 하시면 조립도 할만해요 제품은 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "13",
+    "RDate": "20211004",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "사이즈도 좋구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격에비해 품질도 괜찮아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조립성",
+        "SentimentText": "상품설명서보면서 순서대로 잘 하시면 조립도 할만해요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "528074",
+    "RawText": "맨 아래 바구니는 세탁 후 빨래 담아내기 좋습니다. 가격이 싸다는 생각은 안들어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "45",
+    "Word": "12",
+    "RDate": "20211004",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "맨 아래 바구니는 세탁 후 빨래 담아내기 좋습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 싸다는 생각은 안들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "528077",
+    "RawText": "생각보다 자리늘 차지하긴 합니다 젖은 옷이나 색깔옷 구분하기에 편해서 좋습니다. 색상이 화이트라 때는 탈거 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20211003",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "생각보다 자리늘 차지하긴 합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "수납/건조공간",
+        "SentimentText": "젖은 옷이나 색깔옷 구분하기에 편해서 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 화이트라 때는 탈거 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "528078",
+    "RawText": "가장 밑에 있는 바구니가 살짝 불편하긴 하네요 그래도 공간을 효율적으로 활용할 수 있어서 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "14",
+    "RDate": "20211003",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "가장 밑에 있는 바구니가 살짝 불편하긴 하네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 공간을 효율적으로 활용할 수 있어서 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "528079",
+    "RawText": "주문했는데 불량을 받았어요. 상담받았는데 이렇게 친절하게 신경써주신 업체 처음이네요 사진은 다른업체 바구니 사진인데 색상이 여기 업체 그레이가 더 이쁘고 맘에 드네요. 색상은 보통이예요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "4",
+    "Syllable": "104",
+    "Word": "23",
+    "RDate": "20211003",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "주문했는데 불량을 받았어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 보통이예요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "528083",
+    "RawText": "디자인 좋고 실용성 면에서도 좋아요 그런데 마무리가 깔끔하지는 않네요 플라스틱이 바구니 안에 들어 있어 한번 딱고 사용해야 할듯 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "3",
+    "Syllable": "75",
+    "Word": "19",
+    "RDate": "20211002",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "실용성 면에서도 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "마무리가 깔끔하지는 않네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "플라스틱이 바구니 안에 들어 있어 한번 딱고 사용해야 할듯 하네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "528087",
+    "RawText": "저렴하게 구매했다 크게 기대한 제품은 아니지만 쓸만하군요 다만 마감상태가 깔끔하지는 않습니다 맨아래 바구니에 빨래넣기가 불편해서 중간꺼는 못쓰겠어요 잘쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "3",
+    "Syllable": "89",
+    "Word": "18",
+    "RDate": "20211002",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매했다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감상태가 깔끔하지는 않습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "맨아래 바구니에 빨래넣기가 불편해서 중간꺼는 못쓰겠어요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "528101",
+    "RawText": "하체부터 양쪽 기둥이 허약하네요 부실하니 건들거려요 다른것들 사세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "청소/세탁용품",
+    "ProductName": "OO 아** 이동식 빨래바구니 3단",
+    "ReviewScore": "2",
+    "Syllable": "37",
+    "Word": "8",
+    "RDate": "20210930",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "하체부터 양쪽 기둥이 허약하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "부실하니 건들거려요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  }
+]

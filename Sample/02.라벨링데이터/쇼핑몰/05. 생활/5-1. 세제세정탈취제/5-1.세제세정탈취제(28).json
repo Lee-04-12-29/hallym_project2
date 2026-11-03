@@ -1,0 +1,3272 @@
+[
+  {
+    "Index": "340188",
+    "RawText": "딸아이 기숙사 들어갈 때 보내려고 구입했는데 향이 좋습니다. 양이 정말 많아서 절반 덜어 줬네요. 빨래나 깨끗이 잘 되면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "19",
+    "RDate": "20220303",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 정말 많아서 절반 덜어 줬네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 빨래나 깨끗이 잘 되면 좋겠습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "340192",
+    "RawText": "가루세제를 사용하니 세탁 후 가루들이 남는게 싫어서 시트 세제를 선택했어요. 가격은 비싸지만 찌꺼기가 남지 않아서 좋습니다. 종종 이용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "18",
+    "RDate": "20220302",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "찌꺼기가 남지 않아서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "가루세제를 사용하니 세탁 후 가루들이 남는게 싫어서 시트 세제를 선택했어요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340195",
+    "RawText": "향기도 좋고 세정력도 좋습니다. 빨래가 잘 되서 사용 잘 하고 있네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "39",
+    "Word": "11",
+    "RDate": "20220227",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세정력도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "빨래가 잘 되서 사용 잘 하고 있네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340215",
+    "RawText": "간편하고 무겁지 않고 좋으네요. 세척력은 사용해봐야 알겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "34",
+    "Word": "7",
+    "RDate": "20220218",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "간편하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁지 않고 좋으네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력은 사용해봐야 알겠어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "340217",
+    "RawText": "두장으로 많은 양의 빨래도 잘되니 엄청 만족스럽네요. 편리하게 잘 쓰고 있어요.  가루세제나 액체세제보다는 가격은 비싼편이에요. 그래도 양이 많아서 오래 쓸것같아요. ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "20",
+    "RDate": "20220217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "두장으로 많은 양의 빨래도 잘되니 엄청 만족스럽네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편리하게 잘 쓰고 있어요.  ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가루세제나 액체세제보다는 가격은 비싼편이에요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아서 오래 쓸것같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340218",
+    "RawText": "액체세제는 양조절이 잘 안되고 세탁기에 세제찌꺼기가 많이 끼는데 시트세제라 그런 불편함없이 사용이 편합니다. 세탁도 잘 되구요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "16",
+    "RDate": "20220217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트세제라 그런 불편함없이 사용이 편합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁도 잘 되구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340239",
+    "RawText": "시트세제라 깔끔하게 분량도 정해져 있으니 사용이 편리하네요. 냄새는 좀 독하지만 세척력은 나쁘지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20220205",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트세제라 깔끔하게 분량도 정해져 있으니 사용이 편리하네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새는 좀 독하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력은 나쁘지 않습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "340245",
+    "RawText": "액상세제 쓰다가 다시 돌아왔네요. 시트세제의 편안함이 너무 좋아요. 때도 잘 빠지고 한장씩 빼서 쓰면 되니까 편해서 좋은것 같아요. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "20",
+    "RDate": "20220124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트세제의 편안함이 너무 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "때도 잘 빠지고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "한장씩 빼서 쓰면 되니까 편해서 좋은것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340257",
+    "RawText": "가격도 저렴하고, 금방 녹아서 옷에 세제 찌꺼기가 남지 않아 좋아요. 빨래양에 따라서 적당하게 잘라 사용할수 있어서 편리합니다. 근데 두장씩 쓰다보면 사용감이 많이 헤픈건 있네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "100",
+    "Word": "24",
+    "RDate": "20220110",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "금방 녹아서 옷에 세제 찌꺼기가 남지 않아 좋아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "빨래양에 따라서 적당하게 잘라 사용할수 있어서 편리합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "두장씩 쓰다보면 사용감이 많이 헤픈건 있네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "340267",
+    "RawText": "배송이 하루만에 왔습니다. 대용량으로 저렴하게 구입했네요. 양이 많아서 오랫동안 세제 걱정없이 사용할수 있을것같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "13",
+    "RDate": "20211231",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량으로",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입했네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아서 오랫동안 세제 걱정없이 사용할수 있을것같아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340269",
+    "RawText": "정말 저렴하게 잘 구매했습니다. 액체 쓰다가 시트형 써보고 해방감을 맛봤네요.  항상 굳게 믿고 사용하는 제품 여러분께도 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "17",
+    "RDate": "20211230",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "정말 저렴하게 잘 구매했습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "액체 쓰다가 시트형 써보고 해방감을 맛봤네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340274",
+    "RawText": "사용하기가 너무 편합니다. 액체세제만 쓰다가 이걸로 바꾼후로는 이것만 사게 되요. 사용하기 간편해서 좋습니다. 근데 가격이 조금씩 오르는것같아 많이 아쉬워요. 세일을 많이 해주면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "105",
+    "Word": "23",
+    "RDate": "20211228",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기가 너무 편합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 간편해서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 조금씩 오르는것같아 많이 아쉬워요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "340277",
+    "RawText": "시트형이라 편하고 깔끔합니다. 예약세탁 자주하는 편이라 딱 좋고 빨래도 깨끗하게 잘되는 편입니다. 향은 조금 진했으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "16",
+    "RDate": "20211227",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트형이라 편하고 깔끔합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 빨래도 깨끗하게 잘되는 편입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 조금 진했으면 좋겠습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "340279",
+    "RawText": "우선 배송이 빨라서 좋았습니다. 시트형은 처음 써보는 거라 여러가지 걱정이 있긴 합니다. 비싼만큼 세척력도 좋았으면 좋겠고 물에도 잘 녹았으면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "4",
+    "Syllable": "85",
+    "Word": "20",
+    "RDate": "20211226",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싼만큼",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력도 좋았으면 좋겠고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "물에도 잘 녹았으면 좋겠네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "340282",
+    "RawText": "세제가 필요해서 찾다가 쿠폰 받아서 저렴하게 구매하게 되었습니다. 기존에 쓰던 제품도 아직 남아 있어서 사용전이긴 하지만 세척력이 좋았으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "19",
+    "RDate": "20211224",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 받아서 저렴하게 구매하게 되었습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력이 좋았으면 좋겠습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "340285",
+    "RawText": "품질이 좋네요. 가볍고 액체랑 다르게 흐르지 않아서 사용하기 편합니다. 거품도 잘나고 더러운 때도 잘 빠져서 항상 쓰는 제품이에요. 잘 사용할께요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "20",
+    "RDate": "20211221",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "액체랑 다르게 흐르지 않아서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 편합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "거품도 잘나고 더러운 때도 잘 빠져서 항상 쓰는 제품이에요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340287",
+    "RawText": "타사꺼 쓰다가 이번에 바꿔봤어요. 세제향도 진하지 않아서 좋고 때가 잘 빠져서 만족합니다. 다른 세제보다 잘 녹아서 찌꺼기도 남지않아 안심이 되네요. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "22",
+    "RDate": "20211220",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "세제향도 진하지 않아서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "때가 잘 빠져서 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "다른 세제보다 잘 녹아서 찌꺼기도 남지않아 안심이 되네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340290",
+    "RawText": "액체 쓰다가 큰 기대를 갖고 구매해 봤어요. 일단 종이형이라 사용감은 나쁘지 않아요. 물에 잘 녹는 것 같기도 하고요. 그런데 끝나고 보니 수건에 묻은 얼룩은 그대로 있어서 실망했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "104",
+    "Word": "27",
+    "RDate": "20211218",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "일단 종이형이라 사용감은 나쁘지 않아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "물에 잘 녹는 것 같기도 하고요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "수건에 묻은 얼룩은 그대로 있어서 실망했습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "340298",
+    "RawText": "시트세제로 가벼워서 사용이 편하네요.  배송 빠르고 보관할때 자리를 차지하는 면적도 작고 가벼워서 좋습니다. 액체세재 쓰다가  시트세재 쓰게되면 절대 못바꾼다는게 맞는거 같네요. 향도 은은하고 잘 녹아서 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "4",
+    "Syllable": "118",
+    "Word": "26",
+    "RDate": "20211211",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "시트세제로 가벼워서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "  사용이 편하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "보관할때 자리를 차지하는 면적도 작고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 가벼워서 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 은은하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "잘 녹아서 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "액체세재 쓰다가  시트세재 쓰게되면 절대 못바꾼다는게 맞는거 같네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340301",
+    "RawText": "배송 빨라서 좋았습니다. 시트형이라 가루세제 보다 사용하기 편리하네요. 향은 조금 독하고 세척력은 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20211207",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트형이라 가루세제 보다 사용하기 편리하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 조금 독하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력은 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340313",
+    "RawText": "빠른 배송으로 잘 받았습니다. 시트세제가 제일 편하고 좋습니다. 세척력도 나쁘지 않구요. 이 시트세제만 쓰고 있습니다. 떨어지기전에 사 놨어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "18",
+    "RDate": "20211127",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트세제가 제일 편하고 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력도 나쁘지 않구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "340315",
+    "RawText": "액체 세제에 비해 가벼워 좋고 시트 세제라 사용량을 정확하게 넣기 쉽네요. 주위에 끈적거리게 묻을 일도 없어서 더 좋아요.^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "18",
+    "RDate": "20211126",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "액체 세제에 비해 가벼워 좋고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트 세제라 사용량을 정확하게 넣기 쉽네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "주위에 끈적거리게 묻을 일도 없어서 더 좋아요.^^",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340322",
+    "RawText": "앞으로는 가루형이나 액체형은 못쓸 듯 하네요. 시트지 하나로 간편하게 사용하니 너무 편하네요.할인쿠폰 적용해서 저렴하게 구입해서 더 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "4",
+    "Syllable": "78",
+    "Word": "17",
+    "RDate": "20211123",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트지 하나로 간편하게 사용하니 너무 편하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인쿠폰 적용해서 저렴하게 구입해서 더 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340324",
+    "RawText": "시트타입이라 흘러내리지 않아 좋습니다. 원하는 만큼 잘라 쓰기도 편하고. 무엇보다 세탁공간 자리 차지하지 않아서 만족합니다. 늘 구매하고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "4",
+    "Syllable": "81",
+    "Word": "18",
+    "RDate": "20211119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트타입이라 흘러내리지 않아 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "원하는 만큼 잘라 쓰기도 편하고.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "무엇보다 세탁공간 자리 차지하지 않아서 만족합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340329",
+    "RawText": "가볍고 좋습니다. 액체보다 시트형이라 쓰기도 편합니다. 찌꺼기도 남지않고 잘 녹아서 좋고 그래서 그냥 계속 쓰게 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "4",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20211116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "액체보다 시트형이라 쓰기도 편합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "찌꺼기도 남지않고 잘 녹아서 좋고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340334",
+    "RawText": "가루날림없이 깔끔하게 사용할 수 있어서 좋습니다. 세척력도 나쁘지 않으니 가격만 더 낮아지면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20211112",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "가루날림없이 깔끔하게 사용할 수 있어서 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력도 나쁘지 않으니",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격만 더 낮아지면 좋겠네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "340354",
+    "RawText": "빨래후에 남는 세제향이 너무 좋네요. 사용하기 간편해서 시트세제는 이것만 씁니다. 찬물에도 잘 녹아서 안심이에요. 다른 세제에 비해서 세탁도 잘 되는 느낌이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "21",
+    "RDate": "20211103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "빨래후에 남는 세제향이 너무 좋네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 간편해서 시트세제는 이것만 씁니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "찬물에도 잘 녹아서 안심이에요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 다른 세제에 비해서 세탁도 잘 되는 느낌이에요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340355",
+    "RawText": "배송도 빠르고 저렴한 가격에 잘 샀어요. 양도 많아서 한동안 세탁세제 걱정없이 잘 쓰겠네요. 형광증백제가 안들어있다고 하니 안심도 되고 세정력도 좋을것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "21",
+    "RDate": "20211103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 잘 샀어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아서 한동안 세탁세제 걱정없이 잘 쓰겠네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": " 형광증백제가 안들어있다고 하니 안심도 되고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력도 좋을것 같아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "340367",
+    "RawText": "양도 많고 가격도 저렴해서 만족헤요. 친구에게 선물로 보내줬는데 가볍고 사용하기 편하다고 좋아하네요. 저도 쓰고 있는 세제 다 쓰면 이걸로 바꿔보려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "21",
+    "RDate": "20211028",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서 만족헤요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 편하다고 좋아하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340368",
+    "RawText": "냄새가 강하다는 생각은 들지 않았어요. 보관할때 공간을 많이 차지하지 않아서 좋네요. 근데 빨래할때 거품이 많이 나지 않아서 세정력이 만족스럽지는 않네요.  좀 더 써봐야할것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "24",
+    "RDate": "20211026",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 강하다는 생각은 들지 않았어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "보관할때 공간을 많이 차지하지 않아서 좋네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 빨래할때 거품이 많이 나지 않아서 세정력이 만족스럽지는 않네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "340369",
+    "RawText": "친환경세제 사용하다 세정력이 별로여서 주문해 봤는데 향도 적당하고 세정력도 맘에 듭니다. 무엇보다 사용이 정말 편리합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20211026",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력도 맘에 듭니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "무엇보다 사용이 정말 편리합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340372",
+    "RawText": "처음 구매해서 사용하고 있습니다. 적은 빨래에는 반 만 써도 되어서 기존 세제보다 세제를 절약할수 있습니다. 시트형이라 사용이 간편해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "19",
+    "RDate": "20211024",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "적은 빨래에는 반 만 써도 되어서 기존 세제보다 세제를 절약할수 있습니다",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": " 시트형이라 사용이 간편해서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340380",
+    "RawText": "동생의 추천으로 사용해보고 좋아서 구매했어요. 세제찌꺼기도 없고 세탁 후 일반세제보다 세제향도 덜해서 만족합니다. 무엇보다 뜯어쓰기 좋아 편리해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "17",
+    "RDate": "20211021",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "세제찌꺼기도 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "세탁 후 일반세제보다 세제향도 덜해서 만족합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "무엇보다 뜯어쓰기 좋아 편리해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340385",
+    "RawText": "시트세제를 찾던 중 가격도 무난하고 평도 좋은 OO를 선택했어요. 한장 또는 반장으로 나눠 쓸 수 있는 점이 좋네요. 시트지가 녹아 세탁후 쓰레기가 발생하지 않는점 등등 장점이 많은것 같아요. 배송도 빠르고 만족스러워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "4",
+    "Syllable": "123",
+    "Word": "31",
+    "RDate": "20211020",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 무난하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "한장 또는 반장으로 나눠 쓸 수 있는 점이 좋네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "시트지가 녹아 세탁후 쓰레기가 발생하지 않는점 등등 장점이 많은것 같아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340387",
+    "RawText": "향이 진하지 않아서 좋습니다. 세탁후에도 잔잔한 향이 남아 있어서 기분이 좋아집니다. 가격도 착하고 좋은데 이 제품을 두고 그동안 왜 다른 비싼 제품을 썼는지 모르겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "24",
+    "RDate": "20211016",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 진하지 않아서 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "세탁후에도 잔잔한 향이 남아 있어서 기분이 좋아집니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착하고 좋은데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340390",
+    "RawText": "이번에 성분이 바뀌어서 그런지 세척력이 더욱더 좋아진거 같아요. 한장 또는 반을 잘라 사용할수 있어 편하고 무거운 젤 형태가 아니라서 흘릴염려 없이 사용 간편하네요. 항상 쌓아 넣고 쓸정도로 애정하는 세제에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "117",
+    "Word": "29",
+    "RDate": "20211014",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "이번에 성분이 바뀌어서 그런지 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력이 더욱더 좋아진거 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "한장 또는 반을 잘라 사용할수 있어 편하고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "무거운 젤 형태가 아니라서 흘릴염려 없이 사용 간편하네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340391",
+    "RawText": "기존에 쓰던 OOOO 캡슐 대체품으로 샀는데 빨래량에 따라 잘라서 쓸 수도 있어서 좋네요. 보관도 편리해서 만족합니다. 세정력이 좋으면 재구매하려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "4",
+    "Syllable": "87",
+    "Word": "20",
+    "RDate": "20211014",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "빨래량에 따라 잘라서 쓸 수도 있어서 좋네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "보관도 편리해서 만족합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력이 좋으면 재구매하려고 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "340394",
+    "RawText": "세제 용량 맞추기어려웠는데 시대가 변하니 좋아지는세상입니다. 세척력도 좋고, 세제향이 남지 않는거같아 더좋습니다~",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "12",
+    "RDate": "20211012",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력도 좋고,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "세제향이 남지 않는거같아 더좋습니다~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340396",
+    "RawText": "시트형이라 사용이 간편해서 좋습니다. 향기도 강하지 않아서 좋고 빨래도 깨끗하고 깔끔하게 잘 빨려서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "4",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20211012",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트형이라 사용이 간편해서 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향기도 강하지 않아서 좋고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "빨래도 깨끗하고 깔끔하게 잘 빨려서 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340402",
+    "RawText": "이 제품 사용하면 다른 제품은 못써요.첫째는 가볍고 둘째는 딱한장만 넣으니 절약되서 좋고 셋째 세탁도 잘되니 만족스럽고 넷째 찬물에 잘녹아서 편리하고 다섯째 세탁후 꺼낼 종이가 남아 있지 않아서 편해요. 여섯째는 가루 안날리고 일곱째는 용기가 슬림해서 자리 차지안해서 좋네요. 장점투성인 OO 세제 늘사랑합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "174",
+    "Word": "41",
+    "RDate": "20211008",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 딱한장만 넣으니 절약되서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁도 잘되니 만족스럽고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "찬물에 잘녹아서 편리하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "세탁후 꺼낼 종이가 남아 있지 않아서 편해요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": " 가루 안날리고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기가 슬림해서 자리 차지안해서 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340403",
+    "RawText": "빨래가 깨끗하게 되고 가루 타입이 아니고 시트타입이라서 깔끔하네요. 세제향이 살짝 있지만 빨래하고 나면 향이 안나서 오히려 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20211007",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "빨래가 깨끗하게 되고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "가루 타입이 아니고 시트타입이라서 깔끔하네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "세제향이 살짝 있지만 빨래하고 나면 향이 안나서 오히려 좋네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340405",
+    "RawText": "아들 기숙사에 보냈는데 간편하게 잘 쓰고 있다고 합니다. 혼자 쓰기에 양이 많아서 오래 두고  쓸 수 있어 세제 걱정 없다 하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "21",
+    "RDate": "20211006",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 간편하게 잘 쓰고 있다고 합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 양이 많아서 오래 두고  쓸 수 있어 세제 걱정 없다 하네요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340407",
+    "RawText": "다른 세제 쓰다가 결국 OO로 돌아왔네요. 편리해서 다시 쓰게 되는 세제입니다. 무엇보다 세탁력이 최고입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20211006",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편리해서 다시 쓰게 되는 세제입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "무엇보다 세탁력이 최고입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340409",
+    "RawText": "다른 세제보다 그나마 이 세제가 제일 싸서 구매했습니다. 근데 개봉을 하니 냄새가 왜 이렇게 독한지 괜찮은 거 맞나 싶었어요. 두번 빨아봤는데 세탁이 깨끗하게 된지는 잘 모르겠네요. 이거 하나만 넣으면 되니 편하긴 해요. 나쁘지는 않은것 같지만 그래도 다 써봐야 알것 같아요. 너무 비싸서 재구매는 생각 좀 해봐야겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "3",
+    "Syllable": "179",
+    "Word": "46",
+    "RDate": "20211006",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "다른 세제보다 그나마 이 세제가 제일 싸서 구매했습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "개봉을 하니 냄새가 왜 이렇게 독한지 괜찮은 거 맞나 싶었어요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 두번 빨아봤는데 세탁이 깨끗하게 된지는 잘 모르겠네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "이거 하나만 넣으면 되니 편하긴 해요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "너무 비싸서 재구매는 생각 좀 해봐야겠네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "340410",
+    "RawText": "간편하게 사용할 수 있어 좋습니다. 냄새는 좀 독하지만 찬물에도 잘 녹아 세제 찌꺼기도 없고 세척력도 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20211005",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "간편하게 사용할 수 있어 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새는 좀 독하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "찬물에도 잘 녹아 세제 찌꺼기도 없고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력도 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340421",
+    "RawText": "환경 보호를 위해 플라스틱 사용을 줄이려고 시트세제를 처음 구매했습니다.  사용하다보니 습기때문인지 끈적해져서 사용 할 수가 없네요. 향도 강해서 다음엔 재구매는 못하겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "4",
+    "Syllable": "97",
+    "Word": "21",
+    "RDate": "20210930",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "끈적해져서 사용 할 수가 없네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 강해서 다음엔 재구매는 못하겠네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "340433",
+    "RawText": "옛날에는 가루비누로 세탁했는데 요즘은 액체 세제, 시트 세제로 참 편리하고 깔끔하게 세탁할 수 있게 되어 남편도 자유롭게 세탁기를 돌리니까 좋습니다. 시트 세제라 한장씩 넣어 사용하면 되니 편리하고 용기도 슬림하니 공간 차지 하지 않아 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "4",
+    "Syllable": "136",
+    "Word": "34",
+    "RDate": "20210925",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트 세제라 한장씩 넣어 사용하면 되니 편리하고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기도 슬림하니 공간 차지 하지 않아 좋네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340438",
+    "RawText": "일반 가루 세제보다 사용할수 있는 만큼 양이 정해져 있어 편하네요. 그래도 한장 당 가격이 너무 비싸고 냄새가 좀 독해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "19",
+    "RDate": "20210920",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "일반 가루 세제보다 사용할수 있는 만큼 양이 정해져 있어 편하네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "한장 당 가격이 너무 비싸고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 좀 독해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "340440",
+    "RawText": "상품은 진짜 좋습니다. 찌꺼기도 없고 때도 잘빠져 세탁도 잘됩니다. 향도 오래 남네요. 가벼워서 좋고 계속 쓸 생각이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20210917",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "찌꺼기도 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "때도 잘빠져 세탁도 잘됩니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향도 오래 남네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340442",
+    "RawText": "세탁할때 한장씩 넣어주니 편합니다. 근데 세척력은 액체세제랑 별 차이가 없는거 같네요. 액체세제보다 많이 비싼편이라 재구매는 안할것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "17",
+    "RDate": "20210916",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "세탁할때 한장씩 넣어주니 편합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력은 액체세제랑 별 차이가 없는거 같네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "액체세제보다 많이 비싼편이라",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "340445",
+    "RawText": "쓰기 편리해서 좋습니다. 후기에 좋다 해서 쓰는데 세척력이 나쁘진 않은 것 같아요. 그런데 향은 별로 맘에 들지 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "4",
+    "Syllable": "67",
+    "Word": "18",
+    "RDate": "20210915",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "쓰기 편리해서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력이 나쁘진 않은 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향은 별로 맘에 들지 않아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "340448",
+    "RawText": "한장씩 넣으면 되니까 간편하고 가루 안날려서 좋습니다. 세정력은 무난합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "42",
+    "Word": "9",
+    "RDate": "20210913",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "한장씩 넣으면 되니까 간편하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력은 무난합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "가루 안날려서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340449",
+    "RawText": "그냥 부어 쓰는 세제는 양을 많이 사용하게 되더라구요. 이제품은 시트형이라 절제가 되어 세제가 절약될 듯합니다. 때가 잘 빠지먼 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20210913",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": " 이제품은 시트형이라 절제가 되어 세제가 절약될 듯합니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "때가 잘 빠지먼 좋겠네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "340452",
+    "RawText": "한번 써보니 가볍고 한장씩 뽑아쓰는게 너무 편해서 다른건 못쓰겠어요. 물에도 잘녹고 세탁도 잘되고 정말 맘에 드네요. 재주문하려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "18",
+    "RDate": "20210911",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "한장씩 뽑아쓰는게 너무 편해서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "물에도 잘녹고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁도 잘되고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340457",
+    "RawText": "세제 찌꺼기가 남지 않는게 제일 좋더라구요. 생각보다 비싸지만 가벼워서 사용하기 편해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20210908",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "세제 찌꺼기가 남지 않는게 제일 좋더라구요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "생각보다 비싸지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 사용하기 편해서 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340462",
+    "RawText": "세탁력이 좋네요. 여름엔 시트가 좀 끈적거리긴 합니다. 그래도 하나씩 깔끔하게  쓸수 있어서 좋습니다. 세제통도 더러워지지 않아 편리하고 세탁후 향기도 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "20",
+    "RDate": "20210907",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁력이 좋네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "여름엔 시트가 좀 끈적거리긴 합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "하나씩 깔끔하게  쓸수 있어서 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "세제통도 더러워지지 않아 편리하고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "세탁후 향기도 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340468",
+    "RawText": "늘 잘쓰고 있어요. 시트세제라 세제 적정량 맞출수 있어 좋고 가벼워서 보관하기 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "12",
+    "RDate": "20210902",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트세제라 세제 적정량 맞출수 있어 좋고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 보관하기 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340472",
+    "RawText": "세정력은 잘 모르겠습니다.  다른 제품들에 비해 세정력이 특별히 더 좋은 줄은 모르겠습니다. 근데 사용하기 편리한 게 장점인 듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "4",
+    "Syllable": "76",
+    "Word": "19",
+    "RDate": "20210902",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력은 잘 모르겠습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "다른 제품들에 비해 세정력이 특별히 더 좋은 줄은 모르겠습니다.  ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 사용하기 편리한 게 장점인 듯 합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340473",
+    "RawText": "저렴하게 구입했습니다. 품질이 좋아서 항상 사용하는 제품이라 믿고 주문했어요. 많이 파시고 번창하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "12",
+    "RDate": "20210901",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입했습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋아서 항상 사용하는 제품이라 믿고 주문했어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340474",
+    "RawText": "빠른 배송 감사드려요. 페이퍼라서 깔끔하고 사용하기 편하네요. 향은 옅은편이라 나쁘지않고 세척력은 좋았으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "4",
+    "Syllable": "66",
+    "Word": "13",
+    "RDate": "20210901",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "페이퍼라서 깔끔하고 사용하기 편하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향은 옅은편이라 나쁘지 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력은 좋았으면 좋겠습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "340476",
+    "RawText": "다 좋은데 양이 넘 많아요. 근데 왜 반잘라야하는지 반잘린걸로 팔면 좋을텐데ㅠㅠ 그리고 세정력은 잘 모르겠어서 별 뺏어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20210831",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "다 좋은데 양이 넘 많아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "왜 반잘라야하는지 반잘린걸로 팔면 좋을텐데ㅠㅠ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세정력은 잘 모르겠어서 별 뺏어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "340481",
+    "RawText": "항상 쓰던 제품인데 가격 할인에 바로 구매했어요. 무엇보다 세척력이 뛰어나서 좋습니다. 배송도 빠르게 잘 받았어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20210831",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 할인에 바로 구매했어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "무엇보다 세척력이 뛰어나서 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340490",
+    "RawText": "마트보다 저렴하네요. 한박스에 포장되어 보관하기도 편하고 공간도 작게 차지해서 좋아요. 향이 진하지 않아서 조금 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20210826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트보다 저렴하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "한박스에 포장되어 보관하기도 편하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향이 진하지 않아서 조금 아쉽네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "공간도 작게 차지해서 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340491",
+    "RawText": "뜯어쓰는 세제라 편리하게 잘 쓰고 있습니다. 시트가 약간 눅눅하네요. 그리고 세탁후에 옷에 진한 세제 냄새가 남아 있어서 좀 아쉬워요. 헹굼을 한두번 더 해야 냄새가 빠질것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "4",
+    "Syllable": "101",
+    "Word": "26",
+    "RDate": "20210825",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "뜯어쓰는 세제라 편리하게 잘 쓰고 있습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 시트가 약간 눅눅하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "세탁후에 옷에 진한 세제 냄새가 남아 있어서 좀 아쉬워요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "헹굼을 한두번 더 해야 냄새가 빠질것 같네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "340492",
+    "RawText": "박스 안 터지고 잘 도착했어요. 시트형이라 편하고 좋아서 계속 쓰고 있습니다.  이거 쓰다 다른 거 쓰면 불편합니다. 단지 가격은 좀 센편입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "21",
+    "RDate": "20210825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트형이라 편하고 좋아서 계속 쓰고 있습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "이거 쓰다 다른 거 쓰면 불편합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 좀 센편입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "340493",
+    "RawText": "가볍고 편하긴 한데 세정력은 더 써봐야 알 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "31",
+    "Word": "9",
+    "RDate": "20210825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하긴 한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력은 더 써봐야 알 것 같습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "340496",
+    "RawText": "항상 마트에서 비싸게 구매했었는데 왜 이제야 온라인으로 싸게 샀을까 아쉽네요. 사자마자 잘라서 쓰기 쉽게 준비해뒀더니 편하네요. 찌든 때에는 붙여 뒀다가 세탁하니 정말 깨끗해졌어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "101",
+    "Word": "23",
+    "RDate": "20210823",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "왜 이제야 온라인으로 싸게 샀을까 아쉽네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사자마자 잘라서 쓰기 쉽게 준비해뒀더니 편하네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "찌든 때에는 붙여 뒀다가 세탁하니 정말 깨끗해졌어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340500",
+    "RawText": "시트 세제가 너무 좋아서 시트 세제 쓰다가 액체 세제는 못 씁니다. 120매라서 꽤나 오래 쓸 수 있어 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "18",
+    "RDate": "20210822",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트 세제가 너무 좋아서 시트 세제 쓰다가 액체 세제는 못 씁니다",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "120매라서 꽤나 오래 쓸 수 있어 좋아요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340505",
+    "RawText": "늘 쓰는 제품입니다. 시트라서 무겁지 않고 중간에 절취선도 있어 자르기 편하네요. 근데 가격이 많이 비싼 편이에요. 다음에 할인할때 많이 사둬야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "20",
+    "RDate": "20210819",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "시트라서 무겁지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "중간에 절취선도 있어 자르기 편하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 많이 비싼 편이에요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "340508",
+    "RawText": "빠른 배송 좋습니다. 사용하기에 정말 간편하고 편하네요. 물에 잘 녹아서 맘에 들고 세탁력도 짱이라 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20210816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기에 정말 간편하고 편하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "물에 잘 녹아서 맘에 들고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁력도 짱이라 만족스럽습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340510",
+    "RawText": "매일 항상 쓰고 있습니다. 세척력 좋고 양에 따라 잘라쓸수 있어 편해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "39",
+    "Word": "11",
+    "RDate": "20210813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세척력 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "양에 따라 잘라쓸수 있어 편해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340513",
+    "RawText": "저렴한 가격입니다. 빠른 배송도 만족스럽네요. 4박스 주문했는데 양이 많아서 오래 쓰겠어요. 다 소진하면 재주문할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "14",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 4박스 주문했는데 양이 많아서 오래 쓰겠어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340514",
+    "RawText": "저렴하게 구입할 수 있어서 좋아요. 사용하기 편하고 시트라 물에 잘 녹아서 만족하며 항상 잘 쓰고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "16",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입할 수 있어서 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트라 물에 잘 녹아서 만족하며",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340518",
+    "RawText": "찢어쓰니 빨래양이 적을때는 조절이 되서 편합니다. 양도 많아서 한참 쓸것 같아요. 세탁도 만족스럽게 잘 되네요. 근데 향은 없어서 섬유유연제를 꼭 써줘야해요. 향을 중요하게 생각하는데 향기가 전혀 나지 않아서 많이 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "125",
+    "Word": "30",
+    "RDate": "20210810",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "찢어쓰니 빨래양이 적을때는 조절이 되서 편합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아서 한참 쓸것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁도 만족스럽게 잘 되네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 없어서 섬유유연제를 꼭 써줘야해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향을 중요하게 생각하는데 향기가 전혀 나지 않아서 많이 아쉽네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "340522",
+    "RawText": "비싸도 이 제품을 항상 쓰게 되더라구요. 가루 날림 없을뿐더러 한장 단위로 쓰면 되니까 편리해요. 많이 파세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20210808",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸도 이 제품을 항상 쓰게 되더라구요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "가루 날림 없을뿐더러 한장 단위로 쓰면 되니까 편리해요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340526",
+    "RawText": "후기가 좋아서 시트 타입으로 바꿔봤습니다. 시트라서 사용감이 깨끗하네요. 계량 없이 딱 정량만 넣고 사용하고 있다는 기분입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "16",
+    "RDate": "20210803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트라서 사용감이 깨끗하네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "계량 없이 딱 정량만 넣고 사용하고 있다는 기분입니다.  ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340539",
+    "RawText": "가격 대비 제품에 만족해요. 배송도 빠른 편이고 품질도 전반적으로 만족스럽네요. 디자인도 예뻐요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20210730",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 대비 제품에 만족해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 전반적으로 만족스럽네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예뻐요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340540",
+    "RawText": "시트타입이라 사용하기도 편하고 세정력도 좋은 것 같습니다. 배송도 만족스러워요~~~^^",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "9",
+    "RDate": "20210729",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "시트타입이라 사용하기도 편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력도 좋은 것 같습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340544",
+    "RawText": "가루세제 쓰다가 시트세제로 바꿨습니다. 가루보다 계량도 편하고 양도 줄일수 있어 좋을 줄 알았는데 세탁시 한장이면 너무 약하고 두장이면  많기도 해서 오히려 신경이 더 쓰입니다. 가격은 또 왜 이리 비싼지요. 재구매는 다시 생각해봐야겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "134",
+    "Word": "32",
+    "RDate": "20210728",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "세탁시 한장이면 너무 약하고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "두장이면  많기도 해서 오히려 신경이 더 쓰입니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 또 왜 이리 비싼지요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "340545",
+    "RawText": "항상 쓰고 있는 시트 세제인데 사용하기 편리하고 가성비 좋습니다.  이번에는 배송도 빠르게 받았고 저렴하게 구매해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20210728",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": " 항상 쓰고 있는 시트 세제인데 사용하기 편리하고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매해서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340546",
+    "RawText": "정상적으로 박스 배송 받았어요. 액체 세제가 너무 무겁고 번거로워서 이번에 시트 세제를 구매했어요. 한 장으로 세탁이 될지는 모르겠지만 가볍고 편리하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "20",
+    "RDate": "20210728",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편리하네요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340551",
+    "RawText": "무거운 액체 세제 쓰다가 시트 세제가 좋다고 해서 바꿔봤는데 편리합니다. 품질도 기대 이상으로 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20210726",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트 세제가 좋다고 해서 바꿔봤는데 편리합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 기대 이상으로 만족해요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340554",
+    "RawText": "한 번 구매해서 사용해봤는데 편리하고 가성비도 좋아서 재구매 했습니다. 포장도 꼼꼼하고 배송도 빨라서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20210724",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용해봤는데 편리하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비도 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340562",
+    "RawText": "편리하고 세척력도 좋고 표백살균 모두 잘 되는 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "32",
+    "Word": "9",
+    "RDate": "20210722",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편리하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "표백 살균 모두 잘 되는 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "살균 모두 잘 되는 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340568",
+    "RawText": "가볍게 쓸수있고 세정력도 좋습니다. 향도좋아 항상다쓰고나면 재구매해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "39",
+    "Word": "7",
+    "RDate": "20210721",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍게 쓸수있고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도좋아 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340573",
+    "RawText": "가루비누나 물비누 쓰면 적정량을 한다해도 금방 썼는데 시트세제는 쓰기가 딱 좋네요. 그래서 친구들한테도 추천해줬습니다. 이왕이면 환경도 생각하는 친환경 성분이면 더 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "21",
+    "RDate": "20210720",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트세제는 쓰기가 딱 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": " 환경도 생각하는 친환경 성분이면 더 좋겠네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "340577",
+    "RawText": "저렴하게 잘 샀습니다. 시트 세제 사용해본 후엔 사용감이 편해서 이것만 쓰게 됐습니다. 추천하는 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20210717",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 샀습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 시트 세제 사용해본 후엔 사용감이 편해서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340578",
+    "RawText": "액체세제 사용하다가 세제투입통이 자꾸 꾸덕꾸덕 지저분해져서 OO 종이 세제로 구매했어요.  과연 사용감이 좋을지 기대됩니다. 택배 받고 한 손으로 120회 분량을 가볍게 이동시키니 더 만족스러워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "110",
+    "Word": "24",
+    "RDate": "20210717",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "과연 사용감이 좋을지 기대됩니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "한 손으로 120회 분량을 가볍게 이동시키니 더 만족스러워요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340579",
+    "RawText": "착한 가격에 잘 구입했습니다. 품질 좋아서 항상 쓰던 제품이라 재구매 했습니다. 배송도 빠르고 포장도 꼼꼼합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20210717",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한 가격에 잘 구입했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 좋아서 항상 쓰던 제품이라 재구매 했습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340581",
+    "RawText": "시트세제 한번 쓰기 시작하고부터는 가루나 액체세제 못쓰겠더라구요. 그래서 비싸도 이 제품을 고집하고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20210717",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트세제 한번 쓰기 시작하고부터는 가루나 액체세제 못쓰겠더라구요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 비싸도 이 제품을 고집하고 있습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "340583",
+    "RawText": "항상 쓰는 세제네요. 찬물에도 잘 녹아서 좋고 여기가 가격이 저렴해서 구매했네요 많이파세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20210716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "찬물에도 잘 녹아서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서 구매했네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340587",
+    "RawText": "종이 세제라서 세탁할 때 너무 좋습니다. 양이 정해져 있어서 세탁할 때 세제 양 걱정 안 해도 되고, 물에 잘 녹으니 세탁 후 쓰레기 걱정 안 해도 되고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "28",
+    "RDate": "20210715",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "종이 세제라서 세탁할 때 너무 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "양이 정해져 있어서 세탁할 때 세제 양 걱정 안 해도 되고, ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "물에 잘 녹으니 세탁 후 쓰레기 걱정 안 해도 되고 좋습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340590",
+    "RawText": "향도 좋고 세척력도 좋고  보관하기도 편한 뭐 하나 흠잡을때가 없는제품입니다. 재구매해서 쓰는중입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "12",
+    "RDate": "20210714",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "보관하기도 편한 뭐 하나 흠잡을때가 없는제품입니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340597",
+    "RawText": "액체 세제 썼을 땐 세제 찌거지가 물 흐르는 곳에 남아있어서 헹굼할 때 찝찝했습니다. 이건 통 속에 넣고 빨면되니까 찌꺼기 남을 일이 없어 좋습니다. 부직포 시트가 아니라 녹는 시트여서 환경오염 걱정없습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "4",
+    "Syllable": "116",
+    "Word": "30",
+    "RDate": "20210711",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "찌꺼기 남을 일이 없어 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "부직포 시트가 아니라 녹는 시트여서 환경오염 걱정없습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340599",
+    "RawText": "한장씩 사용하니 정말 편합니다. 그래서 가격이 좀 비싸도 시트세제를 쓰게 되는것 같습니다. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20210709",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "한장씩 사용하니 정말 편합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 비싸도 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "340601",
+    "RawText": "시트형이라 가볍고 편하네요. 근데 양 조절이 잘 안되어 불편합니다. 왠지 적게 넣으면 세탁이 안될 거 같은 느낌 때문에 자꾸 더 넣게 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "22",
+    "RDate": "20210709",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트형이라 가볍고 편하네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "양 조절이 잘 안되어 불편합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "적게 넣으면 세탁이 안될 거 같은 느낌 때문에 자꾸 더 넣게 됩니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "340603",
+    "RawText": "늘 쓰던 제품이라 이것만 씁니다. 일반 세제는 제가 양조절을 잘 못하는데 시트 세제라서 깔끔하게 쓸 수 있고 간편해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "19",
+    "RDate": "20210708",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트 세제라서 깔끔하게 쓸 수 있고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "간편해서 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "340606",
+    "RawText": "시트세제라 한 장씩 넣어서 사용하는 게 편해서  오래전부터 쭉 사용하고 있는 제품이에요. 가격이 좀 비싸서 살 때마다 고민하지만 여러 이유로 선택하게 되네요. 세정력도 나쁘지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "5",
+    "Syllable": "103",
+    "Word": "25",
+    "RDate": "20210707",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트세제라 한 장씩 넣어서 사용하는 게 편해서",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 비싸서 살 때마다 고민하지만 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력도 나쁘지 않습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "340608",
+    "RawText": "생각보다 너무 세정력이 안 좋습니다. 만지면 손 끈적이고 냄새도 안 좋습니다. 재구매는 별로예요. 다시 한번 생각하시기를 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "1",
+    "Syllable": "74",
+    "Word": "17",
+    "RDate": "20210706",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "생각보다 너무 세정력이 안 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "만지면 손 끈적이고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 안 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "340609",
+    "RawText": "2번 세탁해서 세정력은 계속 써봐야 알겠지만 물에 잘 풀어지고 거품 잘 납니다. 배송도 빠르고 가격 대비 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시트세제 120매 1개(120매)",
+    "ReviewScore": "4",
+    "Syllable": "64",
+    "Word": "17",
+    "RDate": "20210706",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "물에 잘 풀어지고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "거품 잘 납니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 대비 만족해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

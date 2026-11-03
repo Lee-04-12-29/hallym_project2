@@ -1,0 +1,3422 @@
+[
+  {
+    "Index": "900531",
+    "RawText": "원래는 타사 제품 사용했었는데 갈아탔어요. 진동도 적당하고, 제가 입안이 작은데 칫솔모도 동그라니 맘에 듭니다. 핸드폰거치대 떨어질까 걱정했는데 잘 붙어있습니다. 혀클리너를 따로 사용중인데 혀 세정기능도 있어 좋은거 같네요. 칫솔 세척하는것도 세로로 세정이 가능하니 더 위생적으로 사용할수 있어 좋아요. 단점이라면 모드를 진동이 된 상태에서 바꾸게 되어있어서 다 튈 수밖에 없습니다.  그리고 칫솔모 보관함이 소독이 안되는 거라 아쉬웠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 지** 전동칫솔 기본구성",
+    "ReviewScore": "4",
+    "Syllable": "246",
+    "Word": "55",
+    "RDate": "20180728",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "진동도 적당하고,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "제가 입안이 작은데 칫솔모도 동그라니 맘에 듭니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "혀 세정기능도 있어 좋은거 같네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 칫솔 세척하는것도 세로로 세정이 가능하니 더 위생적으로 사용할수 있어 좋아요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "모드를 진동이 된 상태에서 바꾸게 되어있어서 다 튈 수밖에 없습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "칫솔모 보관함이 소독이 안되는 거라 아쉬웠어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "900534",
+    "RawText": "블랙 상품을 구매했는데 왜 색상만 다른데 2만원이나 더 비싼지 의문이네요. 그래도 선호하는 색상이 있으니 구매하긴 했지만 성능 만족해요. 여행용 케이스 너무 커서 부담스럽고요. 칫솔모는 사용하는 사람이 필요에 의해서 선택해야하는데 칫솔모 빼고 단가를 낮추길 바랍니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 지** 전동칫솔 기본구성",
+    "ReviewScore": "3",
+    "Syllable": "148",
+    "Word": "34",
+    "RDate": "20180721",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "색상만 다른데 2만원이나 더 비싼지 의문이네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능 만족해요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "여행용 케이스 너무 커서 부담스럽고요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 칫솔모 빼고 단가를 낮추길 바랍니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "900535",
+    "RawText": "너무너무 좋습니다. 스케일링 받은것처럼 깔끔하고 개운합니다. 폰으로 확인할수있어 더 좋은거 같습니다 재 구매의사 100%입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 지** 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "14",
+    "RDate": "20180721",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "스케일링 받은것처럼 깔끔하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운합니다. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "폰으로 확인할수있어 더 좋은거 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900545",
+    "RawText": "오래전부터 사용하던 전동칫솔이 고장이 나서 구매후기가 좋길래 마침 세일도 해서 구매했네요. 개인적인 생각이지만 진동으로만 잘 닦이진 않는 느낌입니다 칫솔머리부분이 커서 치아 안쪽이 잘 닦이지 않고 사용하는데 불편하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "121",
+    "Word": "27",
+    "RDate": "20201208",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "진동으로만 잘 닦이진 않는 느낌입니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "칫솔머리부분이 커서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "치아 안쪽이 잘 닦이지 않고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하는데 불편하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일도 해서 구매했네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900552",
+    "RawText": "두개세트인데 저렴하게 잘 샀네요 저는 진동칫솔쓰면 잇몸에서 피가나는 타입인데 이건 피가 안나고 전 양치보다 훨씬 개운합니다 기분좋게 잘 구매했습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "19",
+    "RDate": "20210317",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "두개세트인데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 샀네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "이건 피가 안나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "전 양치보다 훨씬 개운합니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900569",
+    "RawText": "절대 구매하지 마십시오. 2개 다 망가졌습니다. 처음에는 정상작동하다가 좀 사용해보면 1-2달내에 내부가 망가져서 소음이 심하고, 진동도 1/4로 다운되네요. 판매자분은 이런 제품 팔지 마십시오. 5만원대에 2개 주는 이유가 있었네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "131",
+    "Word": "28",
+    "RDate": "20211003",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "2개 다 망가졌습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "처음에는 정상작동하다가 좀 사용해보면 1-2달내에 내부가 망가져서",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소음이 심하고,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "진동도 1/4로 다운되네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "5만원대에 2개 주는 이유가 있었네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "900588",
+    "RawText": "다른 모델을 사용하고 있어는데 두개중 한개가 고장이 나서 이제품으로 재구매했어요 음파칫솔 잇몸 손상 덜되면서 사용이 편한데 칫솔모가 저렴했음하는 아쉬움이 있습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "4",
+    "Syllable": "90",
+    "Word": "20",
+    "RDate": "20180418",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "잇몸 손상 덜되면서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용이 편한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "칫솔모가 저렴했음하는 아쉬움이 있습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "900595",
+    "RawText": "ㅇㅇㅇ 10년쓰다 고장나서 as도 안된다해서 ㅇㅇ로 이번에 새로 구입햇습니다 손바닥으로 느껴지는 진동이 좀 센것 같아요. 그리고 좀 고장날거같은 불안함이 있네요 본체가 좀 약해비기도 합니다 저렴하고 구성이 좋아 구입했어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "4",
+    "Syllable": "123",
+    "Word": "28",
+    "RDate": "20160624",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "손바닥으로 느껴지는 진동이 좀 센것 같아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "좀 고장날거같은 불안함이 있네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 본체가 좀 약해비기도 합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 좋아 구입했어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900605",
+    "RawText": "살때마다 검색을 통해서 최저가 찾아서 사는데 여태 산중에 가장싸게 구입했어요 많이 사놓는다고 상하는 물건도 아니고 해서 이번 기회로 많이 사서 두기로 했어요 개인적으로 다양한 크기중에 작은 팁을 좋아해요 구석구석 잘 닦여서 너무 좋아요 가격대비 훌륭하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "142",
+    "Word": "35",
+    "RDate": "20160730",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 여태 산중에 가장싸게 구입했어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "개인적으로 다양한 크기중에 작은 팁을 좋아해요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "구석구석 잘 닦여서 너무 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 훌륭하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900606",
+    "RawText": "기존에 사용하던 칫솔보다 더 촘촘하고 더 짱짱하게 힘이 있는 것 같습니다 잘 벌어지지않아 오래사용할 수 있을 듯 싶습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "18",
+    "RDate": "20160128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "기존에 사용하던 칫솔보다 더 촘촘하고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "더 짱짱하게 힘이 있는 것 같습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "잘 벌어지지않아 오래사용할 수 있을 듯 싶습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900616",
+    "RawText": "제가 처음 살 때는 훨씬 비쌌는데, 가격이 많이 내렸네요. 제품 품질 정말 좋습니다. 치석도 훨씬 덜 생기고 상쾌해요. 동생부부에게 선물했는데 좋다고합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "21",
+    "RDate": "20170413",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "제가 처음 살 때는 훨씬 비쌌는데, 가격이 많이 내렸네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 품질 정말 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "치석도 훨씬 덜 생기고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "상쾌해요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900617",
+    "RawText": "기존 사용하던 전동 칫솔이 고장이나서 구매했습니다 배송이 빨라 좋네요 사용 결과 성능 양호 하네요 비싸지만 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20171108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "사용 결과 성능 양호 하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸지만",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "900636",
+    "RawText": "ㅇㅇㅇ 전동칫솔 두번째 쓰고 있어요. 전에 쓰던거보다 가격이 저렴한대신 진동이 약하긴 하네요 개인적으로는 나쁘지 않습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20161221",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 전에 쓰던거보다 가격이 저렴한대신",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "진동이 약하긴 하네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "900639",
+    "RawText": "ㅇㅇㅇ 만족해요 다른 제품과 비교했을때 최소한의 기능과 합리적인 가격대로 선택했습니다 더블핸들 패키지로 2명이 사용하기 너무 좋아요 무엇보다 양치질이 잘 되는거 같아서 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "22",
+    "RDate": "20170725",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "최소한의 기능과",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "합리적인 가격대로 선택했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "더블핸들 패키지로 2명이 사용하기 너무 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치질이 잘 되는거 같아서 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900650",
+    "RawText": "배송도 빠르고 아주 편리하게 잘 쓰고 있어요. 입안이 상쾌합니다. 왜 이제야 전동칫솔을 쓰는지 후회가 됩니다. 비싸서 망설였는데 진작 쓸걸 그랬어요. 더블에 하나 가격이라 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "104",
+    "Word": "25",
+    "RDate": "20160818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아주 편리하게 잘 쓰고 있어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "입안이 상쾌합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "더블에 하나 가격이라 너무 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸서 망설였는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "900662",
+    "RawText": "음파칫솔 처음 써보는데 너무 간지러워요 잘 닦이는지는 잘 모르겠습니다. 색상도 초록색이라 촌스러워보이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "12",
+    "RDate": "20170317",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "너무 간지러워요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "잘 닦이는지는 잘 모르겠습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 초록색이라 촌스러워보이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "900669",
+    "RawText": "다이아몬드클린 집에서 사용중인데 이지클린 회사나 외출용으로 쓰려고 구매했어요 모드가 없어서 강한거 아닌가 생각했지만 그정도는 아니네요 딱쓰기 좋은 강도에다 이가격에 트윈 제품이라서 완전 좋아요 면세보다 더싸서 저렴하게 사서 너무 좋습니다 참고로 호환도되고 제 치아에 맞는 모 사용해서 더좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "163",
+    "Word": "37",
+    "RDate": "20180220",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "모드가 없어서 강한거 아닌가 생각했지만 그정도는 아니네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "딱쓰기 좋은 강도에다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이가격에 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "트윈 제품이라서 완전 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "면세보다 더싸서 저렴하게 사서 너무 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "호환도되고 제 치아에 맞는 모 사용해서 더좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900673",
+    "RawText": "평상시 내가 칫솔질이 옆으로 하는 습관으로 치아마모가 심한편입니다. 생각보다 부드러우면서 깨끗한 느낌이 들어요. 아직 처음이라 간지러움은 느끼는데 내가 하는 칫솔질보다 더 깨끗해져서 맘에 듭니다. 상쾌해져요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "116",
+    "Word": "25",
+    "RDate": "20180223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "생각보다 부드러우면서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "깨끗한 느낌이 들어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "아직 처음이라 간지러움은 느끼는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "내가 하는 칫솔질보다 더 깨끗해져서 맘에 듭니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "상쾌해져요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900681",
+    "RawText": "전동 칫솔 무경험자 입니다. 오십프로세일 행사에 덜컥 샀어요. 약간 칫솔 모가 단단해 보여서 걱정했어요 잇몸이 진동에 아직도 간지럽고 이질적인 느낌은 듭니다 스켈링 한듯한 개운한 느낌이 정말 좋네요. 잇몸에 무리가 가는 느낌도 없어요. 좋은 기회에 접해서 치아건강향상에 도움이 되는거 같아요. 칫솔모는 3일에 한번 구매니, 부지런히 구매해서 2번 구매 해야 겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "204",
+    "Word": "49",
+    "RDate": "20180226",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "오십프로세일 행사에 덜컥 샀어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "약간 칫솔 모가 단단해 보여서 걱정했어요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "잇몸이 진동에 아직도 간지럽고 이질적인 느낌은 듭니다 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "스켈링 한듯한 개운한 느낌이 정말 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": " 잇몸에 무리가 가는 느낌도 없어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "치아건강향상에 도움이 되는거 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900696",
+    "RawText": "이 가격에 더블 핸들이라니 정말 잘 샀습니다 음파칫솔은 처음인데 엄청 개운합니다 잘 쓰겠습니다 많이 파세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20180303",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "더블 핸들이라니 정말 잘 샀습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "음파칫솔은 처음인데 엄청 개운합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900700",
+    "RawText": "배송도 빠르고 ㅇㅇㅇ보다 진동이 강하네요. 뭔가 상쾌함은 덜 한거 같아요. 여러가지 방법으로 작동을 해봐야겠어요. 설명대로 하면 뭔가 허전합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "18",
+    "RDate": "20180305",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "ㅇㅇㅇ보다 진동이 강하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "뭔가 상쾌함은 덜 한거 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여러가지 방법으로 작동을 해봐야겠어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "설명대로 하면 뭔가 허전합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "900705",
+    "RawText": "떨림이 강해서 치석제거에 효과좋은것 같습니다. 중간중간 효과음과 자동으로 종료되는 기능도 훌륭한것 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "12",
+    "RDate": "20180307",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "떨림이 강해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 치석제거에 효과좋은것 같습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "중간중간 효과음과 자동으로 종료되는 기능도 훌륭한것 같네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900708",
+    "RawText": "일반 칫솔 쓰다가 처음 전동칫솔로 바꿨는데 처음엔 꼭 치과에서 스케일링 받는 그런 진동 느낌이 들었어요. 양치하고 나면 이가 뽀득뽀득 상큼한 느낌이 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "22",
+    "RDate": "20180309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "처음엔 꼭 치과에서 스케일링 받는 그런 진동 느낌이 들었어요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치하고 나면 이가 뽀득뽀득 상큼한 느낌이 듭니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900710",
+    "RawText": "음파칫솔은 처음이라 좀 불안했었는데 뽀독뽀독한 느낌도 나는거 같고 일반 전동칫솔보다 훨씬 만족스럽군요 충전기 하나 부족한것도 그다지 불편함 없이 잘 쓰고 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "21",
+    "RDate": "20180312",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "뽀독뽀독한 느낌도 나는거 같고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "충전기 하나 부족한것도 그다지 불편함 없이 잘 쓰고 있어요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900715",
+    "RawText": "칫솔모가 넓어서 처음엔 적응이 안 되었는데 사용하다보니 적응됩니다 사용한 후에는 입안이 깔끔한 느낌이고 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20180321",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "칫솔모가 넓어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "처음엔 적응이 안 되었는데 사용하다보니 적응됩니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "사용한 후에는 입안이 깔끔한 느낌이고 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900719",
+    "RawText": "기능이 많아 봤자 다 안 쓰는거 아시죠? 전원버튼 누르면 2분간 작동, 30초씩 끊어져서 작동고르게 진동이 오니 좋습니다 칫솔 뭉게짐도 없는것 같아요 다음엔 혀크리너도 사야겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "24",
+    "RDate": "20180702",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "전원버튼 누르면 2분간 작동, 30초씩 끊어져서 작동고르게 진동이 오니 좋습니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "칫솔 뭉게짐도 없는것 같아요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900724",
+    "RawText": "기존 쓰던데 2개가 고장나서, 저렴하게 세트로 샀어요. 기존거보나 약간 약한 느낌이 들지만 얇고 심플하고 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20180720",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "세트로 샀어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "기존거보나 약간 약한 느낌이 들지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "심플하고 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900725",
+    "RawText": "ㅇㅇㅇ보다 이가 더 잘 닦이는거 같습니다 1+1이라 하나는 일반 칫솔로 하나는 혀 칫솔로 이용하고 있습니다 전에 사용하던 ㅇㅇ제품은 고가에 기능은 다양하나 자주 고장나서 비추합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "100",
+    "Word": "24",
+    "RDate": "20180729",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "ㅇㅇㅇ보다 이가 더 잘 닦이는거 같습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "1+1이라 하나는 일반 칫솔로 하나는 혀 칫솔로 이용하고 있습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900728",
+    "RawText": "전원 껐다켜는 버튼 하나밖에 없어서 작동법 간단해서 좋습니다. 1+1으로 음파진동칫솔 2개줘서 좋습니다. 일반칫솔질할때는 힘이 많이 들어가는데 이 음파진동칫솔은 힘이 많이 안들어가고 칫솔을 하니까 치아마모가 덜할듯하네요. 같이 주신 실리콘 혀칫솔 자극없고, 닦고나면 혀의 돌기 하나하나 다 살아나서 개운하고 시원하고 좋다. 음파전동칫솔 한번 사용하면 중독되서 일반 칫솔로는 이제 양치질 못하겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "222",
+    "Word": "48",
+    "RDate": "20180809",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "전원 껐다켜는 버튼 하나밖에 없어서 작동법 간단해서 좋습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "1+1으로 음파진동칫솔 2개줘서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "음파진동칫솔은 힘이 많이 안들어가고 칫솔을 하니까",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "치아마모가 덜할듯하네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "같이 주신 실리콘 혀칫솔 자극없고,",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "닦고나면 혀의 돌기 하나하나 다 살아나서 개운하고 시원하고 좋다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900730",
+    "RawText": "개운하지 않네요 확실히 어른거가 애들거보다 진동은 강력합니다 그런데 생각보다 깨끗하게 닦이진 않습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "12",
+    "RDate": "20181225",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운하지 않네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "어른거가 애들거보다 진동은 강력합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 생각보다 깨끗하게 닦이진 않습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "900738",
+    "RawText": "좋아요. 아직 적응이 안되서 하고 난 다음 얼얼한 느낌은 있지만 하고나면 스케일링한 것처럼 뽀득한 느낌도 있어서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20190522",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "하고 난 다음 얼얼한 느낌은 있지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "하고나면 스케일링한 것처럼 뽀득한 느낌도 있어서 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900746",
+    "RawText": "전에 쓰던 ㅇㅇㅇ 전동칫솔이 있는데 오래 쓰기도했고 해서 구매했습니다 오늘 사용해보니 전에 쓰던건 좀 가격이 비싼거라 그런지 전거보단 좀 약한거 같습니다 가격대비해서는 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "23",
+    "RDate": "20200317",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "전거보단 좀 약한거 같습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비해서는 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900814",
+    "RawText": "ㅇㅇㅇ는 일단 브랜드에 믿음이 가네요 혹시나 문제가 생기면 A/S도 잘 되고 사용하기에도 편리하여 어머니와 하나씩 나눠 쓰려고 해요 가격도 나쁘지 않았습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "21",
+    "RDate": "20210803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기에도 편리하여 어머니와 하나씩 나눠 쓰려고 해요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 나쁘지 않았습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "900816",
+    "RawText": "배송도 빠르고, 포장도 잘되어 왔습니다 거기에 정말 착한가격에 사게 되어 좋습니다 오자마자 충전기 꽂아서 사용하려는데 치아도 잘 닦이길 바래봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "19",
+    "RDate": "20210803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "정말 착한가격에 사게 되어 좋습니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "치아도 잘 닦이길 바래봅니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "900819",
+    "RawText": "온가족이 7~8년째 쓰는 음파칫솔입니다 ㅇㅇㅇ 제품만 4번 넘게 산것같아요. 일반칫솔보다 월등히 편하고 잘 닦여요. 비싼모델도 써봤지만 보급형 모델도 충분히 잘 닦여서 싼거 사요. 떨어트려서 파손되는거 아니면 튼튼합니다 2년무상 as도 요긴하네요. 다른브랜드도 많지만 ㅇㅇㅇ가 믿음직한데다 세일 가격이 점점 착해져서 계속 씁니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "183",
+    "Word": "40",
+    "RDate": "20210804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 일반칫솔보다 월등히 편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦여요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "보급형 모델도 충분히 잘 닦여서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼거 사요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "떨어트려서 파손되는거 아니면 튼튼합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일 가격이 점점 착해져서 계속 씁니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900821",
+    "RawText": "음파칫솔 한번쓰면 일반칫솔 못써요 특히 ㅇㅇㅇ제품이 타사보다 훨씬 치석제거가 잘됩니다 개운하기에 항상 사용하고 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20210804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "치석제거가 잘됩니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운하기에 항상 사용하고 있어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900828",
+    "RawText": "음파 전동칫솔 처음 사용해봅니다 칫솔진동에 맡기라는데 잘 닦이는건지 어리둥절 하네요 계속 하다보면 익숙해지려나요? 건강한 치아를 생각해서 열심히 사용해보려합니다 음파칫솔, 칫솔모 각 두개가 왔습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "4",
+    "Syllable": "110",
+    "Word": "23",
+    "RDate": "20210806",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "칫솔진동에 맡기라는데 잘 닦이는건지 어리둥절 하네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "계속 하다보면 익숙해지려나요?",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "음파칫솔, 칫솔모 각 두개가 왔습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "900839",
+    "RawText": "ㅇㅇㅇ만계속 사용했는데 동생도 선물해주려고 한개더 구매했어요 이빨이 구석 구석 닦이는 느낌이 시원하네요 배송도 빨랐구요 가격도 나쁘지 않았습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "17",
+    "RDate": "20210807",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "이빨이 구석 구석 닦이는 느낌이 시원하네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 나쁘지 않았습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "900841",
+    "RawText": "칫솔모나 헤드가 너무 크지도 작지도 않아서 사용하기에 적당합니다 소음도 적어서 좋습니다 칫솔캡까지 주셔서 보관도 용이할듯 하네요 배송도 빠르고 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "19",
+    "RDate": "20210807",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "칫솔모나 헤드가 너무 크지도 작지도 않아서 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기에 적당합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소음도 적어서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "칫솔캡까지 주셔서 보관도 용이할듯 하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900847",
+    "RawText": "아들이 이를 잘안닦아서 샀는데 너무 좋네요 가격도 저렴합니다. 구서구석 잘닦이길 바래봅니다. 일단 잘 쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20210807",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "구서구석 잘닦이길 바래봅니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "900851",
+    "RawText": "상품 추천해요. 사용후에 치아가 개운한 느낌입니다 추천합니다 2주 후에 깨끗해진 치아를 기대해봅니다. 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "13",
+    "RDate": "20210808",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "사용후에 치아가 개운한 느낌입니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "2주 후에 깨끗해진 치아를 기대해봅니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "900853",
+    "RawText": "성능도 안 좋고 잘 닦이지도 않네요. 2개가 이 가격이라니 너무 비쌉니다. 직장과 집에 하나씩 두고 쓸려고 했는데 다른 제품 다시 사야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "21",
+    "RDate": "20210808",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능도 안 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦이지도 않네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "2개가 이 가격이라니 너무 비쌉니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "직장과 집에 하나씩 두고 쓸려고 했는데 다른 제품 다시 사야겠어요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "900857",
+    "RawText": "예전에 썼던 전동칫솔과는 다르게 개운하지 않아 별로네요. 잘닦이지도 않습니다. 추천드리고 싶은 제품이 아니네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20210808",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운하지 않아 별로네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘닦이지도 않습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "900860",
+    "RawText": "음파칫솔을 많이들 추천하기도하고 좋아보여서 ㅇㅇㅇ로 정했습니다 ㅇㅇㅇ도 여러 종류가 있던데 기본적인 기능은 같은데 부가적인 기능차이가 있는것 같데요. 고민하다 어차피 기능 이것저것 안쓸거 알기에 가장 기본적인걸로 골랐습니다 가격도 저렴합니다 오늘 처음 해봤는데 안움직이니까 되게 어색한데 넘 편한듯합니다 신기하게 잘 닦여있고 일반 칫솔질할때 잘 안닦이던 이 뒤쪽도 훨 더 잘 닦였어요 이 정도 기능에 가격에 너무 만족스럽고 두개주는 이벤트까지 최고네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "252",
+    "Word": "58",
+    "RDate": "20210809",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴합니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "안움직이니까 되게 어색한데 넘 편한듯합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "신기하게 잘 닦여있고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "이 정도 기능에 가격에 너무 만족스럽고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격에 너무 만족스럽고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "두개주는 이벤트까지 최고네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "어차피 기능 이것저것 안쓸거 알기에 가장 기본적인걸로 골랐습니다 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "일반 칫솔질할때 잘 안닦이던 이 뒤쪽도 훨 더 잘 닦였어요 ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900863",
+    "RawText": "가격이 비싸서 고민을 하다 구매를 했습니다 사용할떄 손목이 안 아픈것 좋은데 생각보다 잘 안닦여서 별로네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20210809",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싸서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용할떄 손목이 안 아픈것 좋은데 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "생각보다 잘 안닦여서 별로네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "900866",
+    "RawText": "처음 사봤습니다. 써보니 칫솔질보다 치아가 더 뽀득해지는 느낌이네요. 아직 사용법은 서툴지만 이제 쭉 이 칫솔만 사용할 것 같습니다. 배송도 빠르고 저렴하게 잘 샀네요 써보고 주위에 추천할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "108",
+    "Word": "26",
+    "RDate": "20210809",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "칫솔질보다 치아가 더 뽀득해지는 느낌이네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 샀네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아직 사용법은 서툴지만 이제 쭉 이 칫솔만 사용할 것 같습니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900867",
+    "RawText": "색상이 하나밖에 없어서 구분을 하는게 어렵네요 자극적일까봐 걱정했는데 잇몸이 아프거나 시리지 않습니다. 플라그 제거도 잘된는 것 같고요. 스케일링한것처럼 이빨이 매끈매끈허네요. 만족스럽다 광고대로 잇몸도 좋아지고 치아마모도 없으면 좋겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "134",
+    "Word": "27",
+    "RDate": "20210809",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 하나밖에 없어서 구분을 하는게 어렵네요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극적일까봐 걱정했는데 잇몸이 아프거나 시리지 않습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "플라그 제거도 잘된는 것 같고요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "스케일링한것처럼 이빨이 매끈매끈허네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸도 좋아지고 치아마모도 없으면 좋겠습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "900869",
+    "RawText": "그립감 묵직하니 좋아요 음파칫솔 2개, 칫솔모 기본 2개에 이벤트로 칫솔모 4개를 더 주니 아주 좋습니다 추천해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "16",
+    "RDate": "20210810",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "그립감",
+        "SentimentText": "그립감 묵직하니 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "음파칫솔 2개, 칫솔모 기본 2개에 이벤트로 칫솔모 4개를 더 주니 아주 좋습니다",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900873",
+    "RawText": "처음써보는데 아주 신세계입니다 세일해서 저렴하게 구매했고 이번기회에 저희가족 다 사용하고있습니다 다들 넘 개운하고 좋다고합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "14",
+    "RDate": "20210810",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일해서 저렴하게 구매했고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "다들 넘 개운하고 좋다고합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900882",
+    "RawText": "저렴하게 구매해서 너무 좋습니다 부모님이 다니는 병원에 치과 선생님이 전동칫솔 사용 권하셔서 후기가 좋아 구매했네요 처음 적응에 시일이 걸리겠지만 설명대로 효과가 좋았음 합니다 포장도 꼼꼼하게 잘 왔네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "113",
+    "Word": "27",
+    "RDate": "20210810",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매해서 너무 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "처음 적응에 시일이 걸리겠지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "설명대로 효과가 좋았음 합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "900883",
+    "RawText": "가끔 굉음이 나서 시끄럽기는 하지만 가격이 워낙 좋아 계속 사서 쓰고 있습니다. 강추해요. 칫솔로 양치하면 개운하지가 않고 음파칫솔이 개운합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "19",
+    "RDate": "20210810",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소음",
+        "SentimentText": "가끔 굉음이 나서 시끄럽기는 하지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 워낙 좋아 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 음파칫솔이 개운합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900886",
+    "RawText": "원래 쓰던건데 고장이나서 안쓰고 있다가 저렴하게 살 수 있어서 재구매했습니다 구성 너무 좋고 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 살 수 있어서 재구매했습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성 너무 좋고 만족합니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900887",
+    "RawText": "행사가로 저렴하게 구매했습니다 더블핸들이라 구성이 매우 좋은 제품이에요 기능도 좋아요 잘 사용할게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "행사가로 저렴하게 구매했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "더블핸들이라 구성이 매우 좋은 제품이에요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "기능도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900892",
+    "RawText": "전동칫솔 사고싶다 하는중 세일하길래 저렴하게 구매했어요 전동칫솔을 왜 이제야 입문한걸까 싶네요 쓸땐 진동때문에 약간 치과에서 치료받을때의 그 떨림같은 느낌입니다 제대로 닦이는건가 생각했는데 양치 끝내고 나니 너무 개운합니다 2개가 들어있는 구성이라서 2명이 쓰기도 너무 좋습니다 진짜 너무너무 잘 샀습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "170",
+    "Word": "38",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일하길래 저렴하게 구매했어요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "쓸땐 진동때문에 약간 치과에서 치료받을때의 그 떨림같은 느낌입니다 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "제대로 닦이는건가 생각했는데 양치 끝내고 나니 너무 개운합니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 2개가 들어있는 구성이라서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 2명이 쓰기도 너무 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900893",
+    "RawText": "남편 치아가 안좋아서 전동칫솔 살려고 했는데 좋은 가격에 구성도 알차고 당장 주문했습니다 택배도 포장 잘 되어서 잘 왔습니다 구성도 빠짐없이 잘 왔고 작동도 잘 됩니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "25",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 알차고 당장 주문했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "작동도 잘 됩니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900902",
+    "RawText": "예전에 잘 쓰다가 고장이나는 바람에 타사 제품을 샀다가 그것도 고장나서 다시 ㅇㅇㅇ 제품으로 돌아왔습니다 ㅇㅇㅇ께 확실히 조용하고 좋아요 고장없이 오래 쓸수 있었으면 좋겠습니다 칫솔모만 더 저렴하게 판매했으면 좋겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "121",
+    "Word": "28",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소음",
+        "SentimentText": "ㅇㅇㅇ께 확실히 조용하고 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "고장없이 오래 쓸수 있었으면 좋겠습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "칫솔모만 더 저렴하게 판매했으면 좋겠네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "900904",
+    "RawText": "치과의사 추천으로 구매했는데 치열이 좋지않아 양치안된곳이 많았는데 음파칫솔이 해결해 주네요 구석구석 아주 잘 닦여서 만족합니다 구매전이신 분들한데도 추천하고 싶어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "19",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "치열이 좋지않아 양치안된곳이 많았는데 음파칫솔이 해결해 주네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "구석구석 아주 잘 닦여서 만족합니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900909",
+    "RawText": "예전에 ㅇㅇㅇ 제품을쓰다가 일반칫솔 썼었는데요. 음파칫솔이 있는걸 요번에 알아서 구입했습니다. 미세진동이 플라그제거 잘 해주는 듯 합니다 소음은 조금 있지만 잘 쓸게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "21",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "미세진동이 플라그제거 잘 해주는 듯 합니다 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": " 소음은 조금 있지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "900910",
+    "RawText": "음파칫솔은 처음 써보는데 생각보다 상쾌합니다. 치약도 평소에 사용하는 것보다 적게 써도 될 것 같아요. 꾸준히 쓰면 치석제거에 효과적이라고 들었는데, 진동을 느껴보니까 무슨 말인지 알 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "26",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "음파칫솔은 처음 써보는데 생각보다 상쾌합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "치약도 평소에 사용하는 것보다 적게 써도 될 것 같아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "준히 쓰면 치석제거에 효과적이라고 들었는데, 진동을 느껴보니까 무슨 말인지 알 것 같네요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900911",
+    "RawText": "10살 12살 아들이 기존에 ㅇㅇㅇ 아동용이 너무 작아서 어떤 걸로 바꿔줄까 고민하다가 ㅇㅇ쇼핑에서 특가로 떴길래 바로 구매했습니다 2개에 이 가격 정말인가요? 화이트로 깔끔하고 군더더기 없는 디자인 딱 좋습니다 2개 구성이라 큰 아들 작은아들 싸울 일 없이 나눠주면 될 것 같네요 좋은가격에 잘 산 것 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "174",
+    "Word": "45",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "ㅇㅇ쇼핑에서 특가로 떴길래 바로 구매했습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "2개에 이 가격 정말인가요?",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "화이트로 깔끔하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "군더더기 없는 디자인 딱 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "2개 구성이라 큰 아들 작은아들 싸울 일 없이 나눠주면 될 것 같네요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은가격에 잘 산 것 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900912",
+    "RawText": "처음 음파칫솔 써보는거라서 가성비 좋은 제품으로 샀습니다 더블핸들이라 남편이랑 싸우지 않고 나눠 쓰겠습니다 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은 제품으로 샀습니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "더블핸들이라 남편이랑 싸우지 않고 나눠 쓰겠습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900913",
+    "RawText": "너무좋습니다. 확실히 그냥 칫솔질하는것보다 개운하고 깔끔하게 마무리되는 느낌입니다. 요즘 입냄새도 많이 나고 이관리를 좀 해야겠다는 생각이 많이 들었어요. 총 2분동안 30초마다 진동으로 시간이 지났음을 알려주는것도 너무 좋군요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "127",
+    "Word": "27",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "그냥 칫솔질하는것보다 개운하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 깔끔하게 마무리되는 느낌입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "총 2분동안 30초마다 진동으로 시간이 지났음을 알려주는것도 너무 좋군요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900915",
+    "RawText": "너무너무 만족합니다 전에 쓰던것도 잘 쓰고있는데 신상으로 바꿔봤어요 전에꺼보다 그립감도 좋아요 가격은 더 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "그립감",
+        "SentimentText": "그립감도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 더 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900928",
+    "RawText": "기존에 똑같은제품 쓰고있었는데 너무 잘 쓰고 있어서 같은제품으로 재구매했습니다 마감도 좋고 진동도 더 쎄진느낌입니다 가격도 정말 저렴하게 잘 샀습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "19",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "진동도 더 쎄진느낌입니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격도 정말 저렴하게 잘 샀습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900930",
+    "RawText": "구성품도 제대로 오고 배송도 안전하고 빠르게 왔습니다 칫솔모4개까지 추가로 주시고 이런 이벤트 넘 좋네요 가격도 나쁘지 않았어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "칫솔모4개까지 추가로 주시고 이런 이벤트 넘 좋네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 나쁘지 않았어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "900934",
+    "RawText": "입안이 깨끗해지네요 이거 사용하고 나서는 기존 칫솔을 사용 못 할것 같습니다 가격도 저렴하고, 2개가 들어있어서 하나는 집 하나는 회사에서 써요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "20",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "입안이 깨끗해지네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "2개가 들어있어서 하나는 집 하나는 회사에서 써요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900935",
+    "RawText": "첫 진동 칫솔입니다 싸게는 잘 산것 같습니다 남편이 계속 사달라고해서 벼르고 벼르다가 샀습니다 깔끔한 디자인이네요 ㅇㅇㅇ라 말해하겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "17",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게는 잘 산것 같습니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔한 디자인이네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900938",
+    "RawText": "원래 사용하던 제품인데 할인이 많이 들어가서 동생네 선물로 주려고 구입했네요 다른 ㅇㅇ도 써봤는데 큰 차이 없더군요 핸들이 두개라 화장실 두개에 각각 하나씩 놓고 쓰기도 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "25",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인이 많이 들어가서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "핸들이 두개라 화장실 두개에 각각 하나씩 놓고 쓰기도 좋아요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900943",
+    "RawText": "10년 넘게 쓰고 있는데 할인해서 저렴하게 또 구매했습니다 양치후 너무 개운하고 좋습니다 가격도 할인이라 너무 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인해서 저렴하게 또 구매했습니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치후 너무 개운하고 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격도 할인이라 너무 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900944",
+    "RawText": "일단 배송이 아주 빨라서 좋습니다. 최근들어 치아와 잇몸에 문제가 생겨서 알아보던 중에 ㅇㅇㅇㅇ를 알게되어 구입했다. 잘닦이길 바라고 잇몸이 건강해지길 바래봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "20",
+    "RDate": "20210811",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 잘닦이길 바라고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸이 건강해지길 바래봅니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "900947",
+    "RawText": "아들 기숙사가서 쓰고 나머지는 사무실에 두고 쓰려고 구매했습니다. 전에 쓰던건 기능이 많은 거였는데 주로 한가지만 쓰게되더라고요. 그래서 이걸로 구매했어요. 사용하고 나서는 매끈하고 개운합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "23",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "사용하고 나서는 매끈하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900953",
+    "RawText": "전동칫솔은 처음 사용해봐서 사실 어떻게 사용해야하는지 처음에 좀 난감하더라고요. 내용물에 설명서가 들어있기는한데 4줄이상은 읽기 힘들어서 ㅇㅇㅇ를 찾아보고 사용을 했습니다. 잘 닦일까 했는데 닦고 나서 입안을 혀로 굴려보니 상당히 느낌이 괜찮습니다. 플라그제거는 일반칫솔보다 더 좋다고 하니 기대해봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "169",
+    "Word": "36",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦일까 했는데 닦고 나서 입안을 혀로 굴려보니 상당히 느낌이 괜찮습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "플라그제거는 일반칫솔보다 더 좋다고 하니 기대해봅니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "900979",
+    "RawText": "배송이 빨리와서 좋았습니다 물건도 가벼운 편이라 편할것 같습니다 본체가 2개 있어서 가족끼리 쓰기 좋은 제품이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "4",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "물건도 가벼운 편이라 편할것 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "본체가 2개 있어서 가족끼리 쓰기 좋은 제품이네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900981",
+    "RawText": "2년 무상서비스 행사중 구매해서 잘 산것같아요 아내가 자기꺼만 구매해서 저도 따라 구매했습니다 1+1이라 하나는 집에서 하나는 회사에두고 사용해야겠어요 켜보고 진동소리에 좀 놀랐지만 그만큼 잘 닦이길 바래봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "117",
+    "Word": "26",
+    "RDate": "20210811",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "1+1이라 하나는 집에서 하나는 회사에두고 사용해야겠어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "켜보고 진동소리에 좀 놀랐지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "그만큼 잘 닦이길 바래봅니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "900983",
+    "RawText": "우리 가족 첫 전동 칫솔로 ㅇㅇㅇ 이지클런 더블핸들 구매했습니다 보다 더 나은 치아관리를 위해 고민하던 차 좋은 제품이 좋은 가격으로 나와 구매를 했네요 사용방법도 간단하고 편리해 누구나 쉽게 사용할 수 있습니다 구석 구석 깨끗하게 닦이면 좋겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "139",
+    "Word": "36",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "더블핸들 구매했습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격으로 나와 구매를 했네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용방법도 간단하고 편리해 누구나 쉽게 사용할 수 있습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "구석 구석 깨끗하게 닦이면 좋겠습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "900985",
+    "RawText": "쓰던게 고장나고 한동안 안썼었었는데 핸들 두개에 싸게 살수 있어서 바로 구매했네요 나이가 들수록 어금니 닦기가 어려웠는데 소닉케어는 어금니도 잘닦입니다 이 칫솔모 한개로 3개월 쓸 수 있으니 가성비도 좋아요 배송도 엄청 빨랐어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "127",
+    "Word": "31",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "핸들 두개에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 살수 있어서 바로 구매했네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "소닉케어는 어금니도 잘닦입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900988",
+    "RawText": "음파진동칫솔은 처음입니다. 추천받아서 구매했는데 처음에는 좀 간지럽게 느껴졌습니다 그러다 적응되니 양치하면 개운함이 오네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "13",
+    "RDate": "20210812",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "처음에는 좀 간지럽게 느껴졌습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "적응되니 양치하면 개운함이 오네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900989",
+    "RawText": "아이들만 전동 칫솔 쓰고 있는데 좋은 가격에 성인꺼 두개를 샀어요. 남편과 하나씩 쓰려고 구매했습니다. 전동칫솔은 처음이라 좀 낯설긴 한데 뽀득하니 깨끗하게 닦이는것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "23",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 성인꺼 두개를 샀어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "뽀득하니 깨끗하게 닦이는것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "전동칫솔은 처음이라 좀 낯설긴 한데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "900990",
+    "RawText": "2014년부터 ㅇㅇㅇ 전동칫솔만 사용하고 있어요. 배터리랑 모터가 내장된 제품이라 2~3년 정도 쓰면 정상적으로 작동하지 않더라고요. 그래도 다른 제품과 달리 음파 진동이 가능하고 치석이 좀 덜 생기는거 같아서 애용하고 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "126",
+    "Word": "29",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 음파 진동이 가능하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "치석이 좀 덜 생기는거 같아서 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900993",
+    "RawText": "충전하고 써봤는데 첫느낌은 진동이 강해서 뭔가 자극이 심했어요 착색된 곳이랑 평소에 잘 안 닦이는 곳이랑 음식물이 잘 끼는곳에 사용해봤는데 착색된 곳은 색이 많이 연해졌고 잘 안 닦이는 곳도 구석구석 닦기 좋아서 음식물 제거에도 좋습니다. 아직 미숙해서 이곳저곳 다 튀지만 다음에 사용할때는 튀지 않게 사용해보고 싶어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "178",
+    "Word": "45",
+    "RDate": "20210812",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "진동이 강해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극이 심했어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "착색된 곳은 색이 많이 연해졌고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 안 닦이는 곳도 구석구석 닦기 좋아서 음식물 제거에도 좋습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "900995",
+    "RawText": "처음 사용한 입장에서 생각 보다 파워가 세고 개운해요 치과의사 사용 영상에서는 생각 보다 효과가 없다고 하던데 개운함이랑 사용 편의성에서는 괜찮은 듯하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "21",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "생각 보다 파워가 세고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 개운해요 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운함이랑 사용 편의성에서는 괜찮은 듯하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 사용 편의성에서는 괜찮은 듯하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "901002",
+    "RawText": "기존에 쓰던게 축이 흔들리고 물이 들어갔는지 진동이 시원찮아서 이번 기회에 사게 됐습니다 화이트닝 이런거 필요없이 그냥 기본만 충실해서 좋고 제일 가성비 갑인듯합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "4",
+    "Syllable": "92",
+    "Word": "22",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "화이트닝 이런거 필요없이 그냥 기본만 충실해서 좋고 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 제일 가성비 갑인듯합니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "901005",
+    "RawText": "이 전에는 ㅇㅇㅇ 전동칫솔을 썼는데 새로운 걸 써보고싶어서 구입해봤습니다. 음파가 뭔지 모르고 구입했는데 이게 닦이나 싶었지만 신기하게 깨끗하게 닦입니다. 전에꺼보다 가볍고 30초씩 해서 2분 알려주니 꼼꼼히 나눠 잘 닦을 수 있어요. 2세트라서 남편이랑 나눠 쓸 수 있어 좋습니다. 배송도 빨라서 좋았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "173",
+    "Word": "41",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "신기하게 깨끗하게 닦입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "전에꺼보다 가볍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "30초씩 해서 2분 알려주니 꼼꼼히 나눠 잘 닦을 수 있어요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "2세트라서 남편이랑 나눠 쓸 수 있어 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "901007",
+    "RawText": "보통의 전동칫솔은 치아 마모 심하다해서 고민하다가 음파칫솔로 주문했습니다 아직은 적응 중 이라서 그렇게 개운한 느낌은 안들어요 적응 끝나면 개운하게 되길 기대해봅니다 임플란트, 와이어 자리는 이걸로 하니 왠지 잘 닦이는 느낌적인 느낌이 드네요 그래도 양치를 해도 치간치솔이 필요할 것 같습니다 장기로 사용해도 마모 없이 잘 닦였으면 좋겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "4",
+    "Syllable": "190",
+    "Word": "46",
+    "RDate": "20210812",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "아직은 적응 중 이라서 그렇게 개운한 느낌은 안들어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "적응 끝나면 개운하게 되길 기대해봅니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "임플란트, 와이어 자리는 이걸로 하니 왠지 잘 닦이는 느낌적인 느낌이 드네요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치를 해도 치간치솔이 필요할 것 같습니다 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "마모 없이 잘 닦였으면 좋겠네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "901011",
+    "RawText": "부모님께서 필요하다고 하셔서 사드렸는데 너무 만족스러워 하시네요 구석구석 닦는 게 쉽지 않은데 손쉽게 꼼꼼이 세척되어서 기존에 손으로 직접 칫솔질 하실 때보다 여러모로 편하고 좋다고 하십니다 부모님께서 만족하셔서 저도 매우 좋고, 저도 추가 구입해서 사용해 볼 예정이네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "151",
+    "Word": "36",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "손쉽게 꼼꼼이 세척되어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손으로 직접 칫솔질 하실 때보다 여러모로 편하고 좋다고 하십니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "901012",
+    "RawText": "주문한 지 하루만에 와서 오늘 드디어 사용해 봤어요 진동이 익숙하진 않고, 양치 후에도 진동감이 남아요 하지만 잘 닦입니다 적응되면 아주 좋을거 같습니다 힘도 안 들어 편하고 30초마다 진동으로 다른데 닦으라고 알려 줘서 아주 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "133",
+    "Word": "34",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "진동이 익숙하진 않고, 양치 후에도 진동감이 남아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "힘도 안 들어 편하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "30초마다 진동으로 다른데 닦으라고 알려 줘서 아주 만족합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "901014",
+    "RawText": "집에서 ㅇㅇㅇ을 사용중인데 사무실에서 사용하려고 구매했어요 ㅇㅇ 사용감과 ㅇㅇㅇ과의 차이점을 못 느끼겠네요 굳이 차이점을 찾자면 외관 플라스틱은 ㅇㅇㅇ보다 덜 고급스럽네요 핸들 2개가 이 가격이면 모든게 용서가 되긴해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "122",
+    "Word": "27",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "ㅇㅇ 사용감과 ㅇㅇㅇ과의 차이점을 못 느끼겠네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "외관 플라스틱은 ㅇㅇㅇ보다 덜 고급스럽네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "핸들 2개가 이 가격이면 모든게 용서가 되긴해요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "901016",
+    "RawText": "매우좋습니다 품질 좋네요 1+1이고 가족끼리 쓰게 좋을거 같습니다 몇번 사용해봤는데 이가 뽀드득할정도로 잘 닦이네요 고민하시는분들 우선 써보세요 강추합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "18",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": " 품질 좋네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "1+1이고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 가족끼리 쓰게 좋을거 같습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "이가 뽀드득할정도로 잘 닦이네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "901019",
+    "RawText": "ㅇㅇㅇ전동칫솔 음파 칫솔이라 좋습니다. 요 제품은 가성비 제품인것 같아요. 기본적이라 잘 쓰일듯합니다. 양치 하고 나면 개운해요 추천합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "4",
+    "Syllable": "77",
+    "Word": "17",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "요 제품은 가성비 제품인것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "기본적이라 잘 쓰일듯합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치 하고 나면 개운해요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "901020",
+    "RawText": "빠른 배송 잘 받았네요 전동칫솔 두개를 이렇게 싼 가격에 사게 되어 기분은 너무 좋네요 첫 전동칫솔인데 일반칫솔보다 잘 닦이길 기대해봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "20",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 전동칫솔 두개를",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이렇게 싼 가격에 사게 되어 기분은 너무 좋네요 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "일반칫솔보다 잘 닦이길 기대해봅니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "901021",
+    "RawText": "쓸데없는 기능 다 빼고 필요한 기능만 있어 좋네요 가격도 저렴합니다 치아에서 뽀드득 소리가 나는 것 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "16",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "쓸데없는 기능 다 빼고 필요한 기능만 있어 좋네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴합니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "치아에서 뽀드득 소리가 나는 것 같네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "901023",
+    "RawText": "전부터 쓰던 제품이라 품질이야 잘 알고 있습니다 이번에 교체할 때가 된 것 같아 재구매 했습니다 배송도 빠르고 양치질도 시원하게 잘 되요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "21",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이야 잘 알고 있습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치질도 시원하게 잘 되요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "901024",
+    "RawText": "다른 사이트보다 저렴해서 구입했습니다. 초등학교 6학년이라 키즈는 좀 작을것 같아서 샀어요. 간지러워하긴 하는데 사용하고 나서 뽀득뽀득 개운하다고 좋아합니다. 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "94",
+    "Word": "19",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 사이트보다 저렴해서 구입했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "간지러워하긴 하는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "사용하고 나서 뽀득뽀득 개운하다고 좋아합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "901025",
+    "RawText": "제 인생은 둘로 나뉩니다. 전동칫솔을 사용하기 전과 후로요 어제 하루 써봤는데 다음 날도 개운합니다. 전 계속 쓸거에요. 빨리 사서 쓰세요.꼭 쓰세요.아니, 사지 마세요.저만 쓰고 싶을 정도네요. 잘 닦여요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "115",
+    "Word": "28",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 다음 날도 개운합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦여요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "901027",
+    "RawText": "주문후 다음날 바로 발송해 주셨네요. 제품 받자마자 켜봤는데 진동이 생각보다 약합니다. 제품 자체는 튼튼하게 생겼습니다. 좋은 제품 잘 사용해볼게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "19",
+    "RDate": "20210812",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "진동이 생각보다 약합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "제품 자체는 튼튼하게 생겼습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "901032",
+    "RawText": "진짜 가성비 끝판왕인하네요 두개나 들어있고 어제 사용해봤는데 제일 안쪽 어금니까지 완전 잘닦입니다 강추해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "진짜 가성비 끝판왕인하네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "두개나 들어있고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 제일 안쪽 어금니까지 완전 잘닦입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "901033",
+    "RawText": "그냥 칫솔만 사용하다가 처음으로 전동칫솔을 사용하게 되었는데 가성비 좋게 제품을 사게 된거 같아서 만족해요 다른 비싼 전동칫솔을 사용 못해봐서 그런거 일수도 있겠지만 전동칫솔을 처음 입문하는 사람한테는 매우 좋은거 같네요 2개라서 하나는 집에서 사용하고 하나는 외출용으로 들고 다니면 좋을거 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "166",
+    "Word": "39",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋게 제품을 사게 된거 같아서 만족해요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "2개라서 하나는 집에서 사용하고 하나는 외출용으로 들고 다니면 좋을거 같네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "901034",
+    "RawText": "배송 빨랐습니다 충전 간단히 하고 써봤는데 좋습니다 본체가 1개 더 있어서 더 좋은거 같아요 건강한 이빨을 위해서 가성비 좋은거 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "20",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "본체가 1개 더 있어서 더 좋은거 같아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은거 같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "901040",
+    "RawText": "이 가격에 이 정도 퀄리티의 칫솔을 두개나 살 수 있다니 너무 좋아요 생각보다 칫솔 사이즈가 커서 욕실 선반에 안들어가서 아쉽지만 성능이 너무 맘에 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "4",
+    "Syllable": "86",
+    "Word": "24",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이 정도 퀄리티의 칫솔을",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "두개나 살 수 있다니 너무 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "생각보다 칫솔 사이즈가 커서 욕실 선반에 안들어가서 아쉽지만",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능이 너무 맘에 들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "901043",
+    "RawText": "충전기가 간편하네요 기존에 ㅇㅇㅇ 제품 쓰다가 교체 칫솔모가 너무 비싸기도 해서 바꿔보니 칫솔모가 차원이 다르게 시원하게 닦입니다 칫솔모 유지비도 더 저렴하고 마음에 듭니다 충전시간이 제법 긴거 말곤 단점이 아직 없습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 이** 더블핸들 전동칫솔 기본구성",
+    "ReviewScore": "5",
+    "Syllable": "123",
+    "Word": "30",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "충전기가 간편하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "칫솔모가 차원이 다르게 시원하게 닦입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "칫솔모 유지비도 더 저렴하고 마음에 듭니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "충전시간이 제법 긴거 말곤",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  }
+]

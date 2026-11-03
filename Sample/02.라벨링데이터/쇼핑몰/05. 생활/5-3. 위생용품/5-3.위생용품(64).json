@@ -1,0 +1,3194 @@
+[
+  {
+    "Index": "868173",
+    "RawText": "오우 짜긴 짭니다 개운하지도 않아요 입냄새도 줄여주는지 잘 모르겠어요 사용한지 이틀정도 지났는데 혀에 통각이 좀 너무 화한게 좀 있네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "4",
+    "Syllable": "75",
+    "Word": "19",
+    "RDate": "20210402",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "오우 짜긴 짭니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운하지도 않아요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "입냄새도 줄여주는지 잘 모르겠어요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "사용한지 이틀정도 지났는데 혀에 통각이 좀 너무 화한게 좀 있네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "868175",
+    "RawText": "불소가 많아 그런지 거품이 너무 없습니다 상쾌한 느낌이 없어 애들이 사용을 안하네요 우리부부만 사용하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "3",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20210404",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "불소가 많아 그런지",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품이 너무 없습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "상쾌한 느낌이 없어",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 애들이 사용을 안하네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "우리부부만 사용하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868179",
+    "RawText": "광고 믿고 구매했어요 양치질 할 때 거품이 없고 줄줄 흘러서 많이 불편하구요 많이 샀는데 가족들이 쓰기 싫다고 해서 이웃들 나눠 줘야겠네요 남들도 좋아하지 않을 듯합니다 양치 후 뒷 맛이 달달한 치약이라 별로에요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "2",
+    "Syllable": "118",
+    "Word": "32",
+    "RDate": "20210409",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치질 할 때 거품이 없고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "줄줄 흘러서 많이 불편하구요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "가족들이 쓰기 싫다고 해서 이웃들 나눠 줘야겠네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "양치 후 뒷 맛이 달달한 치약이라 별로에요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "868201",
+    "RawText": "다른분들 후기 보고 구입했는데 생각보다 입안이 상쾌하지 않네요 깨끗하게 닦이지도 않습니다 입 냄새도 나네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20210419",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "생각보다 입안이 상쾌하지 않네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "깨끗하게 닦이지도 않습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "입 냄새도 나네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "868219",
+    "RawText": "치약이 짜고 매워요 그래도 양치 끝내고 나면 시원하고 개운한 기분은 드네요 가끔 양치하고 나서도 입안이 텁텁해서 두번도 한적 있는데 ㅇㅇㅇ는 한번만 해도 좋습니다 저희는 온 가족이 다같이 유용하게 잘 쓰고 있네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "118",
+    "Word": "31",
+    "RDate": "20210427",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "치약이 짜고 매워요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치 끝내고 나면 시원하고 개운한 기분은 드네요 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "입안이 텁텁해서 두번도 한적 있는데 ㅇㅇㅇ는 한번만 해도 좋습니다 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 온 가족이 다같이 유용하게 잘 쓰고 있네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868264",
+    "RawText": "짜고 거품이 많이 나지 않는 치약입니다 하지만 이 치약 정말 좋네요 너무 개운하네요 이제 다른 치약은 못쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "17",
+    "RDate": "20210305",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "짜고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품이 많이 나지 않는 치약입니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "너무 개운하네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868265",
+    "RawText": "늘 사용하는 거랍니다  미백 효과도 있고 입냄새도 안나고 양치후 깔끔하고 좋아요 가격은 좀 비싼편이지만 좋아서 씁니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20210328",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "미백 효과도 있고 입냄새도 안나고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치후 깔끔하고 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 좀 비싼편이지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "868278",
+    "RawText": "사용해보니 짠맛이 있긴 한데 그닥 불편하지 않습니다 거품이 많이 나지 않아 처음엔 이상하기도 했어요 그런데 사용해보니 입도 개운하고 미백 효과도 있는 것 같아 거울을 보게 되네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "26",
+    "RDate": "20210520",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "짠맛이 있긴 한데 그닥 불편하지 않습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품이 많이 나지 않아 처음엔 이상하기도 했어요 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "사용해보니 입도 개운하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "미백 효과도 있는 것 같아 거울을 보게 되네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868309",
+    "RawText": "항상 이 치약만 쓰네요 비싸도 씁니다 입냄새도 많이 줄고 치주염 살짝 생기는 거도 금방 괜찮아지네요 대신 꼼꼼하게 치간 칫솔 이용은 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "21",
+    "RDate": "20190612",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸도 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "입냄새도 많이 줄고 치주염 살짝 생기는 거도 금방 괜찮아지네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868321",
+    "RawText": "컴플리트케어는 한번 써본 사람은 다른 치약 못쓰죠 거품을 선호하는 분께는 비추이지만 거품없는거 좋아하고 잇몸질환 있으신분께는 강추하네요 한달만 써보면 잇몸 피안나고 풍치도 나아집니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "101",
+    "Word": "22",
+    "RDate": "20200219",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품을 선호하는 분께는 비추이지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품없는거 좋아하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸질환 있으신분께는 강추하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "한달만 써보면 잇몸 피안나고 풍치도 나아집니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868335",
+    "RawText": "늘 믿고 구매하는 제품이에요 치석 제거라고 광고하는 것도 아닌 제품인데 치석과 시린이에도 효과 본 이후 줄곧 구매하고 있어요 싼 가격에 앞으로도 잘 부탁드려요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "23",
+    "RDate": "20210421",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "치석과 시린이에도 효과 본 이후 줄곧 구매하고 있어요 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼 가격에 앞으로도 잘 부탁드려요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868336",
+    "RawText": "마트에서만 구매 해 사용하다가 완전 저렴하게 잘 샀네요 워낙에 이 치약을 좋아하여 제품의 품질 면에서는 나무랄 일이 없네요 배송도 좋습니다 그런데 상자를 개봉한 순간 치약상자가 찢어진 것 발견되네요 배송중에 찢어진 거라고 보기엔 어려워 별 하나 뺍니다 많이 파세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "4",
+    "Syllable": "147",
+    "Word": "38",
+    "RDate": "20210429",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "완전 저렴하게 잘 샀네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품의 품질 면에서는 나무랄 일이 없네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868351",
+    "RawText": "다른 베이킹소다 치약 쓰다가 요번엔 ㅇㅇㅇ 구매해 봤네요 치약이 너무 짜네요 쓰다보면 적응되겠지 했는데 여전히 짜요 그래도 여튼 잘 써봐야죠 시린이에 효과가 있길 기대해 볼게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "3",
+    "Syllable": "98",
+    "Word": "25",
+    "RDate": "20211006",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "치약이 너무 짜네요 쓰다보면 적응되겠지 했는데 여전히 짜요 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "시린이에 효과가 있길 기대해 볼게요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "868385",
+    "RawText": "닦고 나면 치아가 맨질맨질한 느낌이 있어 세정력이 우수하다는 걸 체감할 수 있습니다. 단 짠 맛은 아무래도 적응이 잘 되고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "3",
+    "Syllable": "73",
+    "Word": "20",
+    "RDate": "20220108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "닦고 나면 치아가 맨질맨질한 느낌이 있어",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세정력이 우수하다는 걸 체감할 수 있습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "짠 맛은 아무래도 적응이 잘 되고 있어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "868390",
+    "RawText": "포장 상태 양호하네요 오전구매 오후에 배송 시작했어요 제품은 좀 짜다는 느낌이 있는데 불순불을 잘 저거해 주는것 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20220216",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "제품은 좀 짜다는 느낌이 있는데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "불순불을 잘 저거해 주는것 같습니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868395",
+    "RawText": "진짜 상쾌하고 개운합니다 처음엔 입안이 헐 정도로 맵긴 했는데 익숙해지니 이젠 다른 치약 못 쓰겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "15",
+    "RDate": "20220302",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "진짜 상쾌하고 개운합니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "처음엔 입안이 헐 정도로 맵긴 했는데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "868403",
+    "RawText": "타 치약에 비해 세정력이 강하지도 않고  거품도 잘 안나는듯 하네요 하지만 성분은 좋은것 같아요 자고 일어나서 구취에도 효과있습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20220314",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "타 치약에 비해 세정력이 강하지도 않고  거품도 잘 안나는듯 하네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "성분은 좋은것 같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "자고 일어나서 구취에도 효과있습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868410",
+    "RawText": "이 치약은 처음 써보는데 생각보다 잘 안닦이고 개운하지 않아서 별로네요.거품은 거의 없다고 보면 됩니다ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "4",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20220327",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "생각보다 잘 안닦이고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운하지 않아서 별로네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품은 거의 없다고 보면 됩니다ㅜ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "868415",
+    "RawText": "항상 사용하는 제품 저렴하게 구매해서 좋습니다 유통기한도 넉넉해서 맘놓고 쓸수 있겠습니다 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20220425",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴하게 구매해서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 넉넉해서 맘놓고 쓸수 있겠습니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868416",
+    "RawText": "세정력이 좋아서 그런지 입에 막이 생기네요 몇년간 ㅇㅇㅇ만 썼더니 얻게된 질병?인지 다른 제조사 치약을 쓰면 안 생겨요 베이킹소다가 입안 점막이 떨어지게 하는 것일까 싶네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "24",
+    "RDate": "20220425",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세정력이 좋아서 그런지",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "베이킹소다가 입안 점막이 떨어지게 하는 것일까 싶네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "입에 막이 생기네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "868417",
+    "RawText": "사용시 잇몸에 피가 나는 적이 많습니다 잇몸 상태가 안좋아 그런건지 세정력이 강해서 그런 건지 잘 모르겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "4",
+    "Syllable": "60",
+    "Word": "16",
+    "RDate": "20220428",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "사용시 잇몸에 피가 나는 적이 많습니다 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "세정력이 강해서 그런 건지 잘 모르겠네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868420",
+    "RawText": "생각보다 짠 편이네요 그래도 소금으로 딱는 듯한 느낌으로 개운함은 좋습니다 가격은 다른 제품보다는 비싸네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20220517",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "생각보다 짠 편이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "소금으로 딱는 듯한 느낌으로 개운함은 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 다른 제품보다는 비싸네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "868422",
+    "RawText": "처음 사용하는데 생각보다 좀 짜요 양치후 짠느낌이 1분은 지속된듯하나 상관은 없어요 거품이 일반치약보다 확실히 없긴해요 평상시 양치를 꼼꼼이 하다보니 세정력 운운하진 못하겠네요 입안 산성을 중화시켜주는 고순도 베이킹소다 사용으로 구취제거에 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "4",
+    "Syllable": "137",
+    "Word": "30",
+    "RDate": "20220526",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "생각보다 좀 짜요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "양치후 짠느낌이 1분은 지속된듯하나 상관은 없어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품이 일반치약보다 확실히 없긴해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "평상시 양치를 꼼꼼이 하다보니 세정력 운운하진 못하겠네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "입안 산성을 중화시켜주는 고순도 베이킹소다 사용으로",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "구취제거에 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868446",
+    "RawText": "이 치약만 사용하고 있습니다 우선 닦고 나면 시원하고 쿨한감이 느껴지네요  처음 사용할때는 치약이 너무 강한것 같지만 사용하다보면 적응되어서 그런지 이 치약 말고 다른 치약은 사용하지 못하겟네요 직장에도 이 치약 가지고 다니면서 사용하고 있습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "4",
+    "Syllable": "137",
+    "Word": "33",
+    "RDate": "20220831",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 닦고 나면 시원하고 쿨한감이 느껴지네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "처음 사용할때는 치약이 너무 강한것 같지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "직장에도 이 치약 가지고 다니면서 사용하고 있습니다 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868452",
+    "RawText": "개운한 느낌이라 꾸준히 사용하고 있습니다 다른데보다 저렴하게 잘 샀네요 입냄새 제거에 탁월한 효과가 있습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20220929",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운한 느낌이라 꾸준히 사용하고 있습니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른데보다 저렴하게 잘 샀네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "입냄새 제거에 탁월한 효과가 있습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868453",
+    "RawText": "다른 치약보다 깔끔한것 같습니다 닦고나면 한참후까지 개운한 느낌이 유지가 되네요 가격은 좀 비싸긴 해도 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20221001",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "다른 치약보다 깔끔한것 같습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": " 닦고나면 한참후까지 개운한 느낌이 유지가 되네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격은 좀 비싸긴 해도",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "868458",
+    "RawText": "다른분들 후기처럼 좀 짜고 거품 적고 냄새가 약간 이상합니다 다만 저렴하고 넉넉하게 짜서 닦으니 상쾌한 느낌이네요 가성비가 좋아 막 쓰기는 좋은 치약 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "4",
+    "Syllable": "87",
+    "Word": "23",
+    "RDate": "20221010",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "좀 짜고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "거품 적고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 약간 이상합니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "넉넉하게 짜서 닦으니 상쾌한 느낌이네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좋아",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 막 쓰기는 좋은 치약 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868482",
+    "RawText": "애들이 맛이 없다고 투털대는 중입니다 거품이 너무 많이 나면 입에 머금고 있을수 없어서 자꾸 뱉어내는데 거품이 없네요. 근데 치약이 거칠어서인지 칫솔질 후 볼 안쪽살에 상처가 나요. 칫솔과 제 칫솔질 습관이 썩 좋지 않은가 봅니다. 저는 괜찮은데 애들은 별로라고 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 처** 치약 178g 10개",
+    "ReviewScore": "5",
+    "Syllable": "150",
+    "Word": "39",
+    "RDate": "20180823",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "애들이 맛이 없다고 투털대는 중입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 거품이 없네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "치약이 거칠어서인지 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": " 칫솔질 후 볼 안쪽살에 상처가 나요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "868493",
+    "RawText": "가격대비 좋은 상품이네요 사진상으로도 용량이 120g일까해서 판매자꼐 여쭤봤더니 친절한 답변해 주셔서 너무 감사하구요 유통기한 또한 최근일자에요 한동안은 치약 걱정없이 양치질 할 수 있겠네요 항상 쓰던 제품이어서 다 쓴후 재구매 할게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "4",
+    "Syllable": "131",
+    "Word": "30",
+    "RDate": "20160314",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 좋은 상품이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한 또한 최근일자에요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868502",
+    "RawText": "죽염이나 송염 사용하면 이빨 건강에 확실히 좋습니다 잇몸고는 약간 더 비싸지만 하루 사용해보니 통증이 벌써 좋아 진것 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "18",
+    "RDate": "20200319",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "죽염이나 송염 사용하면",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "이빨 건강에 확실히 좋습니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "약간 더 비싸지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "하루 사용해보니 통증이 벌써 좋아 진것 같네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868515",
+    "RawText": "몇년째 같은 치약을 쓰고 있는데 가성비 대비 좋은 거 같아요 너무 개운합니다 시린이도 이번에 한번 구매 해서 써볼려고 하는데 정말 시린이가 어느정도 예방이 된다면 좋겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "25",
+    "RDate": "20210405",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 대비 좋은 거 같아요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "너무 개운합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868542",
+    "RawText": "계속 쓰는 제품입니다 입안 상쾌해지고 시린것도 덜해져서 너무 좋네요 좋은가격에 잘샀습니다 많이 파세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20210703",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "입안 상쾌해지고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "시린것도 덜해져서 너무 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은가격에 잘샀습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868590",
+    "RawText": "요즘 이 딱으면 잇몸이 피도 나고 해서 치약 함 바꿔봤어요 15개 쓸동안 효과가 있었음 좋겟네요 효과있음 꾸준히 사용할려고 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "19",
+    "RDate": "20201106",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "15개 쓸동안 효과가 있었음 좋겟네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과있음 꾸준히 사용할려고 합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "868615",
+    "RawText": "정말 질 좋은 죽염치약이네요 배송도 엄청 빠르고 사용해보니 정말 개운하고 좋습니다 용량이 좀 작아서 아쉬워요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20220217",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "정말 질 좋은 죽염치약이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "정말 개운하고 좋습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "용량이 좀 작아서 아쉬워요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "868632",
+    "RawText": "제목 그대로 죽염 잇몸고 치약 좋습니다 배송도 빠르고 양치질하고 난 뒤 개운하네요 다음번에도 구매해서 사용하겠습니다 치약양도 많아서 집에서 사용하는데 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "20",
+    "RDate": "20220905",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치질하고 난 뒤 개운하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "치약양도 많아서 집에서 사용하는데 만족합니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868638",
+    "RawText": "주문한지 이틀만에 받았네요 배송비 쿠폰을 적용해서 구매했기에 저렴해서 좋습니다 가장 최저가라서 만족해요 유효기간도 길어서 좋구요잘 사용할하겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "16",
+    "RDate": "20190308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 배송비 쿠폰을 적용해서 구매했기에 저렴해서 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가장 최저가라서 만족해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유효기간도 길어서 좋구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868668",
+    "RawText": "빠른 배송과 상품 유효기간도 길고 좋아요 잇몸건강을 위해 할인받아 저렴하게 구입했네요 댓글도 좋아 기대가 되요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20201224",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "상품 유효기간도 길고 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인받아 저렴하게 구입했네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868678",
+    "RawText": "요즘 양치할때 가끔 피가 나기에 주문했는데 잇몸이 좋아지길 기대해 봅니다 마트보다 저렴하고 배송도 빨라서 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20191030",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸이 좋아지길 기대해 봅니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 마트보다 저렴하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868689",
+    "RawText": "늘 이 제품만 씁니다. 다른 치약 쓰면 바로 다음 날부터 잇몸이 아프거든요. 이번에는 용량도 큰데 가격도 너무 착한 곳을 찾아 주문해서 더 만족스럽습니다. 사용기한도 2022. 8. 23으로 넉넉하게 남았어요. 그러나 한 가지, 택배는 별로였습니다. 만 4일만에 물건 받은 건 바쁘니 그렇겠지 이해하는데. 집에 사람이 있었는데도 연락도 없이 문앞에 물건 두고 가버린 건 너무하다 싶어요. 택배 하시는 분들 힘든 건 알지만, 초인종 눌러 물건 전달할 시간도 없다면 문자나 카톡으로 문앞에 뒀다고 알려주기 바래요. 그러다 물건 없어지면 큰일나니까요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "4",
+    "Syllable": "305",
+    "Word": "76",
+    "RDate": "20191025",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "이번에는 용량도 큰데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 너무 착한 곳을 찾아 주문해서 더 만족스럽습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "사용기한도 2022. 8. 23으로 넉넉하게 남았어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868705",
+    "RawText": "ㅇㅇㅇ와 ㅇㅇㅇㅇ 같은 라인으로 두가지가 있었어요. 이시림 보다는 잇몸에 염증이 자주 생겨 ㅇㅇㅇ로 구매했어요. 예전에 ㅇㅇ치약만 사용하다가 중간에 치약을 다른 제품으로 바꿔서 사용했는데, 다시 ㅇㅇ치약으로 돌아오게 되었어요. 잇몸염증이 심해서 치아를 여러개 발치후에 ㅇㅇ치약으로 바꿔서 계속 사용하고 있는데, 개운하고 좋은 것 같아요. 오프라인 대비 가격도 저렴하고 배송도 적당합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "216",
+    "Word": "47",
+    "RDate": "20200328",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운하고 좋은 것 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "오프라인 대비 가격도 저렴하고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868708",
+    "RawText": "용량이 다른 치약보다 20g이 많아요. 그리고 개운하고 잇몸도 단단해 지는 느낌도 있네요 배송도 빠르고 제품도 깨끗한 것로 잘 왔어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "19",
+    "RDate": "20200412",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "용량이 다른 치약보다 20g이 많아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 잇몸도 단단해 지는 느낌도 있네요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868716",
+    "RawText": "저렴한 가격에 대량으로 잘 산것 같습니다 매번 쓰는 제품이라 믿고 사용하고 있습니다. 이걸 쓰면 입안이 개운해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "4",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20200929",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "이걸 쓰면 입안이 개운해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868740",
+    "RawText": "남편이 잇몸이 좋지 않아서 항시 쓰는 치약이다. 죽염성분이 들어서인지 개운하고 입안이 더 깨끗이 닦이는 느낌임. 배송이 빨라서 좋았고 저렴히 구매해서 좋았네요. 예전에 쓰던거는 120g인데 리뉴얼된건 양이 좀 늘었는지 140g이네요. 유통기한도 2024년으로 길고 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "153",
+    "Word": "33",
+    "RDate": "20210404",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "죽염성분이 들어서인지",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "입안이 더 깨끗이 닦이는 느낌임. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴히 구매해서 좋았네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "예전에 쓰던거는 120g인데 리뉴얼된건 양이 좀 늘었는지 140g이네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 2024년으로 길고 만족해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868788",
+    "RawText": "늘 쓰는 치약인데 적당한 가격에 구매했습니다 2024.10.20 사용기한도 길어서 괜찮아요. 양치 후 개운해서 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "14",
+    "RDate": "20220520",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적당한 가격에 구매했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "2024.10.20 사용기한도 길어서 괜찮아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 양치 후 개운해서 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868794",
+    "RawText": "써보니 좋아서 또 구매했습니다 입안이 텁텁하지 않고 좋습니다 근데 가격이 작년보다 두배는 오른듯 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20220624",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "입안이 텁텁하지 않고 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 작년보다 두배는 오른듯 하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "868855",
+    "RawText": "포장 안전하게 하여 배송 빠르게 도착하였네요. 가격 좋고, 유통기한 2023.12.08까지라 길어서 좋네요. 적극추천드립니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "13",
+    "RDate": "20210804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 좋고, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한 2023.12.08까지라 길어서 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868860",
+    "RawText": "저렴하게 구매했습니다 빠른배송도 맘에 들어요 유통기한도 최신제품이라 안심이 됩니다. 잘 닦이길 바래봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "4",
+    "Syllable": "58",
+    "Word": "12",
+    "RDate": "20180912",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매했습니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": " 유통기한도 최신제품이라 안심이 됩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦이길 바래봅니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "868881",
+    "RawText": "아직 사용한지 얼마 안되었어요 일단 죽염제품을 찾다 좋아보여서 구매했다. 사용한 느낌은 다른 다양한 치약들처럼 이런 저런 향이 많이 나지는 않아요 적당한 정도의 향이네요 치약의 목적이 향은 아니니까요 개운하고 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "121",
+    "Word": "29",
+    "RDate": "20190430",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "다른 다양한 치약들처럼 이런 저런 향이 많이 나지는 않아요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 적당한 정도의 향이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운하고 좋네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "868926",
+    "RawText": "죽염치약만 사용하는데 용량이 많아서 좋습니다. 배송도 빠르고 용량도 많고 좋습니다. 가격은 조금 오른 듯 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20190713",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "용량이 많아서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "용량도 많고 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 조금 오른 듯 하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "868951",
+    "RawText": "빠른배송 감사해요. 치약이 좀 비싸지만 잇몸 효과 있으면 좋겠어요. 양치가 잘 닦이길 바래봅니다. 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20190918",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "치약이 좀 비싸지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸 효과 있으면 좋겠어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 양치가 잘 닦이길 바래봅니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "868956",
+    "RawText": "죽염치약 무난하니 좋아하는데요 여기서는 용량도 넉넉하고 싸게 잘산것 같습니다. 잇몸도 건강하길 바래봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "12",
+    "RDate": "20191005",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "용량도 넉넉하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 잘산것 같습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 잇몸도 건강하길 바래봅니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "869000",
+    "RawText": "죽염치약 ㅇㅇㅇ를 한번 썼었는데 시린이 개선효과가 좋은것 같네요. 배송은 좀 걸렸지만 효과가 기대치 이상이라 감수해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20191022",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "시린이 개선효과가 좋은것 같네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 효과가 기대치 이상이라 감수해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869130",
+    "RawText": "쿠폰 이용해서 저렴한 가격으로 구매했습니다 용량도 140g짜리라 확실히 사이즈도 크네요. 잘 쓰겠습니다 감사해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "13",
+    "RDate": "20220906",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 이용해서 저렴한 가격으로 구매했습니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "용량도 140g짜리라",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": " 확실히 사이즈도 크네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869182",
+    "RawText": "잘 받았습니다. 마트보다 저렴하게 잘 산것 같습니다. 잇몸에는 이 치약이 가장 좋은 것 같아요. 단 개운한게 덜 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "18",
+    "RDate": "20201126",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트보다 저렴하게 잘 산것 같습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸에는 이 치약이 가장 좋은 것 같아요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운한게 덜 하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "869209",
+    "RawText": "잇몸이 약해 죽염치약 사용후 잇몸이 아주 좋아졌습니다 벌써 20년이 훌쩍 넘었군요. 설 맞이 쿠폰으로 저렴하게 구매해서 지금 많이 힘든 시기지만 기분은 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "22",
+    "RDate": "20210203",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸이 약해 죽염치약 사용후 잇몸이 아주 좋아졌습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "설 맞이 쿠폰으로 저렴하게 구매해서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869211",
+    "RawText": "가족 모두를 만족시키는 치약이에요 다른 치약선물이 들어와도 꼭 죽염만 쓰네요 치약특유의 화한 느낌이 적고 덜 자극적이어서 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20210208",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "치약특유의 화한 느낌이 적고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "덜 자극적이어서 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "꼭 죽염만 쓰네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869265",
+    "RawText": "치과에서 추천받아서 사용하고 있습니다. 일반 민트치약 보다는 화한 느낌은 덜해서 그점이 더 맘에 들고 장기간 사용하고 있는데 느낌인지 잇몸이 붓는게 덜 한거 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "23",
+    "RDate": "20180425",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "일반 민트치약 보다는 화한 느낌은 덜해서 그점이 더 맘에 들고",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸이 붓는게 덜 한거 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869267",
+    "RawText": "좋아요 좋습니다. 쓸만해요. 싸게 잘 샀습니다. 오프라이 매장에 가서 직접 구입하는 것 보다는 저렴하게 구입했습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20161005",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 잘 샀습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "오프라이 매장에 가서 직접 구입하는 것 보다는 저렴하게 구입했습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869308",
+    "RawText": "2021년 1월에 생산된 제품으로 1년 반이 지난 제품이 배달되어 왔네요. 조금 싼 제품이 있다고 좋아했는데 조심하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "3",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20190810",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "2021년 1월에 생산된 제품으로 1년 반이 지난 제품이 배달되어 왔네요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "조금 싼 제품이 있다고 좋아했는데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869316",
+    "RawText": "항상 사용하는 제품입니다. 떨어질때가 되어서 또 왕창 구매했어요. 용량이 많아서 1년정도는 걱정없겠네요. 확실히 배송비를 결제해도 대량으로 한꺼번에 많이 구매하니까 대형마트에서구매하는것보단 저렴합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "111",
+    "Word": "21",
+    "RDate": "20190614",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "용량이 많아서 1년정도는 걱정없겠네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 대형마트에서구매하는것보단 저렴합니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869324",
+    "RawText": "생약성분이라 항상 이것만 써요 칫솔질후 입이 너무 화한게 싫었는데 이건 그게 많이 덜 해요 생약 성분으로 만든 거에는 사진처럼 이렇게 초록색 줄이 표시되어 있다고 해요 마트 할인보다 여기가 싸요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "108",
+    "Word": "29",
+    "RDate": "20200416",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "생약성분이라 항상 이것만 써요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "칫솔질후 입이 너무 화한게 싫었는데 이건 그게 많이 덜 해요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트 할인보다 여기가 싸요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869335",
+    "RawText": "상품은 좋네요 가격은 가장 싼 듯합니다 배송료 감안해서 많이 시켰어요 120g짜리 보다도 싼것 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20200206",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 가장 싼 듯합니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 120g짜리 보다도 싼것 같네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869336",
+    "RawText": "배송 포장 일반적으로 나쁘지않습니다. 유통기한은 넉넉하게 남아있는 제품이네요. 입안이 개운하고 상쾌한 느낌을 주는 제품입니다. 가격대비 가성비가 좋은 상품이다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "4",
+    "Syllable": "88",
+    "Word": "18",
+    "RDate": "20200215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": " 유통기한은 넉넉하게 남아있는 제품이네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "입안이 개운하고 상쾌한 느낌을 주는 제품입니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 가성비가 좋은 상품이다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869346",
+    "RawText": "140g ㅇㅇ치약 가성비 최고인것 같아요. 유효기간도 2023년말까지 넉넉해서 좋습니다. 잘 닦이길 바래봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "12",
+    "RDate": "20200418",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 최고인것 같아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유효기간도 2023년말까지 넉넉해서 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦이길 바래봅니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "869353",
+    "RawText": "배송 이틀 걸렸네요 유통기한 2023년6월까지이구요 잘 닦이고 개운해서 죽염치약만 쓰네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "10",
+    "RDate": "20200805",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한 2023년6월까지이구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "죽염치약만 쓰네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869362",
+    "RawText": "배송 포장 일반적으로 나쁘지않습니다. 유통기한이 23년 10윌 까지로 넉넉하게 남아있네요. 가격대비 가성비가 좋아 죽염치약만 사용하는데 여기저기 둘러봐도 여기가 젤 저렴합니다. 또 구매하러 올게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "4",
+    "Syllable": "110",
+    "Word": "23",
+    "RDate": "20201201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 23년 10윌 까지로 넉넉하게 남아있네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 가성비가 좋아 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기저기 둘러봐도 여기가 젤 저렴합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869364",
+    "RawText": "늘 사용하는 제품입니다. 이것저것 써봐도 죽염만큼 깔끔한 치약을 못 봤어요 유통기한도 2023년이고 가격도 저렴하게 구매해서 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "16",
+    "RDate": "20201206",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "이것저것 써봐도 죽염만큼 깔끔한 치약을 못 봤어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": " 유통기한도 2023년이고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게 구매해서 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869366",
+    "RawText": "박스당 택배비를 받아서 항상 10개씩 삽니다 개운하게 잘 닦이지만 잇몸보호는  잘 모르겠네요 유통기한 길고 배송은 사흘 걸렸습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "4",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20201231",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운하게 잘 닦이지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸보호는  잘 모르겠네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한 길고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869377",
+    "RawText": "뽀득하고 개운한 느낌이 들어서 늘 ㅇㅇ치약만 쓰는데 대량으로 10개 주문했더니 몇년은 쓸거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20210508",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "뽀득하고 개운한 느낌이 들어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": "대량으로 10개 주문했더니 몇년은 쓸거 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869379",
+    "RawText": "저는 대용량 치약을 선호해서 큰용량을 찾아도 없네요. 전에는 180, 160g도 출시됐었는데, 요즘은 140g도 흔치 않고 대개 120g짜리더라고요. 140g인데 값도 저렴해 구매했어요.  다른 잇몸전문치약과 비교할 수는 없지만, ㅇㅇ치약이 값도 싸고, 잇몸에 좋은 것 같아서 오랫 동안 사용하고 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "169",
+    "Word": "37",
+    "RDate": "20210611",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/수량",
+        "SentimentText": " 140g인데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "값도 저렴해 구매했어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "ㅇㅇ치약이 값도 싸고, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸에 좋은 것 같아서 오랫 동안 사용하고 있어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869380",
+    "RawText": "항상 ㅇㅇ치약을 쓰는데 잇몸에 효과가 있는 거 같습니다 배송도 빠르고 유통기한도 적당하고 다 떨어지면 다시 구매할 것 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "18",
+    "RDate": "20210625",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸에 효과가 있는 거 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": " 유통기한도 적당하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869391",
+    "RawText": "잇몸이 안 좋아서 써왔던 제품이고 2번째구입했네요 가격도 맘에 들고 사용후 입안이 개운해요 추천합니다 많이파세요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 맘에 들고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "사용후 입안이 개운해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869396",
+    "RawText": "2년동안 꾸준히 사용하고 있습니다 닦고나면 개운하고, 입냄새 제거에도 좋고 잇몸 질환에 효과가 있어요 강추해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20210827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "닦고나면 개운하고,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "입냄새 제거에도 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸 질환에 효과가 있어요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869405",
+    "RawText": "부모님이 이제품만 쓰고 계세요. 떨어지지않게 쟁여둡니다. 마트보다 저렴해서 좋고 유통기한도 넉넉해서 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "12",
+    "RDate": "20220116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트보다 저렴해서 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 넉넉해서 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869410",
+    "RawText": "잇몸이 점점 안좋아지고 이도 시리고해서 써봤습니다 죽염이라 상쾌하고 시린증상도 많이 줄어든 느낌입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "12",
+    "RDate": "20220817",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "죽염이라 상쾌하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "시린증상도 많이 줄어든 느낌입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869413",
+    "RawText": "잇몸이 약해서 고른 치약인데 다른 치약보다 맵네요 제가 예민해서 양치질시 헛구역질을 하는데 이 치약은 자극이 강합니다 재구매는 안할게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20200305",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "다른 치약보다 맵네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "이 치약은 자극이 강합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "869414",
+    "RawText": "상자에 차곡착곡 넣어진 상태로 배송받았네요 유통기한 적당한 제품 보내주셨어요 가격이 저렴하여 많이 시키고 싶었으나 수량이 제한되어있어서 아쉬웠네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "17",
+    "RDate": "20200416",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한 적당한 제품 보내주셨어요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하여 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869431",
+    "RawText": "저렴한가격에 잘 산것 같습니다 치약 품질도 만족하고 있습니다 연휴관계로 배송이 많이 늦어서 아쉬웠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "3",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20201014",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한가격에 잘 산것 같습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "치약 품질도 만족하고 있습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869434",
+    "RawText": "장점은 양치 후 입안이 개운해서 좋습니다. 향도 나쁘지 않아요 타사의 잇몸 치약보다 가격도 저렴해요 단점은 없는 것 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "18",
+    "RDate": "20201214",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 양치 후 입안이 개운해서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 나쁘지 않아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "타사의 잇몸 치약보다 가격도 저렴해요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869459",
+    "RawText": "배송은 3일 걸렸고 계속 사용하던 제품이라 품질은 좋습니다. 사용기한이 넉넉해서 좋네요 잘 쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20200605",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "사용기한이 넉넉해서 좋네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869461",
+    "RawText": "늘 사용하는 제품이네요. 향도 마음에 들고 잘 닦여서 미리 준비해두고 쓰는 치약입니다. 가격도 나쁘지 않아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20201203",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 마음에 들고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦여서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 나쁘지 않아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "869463",
+    "RawText": "시중 마트보다 저렴한 가격에 구매한것 같아요. 유통기한 길고 포장도 괜찮게 왔습니다 엄마가 사용하실 제품입니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20210324",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "시중 마트보다 저렴한 가격에 구매한것 같아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한 길고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869467",
+    "RawText": "신랑 잇몸이 약해서 잇몸에 좋다는 여러 치약을 사용해봤는데 그닥 좋다는 걸 못 느껴서 ㅇㅇㅇ로 주문했습니다. ㅇㅇㅇ가 가격대가 좀 있는 치약인데 가격이 너무 착해서 혹시 유통기한이 임박한 상품인가 하고 걱정했는데 기우였네요. 2024년 3월까지로 넉넉하고 배송도 빠릅니다. 다음에도 또 주문하겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "167",
+    "Word": "38",
+    "RDate": "20210930",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "ㅇㅇㅇ가 가격대가 좀 있는 치약인데 가격이 너무 착해서",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": " 유통기한이 임박한 상품인가 하고 걱정했는데 기우였네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "2024년 3월까지로 넉넉하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869472",
+    "RawText": "유통기한두 길구 넘 맘에 듭니다. 여기서 이제 주문해야겠습니다. 죽염만 평생 써서 넘 효과가 좋은 것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 치약 140g 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "16",
+    "RDate": "20211030",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한두 길구 넘 맘에 듭니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "죽염만 평생 써서 넘 효과가 좋은 것 같아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869483",
+    "RawText": "일반 ㅇㅇㅇ를 계속 사용했었는데 ㅇㅇ치약이 있기에 긴가민가하는 기대를 하고 구매를 했어요 양치질을 하면 시린증상도 없고 입을 행굴때도 시린증상없이 너무 좋은거같습니다 .프로폴리스도 포함이 되서 그런건지 너무 만족해요. 앞으로 치약은 ㅇㅇ프로폴리스 치약만 사용할거에요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 프로폴리스 치약 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "148",
+    "Word": "31",
+    "RDate": "20220927",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 양치질을 하면 시린증상도 없고 입을 행굴때도 시린증상없이 너무 좋은거같습니다 .",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "프로폴리스도 포함이 되서 그런건지 너무 만족해요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869487",
+    "RawText": "매운맛이 강합니다 잇몸에 자극도 있고 잘안닦이는편이네요ㅜ 가족들과 사용하려고 했는데 이것또한 실패네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 프로폴리스 치약 120g 1개",
+    "ReviewScore": "4",
+    "Syllable": "56",
+    "Word": "11",
+    "RDate": "20220911",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "매운맛이 강합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "잇몸에 자극도 있고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘안닦이는편이네요ㅜ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "869493",
+    "RawText": "치약 좋다길래 구매해봤습니다 뚜껑이 일체형이라 좋은것 같네요 몇번 사용 안해봐서 효과 있는지는 모르겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 프로폴리스 치약 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20220826",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "뚜껑이 일체형이라 좋은것 같네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "몇번 사용 안해봐서 효과 있는지는 모르겠습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "869495",
+    "RawText": "양치를 하고 나면 개운하고 좋습니다 프로폴리스 향도 나고 잇몸이 좋아지길 바래봅니다. 재구매는 다 쓰고 결정할게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 프로폴리스 치약 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20220825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치를 하고 나면 개운하고 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "프로폴리스 향도 나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸이 좋아지길 바래봅니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "869517",
+    "RawText": "상품 품질, 가격, 배송 모두 적당한 듯 합니다. 특히 품질은 최고인것 같네요 수년째 사용하고 있는 치약중에 하나랍니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 프로폴리스 치약 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "17",
+    "RDate": "20220525",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질, 가격, 배송 모두 적당한 듯 합니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격, 배송 모두 적당한 듯 합니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 품질은 최고인것 같네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869525",
+    "RawText": "이가 시리지도 않고 매운 맛도 전혀 없고 양치중에는 부드럽고 양치후에는 개운하네요 근데 배송이 너무 빨라서 놀랬습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 프로폴리스 치약 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20220408",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "이가 시리지도 않고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": "매운 맛도 전혀 없고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감/감촉",
+        "SentimentText": "양치중에는 부드럽고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치후에는 개운하네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869556",
+    "RawText": "홈쇼핑보고 하나 먼저 써보려고 구매했는데 잘 안닦이고 개운하지가 않네요 잇몸에 도움이 되는것 같지도 않아요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 프로폴리스 치약 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20210728",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 안닦이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "개운하지가 않네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "잇몸에 도움이 되는것 같지도 않아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "869558",
+    "RawText": "가격이 좀 비싸긴 합니다 품질이 좋다고해서 샀는데 아직 잘 모르겠어요 효능이 있으리라 믿어 봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 죽** 프로폴리스 치약 120g 1개",
+    "ReviewScore": "4",
+    "Syllable": "55",
+    "Word": "14",
+    "RDate": "20210706",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 비싸긴 합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋다고해서 샀는데 아직 잘 모르겠어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효능이 있으리라 믿어 봅니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "869584",
+    "RawText": "24년 10월 5일까지라 길긴 합니다 ㅇㅇㅇㅇ치약 사용해 보면 다른 치약 사용 못 하니다 양치 하면 깔끔하니 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 65g 1개",
+    "ReviewScore": "4",
+    "Syllable": "65",
+    "Word": "17",
+    "RDate": "20220820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "24년 10월 5일까지라 길긴 합니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치 하면 깔끔하니 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869585",
+    "RawText": "24년11월23일까지라 길어요 여행갈때 갖고 다니기 적당한 크기입니다 불소가 들어 있고 양치 후 깔끔하니 넘 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 65g 1개",
+    "ReviewScore": "4",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20220820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "24년11월23일까지라 길어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "여행갈때 갖고 다니기 적당한 크기입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분/재질",
+        "SentimentText": " 불소가 들어 있고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 양치 후 깔끔하니 넘 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869602",
+    "RawText": "언제부터인가 이가 살짝 시큰거리는 느낌이 있기에 치약을 바꿔봐야 겠다 하고 이것저것 바꾸다 정착한게 ㅇㅇㅇ가 되었네요 일단 자극적이지 않고 인위적인 상쾌함이 아니라 양치후 입안이 편안했어요 또 가끔 양치시 시큰거리던것도 저는 어느정도 해결이 되어서 만족도 높은 제품입니다 휴대하려고 여행용 사이즈로 구매했습니다 아담하니 귀여워요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 65g 1개",
+    "ReviewScore": "5",
+    "Syllable": "183",
+    "Word": "41",
+    "RDate": "20220728",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극적이지 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": " 인위적인 상쾌함이 아니라 양치후 입안이 편안했어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "양치시 시큰거리던것도 저는 어느정도 해결이 되어서 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": " 휴대하려고 여행용 사이즈로 구매했습니다 아담하니 귀여워요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869625",
+    "RawText": "ㅇㅇㅇ 치약 자극없이 순해서 좋습니다 여행용 사이즈가 집에서도 쓰기 좋네요 인터넷으로 저렴하게 구입했습니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 65g 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20220623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극없이 순해서 좋습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "여행용 사이즈가 집에서도 쓰기 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "인터넷으로 저렴하게 구입했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869651",
+    "RawText": "잘 받았습니다. 크기도 적당하고 가격도 생각보다 저렴해서 좋습니다 잘 닦이는 건 더 사용해봐야 알겠네요 많이 파세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 65g 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20220524",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": "크기도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 생각보다 저렴해서 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "잘 닦이는 건 더 사용해봐야 알겠네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "869653",
+    "RawText": "늘 애용하는 치약입니다 이번에는 여행용으로 처음 작은거 구입했어요 앙증맞은 사이즈라서 귀엽네요 빠른배송 감사합니다. 가격도 저렴해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 65g 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "15",
+    "RDate": "20220518",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/부피",
+        "SentimentText": " 앙증맞은 사이즈라서 귀엽네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "869657",
+    "RawText": "9살 딸이 요 치약만 사용해요 ㅇㅇ으로 ㅇㅇㅇ치약도 구매할수 있다니 좋네요 여행용이 얘들이 쓰기에 적당하네요 다만 뚜껑 닫기가 불편합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 65g 1개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20220510",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여행용이 얘들이 쓰기에 적당하네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "뚜껑 닫기가 불편합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "869710",
+    "RawText": "배송빠르고 ㅇㅇㅇ치약 안쓰려고 다른것 썼는데 결국 다시 돌아왔습니다 양치할때 제일 개운한것 같습니다 비싼게 흠이지만 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "위생용품",
+    "ProductName": "OO 글** 치약 65g 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "15",
+    "RDate": "20220222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력/청결감",
+        "SentimentText": "양치할때 제일 개운한것 같습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싼게 흠이지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  }
+]

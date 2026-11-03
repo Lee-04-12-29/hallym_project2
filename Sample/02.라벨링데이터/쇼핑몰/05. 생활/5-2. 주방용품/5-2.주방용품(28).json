@@ -1,0 +1,3138 @@
+[
+  {
+    "Index": "428836",
+    "RawText": "좋습니다. IH라서 열효율이 좋고 압력도 잘 되니 좋습니다. 다른 제품보다 오래 쓸 수 있으면 좋겠습니다. 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20210713",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "IH라서 열효율이 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "압력도 잘 되니 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "다른 제품보다 오래 쓸 수 있으면 좋겠습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "428838",
+    "RawText": "전기압력밥솥보단 압력솥이 밥이 더 맛난 거 같아 구매했습니다. 기존게 오래 써서 이제 고장이 나 새로 구매한건데 만족스럽네요. 자주 밥하기 귀찮아 용량이 큰걸 구매하긴 했는데 생각보다 많이 큽니다. 매일 쓰지는 않을 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "127",
+    "Word": "32",
+    "RDate": "20210514",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "용량이 큰걸 구매하긴 했는데 생각보다 많이 큽니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "매일 쓰지는 않을 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "428842",
+    "RawText": "배송 빠르고 안전하게 잘받았습니다. 생각보다 무겁지는 않네요. 연마제 제거하고 사용했습니다. 압력밥솥은 처음인데 사용법도 간단하고 밥은 너무 맛있게 잘되고 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "20",
+    "RDate": "20220122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각보다 무겁지는 않네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제 제거하고 사용했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "압력밥솥은 처음인데 사용법도 간단하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥은 너무 맛있게 잘되고 너무 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "428845",
+    "RawText": "받자마자 구운 계란 만들어 맛있게 먹었습니다. 사이즈가 엄청 커서 양 많은 거 할 때 좋습니다. 밥솥 안 쪽에 묻은 건 세척해도 잘 안지워져서 힘이 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "3",
+    "Syllable": "87",
+    "Word": "25",
+    "RDate": "20210909",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "구운 계란 만들어 맛있게 먹었습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 엄청 커서 양 많은 거 할 때 좋습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "밥솥 안 쪽에 묻은 건 세척해도 잘 안지워져서 힘이 드네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "428849",
+    "RawText": "문제없이 배송해 주셔서 감사합니다. 백숙도 해먹고 수육도 해먹었는데 맛나네요. 예전꺼 쓰다가 인덕션 사용이 가능한 제품이라 구입했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "4",
+    "Syllable": "76",
+    "Word": "16",
+    "RDate": "20220702",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "백숙도 해먹고 수육도 해먹었는데 맛나네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션 사용이 가능한 제품이라 구입했습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "428853",
+    "RawText": "전에는 자동압력밥솥을 썼는데 오래되어 고장이나 밥맛이 안좋아서 수동 압력밥솥으로 교환했네요.  훨씬 밥맛이 좋습니다. .사용하기에 약간은 귀찮지만 또 구매할 것 같습니다. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "104",
+    "Word": "22",
+    "RDate": "20200316",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "훨씬 밥맛이 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기에 약간은 귀찮지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "428857",
+    "RawText": "다른 데보다 저렴하고 제품도 좋습니다. 시험삼아 밥 해봤는데 밥맛 좋습니다. 삼계탕 만드는 용도로 사용합니다. 사이즈가 넉넉해서 여러 마리 넣고 삶을 수 있어서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "23",
+    "RDate": "20200415",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 데보다 저렴하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "시험삼아 밥 해봤는데 밥맛 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 넉넉해서 여러 마리 넣고 삶을 수 있어서 좋습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "삼계탕 만드는 용도로 사용합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "428858",
+    "RawText": "전기밥솥 코팅내솥이 영 맘에 걸렸는데 엄마가 쓰시던 OO 압력솥이 생각나서구매했는데 너무 좋습니다. 우선 시간 단축되서 기다리지 않아 좋네요. 남은 밥은 합밥통에 넣어 보관하기도 좋습니다. 맥반석 계란 환상 맛있습니다. 무엇보다 어릴때 엄마 밥 생각이 나서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "149",
+    "Word": "35",
+    "RDate": "20200420",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "시간 단축되서 기다리지 않아 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "맥반석 계란 환상 맛있습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "428859",
+    "RawText": "돌리는 손잡이 부분이 너무 넓어서 아쉽네요. 작은 여자 손으로 두껑과 몸체를 맞추어 한손으로 돌리기가 좀 불편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "4",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20200511",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "돌리는 손잡이 부분이 너무 넓어서 아쉽네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "작은 여자 손으로 두껑과 몸체를 맞추어 한손으로 돌리기가 좀 불편합니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "428860",
+    "RawText": "사이즈도 딱 맞고 삼계탕 해먹을려고 산건데 좋아요. 닭 두마리 거뜬히 들어가는 사이즈라 좋은데 새거라 그런지 좀 뻑뻑함은 있네요. 스텐5중으로 구입할려다가 3중으로 샀는데 잘 구입한것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "108",
+    "Word": "25",
+    "RDate": "20200512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 딱 맞고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "닭 두마리 거뜬히 들어가는 사이즈라 좋은데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "새거라 그런지 좀 뻑뻑함은 있네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "스텐5중으로 구입할려다가 3중으로 샀는데 잘 구입한것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "428862",
+    "RawText": "빠른 배송에 최저가인데 선물까지 감사합니다. 연마제 때문에 걱정되어서 하루 물에 담가놨습니다. 아침에 식초물에 끓이고 나니 연마제가 그렇게 많이 나오지 않아서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "94",
+    "Word": "21",
+    "RDate": "20200715",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "최저가인데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "선물까지 감사합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "식초물에 끓이고 나니 연마제가 그렇게 많이 나오지 않아서 좋습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제 때문에 걱정되어서 하루 물에 담가놨습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "428866",
+    "RawText": "전기 밥솥보다 밥도 빨리 되고 밥맛도 좋습니다. 무게도 생각보다 가벼워서 좋습니다. 저만 느끼는 걸 수도 있지만 추 소리가 시끄러워서 좀 불편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "4",
+    "Syllable": "83",
+    "Word": "21",
+    "RDate": "20210215",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥도 빨리 되고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥맛도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 생각보다 가벼워서 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "추 소리가 시끄러워서 좀 불편합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "428890",
+    "RawText": "똑같은 제품으로 4인용도 있는데 밥맛이 정말 좋습니다. 이 제품은 삼계탕이나 찜용으로 활용하기 적당하고 사이즈 넉넉하니 좋습니다. 역시 OO제품이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "18",
+    "RDate": "20220319",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "이 제품은 삼계탕이나 찜용으로 활용하기 적당하고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈 넉넉하니 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "똑같은 제품으로 4인용도 있는데 밥맛이 정말 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "428897",
+    "RawText": "깔끔하고 예쁘네요. 요리해 봤는데 압력도 잘되고 요리도 맛있게 잘됩니다. 기존에 8인용이 있는데 작아서 샀습니다. 겉으로 보기엔 별차이 없어 보였는데 사용해 보니 용량이 커서 딱 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "105",
+    "Word": "25",
+    "RDate": "20200813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔하고 예쁘네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "요리해 봤는데 압력도 잘되고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "요리도 맛있게 잘됩니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사용해 보니 용량이 커서 딱 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "428900",
+    "RawText": "OO 압력솥 2인용.6인용 사용중이고 좀 더 큰 용량이 필요해서 샀습니다. 용량 커서 좋네요. 손님 올때 쓰기 좋겠네요. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20211210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "용량 커서 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손님 올때 쓰기 좋겠네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "428909",
+    "RawText": "이중 포장으로 안전하게 배송되어 와서 넘 맘에 드네요. 제품도 디자인이 깔끔하니 이쁘네요. 사용전이지만 포장부터 맘에 들어서 후기 씁니다. 요리도 맛있게 되길 기대합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "22",
+    "RDate": "20200711",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "제품도 디자인이 깔끔하니 이쁘네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "요리도 맛있게 되길 기대합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "428922",
+    "RawText": "설명서 대로 세척해서 보니 연마제가 쉽게 제거되네요. 디자인이 예쁩니다. 그리고 스텐이라 좋습니다. 튼튼해 보이고 크기도 10인용이라 넉넉해서 좋습니다. 하여간 구입 잘한 듯 해서 만족입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "24",
+    "RDate": "20201201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "설명서 대로 세척해서 보니 연마제가 쉽게 제거되네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 예쁩니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "스텐이라 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해 보이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 10인용이라 넉넉해서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "428929",
+    "RawText": "OO 밥솥 10인용 생각하고 샀는데 많이 큽니다. 물건 품질은 좋고 잘 쓸께요. 배송도 꼼꼼하게 포장해서 보내주셔서 감사했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20210709",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "OO 밥솥 10인용 생각하고 샀는데 많이 큽니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "물건 품질은 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "428930",
+    "RawText": "겉은 유광 속은 무광. 근데 유무광이 중요한게 아니고 솥 내부 연마상태가 살짝 거칩니다. 나이테같은 자잘한 원을 따라 연마제가 끼어있어 식용유로 닦아내느라 힘들었어요. 암튼 제대로 다 닦였는지 어쨌는지 힘들어서 대충 닦아냈습니다. 음식물을 담는 식기인데 마감이 좀 매끄럽지 못하네요. 차라리 안쪽도 외부 유광처럼 매끄럽게 만드는게 더 위생적일것 같습니다. 10인용 넉넉해서 다양하게 사용하긴 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "3",
+    "Syllable": "224",
+    "Word": "51",
+    "RDate": "20210709",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": " 솥 내부 연마상태가 살짝 거칩니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "나이테같은 자잘한 원을 따라 연마제가 끼어있어 식용유로 닦아내느라 힘들었어요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "암튼 제대로 다 닦였는지 어쨌는지 힘들어서 대충 닦아냈습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "음식물을 담는 식기인데 마감이 좀 매끄럽지 못하네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "재질/질감",
+        "SentimentText": "안쪽도 외부 유광처럼 매끄럽게 만드는게 더 위생적일것 같습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "10인용 넉넉해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "다양하게 사용하긴 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "428953",
+    "RawText": "전기 밥솥을 오래 쓰다보니 찰진 맛이 떨어지는거 같아서 여러 가지 요리도 겸해서 하고싶어서 구매했는데 진짜 밥이 찰지고 맛있어지네요. 사용하기도 간단해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "21",
+    "RDate": "20210412",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "진짜 밥이 찰지고 맛있어지네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기도 간단해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "428954",
+    "RawText": "밥솥 크기를 가늠할 수 없어 좀 더 작은 걸 주문해야 하나 망설였는데 받고 보니 살림하는 분이라면 이 정도 크기는 필요한 거 같아 좋네요. 밥도 찰지게 잘되고 밥맛이 꿀맛이네요. OO밥솥 최고네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "110",
+    "Word": "30",
+    "RDate": "20210504",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "받고 보니 살림하는 분이라면 이 정도 크기는 필요한 거 같아 좋네요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥도 찰지게 잘되고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥맛이 꿀맛이네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "428955",
+    "RawText": "잘 받았습니다. 전기 밥솥 10인용보다 좀 더 큰데 큼직하니 더 좋습니다. 디자인도 깔끔합니다. 잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20210912",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "전기 밥솥 10인용보다 좀 더 큰데 큼직하니 더 좋습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "428958",
+    "RawText": "전기압력솥을 보던 중 구성이 좋아 보이길래 여기 10인용솥으로 산건데 같이 올 줄 알았던 유리뚜껑은 이 사이즈에는 미포함이라고 하고 구성품인 도마는 쓸모가 없는 물건이라서 반품할까도 생각했는데 문의글에 답변이 빠르게 달려서 그냥 써보기로 했습니다. 제품의 품질은 이상없고 밥은 잘 됩니다. 물은 약간 적은 듯해야 진밥이 안 되는 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "4",
+    "Syllable": "190",
+    "Word": "47",
+    "RDate": "20211113",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "같이 올 줄 알았던 유리뚜껑은 이 사이즈에는 미포함이라고 하고",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성품인 도마는 쓸모가 없는 물건이라서 반품할까도 생각했는데 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품의 품질은 이상없고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥은 잘 됩니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "428959",
+    "RawText": "제품 박스에 택배 송장만 붙여서 보냈군요. 패대기를 쳤는지 박스가 터졌네요. 오래된 압력솥 고쳐 쓸까 하다가 그냥 신상품 사는게 좋을거 같아 구매했는데 제품 품질은 괜찮은데 포장 배송은 엉망입니다. 받자마자 식용유로 닦고 세제로 닦고 하는 게 제일 큰 일입니다. 새 상품이라 그런지 열고 닫을때   조금 힘이 들어 불편한 점은 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "3",
+    "Syllable": "188",
+    "Word": "48",
+    "RDate": "20211119",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 품질은 괜찮은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "열고 닫을때 조금 힘이 들어 불편한 점은 있습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "428974",
+    "RawText": "통3중이라 좋습니다. 생각보다 많이 무겁진 않아서 맘에 듭니다. 큰 압력솥이 필요해서 장만했는데 밥도 맛있게 잘 돼서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20220616",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "통3중이라 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각보다 많이 무겁진 않아서 맘에 듭니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥도 맛있게 잘 돼서 만족합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "428981",
+    "RawText": "아주 생김이 이쁘네요. OO은 언제나 마음이 편해요 가까운 곳에서 바킹도 쉽게 구할 수 있어요. 인덕션용으로 깔끔미가 좋네요. 늘 보약을 달여 마시는데 쓰던 압력솥이 갑자기 소리 놀래키고 해서 교체하느라고 구입했어요. 황기 녹각 대추 인삼 우슬 오미자 감초 영지 등 늘 끓여 먹는데 푸욱 고아지고 최고예요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "171",
+    "Word": "44",
+    "RDate": "20201016",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "  아주 생김이 이쁘네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "황기 녹각 대추 인삼 우슬 오미자 감초 영지 등 늘 끓여 먹는데 푸욱 고아지고 최고예요.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "인덕션용으로 깔끔미가 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "428984",
+    "RawText": "사용하던 압력 밥솥에 비해서 디자인이 더 고급스럽고 인덕션 사용 할 수 있어서 좋고  조리 시간도 정말 짧아져서 편하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "18",
+    "RDate": "20210825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "사용하던 압력 밥솥에 비해서 디자인이 더 고급스럽고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션 사용 할 수 있어서 좋고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "조리 시간도 정말 짧아져서 편하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "428987",
+    "RawText": "밥 전용 작은 압력솥 있지만 갈비찜 삼계탕 등 전용으로 필요해 샀네요. OO거는 십수년 잘 써서 성능은 믿어의심치 않죠. 그런데 이번에는  검정색 재가루 같은 게 보여서 세척하는데 애먹었습니다. 식용유로 닦고 세척기에 돌린 후 식초물로 끓여 힘들게 제거했어요. 그래도 여기서 착한 가격에 사서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "169",
+    "Word": "42",
+    "RDate": "20220226",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능은 믿어의심치 않죠.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "검정색 재가루 같은 게 보여서 세척하는데 애먹었습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한 가격에 사서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "식용유로 닦고 세척기에 돌린 후 식초물로 끓여 힘들게 제거했어요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "428988",
+    "RawText": "연마제 성분도 많이 안 나오고 성능도 아주 좋았습니다. 배송도 빠르게 해 주셨습니다. 대만족해서 강추입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20220522",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제 성분도 많이 안 나오고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능도 아주 좋았습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "428993",
+    "RawText": "아직 사용은 안해봤는데 튼튼해서 좋습니다. 음식은 해 먹어봐야 알겠지만 요리도 잘 됐음 좋겠습니다. 배송도 잘 왔습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20210105",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해서 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "음식은 해 먹어봐야 알겠지만 요리도 잘 됐음 좋겠습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "428997",
+    "RawText": "사용하던 압력 밥솥이 오래되서 새로 구매했습니다. 용량도 커서 좋고 밥도 넘 맛있게 되니 좋습니다. 배송도 빠릅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20210311",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "용량도 커서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥도 넘 맛있게 되니 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429000",
+    "RawText": "인덕션으로 바꾸면서 기존에 쓰던 압력솥이 OO이라 이것도 OO을 구입했습니다. 솥모양이 이뻐서 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "12",
+    "RDate": "20210430",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션으로 바꾸면서 기존에 쓰던 압력솥이 OO이라 이것도 OO을 구입했습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "솥모양이 이뻐서 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429001",
+    "RawText": "OO압력솥이 역시 진리입니다. 저번에 쓰던거 오래 쓰다가 고장이나서 새 것으로 다시 구매했습니다. 역시 밥도 잘되고 튼튼합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "16",
+    "RDate": "20210502",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "역시 밥도 잘되고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼합니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429011",
+    "RawText": "압력밥솥 고민하다가 요리겸용으로 큰 10인용 3중으로 구매했습니다. 첫 세척에서 연마제 정도는 보통이었어요. 밥 지어보니 아직 감이 없나봐요  처음은 꼬들밥, 두번째는 진밥이 됐네요. 아직은 몇 번 더 밥을 해봐야 제대로 된 밥맛을 알 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "4",
+    "Syllable": "139",
+    "Word": "34",
+    "RDate": "20211030",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "요리겸용으로 큰 10인용 3중으로 구매했습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "첫 세척에서 연마제 정도는 보통이었어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "아직은 몇 번 더 밥을 해봐야 제대로 된 밥맛을 알 것 같습니다",
+        "SentimentWord": "12",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "429012",
+    "RawText": "밥이 빠르게 잘 되니 좋습니다. 디자인도 동글동글한 모양이라 투박하지 않고 좋네요. 안전하고 빠르게 배송해 주셔서 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20211104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥이 빠르게 잘 되니 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 동글동글한 모양이라 투박하지 않고 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429013",
+    "RawText": "디자인 깔끔하고 좋습니다. 다양하게 사용하려고 10인용 구매했는데 크기 적당하고 좋습니다. 빠른 배송 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "13",
+    "RDate": "20211110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 깔끔하고 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "다양하게 사용하려고 10인용 구매했는데 크기 적당하고 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429019",
+    "RawText": "이 제품 사용해 보니 밥의 찰기가 다르고 맛있습니다. 전기 밥솥만 사용하다가 구매했는데 밥이 너무 맛있어져서 신세계네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20211219",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "이 제품 사용해 보니 밥의 찰기가 다르고 맛있습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥이 너무 맛있어져서 신세계네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429020",
+    "RawText": "기존에 사용하는 제품이 용량이 작아 불편했는데 이 정도 사이즈면 넉넉하니 좋습니다. 요리도 맛있게 되리라는 기대가 크네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20220112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "이 정도 사이즈면 넉넉하니 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "요리도 맛있게 되리라는 기대가 크네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "429021",
+    "RawText": "이모가 사용하시는 거 보더니 엄마도 사고 싶다 하셔서 주문해 드렸더니 넘 좋아하십니다. 닭백숙도 뚝딱 맛잇게 되고 크기가 넘 좋다고 하십니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "20",
+    "RDate": "20220319",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "닭백숙도 뚝딱 맛잇게 되고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기가 넘 좋다고 하십니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429023",
+    "RawText": "밥맛이 정말 좋습니다. 전기압력밥솥 사용하다가 처음으로 압력솥을 써보는데 누룽지도 적절하게 생기고 세척도 생각 보다 간편하네요. 블로그에서 압력밥솥에 밥하는 방법을 자세히 읽고난 뒤 사용하니 밥도 안타고 좋은 것 같아요. 이제 갈비찜에 도전해 보려합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "142",
+    "Word": "32",
+    "RDate": "20200809",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥맛이 정말 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "누룽지도 적절하게 생기고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": " 세척도 생각 보다 간편하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "블로그에서 압력밥솥에 밥하는 방법을 자세히 읽고난 뒤 사용하니 밥도 안타고 좋은 것 같아요.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429025",
+    "RawText": "아직 사용 전이라 성능 확인은 못했고 써봐야 알겠네요. 깊이는 얕네요. 대신 둘레가 넓어서 토종 닭 한마리는 들어갈 사이즈라 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "3",
+    "Syllable": "77",
+    "Word": "20",
+    "RDate": "20201014",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "아직 사용 전이라 성능 확인은 못했고 써봐야 알겠네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "깊이는 얕네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 둘레가 넓어서 토종 닭 한마리는 들어갈 사이즈라 맘에 듭니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429027",
+    "RawText": "손잡이 부분 플라스틱 마감이 조금 거칩니다. 불량까진 아닌 것 같은데 찜찜하지만 그냥 개시했어요.  닭백숙, 수육, 갈비찜 이런거 할때 필요해서 제일 큰거 샀습니다. 밥도 잘 됩니다.  테스트로 인덕션에 올려서 밥 해봤는데, 압력 차있을 때 솥에서 딱딱 소리가 나서 겁나서 누룽지까진 못하고 중간에 껐습니다.  다음에 다시 해봐야겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "4",
+    "Syllable": "189",
+    "Word": "45",
+    "RDate": "20201103",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "손잡이 부분 플라스틱 마감이 조금 거칩니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "닭백숙, 수육, 갈비찜 이런거 할때 필요해서 제일 큰거 샀습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥도 잘 됩니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "압력 차있을 때 솥에서 딱딱 소리가 나서 겁나서 누룽지까진 못하고 중간에 껐습니다. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "429031",
+    "RawText": "믿고 사는 OO 압력솥. 찹쌀 두컵넣고 누룽지 닭백숙 하기 딱 좋은 사이즈네요. 다만 길들일 때 쇠가루때문에 살짝 힘들었습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20210128",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "찹쌀 두컵넣고 누룽지 닭백숙 하기 딱 좋은 사이즈네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "길들일 때 쇠가루때문에 살짝 힘들었습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "429032",
+    "RawText": "압력 밥솥은 첨 사용해 보는데 갈비찜 할 때도 고기도 연해지고 좋습니다. 사용법도 간편해서 사용하기 편하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "4",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20210220",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "갈비찜 할 때도 고기도 연해지고 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용법도 간편해서 사용하기 편하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429033",
+    "RawText": "항상 전기압력밥솥에 밥을 해먹다가 가스로 밥을 해 먹으려고 구매했습니다. OO이란 브랜드를 믿고 구매했습니다. 사이즈 적당하고 사용하는데 불편은 없습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "4",
+    "Syllable": "86",
+    "Word": "18",
+    "RDate": "20210222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하는데 불편은 없습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429035",
+    "RawText": "오늘 받아서 아직 성능은 잘 모르겠지만 OO 브랜드 믿고 씁니다. 저렴하게 구매해서 좋습니다. 새 제품이라서 느낌이 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20210511",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "오늘 받아서 아직 성능은 잘 모르겠지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매해서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429038",
+    "RawText": "친정 엄마한테 선물해 드렸는데 마음에 들어하시네요. 스테인테스라 더 좋습니다. 용량도 꽤 커서 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20220218",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "스테인테스라 더 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "용량도 꽤 커서 맘에 듭니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429039",
+    "RawText": "기존에 OO을 20년 넘게 섰더니 압력이 추에서 빠지더라구요. 그래서 새로 구입했습니다. 같은 10인용인데 이 제품은 좀 작아요. 아직 사용전이지만 튼튼해서 오래사용할 수 있었으면 좋겠습니다. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "116",
+    "Word": "26",
+    "RDate": "20220509",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "같은 10인용인데 이 제품은 좀 작아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 튼튼해서 오래사용할 수 있었으면 좋겠습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "429042",
+    "RawText": "발송이 너무 느렸습니다. 도착예정이라고 써있던 날 조차 발송을 안했네요. 도착예정일 보고 시킨거였는데  별 하나 뺍니다. 그래도 밥솥은 맘에 들어요. 새거라 그런지 더 잘 되는거 같네요. 시래기가 너무 부드럽게 되서 전 좋았네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "4",
+    "Syllable": "128",
+    "Word": "31",
+    "RDate": "20210727",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "새거라 그런지 더 잘 되는거 같네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "시래기가 너무 부드럽게 되서 전 좋았네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429045",
+    "RawText": "생각보다 많이 무겁진 않아서 사용하기 좋습니다. 전복죽 해 먹었는데 짧은시간에 조리되고 눌어붙지도 않아서 좋았습니다. 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "16",
+    "RDate": "20210902",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각보다 많이 무겁진 않아서 사용하기 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "전복죽 해 먹었는데 짧은시간에 조리되고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "눌어붙지도 않아서 좋았습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429048",
+    "RawText": "하루만에 배송 받았습니다. 압력 밥솥은 처음 써 보는데 전기 밥솥 바꿀 때가 돼서 이걸로 바꿨습니다. 처음에 식용유로 닦았는데 검은 스텐 때도 별로 안 나오고 깨끗합니다. 8컵 넣고 밥을 했는데 20분이 돼도 추가 안 돌고 추에서 물은 떨어지는데 잘못했나 싶어서 낮은 온도로 낮추고 3분 뒤 불 끄고 10분 뜸 들인뒤 압력 빼고 열어봤습니다. 밥 냄새도 구수하게 나고 바닥은 살짝 누룽지가 만들어져서 성공했네요. 근데 본 박스에 택배송장 붙여서 왔는데 던져진건지 찌그러지고 엉망입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "271",
+    "Word": "70",
+    "RDate": "20220714",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "처음에 식용유로 닦았는데 검은 스텐 때도 별로 안 나오고 깨끗합니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥 냄새도 구수하게 나고 바닥은 살짝 누룽지가 만들어져서 성공했네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429051",
+    "RawText": "통3중이라 무거울 것 같아 걱정했는데 전에 쓰던 압력솥보다는 가벼운 느낌이 드네요. 뚜껑도 전에 것에 비해 가벼운 것 같아요. 기술이 참 좋아졌다는 생각이 듭니다. 가벼워 사용하기 좋아진 만큼 성능도 기대해 보겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "122",
+    "Word": "30",
+    "RDate": "20220214",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "전에 쓰던 압력솥보다는 가벼운 느낌이 드네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "뚜껑도 전에 것에 비해 가벼운 것 같아요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 가벼워 사용하기 좋아진 만큼",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 성능도 기대해 보겠습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "429056",
+    "RawText": "OO 압력밥솥 밥이 맛있게 잘되고 디자인도 깔끔하고 색상도 마음에 들어 좋습니다. 번창하세요. 빠른 배송 감사드립니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 6L/10인용",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20210208",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "OO 압력밥솥 밥이 맛있게 잘되고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 마음에 들어 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429057",
+    "RawText": "배송은 보통이네요. 집에서 사용하던 압력 솥이 수명이 다해 샀는데 OO 압력 밥솥은 처음 사용해 봅니다. 집에 큰 사이즈의 솥은 있어 작은 사이즈로 샀는데 사이즈가 딱이네요. OO의 기술력을 믿고 구매했는데 밥맛이 괜찮아서 만족스러워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "132",
+    "Word": "32",
+    "RDate": "20220821",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "작은 사이즈로 샀는데 사이즈가 딱이네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥맛이 괜찮아서 만족스러워요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429062",
+    "RawText": "오자마자 식용유로 닦고 주방 세제로 씻고 식초물로 끓이고 다시 또 주방 세제로 씻고 해서 사용했습니다. 처음이라 확실히 뚜껑 여닫기가 뻑뻑한 감은 있어서 불편하긴 합니다. 일부러 흰밥 해 봤는데 하나도 타지 않고 밥이 잘 되서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "132",
+    "Word": "35",
+    "RDate": "20220805",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "뚜껑 여닫기가 뻑뻑한 감은 있어서 불편하긴 합니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "흰밥 해 봤는데 하나도 타지 않고 밥이 잘 되서 좋습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429065",
+    "RawText": "요새 전기압력솥이 밥맛이 없어서 인덕션용 압력밥솥을 구매했습니다. 밥이 구수하고 찰지게 잘 되더라구요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "12",
+    "RDate": "20220729",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션용 압력밥솥을 구매했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥이 구수하고 찰지게 잘 되더라구요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429066",
+    "RawText": "15년쓴 OO압력 밥솥을 교체하려 구입했는데 다른곳 보다 저렴합니다. 제품 품질이야 당연히 좋아 만족합니다. 배송 빨라서 좋았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "16",
+    "RDate": "20220720",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른곳 보다 저렴합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 품질이야 당연히 좋아 만족합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429067",
+    "RawText": "좋습니다. 배송 빠르고 둘이서 밥 해 먹기에는 사이즈 적당해서 좋습니다. 백숙도 한번 해 봤는데 조금 작은 듯 하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "18",
+    "RDate": "20220719",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "둘이서 밥 해 먹기에는 사이즈 적당해서 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "백숙도 한번 해 봤는데 조금 작은 듯 하네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "429069",
+    "RawText": "인덕션 되는 걸로 10인용 6인용 두개 구매했습니다.  4인 사려다가 압력솥에 반쯤만 채워서 밥짓는게 밥맛이 좋다고 들어서 6인으로 구입했는데 작은 사이즈의 귀여운 면은 없지만 만족합니다 10인용은 큼직해서 백숙하기 좋을 것 같아요. 인덕션에는 겹바닥 제품이 좋다고 해서 이 제품으로 결정했는데 늘 쓰던 브랜드 제품이라 성능이나 밥맛은 만족합니다. 근데 다른평에 나온거처럼 이전에 구입한 모델과 비교해서 뚜껑이랑 패킹이 빡빡해서 열고 닫을 때 신경을 써야할 것 같네요. 구매옵션에 추가 패킹 선택할 수 있으면 더 좋을 것 같습니다. 연마제 제거는 안해봤는데 많아 보이지는 않았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "326",
+    "Word": "78",
+    "RDate": "20220626",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "작은 사이즈의 귀여운 면은 없지만 만족합니다 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "10인용은 큼직해서 백숙하기 좋을 것 같아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "인덕션에는 겹바닥 제품이 좋다고 해서 이 제품으로 결정했는데",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 늘 쓰던 브랜드 제품이라 성능이나 밥맛은 만족합니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "뚜껑이랑 패킹이 빡빡해서 열고 닫을 때 신경을 써야할 것 같네요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구매옵션에 추가 패킹 선택할 수 있으면 더 좋을 것 같습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제 제거는 안해봤는데 많아 보이지는 않았습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥맛은 만족합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429073",
+    "RawText": "배송 빠릅니다. 통5중과 통3중 중에 고민하다 이거 샀는데 밥맛이 너무 좋습니다. 애들도 누룽지 맛있다고 더 달라고 하네요. 진작 바꿀걸 그랬어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "20",
+    "RDate": "20220607",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "이거 샀는데 밥맛이 너무 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "애들도 누룽지 맛있다고 더 달라고 하네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429080",
+    "RawText": "집에서 10년 넘게 쓰는 압력솥은 인덕션이 안 되서 이번에 인덕션용으로 구입했습니다. 깔끔하고 앙증맞은 크기와 디자인이 넘 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20220521",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 깔끔하고 앙증맞은 크기와",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 넘 맘에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "이번에 인덕션용으로 구입했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429083",
+    "RawText": "이 브랜드 구형 밥솥 10년간 쓰다가 이번에 큰맘먹고 바꿨네요. 역시 OO 밥솥이 밥이 찰지게 잘 되고 디자인도 심플하니 무난합니다. 잘 쓸게요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "21",
+    "RDate": "20220516",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "역시 OO 밥솥이 밥이 찰지게 잘 되고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 심플하니 무난합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "429086",
+    "RawText": "동영상 자세하게 보여주셔서 구매했습니다. 배송도 빨랐어요. 연마제 제거가 힘들었지만 다 끝내서 좋네요. 밥맛도 좋길 기대해봅니다. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "17",
+    "RDate": "20220428",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제 제거가 힘들었지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": " 밥맛도 좋길 기대해봅니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "429088",
+    "RawText": "배송 빠르네요 디자인 깔끔하고 예쁩니다. 근데 크기가 작아진 것 같아요.  담에는 8인용으로 하나 더 사야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20220422",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 깔끔하고 예쁩니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "근데 크기가 작아진 것 같아요.  ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "담에는 8인용으로 하나 더 사야겠어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "429095",
+    "RawText": "집에서 써보고 마음에 들어서 추가 주문해서 선물했네요. 초반에 패킹이 너무 짱짱해서 뚜껑 열기 힘들어서 불편했어요. 그리고 연마제가 꽤 묻어나오니 꼭 기름 바르고 닦으세요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "23",
+    "RDate": "20220331",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "초반에 패킹이 너무 짱짱해서 뚜껑 열기 힘들어서 불편했어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제가 꽤 묻어나오니 꼭 기름 바르고 닦으세요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "429106",
+    "RawText": "가격대비 좋습니다. 오랫동안 타 브랜드 사용했는데 이번엔 친구 추천으로 샀네요. 밥맛이 좋았으면 하네요. 사용전이지만 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "16",
+    "RDate": "20220215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥맛이 좋았으면 하네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "429117",
+    "RawText": "OO 압력솥은 30년 동안 꾸준히 쓰고 있는 제품이예요.  이번에는 인덕션용으로 샀는데 만족스럽네요. 사이즈도 딱 좋은 것 같아요. 강추합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "18",
+    "RDate": "20220118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션용으로 샀는데 만족스럽네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 딱 좋은 것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429127",
+    "RawText": "잘 받았습니다. 세식구가 사용하기에 딱 좋은것 같네요.  일단 세척해서 내일부터 써보려고 합니다. 연마제 닦는게 좀 수월했으면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "17",
+    "RDate": "20220104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "세식구가 사용하기에 딱 좋은것 같네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제 닦는게 좀 수월했으면 좋겠네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "429130",
+    "RawText": "버튼을 눌러야 해서 열 때 약간 번거롭기는 하지만 안전을 위해 장착되어 있는 것 같긴 합니다. 3인 가족에게 적당한 사이즈라 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "20",
+    "RDate": "20211229",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "버튼을 눌러야 해서 열 때 약간 번거롭기는 하지만",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "안전을 위해 장착되어 있는 것 같긴 합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "3인 가족에게 적당한 사이즈라 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429131",
+    "RawText": "압력밥솥은 OO이 유명한건 다 알고 있는 사실이지요. 역시 저 같은 똥손도 밥을 맛있게 해주더라구요. 사이즈도 적당하고 배송도 이틀정도 걸려 좋았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "20",
+    "RDate": "20211229",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "저 같은 똥손도 밥을 맛있게 해주더라구요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429132",
+    "RawText": "생각했던거보다 조금 커서 아쉽네요. 3~4인용을 살걸 그랬나봅니다. 그래도 밥은 잘 되는데 밥솥이 바뀌다보니 물 조절이 달라서 연습이 필요하겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "18",
+    "RDate": "20211228",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "생각했던거보다 조금 커서 아쉽네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "3~4인용을 살걸 그랬나봅니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥은 잘 되는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "밥솥이 바뀌다보니 물 조절이 달라서 연습이 필요하겠네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "429145",
+    "RawText": "6인용인데 사이즈가 작아 아담하고 디자인이 예쁘네요. 아직 밥을 해보진 않았지만 밥이 맛있게 되었으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20211105",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 작아 아담하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 예쁘네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "아직 밥을 해보진 않았지만 밥이 맛있게 되었으면 좋겠습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "429163",
+    "RawText": "너무 좋습니다.  무게는 좀 나가서 그렇기는 한데 밥이 맛나게 되어서 좋으네요. 배송이 빨라서 더 좋았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20211001",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게는 좀 나가서 그렇기는 한데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥이 맛나게 되어서 좋으네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429164",
+    "RawText": "명절연휴때문에 배송은 늦었지만 상품은 만족하네요. 처음에 끓이는데 증기가 새나와서 불량품인가했는데 고무패킹 다시 뺏다 껴보니 정상적으로 작동하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "16",
+    "RDate": "20210926",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "처음에 끓이는데 증기가 새나와서 불량품인가했는데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "고무패킹 다시 뺏다 껴보니 정상적으로 작동하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429170",
+    "RawText": "엄마 집에 인덕션으로 바꾸셔서 인덕션 가능 압력솥 사드렸는데  밥 잘 되고 밥 맛 좋으시다고 만족해 하십니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "16",
+    "RDate": "20210827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 인덕션 가능 압력솥 사드렸는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥 잘 되고 밥 맛 좋으시다고 만족해 하십니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429175",
+    "RawText": "크기는 생각대로 적당합니다. 그런데 뚜껑 열고 닫기가 제가 원래 쓰던 압력밥솥이랑 다르게 좀 많이 불편해서 적응이 필요할 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "4",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20210805",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기는 생각대로 적당합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "뚜껑 열고 닫기가 제가 원래 쓰던 압력밥솥이랑 다르게 좀 많이 불편해서",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "429183",
+    "RawText": "스테인레스라 좋고 인덕션 사용까지 가능하다니 잘 구입한거 같습니다. 복날에 백숙 맛나게 해서 먹으려합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20210711",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "스테인레스라 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 인덕션 사용까지 가능하다니",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429184",
+    "RawText": "눌러서 여는 버튼이 너무 힘들어요. 엄마 사드렸는데 뻑뻑해서 혼자 열지를 못하십니다. 직접 보고 살걸 후회가 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "4",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20210707",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "눌러서 여는 버튼이 너무 힘들어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "엄마 사드렸는데 뻑뻑해서 혼자 열지를 못하십니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "429194",
+    "RawText": "여는 부분이 뻑뻑해서 힘이 들어가긴 합니다. 똑같은 OO솥인데 예전 검정솥보다 밥맛은 덜 한 것 같습니다. 그래도 스테인레스라 안전하겠지란 생각으로 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "3",
+    "Syllable": "91",
+    "Word": "21",
+    "RDate": "20210605",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여는 부분이 뻑뻑해서 힘이 들어가긴 합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "예전 검정솥보다 밥맛은 덜 한 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "스테인레스라 안전하겠지란 생각으로 잘 쓰겠습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429195",
+    "RawText": "찰보리쌀 시켜서 잡곡밥을 해먹고 있네요. 잡곡밥을 처음 지어보는데도 불구하고 맛있게 지어지네요. 30~60분 전에 쌀을 불려서 여기에 밥하면 아주 맛나게 됩니다. 다들 맛있게 지어 드시길요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "24",
+    "RDate": "20210604",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": " 잡곡밥을 처음 지어보는데도 불구하고 맛있게 지어지네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "30~60분 전에 쌀을 불려서 여기에 밥하면 아주 맛나게 됩니다 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429200",
+    "RawText": "저렴하게 제가 원하는 상품을 구매하게 되어서 너무 좋습니다. 게다가 인덕션 사용가능한 압력밥솥이기도 해서 더 좋구요. 아직 사용전이라 다른 얘기는 못하겠지만 믿고 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "22",
+    "RDate": "20210516",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 제가 원하는 상품을 구매하게 되어서 너무 좋습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "게다가 인덕션 사용가능한 압력밥솥이기도 해서 더 좋구요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429211",
+    "RawText": "저렴하게 잘 산 것 같아 좋으네요.  전에도 OO 압력밥솥을 15년 가까이 쓰다가 바꿨습니다. 이번 것도 오래사용할 수 있으리라 생각됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20210420",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 산 것 같아 좋으네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 이번 것도 오래사용할 수 있으리라 생각됩니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429213",
+    "RawText": "아들이 잘 사용하고 있습니다. 새 거라서 그런지 뚜껑이 좀 뻑뻑해서 사용하기 불편하다고 하네요. 저렴한 가격에 구입한 건 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20210408",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "새 거라서 그런지 뚜껑이 좀 뻑뻑해서 사용하기 불편하다고 하네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 구입한 건 만족스럽습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429214",
+    "RawText": "박스가 구멍이 난 상태로 배송 되어 혹 몰라 씻어 제품 확인했어요. 문제 없이 작동은 되는데 뚜껑이 얇고 날카로워서 좀 위험합니다. 연마제도 엄청 나와서 닦아내느라 힘들었어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "4",
+    "Syllable": "98",
+    "Word": "25",
+    "RDate": "20210408",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "뚜껑이 얇고 날카로워서 좀 위험합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제도 엄청 나와서 닦아내느라 힘들었어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "429219",
+    "RawText": "4인 가족 밥할 때 적당한 사이즈입니다. 처음엔 뚜껑 닫는게 어려웠는데 요령이 생기니 수월해 졌습니다. 역시 밥은 압력솥으로 하는게 맛있어요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20210402",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "4인 가족 밥할 때 적당한 사이즈입니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥은 압력솥으로 하는게 맛있어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429223",
+    "RawText": "기존에 쓰던 압력솥이 10년 이상 되다 보니 밥이 잘 안 되어서 엄마가 늘 쓰던 OO으로 검색해서 구입했습니다. 스테인리스 재질로 되어 있어 튼튼하고 디자인도 맘에 들고 밥도 너무 찰지게 잘 되어서 만족해요. 다만, 새 제품이라 그런지 열고 닫는데 빡빡함이 있긴 합니다.  하지만 그만큼 압력이 잘 된다는 거니까 앞으로 맛있는 밥 잘 해 먹을게요.  6인용으로 사서 밥해서 냉동 시켜 놓는데 2인 가족에게는 딱인 사이즈입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "238",
+    "Word": "62",
+    "RDate": "20210322",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "스테인리스 재질로 되어 있어 튼튼하고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 맘에 들고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥도 너무 찰지게 잘 되어서 만족해요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "새 제품이라 그런지 열고 닫는데 빡빡함이 있긴 합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "그만큼 압력이 잘 된다는 거니까",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "앞으로 맛있는 밥 잘 해 먹을게요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "6인용으로 사서 밥해서 냉동 시켜 놓는데 2인 가족에게는 딱인 사이즈입니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429230",
+    "RawText": "연마제가 엄청 많이는 안 나왔지만 키친 타올로 두 번 닦느라 힘들었네요. 고무 패킹에서 냄새가 너무 많이 납니다. 뚜껑이 너무  뻑뻑해서 불편하고 처음에 안 열려서 애먹었어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "4",
+    "Syllable": "98",
+    "Word": "25",
+    "RDate": "20210226",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제가 엄청 많이는 안 나왔지만 키친 타올로 두 번 닦느라 힘들었네요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "고무 패킹에서 냄새가 너무 많이 납니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "뚜껑이 너무  뻑뻑해서 불편하고 처음에 안 열려서 애먹었어요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "429235",
+    "RawText": "전에 쓰던 펄 제품보다 확실히 더 좋습니다. 하얀 색이라 더 깨끗하게 느껴지고 밥도 맛있게 잘 되는 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "18",
+    "RDate": "20210211",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "하얀 색이라 더 깨끗하게 느껴지고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥도 맛있게 잘 되는 것 같네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429239",
+    "RawText": "디자인도 깔끔 이쁘고 가격도 저렴하네요. 용량도 맘에 듭니다. 아직 사용 전이지만 맛있는 밥을 먹게 되었으면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20210127",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔 이쁘고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "용량도 맘에 듭니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "아직 사용 전이지만 맛있는 밥을 먹게 되었으면 좋겠어요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "429241",
+    "RawText": "급하게 주문했는데 주문 다음날 바로 왔네요. 인덕션으로 교체하면서 주문했습니다. 전에 썼던 통3중에 비하면 뚜껑 재질이 얇지만 밥만 잘 되면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "20",
+    "RDate": "20210120",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션으로 교체하면서 주문했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "전에 썼던 통3중에 비하면 뚜껑 재질이 얇지만",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥만 잘 되면 좋겠습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "429251",
+    "RawText": "바닥이 평평해서 인덕션에서 밥이 훨씬 빨리 됩니다. 오 분 정도면 끓기 시작하는데 깜짝 놀랐어요. 그런데 바닥이 좀 얇은지 예전 밥솥보다 빨리 탄다는 느낌이 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "4",
+    "Syllable": "93",
+    "Word": "24",
+    "RDate": "20201223",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "바닥이 평평해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "인덕션에서 밥이 훨씬 빨리 됩니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": " 오 분 정도면 끓기 시작하는데 깜짝 놀랐어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "바닥이 좀 얇은지",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "예전 밥솥보다 빨리 탄다는 느낌이 있습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "429252",
+    "RawText": "저렴히 샀습니다. 오늘 개봉 후 냄비 뚜껑 테두리에 손을 베였습니다. 날카로우니 조심하길 바랍니다. 그래도 씻으면 무뎌질 것 같긴 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "4",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20201217",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴히 샀습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "냄비 뚜껑 테두리에 손을 베였습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 날카로우니 조심하길 바랍니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "429253",
+    "RawText": "구매후기가 좋아서 구매했는데 제 힘이 달려서 사용하기 불편하지만 그냥 써보려고요. 쓰다보면 좋아진다고 하시니 더 써볼께요. 뚜껑 가장자리가 날카로워서 조심해야할거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "3",
+    "Syllable": "95",
+    "Word": "20",
+    "RDate": "20201216",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "제 힘이 달려서 사용하기 불편하지만 그냥 써보려고요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "뚜껑 가장자리가 날카로워서 조심해야할거 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "429256",
+    "RawText": "지름이 20센티라서 아담해서 좋네요. 스텐이라 위생적이라 좋고 인덕션에 사용 할 수 있어서 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "4",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20201209",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "지름이 20센티라서 아담해서 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "스텐이라 위생적이라 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 인덕션에 사용 할 수 있어서 만족해요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429260",
+    "RawText": "밥 맛 좋네요. 부모님 댁에 사드리면서 저희 것도 구매했는데 잘 샀어요. 인덕션용으로 찾다가 발견해서 저렴하고 후기 좋아서 선택했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20201122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥 맛 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션용으로 찾다가 발견해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429264",
+    "RawText": "스텐 제품은 식용유로 닦고 물을 넣고 끓여야 한다기에, 기름으로 닦아냈는데 연마제가 약간 검게 묻어나네요. 내일 밥을 해보려고 하는데 밥이 맛있게 되면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "22",
+    "RDate": "20201112",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "기름으로 닦아냈는데 연마제가 약간 검게 묻어나네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "내일 밥을 해보려고 하는데  밥이 맛있게 되면 좋겠네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "429270",
+    "RawText": "행사로 저렴하게 구매했어요. 압력밥솥은 OO인것 같아요. 4개째 좀 작은 것으로 구매했는데, 내구성이 좋아서 오래 쓸 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "4",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20201026",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "행사로 저렴하게 구매했어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "내구성이 좋아서 오래 쓸 것 같네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429278",
+    "RawText": "OO전기밥솥이 있지만 그래도 하나 더 구매했습니다. 어릴 적 엄마가 쓰시던 기억을 되살려 저도 OOO 밥솥 샀습니다. 받자마자 식용유 뿌리고 키친타올로 닦아낸 다음 베이킹소다와 식초넣고 팔팔 끓이고 있네요. 엄마가 해주시던 밥맛 오늘 저녁에 맛 볼 수 있기를 기대합니다. 디자인도 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "4",
+    "Syllable": "164",
+    "Word": "40",
+    "RDate": "20200911",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "엄마가 해주시던 밥맛 오늘 저녁에 맛 볼 수 있기를 기대합니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 맘에 듭니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "429284",
+    "RawText": "8년째 사용한 압력솥 코팅이 벗겨져서 구입했습니다. 배송도 빠르고, 패킹도 짱짱하고 너무 좋네요. 이 모델도 밥맛이 좋기를 기대해봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "17",
+    "RDate": "20200810",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "패킹도 짱짱하고 너무 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": " 이 모델도 밥맛이 좋기를 기대해봅니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "429285",
+    "RawText": "기존 가스렌지에서 OO압력솥으로 쭉 밥해왔는데 인덕션으로 교체하면서 IH압력밥솥 샀습니다. 한참 이것저것 고민하다 역시 OO이 젤 나은것같아  구매했네요. 부품 교체 구입도 편하고 사용하기도 간편하고 품질이 가격만큼 하네요. 6인용 구매했는데 넘 이쁘고 좋습니다. 세척후 밥 해보니 타지도 않고 잘 됩니다. 사은품 손선풍기도 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 하** IH 압력솥 3.2L/6인용",
+    "ReviewScore": "5",
+    "Syllable": "186",
+    "Word": "41",
+    "RDate": "20200807",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "부품 교체 구입도 편하고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기도 간편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 가격만큼 하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "넘 이쁘고 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": " 밥 해보니 타지도 않고 잘 됩니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품 손선풍기도 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

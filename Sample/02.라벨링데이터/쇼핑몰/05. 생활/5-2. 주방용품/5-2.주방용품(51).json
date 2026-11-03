@@ -1,0 +1,3200 @@
+[
+  {
+    "Index": "441332",
+    "RawText": "구매 후기평이 좋아서 구매했는데 다른곳보다 저렴했어요. 아직 써보진 않았지만 매실씨 제거가 잘되면 좋겠습니다. 배송 빠르게 보내주셔서 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "17",
+    "RDate": "20220621",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른곳보다 저렴했어요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "매실씨 제거가 잘되면 좋겠습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "441339",
+    "RawText": "편하게 매실씨와 분리해서 매실청 잘 담았어요. 가격도 저렴하고 품질도 좋아서 주위에 구매추천해드렸습니다. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "13",
+    "RDate": "20220618",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "편하게 매실씨와 분리해서 매실청 잘 담았어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441341",
+    "RawText": "잘익은 매실은 과육이 좀 많이 떨어지네요. 청매실은 깔끔하니 잘되요. 꼭지부분 떨어나간건 아까워서 칼로 떼서 담궜네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20220617",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "잘익은 매실은 과육이 좀 많이 떨어지네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "청매실은 깔끔하니 잘되요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "꼭지부분 떨어나간건 아까워서 칼로 떼서 담궜네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441358",
+    "RawText": "배송 빠르고 좋습니다. 생각보다 커서 놀랬습니다. 매실 장아찌 담으려고 주문했는데 힘을 좀 써야 하긴 하지만 씨제거는 잘 됩니다. 덕분에 매실 장아찌 10kg 뚝딱 담았습니다. 감사해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "104",
+    "Word": "25",
+    "RDate": "20220612",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "생각보다 커서 놀랬습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "힘을 좀 써야 하긴 하지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨제거는 잘 됩니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "덕분에 매실 장아찌 10kg 뚝딱 담았습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441364",
+    "RawText": "바른배송으로 잘 받았어요. 사용해보니 손으로 하는것보다는 편합니다. 단점이리면 씨 제거시 매실살도 많이 빠져요. 기계안쪽 바닥 동그란 부분에 위로 날카로운 테두리가 있다면 씨제거시 밑으로 빠질때 매실이 좀 덜 뭉그러질것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "127",
+    "Word": "29",
+    "RDate": "20220611",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용해보니 손으로 하는것보다는 편합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨 제거시 매실살도 많이 빠져요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "기계안쪽 바닥 동그란 부분에 위로 날카로운 테두리가 있다면 씨제거시 밑으로 빠질때 매실이 좀 덜 뭉그러질것 같네요",
+        "SentimentWord": "16",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441368",
+    "RawText": "이것만 여러 번 샀습니다. 작년에 쓰던 건 못 찾아서 새로 샀습니다.  사용 시 요령이 좀 필요한데 씨 부분 중심을 잘 맞추면 쉽게 제거 되는데 중심이 어긋나면 많은 힘을 줘야 제거가 됩니다. 힘이 많이 들고 안 빠지면 중심이 어긋난 겁니다. 매실씨 제거기 여러 종류 중 이게 제일 사용하기 편해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "167",
+    "Word": "48",
+    "RDate": "20220609",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "사용 시 요령이 좀 필요한데 씨 부분 중심을 잘 맞추면 쉽게 제거 되는데",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "중심이 어긋나면 많은 힘을 줘야 제거가 됩니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "힘이 많이 들고 안 빠지면 중심이 어긋난 겁니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "매실씨 제거기 여러 종류 중 이게 제일 사용하기 편해요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441382",
+    "RawText": "잘 받았어요. 빠른 배송 좋았습니다. 그런데 사용해 보니 씨 빼낼 때 구멍이 너무 작아서 씨가 박혀 나오지는 않습니다.  다시 거꾸로 바깥에서 안으로 밀어서 씨를 제거 해야 하니 조금 번거롭네요.  아무튼 사이즈를 좀 더 개선해서 출시하면 좋을 듯 하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "3",
+    "Syllable": "143",
+    "Word": "38",
+    "RDate": "20220606",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "씨 빼낼 때 구멍이 너무 작아서 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨가 박혀 나오지는 않습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "다시 거꾸로 바깥에서 안으로 밀어서 씨를 제거 해야 하니 조금 번거롭네요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "아무튼 사이즈를 좀 더 개선해서 출시하면 좋을 듯 하네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441414",
+    "RawText": "작년에 친구가 빌러 가서 안 주어서 또 구매했습니다. 가격이 착하고 사용이 편해서  올해도 매실 많이 구입하여 자녀들에게 보내주려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20220401",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 착하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용이 편해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441417",
+    "RawText": "생각했던것 보다는 조금 작아서 불편할것 같네요. 사이즈가 조금만 더 컸으면 정말 좋았을텐데 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "4",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20220317",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "생각했던것 보다는 조금 작아서 불편할것 같네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 조금만 더 컸으면 정말 좋았을텐데 아쉽습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441418",
+    "RawText": "매실 장아찌 씨제거에 유용하게 사용하고 있습니다. 주변분들 선물하느라 자주 시켰습니다. 저렴하게 구입했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "12",
+    "RDate": "20220302",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "매실 장아찌 씨제거에 유용하게 사용하고 있습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입했습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441432",
+    "RawText": "청매 짱아찌 만들 때 쓸려고 샀습니다. 단단한 청매가 제거가 잘 되고 무른 황매는 제거가 잘 안 됩니다.  어차피 일본식 황매 짱아찌는 씨 안 빼고 만들고 한국식 짱아찌는 단단한 청매로 만드니까 잘 활용해서 편하게 제거 할 수 있을 거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "137",
+    "Word": "39",
+    "RDate": "20210715",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "단단한 청매가 제거가 잘 되고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "무른 황매는 제거가 잘 안 됩니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "한국식 짱아찌는 단단한 청매로 만드니까 잘 활용해서 편하게 제거 할 수 있을 거 같습니다.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441445",
+    "RawText": "올해는 매실보다 늦게 도착해서 사용은 못했지만 하나만 실험해보니 간단하고 쉽게 씨가 빠집니다.  계속하면 손은 좀 아플 거 같은데 나무판에 고정하고 사용하면 편할 거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "24",
+    "RDate": "20210702",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "간단하고 쉽게 씨가 빠집니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "계속하면 손은 좀 아플 거 같은데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "나무판에 고정하고 사용하면 편할 거 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441447",
+    "RawText": "씨가 쏙쏙 빠지진 않네요. 씨 크기에 따라 쏙 빠지는것도 있고 안 빠져서 손으로 빼내야 하는것도 있습니다. 그래도 일일이 수작업으로 하는것 보단 훨씬 편하고 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "4",
+    "Syllable": "92",
+    "Word": "24",
+    "RDate": "20210701",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨가 쏙쏙 빠지진 않네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨 크기에 따라 쏙 빠지는것도 있고  안 빠져서 손으로 빼내야 하는것도 있습니다",
+        "SentimentWord": "12",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그래도 일일이 수작업으로 하는것 보단 훨씬 편하고 좋네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441463",
+    "RawText": "늦게 주문하기도 했고 늦은 배송으로 사용하지는 못했습니다. 올해 매실은 칼로 손질하여서 내년에 사용해봐야겠네요. 저렴한 가격에 성능이 좋기를 기대해 봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "3",
+    "Syllable": "87",
+    "Word": "19",
+    "RDate": "20210623",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능이 좋기를 기대해 봅니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "441477",
+    "RawText": "대형과 소형 각 1개씩 구매했어요. 구경의 차이가 별로 나지 않고 과실의 씨를 눌러주는 가운데 핀 부분이 잘못 주조되서 누르기가 쉽지 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "2",
+    "Syllable": "79",
+    "Word": "21",
+    "RDate": "20210617",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "구경의 차이가 별로 나지 않고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 과실의 씨를 눌러주는 가운데 핀 부분이 잘못 주조되서 누르기가 쉽지 않네요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441478",
+    "RawText": "생각했던거보다 실망이 좀 큽니다. 대형, 소형 각 1개씩 구입하였는데 구경의 차이가 별로 나지않고 소형의 경우가 손잡이 간격이 오히려 대형보다 크네요. 씨를 눌러주는 핀 부분이 대형은 과실 중앙을 눌러주게 되어 있는 반면 소형은 사선으로 과실을 옆에서 눌리게끔 주조가 잘못된거 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "2",
+    "Syllable": "159",
+    "Word": "39",
+    "RDate": "20210617",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "대형, 소형 각 1개씩 구입하였는데 구경의 차이가 별로 나지않고",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 소형의 경우가 손잡이 간격이 오히려 대형보다 크네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 씨를 눌러주는 핀 부분이 대형은 과실 중앙을 눌러주게 되어 있는 반면 소형은 사선으로 과실을 옆에서 눌리게끔 주조가 잘못된거 같네요",
+        "SentimentWord": "19",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441481",
+    "RawText": "가격이 저렴하여 대소 2개를 구입했습니다. 재질이 생각하던 것이 아닌 듯합니다만 씨 제거가 잘 되었으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "4",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20210617",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하여",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/질감",
+        "SentimentText": "재질이 생각하던 것이 아닌 듯합니다만 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨 제거가 잘 되었으면 좋겠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "441487",
+    "RawText": "아우 훌륭합니다. 어머님이 매실청 매실장아찌 만드시는데 아주 최고라고 하시네요. 매실씨가 쉽게 빠집니다. 가성비 최고에요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "14",
+    "RDate": "20210616",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "어머님이 매실청 매실장아찌 만드시는데 아주 최고라고 하시네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": " 매실씨가 쉽게 빠집니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 최고에요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441491",
+    "RawText": "구입후 사용 결과 대체로 만족해요. 작은 매실도 꼭지를 원안에 잘 맞추면 씨가 잘 빠집니다. 아래부분 두꺼운 책2권을 받치고 눌리는게 힘이 적게 들어요. 손잡이가 조금 길었으면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "4",
+    "Syllable": "104",
+    "Word": "26",
+    "RDate": "20210616",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "작은 매실도 꼭지를 원안에 잘 맞추면 씨가 잘 빠집니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 아래부분 두꺼운 책2권을 받치고 눌리는게 힘이 적게 들어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": " 손잡이가 조금 길었으면 좋겠네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441492",
+    "RawText": "아주 잘 되네요. 큰 것 할때는 좀 힘이 들어가서 그렇지 정말 좋아요. 추천합니다. 작은 매실도 큰 매실도 다 잘 됩니다. 대자로 2개 샀습니다. 구매에 후회없는 상품이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "26",
+    "RDate": "20210615",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "아주 잘 되네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 큰 것 할때는 좀 힘이 들어가서 그렇지 정말 좋아요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "작은 매실도 큰 매실도 다 잘 됩니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441502",
+    "RawText": "늦게 주문해서 이번에 사용못했고 시험적으로 해봤는데 수월하게 씨앗 분리가 될 것 같습니다. 저렴하게 구매해서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "4",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20210610",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "수월하게 씨앗 분리가 될 것 같습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매해서 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441507",
+    "RawText": "작은 거보다는 큰 사이즈가 더 좋은듯합니다. 장아찌 때문에 구입하시는거니까 꼭 큰 사이즈로 구매하시면 좋을 듯합니다.  소,대 둘 다 샀는데 대 사이즈가 더 잘 맞습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "24",
+    "RDate": "20210607",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "작은 거보다는 큰 사이즈가 더 좋은듯합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "장아찌 때문에 구입하시는거니까 꼭 큰 사이즈로 구매하시면 좋을 듯합니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "소,대 둘 다 샀는데 대 사이즈가 더 잘 맞습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441508",
+    "RawText": "요즘 매실 수확이 한창이고 가정에서 구입도 많이 하는데 이 씨제거기 정말 좋습니다. 씨가 쉽게 빠지고 품질도 우수하네요. 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20210607",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": " 씨가 쉽게 빠지고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 우수하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441511",
+    "RawText": "대형사이즈 하나면 크기 상관없이 씨빼기 작업이 가능하지만 씨 제거후 모양이 깔끔하지는 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "4",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20210601",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "대형사이즈 하나면 크기 상관없이 씨빼기 작업이 가능하지만",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨 제거후 모양이 깔끔하지는 않네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441528",
+    "RawText": "생각보다 사용이 너무 편하고 생활에 꼭 필요한 제품입니다. 정말 잘 샀네요. 창안하신분 너무 감사합니다. 많이 추천하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20210428",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "생각보다 사용이 너무 편하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "생활에 꼭 필요한 제품입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441553",
+    "RawText": "매실씨 분리가 잘 됩니다. 근데 사이즈가 더 큰것도 있으면 해요. 알이 큰건 안들어가네요. 사이즈가 작아서 매실을 작은걸 사야겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "4",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20200726",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "매실씨 분리가 잘 됩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 더 큰것도 있으면 해요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "알이 큰건 안들어가네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 작아서 매실을 작은걸 사야겠네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441554",
+    "RawText": "매실 씨 빼는 기계가 있는 줄 몰랐는데 제품 받고 써보니 정말 편하고 좋네요. 사이즈 큰거 작은거 각각 1개씩 구매했습니다. 덕분에 작업시간 엄청 단축되었어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "23",
+    "RDate": "20200726",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "제품 받고 써보니 정말 편하고 좋네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "작업시간 엄청 단축되었어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441563",
+    "RawText": "매실 씨를 빼는 게 이렇게 쉽게 잘 제거 되는데 진작에 살 걸 그랬습니다. 초대형 매실 서너 개는 잘 안 들어가서 손으로 씨를 마저 제거해야 했습니다. 그래도 올해 주문한 큰 매실도 씨를 쉽게 제거할 수 있어서 너무 좋았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "4",
+    "Syllable": "127",
+    "Word": "37",
+    "RDate": "20200711",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "매실 씨를 빼는 게 이렇게 쉽게 잘 제거 되는데 진작에 살 걸 그랬습니다. ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "초대형 매실 서너 개는 잘 안 들어가서 손으로 씨를 마저 제거해야 했습니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "올해 주문한 큰 매실도 씨를 쉽게 제거할 수 있어서 너무 좋았습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441564",
+    "RawText": "쿠폰으로 다른곳보다 싸게 구매했습니다. 매실씨 제거 잘 되면 좋겠네요. 배송도 빨라서 바로 받아서 너무 좋았어요. 또 구매할께요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20200711",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰으로 다른곳보다 싸게 구매했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "매실씨 제거 잘 되면 좋겠네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "441568",
+    "RawText": "너무 크고 단단한 매실에는 잘 안 들어가서 제거가 힘듭니다. 하지만 작고 약간 부드러운 매실에는 잘 들어가서 씨앗만 쉽게 빠져나오네요. 힘 안 들이고도 잘 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "24",
+    "RDate": "20200709",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "너무 크고 단단한 매실에는 잘 안 들어가서 제거가 힘듭니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "작고 약간 부드러운 매실에는 잘 들어가서 씨앗만 쉽게 빠져나오네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "힘 안 들이고도 잘 됩니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441582",
+    "RawText": "매실씨 제거기로 사용해보니 씨 빼기가 너무 잘되네요. 진작에 알았으면 더 좋았을걸 그랬네요. 가격도 저렴하고 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20200702",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "매실씨 제거기로 사용해보니 씨 빼기가 너무 잘되네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고 만족합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441584",
+    "RawText": "황매실씨를 힘들이지 않고 금방 제거했네요. 왕특 매실도 홈에 대충 올려놓고 누르니 씨가 잘 빠집니다. 씨를 제거한 뒤의 모양도 이쁘네요. 적극 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "21",
+    "RDate": "20200702",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "황매실씨를 힘들이지 않고 금방 제거했네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "왕특 매실도 홈에 대충 올려놓고 누르니 씨가 잘 빠집니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨를 제거한 뒤의 모양도 이쁘네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441590",
+    "RawText": "매실씨 분리하는데 도움이 됩니다. 그런데 매실 사이즈가 중간 크기 이상은 안 들어가고 특대 싸이즈는 안 됩니다.  제거기가 조금 큰 사이즈면 좋았을 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "4",
+    "Syllable": "88",
+    "Word": "22",
+    "RDate": "20200630",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "매실씨 분리하는데 도움이 됩니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "매실 사이즈가 중간 크기 이상은 안 들어가고 특대 싸이즈는 안 됩니다. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "제거기가 조금 큰 사이즈면 좋았을 듯합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441599",
+    "RawText": "매실 담을때마다 씨 빼는게 일이었는데요. 허리도 아프고 손도 아프고 받아보고 바로 사용해봤는데 너무 편합니다. 씨가 쉽게 빠지네요. 매해마다 매실 담그시는 분들께는 강추해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "4",
+    "Syllable": "97",
+    "Word": "22",
+    "RDate": "20200628",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "바로 사용해봤는데 너무 편합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨가 쉽게 빠지네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441603",
+    "RawText": "매실 작은거는 잘되는데 큰거는 부서집니다. 좀더 큰게 있었으면 합니다. 배송은 빠르게 왔는데 사이즈가 많이 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "4",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20200627",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "매실 작은거는 잘되는데 큰거는 부서집니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "좀더 큰게 있었으면 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 많이 아쉽네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441605",
+    "RawText": "매실을 넣고 누르면 씨제거기기 밑으로 씨가 쏙 빠져나오니 손 쉽게 제거됩니다. 너무 큰 매실은 역시 힘듭니다.  길쭉한 씨가 쏘옥 잘 빠져나오니  20키로 매실도 뚝딱 해 치워 집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "103",
+    "Word": "27",
+    "RDate": "20200626",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "매실을 넣고 누르면 씨제거기기 밑으로 씨가 쏙 빠져나오니 손 쉽게 제거됩니다. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "너무 큰 매실은 역시 힘듭니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "길쭉한 씨가 쏘옥 잘 빠져나오니  ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "20키로 매실도 뚝딱 해 치워 집니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441616",
+    "RawText": "매실이 싱싱해서 딱딱한 상태일때는 잘 빠져서 사용이 편리합니다.  그런데 조금 시들거나 익어서 물러지면 매실이 쪼개지지 않아 잘 빠지지 않고 짓눌러져서 으깨집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "4",
+    "Syllable": "91",
+    "Word": "21",
+    "RDate": "20200625",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "매실이 싱싱해서 딱딱한 상태일때는 잘 빠져서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용이 편리합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "조금 시들거나 익어서 물러지면 매실이 쪼개지지 않아 잘 빠지지 않고 짓눌러져서 으깨집니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441639",
+    "RawText": "저렴하게 구입했습니다. 부모님댁에 보내드렸는데 배송도 빠르고 매실씨도 잘 까진다고 하십니다. 다음에는 저도 사서 써봐야겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "14",
+    "RDate": "20200622",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입했습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "매실씨도 잘 까진다고 하십니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441659",
+    "RawText": "해마다 매실액을 만든후 장아찌로 만들어 먹었는데 씨를 제거하기가 함이 들었었는데 매실씨 제거기만 있으면 편하게 매실액이랑 장아찌를 만들수 있을것 같아요. 아직 사용은 안했는데 앞으로 잘 쓸것 같네요.기발한 아이템인듯해요. 이젠 매실씨 제거할때 이것 하나면 끝이겠네요.강추합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "155",
+    "Word": "33",
+    "RDate": "20200619",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "매실씨 제거기만 있으면 편하게 매실액이랑 장아찌를 만들수 있을것 같아요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "이젠 매실씨 제거할때 이것 하나면 끝이겠네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아직 사용은 안했는데 앞으로 잘 쓸것 같네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441665",
+    "RawText": "며칠 전 구매후 매실 5kg 뚝딱 처리한 후 가격대비 성능이 정말 좋아서 예비용으로 재구입했습니다.  몇 번 해 보면 나름 힘 조절이라던지 요령이 생깁니다. 대, 소 구입했으나 둘 중에 하나만 구입한다면 대를 추천합니다.  매실이 너무 단단하면 씨까지 으깨지는 경우가 생기는데 아주 약간 무른 후 하면 잘 빠집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "176",
+    "Word": "46",
+    "RDate": "20200619",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "가격대비 성능이 정말 좋아서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "몇 번 해 보면 나름 힘 조절이라던지 요령이 생깁니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "대, 소 구입했으나 둘 중에 하나만 구입한다면 대를 추천합니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": " 매실이 너무 단단하면 씨까지 으깨지는 경우가 생기는데 아주 약간 무른 후 하면 잘 빠집니다.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441671",
+    "RawText": "내가 힘이 없는건지 생각보다 힘을 요합니다. 그래도 상품은 배송도 빠르고 포장도 깔끔하게 왔어요. 씨도 잘 빠집니다. 잘 사용할께요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20200618",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "내가 힘이 없는건지 생각보다 힘을 요합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨도 잘 빠집니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441674",
+    "RawText": "일단 매실 씨앗 빼는데는 큰 힘을 들이지 않지만, 크기가 큰 매실은 사용하기에 무리가 있네요. 양손으로 작업하다보니 약간은 불편해요. 5키로 씨 빼는데 큰 것은 칼로 잘라 빼서 불편했습니다. 한 손 작업할수 있게 고안하면 더 실용적 일 듯하고 큰 힘 들이지 않게 개선되었으면 해요. 아무튼 처음으로 집에서 매실짱아찌 도전해봤습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "3",
+    "Syllable": "185",
+    "Word": "47",
+    "RDate": "20200617",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 매실 씨앗 빼는데는 큰 힘을 들이지 않지만",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "크기가 큰 매실은 사용하기에 무리가 있네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "양손으로 작업하다보니 약간은 불편해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "5키로 씨 빼는데 큰 것은 칼로 잘라 빼서 불편했습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 한 손 작업할수 있게 고안하면 더 실용적 일 듯하고 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "큰 힘 들이지 않게 개선되었으면 해요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441675",
+    "RawText": "장아찌 만들려고 샀어요. 두 개 사서 후딱 해치웠네요. 매실씨 빼기 정말 쉽습니다. 씨 제거할 때 살도 같이 빠지는 건 개선되면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "21",
+    "RDate": "20200617",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "두 개 사서 후딱 해치웠네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "매실씨 빼기 정말 쉽습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨 제거할 때 살도 같이 빠지는 건 개선되면 좋겠어요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441676",
+    "RawText": "잘 사용했습니다. 매실 씨제거기 덕분에 장아찌 담는데 유용하게 사용할 수 있었네요. 씨 제거가 이렇게 쉽게 잘되니 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20200617",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "매실 씨제거기 덕분에 장아찌 담는데 유용하게 사용할 수 있었네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨 제거가 이렇게 쉽게 잘되니 만족스럽습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441681",
+    "RawText": "가격대비 성능 아주 좋습니다. 단 매실이 단단할 때 해야 씨가 잘 빠지네요. 그동안 손으로 힘들게 뺐었는데 매실씨 제거기 덕분에 편해졌네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "20",
+    "RDate": "20200617",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "가격대비 성능 아주 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": " 단 매실이 단단할 때 해야 씨가 잘 빠지네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "그동안 손으로 힘들게 뺐었는데 매실씨 제거기 덕분에 편해졌네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441685",
+    "RawText": "저는 매실장아찌를 담는데 항상 씨제거가 너무 힘들어서 리뷰를 보고 구매를 했어요. 써보니까 씨제거가 잘되어서 잘 샀다 생각했습니다. 참고할 사항은 어깨가 좀 많이 아팠네요. 씨 빼는 과정에서 힘을 주다 보니까 그것만 조심하면 괜찮을 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "4",
+    "Syllable": "136",
+    "Word": "34",
+    "RDate": "20200616",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "써보니까 씨제거가 잘되어서 잘 샀다 생각했습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "어깨가 좀 많이 아팠네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "씨 빼는 과정에서 힘을 주다 보니까",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441687",
+    "RawText": "기계가 조금 약한것 같고 힘을 세게 해야 매실씨가 빠져요. 힘들어서 많은 양을 하기엔 무리가 있을 듯하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "3",
+    "Syllable": "60",
+    "Word": "16",
+    "RDate": "20200616",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "기계가 조금 약한것 같고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "힘을 세게 해야 매실씨가 빠져요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "힘들어서 많은 양을 하기엔 무리가 있을 듯하네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441703",
+    "RawText": "엄마가 만족해 하십니다. 단단한 매실은 잘 되는데 약간 물렁하면 으깨져 버린다고 하시네요. 그래도 안 쓰는 것보다는 훨씬 일이 편하답니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20200615",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": " 단단한 매실은 잘 되는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": " 약간 물렁하면 으깨져 버린다고 하시네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 안 쓰는 것보다는 훨씬 일이 편하답니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441735",
+    "RawText": "와우 획기적인 물건입니다. 이걸로 매실씨 빼는데 한결 편해진 거 같네요. 단, 과육도 함께 제거되는 건 좀 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "17",
+    "RDate": "20200613",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "이걸로 매실씨 빼는데 한결 편해진 거 같네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "과육도 함께 제거되는 건 좀 아쉽네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441745",
+    "RawText": "장아찌 담그려고 OO에 매실을 주문해놓고 이 상품을 발견했습니다. 그런데 OOO택배 파업으로 매실보다 씨 제거기가 늦게 오는 바람에 매실이 이틀새 물르고 말았어요. 여전히 씨 제거기는 오지않고 결국 손으로 하는데 매실이 물렁해져서 정말 너무 속상했습니다. 하지만 내년을 기약하며 잘 씻어서 쟁여두었습니다. 씨 제거력도 좋았으면 좋겠고 사용도 편리했으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "4",
+    "Syllable": "203",
+    "Word": "46",
+    "RDate": "20200612",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨 제거력도 좋았으면 좋겠고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용도 편리했으면 좋겠습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "441746",
+    "RawText": "태어나 처음으로 매실 장아찌를 만들어 봤습니다. 5kg 씨 빼는데 5~6개 정도는 씨가 부서지는데 이건 매실 문제일 듯합니다.  그런데 기구가 닿아서 그런건지 가운데 부분이 노랗게 무릅니다. 마지막에 몇 개는 칼로 사과 자르듯 쪼개보니 누런 현상이 없습니다. 과연 성공 할 수 있을런지는 모르겠습니다.그런데 씨가 쏙쏙 잘 빠지는 게 재미는 있습니다. 칼로 일일이 쪼갰으면 시간 엄청 걸렸을 거 같은데 이 제품으로 금방 끝났네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "4",
+    "Syllable": "239",
+    "Word": "60",
+    "RDate": "20200612",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "기구가 닿아서 그런건지 가운데 부분이 노랗게 무릅니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨가 쏙쏙 잘 빠지는 게 재미는 있습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "칼로 일일이 쪼갰으면 시간 엄청 걸렸을 거 같은데 이 제품으로 금방 끝났네요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441753",
+    "RawText": "잘 사용했는데 재질이 스텐레스였으면 더 좋았을거 같아요. 오래 사용하니 이음매 부위에서 회색물이 나옵니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "4",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20200612",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "잘 사용했는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질이 스텐레스였으면 더 좋았을거 같아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "오래 사용하니 이음매 부위에서 회색물이 나옵니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441760",
+    "RawText": "씨 제거가 아주 잘 되네요. 근데 씨를 빼면서 떨어져나가는 살점이 너무 많은게 흠이네요. 그래도 편리하기는 합니다. 망치형은 손으로 일일이 다 씨를 빼줘야하는데 이거는 그냥 밀면 빠지니 편리해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "27",
+    "RDate": "20200611",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨 제거가 아주 잘 되네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨를 빼면서 떨어져나가는 살점이 너무 많은게 흠이네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그래도 편리하기는 합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "망치형은 손으로 일일이 다 씨를 빼줘야하는데 이거는 그냥 밀면 빠지니 편리해요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441778",
+    "RawText": "씨 잘 나와서 편합니다. 대신 한 개씩 해야 돼서 시간은 좀 걸리네요. 크게 힘 안 쓰면 밑부분 자투리 구멍 만큼 과육이 다 나가버리니 아깝네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "24",
+    "RDate": "20200610",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨 잘 나와서 편합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "한 개씩 해야 돼서 시간은 좀 걸리네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "크게 힘 안 쓰면 밑부분 자투리 구멍 만큼 과육이 다 나가버리니 아깝네요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441782",
+    "RawText": "편할 것 같아 한번 사봤는데 매실씨 빼기 편안하게 잘 돼요. 단, 손아귀 힘이 많아야 됩니다. 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "16",
+    "RDate": "20200610",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": " 매실씨 빼기 편안하게 잘 돼요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손아귀 힘이 많아야 됩니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441787",
+    "RawText": "씨 쉽게 제거 됩니다. 그런데 저는 작은 것을 주문해서 아주 큰 것은 잘 안 됩니다. 다음에는 큰 것도 주문해봐야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "19",
+    "RDate": "20200610",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨 쉽게 제거 됩니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "작은 것을 주문해서 아주 큰 것은 잘 안 됩니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441788",
+    "RawText": "올해부터는 씨를 제거하고 청을 담구려고 주문했습니다. 요령이 없어서 그런지 10키로 씨 빼는데 2시간이 걸렸는데 여자힘으론 무리이고 남편,아들찬스 사용했어요. 매실 크기는 33정도가 딱 좋고 35는 커서 잘못하면 씨가 으깨질 경우가 종종 있습니다. 꼭지 쪽으로 붙어나가는 매실이 많아서 아깝긴해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "166",
+    "Word": "37",
+    "RDate": "20200610",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "요령이 없어서 그런지 10키로 씨 빼는데 2시간이 걸렸는데",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여자힘으론 무리이고 남편,아들찬스 사용했어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "매실 크기는 33정도가 딱 좋고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": " 35는 커서 잘못하면 씨가 으깨질 경우가 종종 있습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "꼭지 쪽으로 붙어나가는 매실이 많아서 아깝긴해요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441789",
+    "RawText": "작은 것만 되네요. 작은 것도 과육 많이 떨어져 나가네요. 사이즈가 좀 크면 더 좋을 것 같아요. 별 쓸모도 없이 돈만 아까워요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "1",
+    "Syllable": "72",
+    "Word": "21",
+    "RDate": "20200610",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "작은 것만 되네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "작은 것도 과육 많이 떨어져 나가네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 좀 크면 더 좋을 것 같아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 별 쓸모도 없이 돈만 아까워요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441790",
+    "RawText": "힘이 좀 들어가긴하지만, 깔끔한 과육만 손질 가능해요. 품질도 나쁘지 않습니다. ‘대’ 추천해요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "4",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20200610",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "힘이 좀 들어가긴하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": " 깔끔한 과육만 손질 가능해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 나쁘지 않습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "441804",
+    "RawText": "칼로 저미는 것보다 약간 빠르기는 합니다. 하지만 단단한 매실은 너무 힘이 들고 잘못하면 살이 찝히기도 해서 쓰기는 불편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "3",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20200610",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "칼로 저미는 것보다 약간 빠르기는 합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "단단한 매실은 너무 힘이 들고 잘못하면 살이 찝히기도 해서 쓰기는 불편합니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441827",
+    "RawText": "장아찌도 해먹으려고 6등분으로 칼집 내서 씨 빼는 기계에 넣고 눌렀더니 더 예쁘게 씨가 잘 빠집니다. 5키로 했는데 한번에 씨가 잘 빠지는 건 50프로이며 나머지는 씨가 부서져서 칼로 오리게 되네요. 가운데에 놓고 하라 해서 했는데 양손으로 힘줘서 씨 빼다 보면 쾌감이 있습니다. 스트레스로 단순 작업하고 싶어서 매실 샀는데 새벽 2시까지 했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "4",
+    "Syllable": "194",
+    "Word": "50",
+    "RDate": "20200606",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "한번에 씨가 잘 빠지는 건 50프로이며",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "나머지는 씨가 부서져서 칼로 오리게 되네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "6등분으로 칼집 내서 씨 빼는 기계에 넣고 눌렀더니 더 예쁘게 씨가 잘 빠집니다",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441828",
+    "RawText": "작은 크기는 무난한데 조금 큰 크기는 제거기에 들어가지도 않고 씨가 제거기 안에서 깨져서 더 불편하기만 하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "3",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20200606",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "작은 크기는 무난한데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "조금 큰 크기는 제거기에 들어가지도 않고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨가 제거기 안에서 깨져서 더 불편하기만 하네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441831",
+    "RawText": "매실씨 빼는 데 정말 편리해요. 처음에는 좀 버벅거렸는데 지렛대와 작두의 원리를 접목하니 쏙쏙 잘 빠집니다. 지면에 아랫부분 끝을 고정하고 45도정도 기울려 누르면 수월하게 작동하네요 .아주 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "113",
+    "Word": "26",
+    "RDate": "20200604",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "매실씨 빼는 데 정말 편리해요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "지렛대와 작두의 원리를 접목하니 쏙쏙 잘 빠집니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "지면에 아랫부분 끝을 고정하고 45도정도 기울려 누르면 수월하게 작동하네요 .",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441832",
+    "RawText": "배송비 같은 날 시킨 통보다는 늦게 오고 밤 12시 넘어서 받았네요 너무 늦은 시간에 와서 불편해요. 상품은 가벼운 편입니다.  매실 씨 제거하는데 효과 나쁘지 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "3",
+    "Syllable": "94",
+    "Word": "25",
+    "RDate": "20200604",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "상품은 가벼운 편입니다.  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": " 매실 씨 제거하는데 효과 나쁘지 않아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "441833",
+    "RawText": "테스트로 매실 몇개 씨 제거해보니 아주 편리하게 잘 되네요. 앞으로 매실 씨 제거 걱정은 뚝입니다. 잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "17",
+    "RDate": "20200604",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "매실 몇개 씨 제거해보니 아주 편리하게 잘 되네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "매실 씨 제거 걱정은 뚝입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441835",
+    "RawText": "싸고 좋습니다. 그리고 국산이라서 좋네요. 매실 씨 제거를 아주 편리하게 했습니다.  한국 제품 많이 이용해야 될 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "4",
+    "Syllable": "70",
+    "Word": "18",
+    "RDate": "20200604",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸고 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "매실 씨 제거를 아주 편리하게 했습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441836",
+    "RawText": "편하게 사용하고 있어요. 많은 양도 금방 해결되네요 근데 매실이 좀 크거나 넘 작은 것은 제거하기가 불편해요. 배송이 느리네요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "4",
+    "Syllable": "70",
+    "Word": "18",
+    "RDate": "20200604",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하게 사용하고 있어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "많은 양도 금방 해결되네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "매실이 좀 크거나 넘 작은 것은 제거하기가 불편해요 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441837",
+    "RawText": "꼭지를 밑으로 가게 해서 뾰족한 부분을 조준해서 누르면 씨가 쏙 빠지네요. 10키로 하면 손아귀가 아프긴 할 거 같아요. 어쨌든 맘에 쏙 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "22",
+    "RDate": "20200604",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": " 씨가 쏙 빠지네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "10키로 하면 손아귀가 아프긴 할 거 같아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441846",
+    "RawText": "미리 주문해 놨다가 매실 도착해서 사용해 봤는데 씨 제거가 잘 됩니다. 매실장아찌 담그려고 씨 빼는 기계도 큰 거 주문 했었는데 사이즈도 딱입니다. 매실 씨 빼기는 처음 해 보는거라 요령이 없어서 조금 힘들었지만 하다보니 요령도 생겨 간단히 해치웠습니다. 씨만 쏙 빠지는게 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "158",
+    "Word": "41",
+    "RDate": "20200603",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": " 씨 제거가 잘 됩니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "씨 빼는 기계도 큰 거 주문 했었는데 사이즈도 딱입니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨만 쏙 빠지는게 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441851",
+    "RawText": "매실 씨 빼는 거 10키로를 했는데 1시간도 안 걸렸네요.  좀 으깨지기도 하고 완전히 깨끗하게 빠지진 않지만 그럭저럭 괜찮습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20200528",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "매실 씨 빼는 거 10키로를 했는데 1시간도 안 걸렸네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": " 좀 으깨지기도 하고 완전히 깨끗하게 빠지진 않지만 그럭저럭 괜찮습니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441853",
+    "RawText": "아직 매실 담그는 시기는 아니지만 미리 준비 했어요. 매번 매실 담글 때 그냥 담그고 100일이 지나서야 씨를 제거하는 번거로움이 없어져서 좋아요. 매실 장아찌도 먹고 싶은데 100일 지나서 씨를 제거하면 뭉개지는 일이 많아 포기하고 버리는 일이 많았는데 이번에는 담그기 전에 씨를 제거하여 익혀서 매실 장아찌도 해 먹게 되니 좋습니다. 매실 나오기를 기대하는 마음이 드는, 품질 좋은 상품이라고 여겨지네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "228",
+    "Word": "57",
+    "RDate": "20200521",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "100일이 지나서야 씨를 제거하는 번거로움이 없어져서 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "담그기 전에 씨를 제거하여 익혀서 매실 장아찌도 해 먹게 되니 좋습니다",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 좋은 상품이라고 여겨지네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441860",
+    "RawText": "왕매실 씨제거용으로 적합하죠. 사용 전이지만 튼튼해 보입니다. 매실 장아찌 만드는 게 훨씬 쉬워졌어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20200502",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "왕매실 씨제거용으로 적합하죠.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "사용 전이지만 튼튼해 보입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "매실 장아찌 만드는 게 훨씬 쉬워졌어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441873",
+    "RawText": "씨 빼기가 수월합니다. 그런데 과육 손실이 좀 크네요. 다른 분은 그것도 쓴다는데 저는 다시 바르기 귀찮아서 그냥 폐기했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20190702",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨 빼기가 수월합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": " 과육 손실이 좀 크네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441875",
+    "RawText": "씨 제거가 잘되긴 하지만 모양이 역시 지저분하게 됩니다. 그냥 모양에 상관없이 씨 제거를 위해서는 좋은 제품이지만, 미관을 중시하는 분이라면 손으로 직접 손질하는 게 나을 게 나을듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "27",
+    "RDate": "20190702",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨 제거가 잘되긴 하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "모양이 역시 지저분하게 됩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "모양에 상관없이 씨 제거를 위해서는 좋은 제품이지만",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441882",
+    "RawText": "매실 큰거는 이걸로 씨앗 못 빼겠네요. 열매도 안 들어가고 씨앗도 구멍이 작아서 안빠져 나오네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "1",
+    "Syllable": "54",
+    "Word": "14",
+    "RDate": "20190627",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "매실 큰거는 이걸로 씨앗 못 빼겠네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "열매도 안 들어가고 씨앗도 구멍이 작아서 안빠져 나오네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441890",
+    "RawText": "이거 사서 많은 양을 수월하게 만들었습니다. 없었으면 어쩔뻔 했나 싶을정도예요. 단단한건 조금 힘이 들지만 다른 도구보단 수월해서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "18",
+    "RDate": "20190621",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "이거 사서 많은 양을 수월하게 만들었습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "단단한건 조금 힘이 들지만 다른 도구보단 수월해서 만족합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "없었으면 어쩔뻔 했나 싶을정도예요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441894",
+    "RawText": "작년에 너무 힘들어서 이번에 구매 후 씨빼기 편하게 했네요. 단점은 씨에 붙은 과육이 좀 아깝네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "15",
+    "RDate": "20190620",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨빼기 편하게 했네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨에 붙은 과육이 좀 아깝네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441895",
+    "RawText": "어머니가 매실 짱아찌를 담그시려고 해서 사드렸는데 칼로 할때보다 훨씬 낫다고 만족하십니다. 다만 큰 거는 잘 아니되는 부작용이 있어요.그거빼곤 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "4",
+    "Syllable": "84",
+    "Word": "19",
+    "RDate": "20190620",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "칼로 할때보다 훨씬 낫다고 만족하십니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "큰 거는 잘 아니되는 부작용이 있어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441897",
+    "RawText": "국산이라 믿고 샀습니다. 튼튼하고 사용해보니 씨가 쏙쏙쏙 잘 빠집니다. 단점은 핀이 박힌 부분에 매실액이 들어가니 알루미늄끼리 갈려서 까만 물이 나오네요. 쓰다 나오면 한번씩 씻어가며 써야겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "4",
+    "Syllable": "110",
+    "Word": "25",
+    "RDate": "20190619",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "사용해보니 씨가 쏙쏙쏙 잘 빠집니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "핀이 박힌 부분에 매실액이 들어가니 알루미늄끼리 갈려서 까만 물이 나오네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441905",
+    "RawText": "가격도 저렴하고 튼튼해 보여서 만족해요. 아직 안써봤지만 쇠는 아닌거 같고 주물종류같기도 하네요. 어쨌든 가볍고 좋긴한데 매실이 없어 써보진 못했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "19",
+    "RDate": "20190615",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해 보여서 만족해요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 좋긴한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "쇠는 아닌거 같고 주물종류같기도 하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "441908",
+    "RawText": "받자마자 써보니 칼날이 너무 잘듣네요. 손도 안아프고 그동안 일일이 손으로 다 잘랐는데 기계로하니 많은 양이 빨리 끝났습니다. 그런데 일부러 큰걸로 샀는데도 씨알굵은 매실은 밑바닥 씨 나오는 곳 구멍에서 가끔 씨가 걸리네요. 그게 좀 아쉽고 기계 쓰실때 매실 꼭지 부분에서 누르지 마시고 매실 밑 엉덩이 쪽으로 눌러 주시면 씨앗이 더 잘빠집니다. 하다보니 노하우가 생기네요. 스텐레스가 아니라 크롬 도금 같아서 그게 좀 아쉽네요. 금방 녹슬지 않을까 걱정이 좀 됩니다. 가성비는 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "4",
+    "Syllable": "273",
+    "Word": "69",
+    "RDate": "20190614",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "받자마자 써보니 칼날이 너무 잘듣네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손도 안아프고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "기계로하니 많은 양이 빨리 끝났습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨알굵은 매실은 밑바닥 씨 나오는 곳 구멍에서 가끔 씨가 걸리네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "매실 꼭지 부분에서 누르지 마시고 매실 밑 엉덩이 쪽으로 눌러 주시면 씨앗이 더 잘빠집니다.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "스텐레스가 아니라 크롬 도금 같아서 그게 좀 아쉽네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "금방 녹슬지 않을까 걱정이 좀 됩니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비는 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441909",
+    "RawText": "씨 빼는데 정말 편해서 좋아요. 이거 없으면 며칠 걸릴거 몇시간만에 끝냈습니다. 배송도 하루만에 왔어요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20190614",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨 빼는데 정말 편해서 좋아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "이거 없으면 며칠 걸릴거 몇시간만에 끝냈습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441920",
+    "RawText": "큰기대는 안하고 구매했는데 사용해보니 씨가 쉽게 잘 빠져서 좋아요. 품질 좋은 제품 구매한거 같아 만족해요. 배송도 빠르고 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기 대",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20190611",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨가 쉽게 잘 빠져서 좋아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 좋은 제품 구매한거 같아 만족해요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441933",
+    "RawText": "매실 씨 제거 안 하면 발암물질이 생긴다해서 그동안 망설이다가이 제품을 알고나서 바로 주문했습니다. 첨엔 요령없이 힘으로 하니 손이 좀 까졌는데 요령이 생기고 나서는 넘 편하네요 . 이제 씨 제거 걱정없이 맘껏 매실청 담아 먹을 수 있겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기",
+    "ReviewScore": "5",
+    "Syllable": "135",
+    "Word": "36",
+    "RDate": "20190628",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 첨엔 요령없이 힘으로 하니 손이 좀 까졌는데 요령이 생기고 나서는 넘 편하네요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "이제 씨 제거 걱정없이 맘껏 매실청 담아 먹을 수 있겠네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441934",
+    "RawText": "매실 장아찌 담으려고 씨 분리기를 구매했습니다. 초보자가 처음에는 요령이 없어서 힘들고 손이 아프긴 합니다.  몇 번 하니 힘 안 들고 요령이 생깁니다.  분리하려는 부분에 잘 맞춰서 해야 됩니다. 불량은 없었고 여기가 제일 저렴합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기",
+    "ReviewScore": "5",
+    "Syllable": "132",
+    "Word": "33",
+    "RDate": "20190608",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "초보자가 처음에는 요령이 없어서 힘들고 손이 아프긴 합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "몇 번 하니 힘 안 들고 요령이 생깁니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "분리하려는 부분에 잘 맞춰서 해야 됩니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "불량은 없었고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 제일 저렴합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441937",
+    "RawText": "사용 방법만 조금알면 쉽게 뺄수있어서 좋습니다. 단지 처음에 힘으로 빼려 했다가 날이 휘어서 바로잡는데 애먹었어요. 몇번 해보고 나니 많은 양도 금방 손질할수 있었어요. 앞으로도 잘 쓸것 같고 자두잼 만들때도 유용할것 같서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기",
+    "ReviewScore": "4",
+    "Syllable": "131",
+    "Word": "32",
+    "RDate": "20180629",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "사용 방법만 조금알면 쉽게 뺄수있어서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "몇번 해보고 나니 많은 양도 금방 손질할수 있었어요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "앞으로도 잘 쓸것 같고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "자두잼 만들때도 유용할것 같서 만족합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441939",
+    "RawText": "씨를 빼내고 난 다음의 매실이 꼭 올리브처럼 보여서 보기도 좋고 기분도 좋네요. 힘든 작업이 너무도 수월하게 끝나서 좋아요. 오랫만에 늦게까지 일하고도 아주 기분이 좋았어요. 잘 선택한거 같아요. 주변에 소개도 많이 하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기",
+    "ReviewScore": "5",
+    "Syllable": "127",
+    "Word": "31",
+    "RDate": "20180620",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨를 빼내고 난 다음의 매실이 꼭 올리브처럼 보여서 보기도 좋고 ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "힘든 작업이 너무도 수월하게 끝나서 좋아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441940",
+    "RawText": "너무 만족해요. 두드려서 씨 빼느라 고생하지 않아도 잘 제거가 됩니다. 여기저기 튀지도 않고 잘 빠져서 최고입니다. 모양도 예쁘게 나옵니다.  단 힘이 많이 들어가서 팔목이 시큰거립니다. 남편이 해준다고 하고 있는데 할수록 기술이 좋아져서 양쪽 구멍 안 내고 한쪽 구멍만으로 과육 손실을 최소한으로 줄이면서 씨 빼고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기",
+    "ReviewScore": "5",
+    "Syllable": "182",
+    "Word": "45",
+    "RDate": "20180608",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "두드려서 씨 빼느라 고생하지 않아도 잘 제거가 됩니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "여기저기 튀지도 않고 잘 빠져서 최고입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "모양도 예쁘게 나옵니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "단 힘이 많이 들어가서 팔목이 시큰거립니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "양쪽 구멍 안 내고 한쪽 구멍만으로 과육 손실을 최소한으로 줄이면서 씨 빼고 있습니다.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441943",
+    "RawText": "매실 자를때 필요해서 구매했습니다. 그런데 팔 힘이 약한 사람이 쓰기에는 손에 힘이 많이 들어가서 좀 불편하네요. 그래도 씨는 잘빠집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기",
+    "ReviewScore": "4",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20170704",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손에 힘이 많이 들어가서 좀 불편하네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "그래도 씨는 잘빠집니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441961",
+    "RawText": "사진처럼 청매실에는 깔끔하게 씨가 빠지진 않고 팔에 힘이 너무 들어가 힘들지만 황매실용에는 매실이 물러 잘 빠지네요. 황매실용에 사용하는걸 추천드려요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기",
+    "ReviewScore": "4",
+    "Syllable": "84",
+    "Word": "19",
+    "RDate": "20190702",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "청매실에는 깔끔하게 씨가 빠지진 않고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "팔에 힘이 너무 들어가 힘들지만 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "황매실용에는 매실이 물러 잘 빠지네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "황매실용에 사용하는걸 추천드려요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441964",
+    "RawText": "사용하기 넘 좋아요. 사길 잘 했네요.  칼로 할 때 넘 힘들었는데 정말 성능 좋아요. 배송도 빠르고 완전 짱이예요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "18",
+    "RDate": "20190628",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 넘 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "  칼로 할 때 넘 힘들었는데 정말 성능 좋아요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441968",
+    "RawText": "손아귀 힘이 많이 들어가서 힘들긴 하지만 칼로하는것보다 빠르게 할수 있는건 참 좋네요. 배송도 빨라서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기",
+    "ReviewScore": "4",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20190619",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손아귀 힘이 많이 들어가서 힘들긴 하지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "칼로하는것보다 빠르게 할수 있는건 참 좋네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441969",
+    "RawText": "매실 씨 빼는 기계를 작년에 살까 말까 하다가 안 사고 올해는 반신반의하면서 구입했어요. 청 매실 30kg을 빼서 장아치 담았는데 처음에는 서툴러서 힘들었는데 한 5분정도 하고 나니 요령이 생겨서 혼자서 30kg을 아주 편하게  작업했어요. 처음에는 장갑을 끼지 않아서 손이 아팠는데 장갑 끼고 하니 괜찮았고 매실씨 빼는 데는 더없이 좋은 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기",
+    "ReviewScore": "5",
+    "Syllable": "196",
+    "Word": "50",
+    "RDate": "20190619",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": " 한 5분정도 하고 나니 요령이 생겨서 혼자서 30kg을 아주 편하게  작업했어요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "매실씨 빼는 데는 더없이 좋은 것 같아요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "처음에는 서툴러서 힘들었는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "처음에는 장갑을 끼지 않아서 손이 아팠는데 장갑 끼고 하니 괜찮았고",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441974",
+    "RawText": "아직 사용 전이라 성능은 잘 모르겠지만 잘 되면 좋겠네요. 그동안 매실씨 뺄 때마다 고생 했는데 씨 제거 잘 되기를 기대하고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기",
+    "ReviewScore": "4",
+    "Syllable": "75",
+    "Word": "21",
+    "RDate": "20190610",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "아직 사용 전이라 성능은 잘 모르겠지만 잘 되면 좋겠네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "그동안 매실씨 뺄 때마다 고생 했는데 씨 제거 잘 되기를 기대하고 있습니다. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "441976",
+    "RawText": "친정 엄마 사드렸습니다. 사용하기 너무 불편합니다. 힘줘서 해야 하니 몇개하고 나니 팔이 아픕니다. 싼가격도 아닌데 돈 아깝습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기",
+    "ReviewScore": "1",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20190603",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기 너무 불편합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "힘줘서 해야 하니 몇개하고 나니 팔이 아픕니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼가격도 아닌데 돈 아깝습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441977",
+    "RawText": "그냥 까다 손 베고 제품 구입했어요. 완전 편리합니다. 6킬로그램을 혼자 하다 손가락 쥐날뻔 했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기",
+    "ReviewScore": "4",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20180620",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "완전 편리합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 6킬로그램을 혼자 하다 손가락 쥐날뻔 했습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441981",
+    "RawText": "저렴한 가격으로 사서 어머니께 선물했습니다. 처음엔 익숙치 않았는데 몇 번 해 보니 요령이 생깁니다.  그래도 손에 아구힘이 필요한 건 어쩔 수 없습니다. 효도하러 들린 오빠 덕분에 올해 매실담그기 손쉽게 해결했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기",
+    "ReviewScore": "5",
+    "Syllable": "122",
+    "Word": "30",
+    "RDate": "20170622",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격으로 사서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "처음엔 익숙치 않았는데 몇 번 해 보니 요령이 생깁니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그래도 손에 아구힘이 필요한 건 어쩔 수 없습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441982",
+    "RawText": "엄마가 주문 부탁하셔서 구입했습니다. 아직 사용 전이라 어떤지는 잘 모르겠어요. 일본산이라 믿고 구입했는데 매실씨 제거가 잘 되었으면 좋겠어요. 좋은 가격에 샀습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기",
+    "ReviewScore": "4",
+    "Syllable": "93",
+    "Word": "21",
+    "RDate": "20170618",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "매실씨 제거가 잘 되었으면 좋겠어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 샀습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "441990",
+    "RawText": "배송이 참 빨라서 좋네요. 가격은 저렴한 것 같은데 제품의 상태가 일본 제품이라고 하기에는 왠지 좀 어설퍼 보여요. 사용해 보니 씨앗을 빼내는 부분 군형이 잘 안 맞아서 찔러서 돌리면 동그랗게 파지질 않아요. 절대 비추하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기",
+    "ReviewScore": "5",
+    "Syllable": "126",
+    "Word": "33",
+    "RDate": "20170603",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴한 것 같은데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "사용해 보니 씨앗을 빼내는 부분 군형이 잘 안 맞아서 찔러서 돌리면 동그랗게 파지질 않아요.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "441991",
+    "RawText": "배송이 참 빨라서 좋네요. 가격은 저렴한 것 같은데 제품의 상태가 일 본제품이라고 하기에는 왠지 품질이 좀 어설퍼 보여요.",
+    "Source": "쇼핑몰",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실씨 제거기",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "18",
+    "RDate": "20170603",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴한 것 같은데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품의 상태가 일 본제품이라고 하기에는 왠지 품질이 좀 어설퍼 보여요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  }
+]
